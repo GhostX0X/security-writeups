@@ -1,0 +1,30 @@
+name: Daily Status Update
+
+on:
+  schedule:
+    - cron: "55 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run daily status script
+        run: python scripts/generate_daily_status.py
+
+      - name: Commit STATUS.md
+        run: |
+          git config user.name "security-bot"
+          git config user.email "security-bot@github.com"
+          git add STATUS.md
+          git commit -m "Daily status update (${GITHUB_RUN_DATE:-$(date -u +%F)})" || echo "No changes"
+          git push
