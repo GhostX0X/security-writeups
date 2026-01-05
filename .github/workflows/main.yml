@@ -1,5 +1,8 @@
 name: Security Writeups Tracker
 
+permissions:
+  contents: write   # REQUIRED so the bot can commit files
+
 on:
   schedule:
     - cron: "0 * * * *"   # Runs every hour
@@ -28,6 +31,6 @@ jobs:
         run: |
           git config user.name "security-bot"
           git config user.email "security-bot@github.com"
-          git add categories/*.md STATUS.md
-          git commit -m "Hourly update: security writeups" || echo "No changes"
+          git add categories/*.md STATUS.md || true
+          git commit -m "Hourly update: security writeups" || echo "No changes to commit"
           git push
