@@ -1,5 +1,8 @@
 name: Daily Status Update
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "55 23 * * *"
@@ -26,5 +29,5 @@ jobs:
           git config user.name "security-bot"
           git config user.email "security-bot@github.com"
           git add STATUS.md
-          git commit -m "Daily status update (${GITHUB_RUN_DATE:-$(date -u +%F)})" || echo "No changes"
+          git commit -m "Daily status update ($(date -u +%F))" || echo "No changes"
           git push
