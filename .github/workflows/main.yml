@@ -1,0 +1,34 @@
+name: Security Writeups Tracker
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependency
+        run: pip install feedparser
+
+      - name: Run script
+        run: python ./scripts/fetch_security_blogs.py
+
+      - name: Commit results
+        run: |
+          git config user.name "security-bot"
+          git config user.email "security-bot@github.com"
+          git add categories/*.md STATUS.md || true
+          git commit -m "Auto update security writeups" || echo "No changes"
+          git push
