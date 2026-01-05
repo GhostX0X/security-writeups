@@ -1,11 +1,11 @@
 name: Security Writeups Tracker
 
 permissions:
-  contents: write   # REQUIRED so the bot can commit files
+  contents: write
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -24,8 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
+      - name: Debug file structure
+        run: |
+          pwd
+          ls -R
+
       - name: Run fetch script
-        run: python scripts/fetch_security_blogs.py
+        run: python ./scripts/fetch_security_blogs.py
 
       - name: Commit updates
         run: |
