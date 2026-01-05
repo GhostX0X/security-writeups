@@ -24,11 +24,6 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Debug file structure
-        run: |
-          pwd
-          ls -R
-
       - name: Run fetch script
         run: python ./scripts/fetch_security_blogs.py
 
