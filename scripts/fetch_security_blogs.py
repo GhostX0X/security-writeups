@@ -8,9 +8,15 @@ STATUS_FILE = "STATUS.md"
 MAX_POSTS = 10
 
 RSS_SOURCES = {
-    "HackerOne": "https://www.hackerone.com/blog.rss",
-    "PortSwigger": "https://portswigger.net/research/rss",
-    "Bugcrowd": "https://www.bugcrowd.com/blog/feed/",
+    # Platforms
+    "HackerOne Hacktivity": "https://hackerone.com/hacktivity.rss",
+    "PortSwigger Research": "https://portswigger.net/research/rss",
+    "Bugcrowd Blog": "https://www.bugcrowd.com/blog/feed/",
+
+    # Medium (VERY IMPORTANT)
+    "Medium Security": "https://medium.com/feed/tag/security",
+    "Medium Bug Bounty": "https://medium.com/feed/tag/bug-bounty",
+    "Medium Pentesting": "https://medium.com/feed/tag/pentesting",
 }
 
 KEYWORDS = {
