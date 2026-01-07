@@ -1,3 +1,6 @@
+## 📅 07 January 2026
+
+- **[Vertical Privilege Escalation: How I Gain Full Admin Account Takeover](https://mahmoud-khalid.medium.com/vertical-privilege-escalation-how-i-gain-full-admin-account-takeover-51805827e831?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 January 2026
 
 - **[Trump, NATO, and the Cost of Transactional Power](https://medium.com/@shotgunmastif/trump-nato-and-the-cost-of-transactional-power-def522cb1c36?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 07 January 2026
+
+- **[Lab: Flawed enforcement of business rules](https://songulkizilay.medium.com/lab-flawed-enforcement-of-business-rules-220d95b7fbb2?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 January 2026
 
 - **[Open Source Hacking — Breaking AstroJs](https://monish-basaniwal.medium.com/open-source-hacking-breaking-astrojs-c33050386915?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
