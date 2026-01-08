@@ -1,5 +1,8 @@
 ## 📅 08 January 2026
 
+- **[OAuth 2.0 Device Authorization Grant](https://medium.com/devsecops-community/oauth-2-0-device-authorization-grant-e7f4a026f0eb?source=rss------security-5)** _(Medium Security)_
+## 📅 08 January 2026
+
 - **[JWT vs OAuth: Why Everyone Argues, and Almost Everyone Is Slightly Wrong](https://medium.com/@dulthiwanka2015/jwt-vs-oauth-why-everyone-argues-and-almost-everyone-is-slightly-wrong-0f77469491ec?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 January 2026
 

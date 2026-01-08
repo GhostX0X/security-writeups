@@ -1,3 +1,6 @@
+## 📅 08 January 2026
+
+- **[When the Privacy Tool Has a Privacy Problem: Finding My First XSS Vulnerability](https://akashmadanu.medium.com/when-the-privacy-tool-has-a-privacy-problem-finding-my-first-xss-vulnerability-3d1a28678378?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 January 2026
 
 - **[Exploiting Unvalidated Redirects for XSS](https://medium.com/multitude-it-labs/exploiting-unvalidated-redirects-for-xss-9ae6c213c4e1?source=rss------security-5)** _(Medium Security)_

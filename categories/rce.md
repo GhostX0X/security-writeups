@@ -1,5 +1,8 @@
 ## 📅 08 January 2026
 
+- **[Hands-On Android Security Testing in AndroGoat — Network Intercepting](https://medium.com/@hammamawis/hands-on-android-security-testing-in-androgoat-network-intercepting-eda7500f9592?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 January 2026
+
 - **[The Impact of Law Enforcement on the USA and the World](https://medium.com/@williampetty291/the-impact-of-law-enforcement-on-the-usa-and-the-world-10026661043a?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 January 2026
 
