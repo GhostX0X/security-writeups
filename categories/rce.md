@@ -1,5 +1,8 @@
 ## 📅 07 January 2026
 
+- **[Understanding CVE-2026–21877: Critical RCE Flaw in n8n and What It Means for Your Automation Stack](https://ikhaleelkhan.medium.com/understanding-cve-2026-21877-critical-rce-flaw-in-n8n-and-what-it-means-for-your-automation-stack-86df08a46e05?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 January 2026
+
 - **[How I Found A Windows RCE](https://medium.com/@deadoverflow/how-i-found-a-windows-rce-c8551c6a6042?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 January 2026
 
