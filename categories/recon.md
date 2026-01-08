@@ -1,3 +1,6 @@
+## 📅 08 January 2026
+
+- **[One Forgotten Subdomain, Thousands of User Records — A Recon Story](https://infosecwriteups.com/one-forgotten-subdomain-thousands-of-user-records-a-recon-story-6dcde55aaa7c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 January 2026
 
 - **[Automating HackerOne Scope Parsing with qsv for Bug Bounty Recon](https://medium.com/@samhilliard/automating-hackerone-scope-parsing-with-qsv-for-bug-bounty-recon-84bc770ed73c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

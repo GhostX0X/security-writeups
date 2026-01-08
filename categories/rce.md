@@ -1,5 +1,8 @@
 ## 📅 08 January 2026
 
+- **[“Mother’s Retirement Home: Son’s Villa Dream Forces a Mother to Secure Her Future”](https://medium.com/@jiwo2828jfi/mothers-retirement-home-son-s-villa-dream-forces-a-mother-to-secure-her-future-1e84a7ee904b?source=rss------security-5)** _(Medium Security)_
+## 📅 08 January 2026
+
 - **[Hands-On Android Security Testing in AndroGoat — Network Intercepting](https://medium.com/@hammamawis/hands-on-android-security-testing-in-androgoat-network-intercepting-eda7500f9592?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 January 2026
 

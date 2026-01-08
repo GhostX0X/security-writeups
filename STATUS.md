@@ -1,7 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-01-08 12:26:33.377382 UTC
+Last updated: 2026-01-08 18:17:08.020307 UTC
 
-- oauth: 1
+- rce: 2
+- recon: 1
 - xss: 1
-- rce: 3
+- ssrf: 1
+- sqli: 1

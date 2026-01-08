@@ -1,5 +1,8 @@
 ## 📅 08 January 2026
 
+- **[Image XSS ATTACK on Exif.tools | Hacking exif.tools via image injection by CYBER KALKI #Livepoc](https://medium.com/@elelyonmusk/image-xss-attack-on-exif-tools-hacking-exif-tools-via-image-injection-by-cyber-kalki-livepoc-250f19afa866?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 January 2026
+
 - **[When the Privacy Tool Has a Privacy Problem: Finding My First XSS Vulnerability](https://akashmadanu.medium.com/when-the-privacy-tool-has-a-privacy-problem-finding-my-first-xss-vulnerability-3d1a28678378?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 January 2026
 
