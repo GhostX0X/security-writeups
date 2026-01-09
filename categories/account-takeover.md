@@ -1,5 +1,11 @@
 ## 📅 09 January 2026
 
+- **[SSRF in PDF Generators](https://medium.com/@fatimahasan022/ssrf-in-pdf-generators-900de19572d3?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 January 2026
+
+- **[Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki](https://medium.com/@elelyonmusk/zomato-ceo-deepinder-goyal-and-other-billionaires-pan-number-sensitive-pii-leak-by-cyber-kalki-86bf8a327c1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 January 2026
+
 - **[Android Emulator Setup for PenTest Using Mumu](https://medium.com/@rafelsu/android-emulator-setup-for-pentest-using-mumu-b13e0f12128b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 January 2026
 

@@ -1,5 +1,11 @@
 ## 📅 09 January 2026
 
+- **[Byaku: Automation of recon for bug hunting and vibe coding](https://medium.com/@albertovillasante/byaku-automation-of-recon-for-bug-hunting-and-vibe-coding-71fe424ef4d3?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 January 2026
+
+- **[Byaku: Automation of recon for bug hunting and vibe coding](https://medium.com/@albertovillasante/byaku-automation-of-recon-for-bug-hunting-and-vibe-coding-71fe424ef4d3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 January 2026
+
 - **[Unleashing the Power of DirBuster: Advanced Recon Techniques for Professional Pentesters](https://medium.com/@hello.cybeague/unleashing-the-power-of-dirbuster-advanced-recon-techniques-for-professional-pentesters-ffe5d0d1ef32?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 January 2026
 

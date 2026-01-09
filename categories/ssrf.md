@@ -1,3 +1,6 @@
+## 📅 09 January 2026
+
+- **[SSRF in PDF Generators](https://medium.com/@fatimahasan022/ssrf-in-pdf-generators-900de19572d3?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 January 2026
 
 - **[Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning](https://medium.com/@theteatoast/akamai-waf-bypass-escalating-ssrf-into-internal-port-scanning-fc78402f94e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

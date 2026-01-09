@@ -1,7 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-01-09 12:25:15.578820 UTC
+Last updated: 2026-01-09 18:19:19.780337 UTC
 
-- broken-access-control: 1
+- recon: 2
+- account-takeover: 3
 - idor: 1
-- account-takeover: 1
+- broken-access-control: 1
+- ssrf: 1
