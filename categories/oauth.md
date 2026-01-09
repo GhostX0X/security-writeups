@@ -1,5 +1,8 @@
 ## 📅 08 January 2026
 
+- **[Mastering OAuth2 in Spring Boot 4: Auto Token Refresh and Production-Ready Config](https://medium.com/@samarthnarula13/mastering-oauth2-in-spring-boot-4-auto-token-refresh-and-production-ready-config-9752b15cedc2?source=rss------security-5)** _(Medium Security)_
+## 📅 08 January 2026
+
 - **[OAuth 2.0 Device Authorization Grant](https://medium.com/devsecops-community/oauth-2-0-device-authorization-grant-e7f4a026f0eb?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 January 2026
 

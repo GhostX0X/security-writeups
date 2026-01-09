@@ -1,5 +1,11 @@
 ## 📅 08 January 2026
 
+- **[How to Prevent Brute-Force Attacks in MySQL Using Connection Control](https://medium.com/@valentim.dba/how-to-prevent-brute-force-attacks-in-mysql-using-connection-control-2baa8f839a7f?source=rss------security-5)** _(Medium Security)_
+## 📅 09 January 2026
+
+- **[The Open-Source Wallet: Why Seeing the Code Isn’t Optional Anymore](https://golubevsergey.medium.com/the-open-source-wallet-why-seeing-the-code-isnt-optional-anymore-87ee390b9406?source=rss------security-5)** _(Medium Security)_
+## 📅 08 January 2026
+
 - **[“Mother’s Retirement Home: Son’s Villa Dream Forces a Mother to Secure Her Future”](https://medium.com/@jiwo2828jfi/mothers-retirement-home-son-s-villa-dream-forces-a-mother-to-secure-her-future-1e84a7ee904b?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 January 2026
 
