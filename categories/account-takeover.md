@@ -1,3 +1,6 @@
+## 📅 09 January 2026
+
+- **[Android Emulator Setup for PenTest Using Mumu](https://medium.com/@rafelsu/android-emulator-setup-for-pentest-using-mumu-b13e0f12128b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 January 2026
 
 - **[Vertical Privilege Escalation: How I Gain Full Admin Account Takeover](https://mahmoud-khalid.medium.com/vertical-privilege-escalation-how-i-gain-full-admin-account-takeover-51805827e831?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
