@@ -1,3 +1,6 @@
+## 📅 10 January 2026
+
+- **[The Invisible Bouncer: How OAuth 2.0 PKCE Secures Your Modern Applications.](https://medium.com/@manmohanaeir2058/the-invisible-bouncer-how-oauth-2-0-pkce-secures-your-modern-applications-c9c5f14b7fc5?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 January 2026
 
 - **[Mastering OAuth2 in Spring Boot 4: Auto Token Refresh and Production-Ready Config](https://medium.com/@samarthnarula13/mastering-oauth2-in-spring-boot-4-auto-token-refresh-and-production-ready-config-9752b15cedc2?source=rss------security-5)** _(Medium Security)_
