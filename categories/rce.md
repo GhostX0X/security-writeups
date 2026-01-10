@@ -1,3 +1,6 @@
+## 📅 09 January 2026
+
+- **[C0M-0lhO CTFs Write-Ups: Flags with Original Sources](https://strangerwhite.medium.com/c0m-0lho-ctfs-write-ups-flags-with-original-sources-e2d28dcccace?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 January 2026
 
 - **[How to Prevent Brute-Force Attacks in MySQL Using Connection Control](https://medium.com/@valentim.dba/how-to-prevent-brute-force-attacks-in-mysql-using-connection-control-2baa8f839a7f?source=rss------security-5)** _(Medium Security)_
