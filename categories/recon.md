@@ -1,3 +1,6 @@
+## 📅 11 January 2026
+
+- **[Unlocking the Power of CeWL: Advanced Recon & Wordlist Engineering for Real-World Pentesting](https://medium.com/@hello.cybeague/unlocking-the-power-of-cewl-advanced-recon-wordlist-engineering-for-real-world-pentesting-556b27573c4f?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 January 2026
 
 - **[Byaku: Automation of recon for bug hunting and vibe coding](https://medium.com/@albertovillasante/byaku-automation-of-recon-for-bug-hunting-and-vibe-coding-71fe424ef4d3?source=rss------pentesting-5)** _(Medium Pentesting)_

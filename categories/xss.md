@@ -1,3 +1,6 @@
+## 📅 11 January 2026
+
+- **[Threat Management as Frontend Engineer — XSS](https://medium.com/@zisuzon/threat-management-as-frontend-engineer-xss-a9b4259a53d7?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 January 2026
 
 - **[Image XSS ATTACK on Exif.tools | Hacking exif.tools via image injection by CYBER KALKI #Livepoc](https://medium.com/@elelyonmusk/image-xss-attack-on-exif-tools-hacking-exif-tools-via-image-injection-by-cyber-kalki-livepoc-250f19afa866?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

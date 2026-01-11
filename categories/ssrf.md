@@ -1,3 +1,6 @@
+## 📅 11 January 2026
+
+- **[Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 January 2026
 
 - **[SSRF in PDF Generators](https://medium.com/@fatimahasan022/ssrf-in-pdf-generators-900de19572d3?source=rss------pentesting-5)** _(Medium Pentesting)_
