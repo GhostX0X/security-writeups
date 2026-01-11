@@ -1,3 +1,6 @@
+## 📅 11 January 2026
+
+- **[Zero Click ATO via Systemic Mass Assignment: The Phantom Hand](https://medium.com/@Pwnedl0l/zero-click-ato-via-systemic-mass-assignment-the-phantom-hand-af4f6ce11788?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 January 2026
 
 - **[SSRF in PDF Generators](https://medium.com/@fatimahasan022/ssrf-in-pdf-generators-900de19572d3?source=rss------pentesting-5)** _(Medium Pentesting)_

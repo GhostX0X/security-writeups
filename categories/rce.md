@@ -1,3 +1,6 @@
+## 📅 11 January 2026
+
+- **[“Bug Bounty Bootcamp #13: Open Redirects — The Hacker’s Ultimate ‘Force Multiplier’”](https://osintteam.blog/bug-bounty-bootcamp-13-open-redirects-the-hackers-ultimate-force-multiplier-bdab5f50c81d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 January 2026
 
 - **[C0M-0lhO CTFs Write-Ups: Flags with Original Sources](https://strangerwhite.medium.com/c0m-0lho-ctfs-write-ups-flags-with-original-sources-e2d28dcccace?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
