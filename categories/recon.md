@@ -1,3 +1,6 @@
+## 📅 12 January 2026
+
+- **[Day 2 of the Bug Bounty Bootcamp: Learning Scope, Recon & Smart Targeting](https://medium.com/@faizan.nazir/day-2-of-the-bug-bounty-bootcamp-learning-scope-recon-smart-targeting-11fd85874b2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 January 2026
 
 - **[Unlocking the Power of CeWL: Advanced Recon & Wordlist Engineering for Real-World Pentesting](https://medium.com/@hello.cybeague/unlocking-the-power-of-cewl-advanced-recon-wordlist-engineering-for-real-world-pentesting-556b27573c4f?source=rss------security-5)** _(Medium Security)_
