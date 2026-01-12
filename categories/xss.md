@@ -1,3 +1,6 @@
+## 📅 12 January 2026
+
+- **[Securing Modern Web Apps Against XSS, CSRF, and the “New” Web](https://medium.com/@Praxen/securing-modern-web-apps-against-xss-csrf-and-the-new-web-1c696ecc3a37?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 January 2026
 
 - **[Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------pentesting-5)** _(Medium Pentesting)_
