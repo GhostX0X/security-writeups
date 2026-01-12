@@ -1,5 +1,11 @@
 ## 📅 11 January 2026
 
+- **[Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 January 2026
+
+- **[Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 January 2026
+
 - **[Threat Management as Frontend Engineer — XSS](https://medium.com/@zisuzon/threat-management-as-frontend-engineer-xss-a9b4259a53d7?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 January 2026
 
