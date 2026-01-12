@@ -1,3 +1,6 @@
+## 📅 12 January 2026
+
+- **[Bypassing Email Verification via OAuth Misconfiguration](https://medium.com/@xelcezeri/bypassing-email-verification-via-oauth-misconfiguration-cad488c15f2f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 January 2026
 
 - **[The Invisible Bouncer: How OAuth 2.0 PKCE Secures Your Modern Applications.](https://medium.com/@manmohanaeir2058/the-invisible-bouncer-how-oauth-2-0-pkce-secures-your-modern-applications-c9c5f14b7fc5?source=rss------security-5)** _(Medium Security)_

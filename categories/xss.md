@@ -1,5 +1,8 @@
 ## 📅 12 January 2026
 
+- **[“Bug Bounty Bootcamp #14: Your First XSS Find — A Step-by-Step Hunter’s Methodology”](https://osintteam.blog/bug-bounty-bootcamp-14-your-first-xss-find-a-step-by-step-hunters-methodology-097b4639bf46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 January 2026
+
 - **[Securing Modern Web Apps Against XSS, CSRF, and the “New” Web](https://medium.com/@Praxen/securing-modern-web-apps-against-xss-csrf-and-the-new-web-1c696ecc3a37?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 January 2026
 

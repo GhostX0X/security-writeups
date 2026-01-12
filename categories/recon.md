@@ -1,5 +1,8 @@
 ## 📅 12 January 2026
 
+- **[Recon Hunting en Bug Bounty](https://medium.com/@profesor.luismcv/recon-hunting-en-bug-bounty-7b215e2572b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 January 2026
+
 - **[Day 2 of the Bug Bounty Bootcamp: Learning Scope, Recon & Smart Targeting](https://medium.com/@faizan.nazir/day-2-of-the-bug-bounty-bootcamp-learning-scope-recon-smart-targeting-11fd85874b2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 January 2026
 
