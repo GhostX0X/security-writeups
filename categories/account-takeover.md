@@ -1,3 +1,6 @@
+## 📅 13 January 2026
+
+- **[How One Test Led Me to a Critical P1 Account Takeover (ATO) Bug on Bugcrowd](https://infosecwriteups.com/how-one-test-led-me-to-a-critical-p1-account-takeover-ato-bug-on-bugcrowd-831370edc8e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 January 2026
 
 - **[Zero Click ATO via Systemic Mass Assignment: The Phantom Hand](https://medium.com/@Pwnedl0l/zero-click-ato-via-systemic-mass-assignment-the-phantom-hand-af4f6ce11788?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
