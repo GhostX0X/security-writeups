@@ -1,5 +1,17 @@
 ## 📅 12 January 2026
 
+- **[The Bug Bounty Toolkit (2026): Tools, Workflows, and Real-World Recon That Actually Finds Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-bug-bounty-toolkit-2026-tools-workflows-and-real-world-recon-that-actually-finds-bugs-bb880a407be6?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 January 2026
+
+- **[The Bug Bounty Toolkit (2026): Tools, Workflows, and Real-World Recon That Actually Finds Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-bug-bounty-toolkit-2026-tools-workflows-and-real-world-recon-that-actually-finds-bugs-bb880a407be6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 January 2026
+
+- **[Hacker At Work:Recon Workflow Process](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/hacker-at-work-recon-workflow-process-ad056880a271?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 January 2026
+
+- **[This Bug Bounty Recon is much PEAKKK!!!!!!](https://medium.com/@alhamr1zvi/this-bug-bounty-recon-is-much-peakkk-05581c02486e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 January 2026
+
 - **[Recon Hunting en Bug Bounty](https://medium.com/@profesor.luismcv/recon-hunting-en-bug-bounty-7b215e2572b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 January 2026
 
