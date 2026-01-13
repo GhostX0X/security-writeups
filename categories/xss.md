@@ -1,3 +1,9 @@
+## 📅 13 January 2026
+
+- **[“Bug Bounty Bootcamp #15: Beyond <script>alert(1)</script>—Mastering Diverse XSS Execution Vectors”](https://osintteam.blog/bug-bounty-bootcamp-15-beyond-script-alert-1-script-mastering-diverse-xss-execution-vectors-d4d133972725?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 January 2026
+
+- **[Bypassing XSS Protection: Thinking Beyond <script>‍](https://medium.com/@ahmedbelahcen2018/bypassing-xss-protection-thinking-beyond-script-775ff6e5ef62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 January 2026
 
 - **[“Bug Bounty Bootcamp #14: Your First XSS Find — A Step-by-Step Hunter’s Methodology”](https://osintteam.blog/bug-bounty-bootcamp-14-your-first-xss-find-a-step-by-step-hunters-methodology-097b4639bf46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
