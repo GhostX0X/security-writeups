@@ -1,3 +1,6 @@
+## 📅 14 January 2026
+
+- **[Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis…](https://medium.com/@sbl.itd.reza/building-the-ultimate-android-bug-bounty-lab-target-recon-native-crashes-and-static-analysis-ddddea479dfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 January 2026
 
 - **[The Bug Bounty Toolkit (2026): Tools, Workflows, and Real-World Recon That Actually Finds Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/the-bug-bounty-toolkit-2026-tools-workflows-and-real-world-recon-that-actually-finds-bugs-bb880a407be6?source=rss------pentesting-5)** _(Medium Pentesting)_

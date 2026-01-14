@@ -1,3 +1,6 @@
+## 📅 14 January 2026
+
+- **[Broken Gates: Why OWASP #1 (Access Control) Is the Hottest Ticket in Bug Bounty](https://osintteam.blog/broken-gates-why-owasp-1-access-control-is-the-hottest-ticket-in-bug-bounty-86df2210d3c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 January 2026
 
 - **[Lab: Bypassing access controls using email address parsing discrepancies](https://songulkizilay.medium.com/lab-bypassing-access-controls-using-email-address-parsing-discrepancies-836c99d4c7f8?source=rss------pentesting-5)** _(Medium Pentesting)_

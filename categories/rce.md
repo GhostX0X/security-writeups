@@ -1,3 +1,6 @@
+## 📅 14 January 2026
+
+- **[SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE](https://wr7nch.medium.com/soc342-cve-2025-53770-sharepoint-toolshell-auth-bypass-and-rce-bf3a023c08d8?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 January 2026
 
 - **[“Bug Bounty Bootcamp #13: Open Redirects — The Hacker’s Ultimate ‘Force Multiplier’”](https://osintteam.blog/bug-bounty-bootcamp-13-open-redirects-the-hackers-ultimate-force-multiplier-bdab5f50c81d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
