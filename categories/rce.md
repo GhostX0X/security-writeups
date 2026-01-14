@@ -1,5 +1,8 @@
 ## 📅 14 January 2026
 
+- **[Website Security Scanning Tools: A Practical Guide to 15 Free and Open-Source Options](https://medium.com/@tentenco/website-security-scanning-tools-a-practical-guide-to-15-free-and-open-source-options-b9f2f93408fe?source=rss------security-5)** _(Medium Security)_
+## 📅 14 January 2026
+
 - **[SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE](https://wr7nch.medium.com/soc342-cve-2025-53770-sharepoint-toolshell-auth-bypass-and-rce-bf3a023c08d8?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 January 2026
 

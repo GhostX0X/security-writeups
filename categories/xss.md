@@ -1,3 +1,9 @@
+## 📅 14 January 2026
+
+- **[My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 January 2026
+
+- **[Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 January 2026
 
 - **[“Bug Bounty Bootcamp #15: Beyond <script>alert(1)</script>—Mastering Diverse XSS Execution Vectors”](https://osintteam.blog/bug-bounty-bootcamp-15-beyond-script-alert-1-script-mastering-diverse-xss-execution-vectors-d4d133972725?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

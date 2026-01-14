@@ -1,3 +1,6 @@
+## 📅 14 January 2026
+
+- **[SQL Injection (SQLi) — Notlarım](https://songulkizilay.medium.com/sql-injection-sqli-notlar%C4%B1m-6431eb4bcdda?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 January 2026
 
 - **[Automating SQL Injection with sqlmap A Practical Guide](https://medium.com/@Purushothamr/automating-sql-injection-with-sqlmap-a-practical-guide-c22df8e5d593?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
