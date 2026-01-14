@@ -1,3 +1,9 @@
+## 📅 14 January 2026
+
+- **[How I Found a Critical SSRF (Very Easily) Through Redirect Bypass](https://medium.com/@InsbatArshad/how-i-found-a-critical-ssrf-very-easily-through-redirect-bypass-1bddcc068984?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 January 2026
+
+- **[6 Common SSRF Risks in Node.js](https://arunangshudas.medium.com/6-common-ssrf-risks-in-node-js-515c243d100a?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 January 2026
 
 - **[Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

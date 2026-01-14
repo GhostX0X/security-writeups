@@ -1,3 +1,6 @@
+## 📅 14 January 2026
+
+- **[When OAuth Isn’t Really OAuth: A Silent Account Takeover Flaw](https://medium.com/@vansh_51476/when-oauth-isnt-really-oauth-a-silent-account-takeover-flaw-0ec4f69a36fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 January 2026
 
 - **[Bypassing Email Verification via OAuth Misconfiguration](https://medium.com/@xelcezeri/bypassing-email-verification-via-oauth-misconfiguration-cad488c15f2f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 14 January 2026
+
+- **[When OAuth Isn’t Really OAuth: A Silent Account Takeover Flaw](https://medium.com/@vansh_51476/when-oauth-isnt-really-oauth-a-silent-account-takeover-flaw-0ec4f69a36fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 January 2026
 
 - **[How One Test Led Me to a Critical P1 Account Takeover (ATO) Bug on Bugcrowd](https://infosecwriteups.com/how-one-test-led-me-to-a-critical-p1-account-takeover-ato-bug-on-bugcrowd-831370edc8e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
