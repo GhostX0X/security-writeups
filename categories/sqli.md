@@ -1,3 +1,6 @@
+## 📅 15 January 2026
+
+- **[Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://songulkizilay.medium.com/lab-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-fa70a496a7f8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 14 January 2026
 
 - **[SQL Injection (SQLi) — Notlarım](https://songulkizilay.medium.com/sql-injection-sqli-notlar%C4%B1m-6431eb4bcdda?source=rss------pentesting-5)** _(Medium Pentesting)_

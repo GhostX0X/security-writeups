@@ -1,5 +1,8 @@
 ## 📅 15 January 2026
 
+- **[How a Simple Misconfiguration in the Invitation Link Led Me to Full Account Takeover](https://medium.com/@sudo_a7med/how-a-simple-misconfiguration-in-the-invitation-link-led-me-to-full-account-takeover-e56d84e9e9f1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 January 2026
+
 - **[The Visual Ghost: How a Single Unicode Character Led to a Critical Account Takeover](https://medium.com/@InsbatArshad/the-visual-ghost-how-a-single-unicode-character-led-to-a-critical-account-takeover-84e620ff908f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 January 2026
 

@@ -1,3 +1,9 @@
+## 📅 15 January 2026
+
+- **[XSS Attacks: A Practical Methodology for Security Testing](https://iaraoz.medium.com/xss-attacks-a-practical-methodology-for-security-testing-6bff4d0fae1e?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 15 January 2026
+
+- **[XSS Attacks: A Practical Methodology for Security Testing](https://iaraoz.medium.com/xss-attacks-a-practical-methodology-for-security-testing-6bff4d0fae1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 January 2026
 
 - **[A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
