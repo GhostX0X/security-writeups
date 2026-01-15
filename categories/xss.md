@@ -1,5 +1,8 @@
 ## 📅 14 January 2026
 
+- **[A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 January 2026
+
 - **[My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 January 2026
 

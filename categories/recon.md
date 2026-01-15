@@ -1,5 +1,8 @@
 ## 📅 14 January 2026
 
+- **[A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 January 2026
+
 - **[Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis…](https://medium.com/@sbl.itd.reza/building-the-ultimate-android-bug-bounty-lab-target-recon-native-crashes-and-static-analysis-ddddea479dfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 January 2026
 
