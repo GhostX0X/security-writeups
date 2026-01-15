@@ -1,3 +1,6 @@
+## 📅 15 January 2026
+
+- **[The Visual Ghost: How a Single Unicode Character Led to a Critical Account Takeover](https://medium.com/@InsbatArshad/the-visual-ghost-how-a-single-unicode-character-led-to-a-critical-account-takeover-84e620ff908f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 January 2026
 
 - **[When OAuth Isn’t Really OAuth: A Silent Account Takeover Flaw](https://medium.com/@vansh_51476/when-oauth-isnt-really-oauth-a-silent-account-takeover-flaw-0ec4f69a36fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

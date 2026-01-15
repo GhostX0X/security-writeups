@@ -1,3 +1,6 @@
+## 📅 15 January 2026
+
+- **[How I Found a P2 Broken Access Control Bug via a Tokenized URL](https://medium.com/@sivasankardas/how-i-found-a-p2-broken-access-control-bug-via-a-tokenized-ur-f4d48e26a022?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 January 2026
 
 - **[Broken Gates: Why OWASP #1 (Access Control) Is the Hottest Ticket in Bug Bounty](https://osintteam.blog/broken-gates-why-owasp-1-access-control-is-the-hottest-ticket-in-bug-bounty-86df2210d3c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
