@@ -1,5 +1,8 @@
 ## 📅 15 January 2026
 
+- **[“Bug Bounty Bootcamp #16: Stored & Blind XSS — The ‘Time Bomb’ and ‘Message in a Bottle’ of Web…](https://amannsharmaa.medium.com/bug-bounty-bootcamp-16-stored-blind-xss-the-time-bomb-and-message-in-a-bottle-of-web-fc4366929393?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 January 2026
+
 - **[XSS Attacks: A Practical Methodology for Security Testing](https://iaraoz.medium.com/xss-attacks-a-practical-methodology-for-security-testing-6bff4d0fae1e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 15 January 2026
 
