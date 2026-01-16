@@ -1,3 +1,6 @@
+## 📅 16 January 2026
+
+- **[“Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin…](https://osintteam.blog/bug-bounty-bootcamp-17-mastering-blind-xss-unleash-the-hidden-predator-that-devours-admin-4d2753520212?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 January 2026
 
 - **[How a Simple Misconfiguration in the Invitation Link Led Me to Full Account Takeover](https://medium.com/@sudo_a7med/how-a-simple-misconfiguration-in-the-invitation-link-led-me-to-full-account-takeover-e56d84e9e9f1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

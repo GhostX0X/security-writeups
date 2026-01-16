@@ -1,3 +1,6 @@
+## 📅 16 January 2026
+
+- **[“Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin…](https://osintteam.blog/bug-bounty-bootcamp-17-mastering-blind-xss-unleash-the-hidden-predator-that-devours-admin-4d2753520212?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 January 2026
 
 - **[“Bug Bounty Bootcamp #16: Stored & Blind XSS — The ‘Time Bomb’ and ‘Message in a Bottle’ of Web…](https://amannsharmaa.medium.com/bug-bounty-bootcamp-16-stored-blind-xss-the-time-bomb-and-message-in-a-bottle-of-web-fc4366929393?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
