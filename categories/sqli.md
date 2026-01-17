@@ -1,3 +1,6 @@
+## 📅 17 January 2026
+
+- **[Google Dorks to Find SQL Injection Vulnerable Websites](https://osintteam.blog/google-dorks-to-find-sql-injection-vulnerable-websites-6eaf49f9d0c9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 January 2026
 
 - **[Lab: SQL injection vulnerability allowing login bypass](https://songulkizilay.medium.com/lab-sql-injection-vulnerability-allowing-login-bypass-cb52d007d51e?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 17 January 2026
+
+- **[A Simple IDOR That Ignored Platform Logic](https://scriptjacker.medium.com/a-simple-idor-that-ignored-platform-logic-09bf86a8bf1d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 January 2026
 
 - **[Back to Basics: How I took over an account with a simple ID change (IDOR)](https://medium.com/@mv999exe/back-to-basics-how-i-took-over-an-account-with-a-simple-id-change-idor-b82960cafd3c?source=rss------pentesting-5)** _(Medium Pentesting)_
