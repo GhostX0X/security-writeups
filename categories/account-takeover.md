@@ -1,3 +1,12 @@
+## 📅 17 January 2026
+
+- **[Mass Assignment leads to Account Takeover and DoS](https://osintteam.blog/mass-assignment-leads-to-account-takeover-and-dos-32132ee92486?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 January 2026
+
+- **[The Real Reason Encryption Is Mandatory in Enterprise Java Microservices](https://medium.com/@anandjeyaseelan10/the-real-reason-encryption-is-mandatory-in-enterprise-java-microservices-cd9ee5f769b0?source=rss------security-5)** _(Medium Security)_
+## 📅 17 January 2026
+
+- **[Design First, Host Smarter: The Setup Most Creators Discover Too Late](https://medium.com/@janet.watson/design-first-host-smarter-the-setup-most-creators-discover-too-late-3bac30b79fa0?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 January 2026
 
 - **[“Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin…](https://osintteam.blog/bug-bounty-bootcamp-17-mastering-blind-xss-unleash-the-hidden-predator-that-devours-admin-4d2753520212?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

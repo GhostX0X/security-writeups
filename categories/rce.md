@@ -1,3 +1,6 @@
+## 📅 17 January 2026
+
+- **[Wazuh: The Open-Source SIEM That Beats Splunk (And It’s Completely Free)](https://medium.com/@inboryn/wazuh-the-open-source-siem-that-beats-splunk-and-its-completely-free-5f7edc8c4c7e?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 January 2026
 
 - **[The 2026 E-commerce Security Framework: AI-Augmented Checklist for Developers](https://medium.com/@md.abir1203/the-2026-e-commerce-security-framework-ai-augmented-checklist-for-developers-57943c412e95?source=rss------security-5)** _(Medium Security)_

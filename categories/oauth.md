@@ -1,3 +1,6 @@
+## 📅 17 January 2026
+
+- **[Two OAuth 2.0 Specs You Should Know About: Token Exchange and JWT Bearer Grant](https://medium.com/@vgzxkgmrpn/two-oauth-2-0-specs-you-should-know-about-token-exchange-and-jwt-bearer-grant-4c9c56299130?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 January 2026
 
 - **[When OAuth Isn’t Really OAuth: A Silent Account Takeover Flaw](https://medium.com/@vansh_51476/when-oauth-isnt-really-oauth-a-silent-account-takeover-flaw-0ec4f69a36fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
