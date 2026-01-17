@@ -1,3 +1,6 @@
+## 📅 16 January 2026
+
+- **[Lab: SQL injection vulnerability allowing login bypass](https://songulkizilay.medium.com/lab-sql-injection-vulnerability-allowing-login-bypass-cb52d007d51e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 15 January 2026
 
 - **[Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://songulkizilay.medium.com/lab-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-fa70a496a7f8?source=rss------pentesting-5)** _(Medium Pentesting)_
