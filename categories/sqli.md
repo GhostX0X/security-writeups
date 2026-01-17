@@ -1,5 +1,8 @@
 ## 📅 17 January 2026
 
+- **[Lab: SQL injection UNION attack, determining the number of columns returned by the query](https://songulkizilay.medium.com/lab-sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-8eaf99659788?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 January 2026
+
 - **[Google Dorks to Find SQL Injection Vulnerable Websites](https://osintteam.blog/google-dorks-to-find-sql-injection-vulnerable-websites-6eaf49f9d0c9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 January 2026
 
