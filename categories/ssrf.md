@@ -1,3 +1,6 @@
+## 📅 18 January 2026
+
+- **[Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing](https://cybercraftsman.medium.com/unrestricted-file-upload-leads-to-stored-xss-ssrf-and-phishing-08e14c6e6907?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 January 2026
 
 - **[How I Found a Critical SSRF (Very Easily) Through Redirect Bypass](https://medium.com/@InsbatArshad/how-i-found-a-critical-ssrf-very-easily-through-redirect-bypass-1bddcc068984?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

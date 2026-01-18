@@ -1,3 +1,6 @@
+## 📅 18 January 2026
+
+- **[When Rate Limits Lie: A Quiet Path to Account Takeover](https://medium.com/@pevinkumar/when-rate-limits-lie-a-quiet-path-to-account-takeover-8004000afe01?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 January 2026
 
 - **[Mass Assignment leads to Account Takeover and DoS](https://osintteam.blog/mass-assignment-leads-to-account-takeover-and-dos-32132ee92486?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

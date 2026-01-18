@@ -1,5 +1,8 @@
 ## 📅 18 January 2026
 
+- **[Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing](https://cybercraftsman.medium.com/unrestricted-file-upload-leads-to-stored-xss-ssrf-and-phishing-08e14c6e6907?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 January 2026
+
 - **[Root Me — XSS Stored 1](https://medium.com/@amritanshughimire1/root-me-xss-stored-1-d308be1ad04f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 January 2026
 
