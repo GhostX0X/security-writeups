@@ -1,3 +1,6 @@
+## 📅 18 January 2026
+
+- **[ID Parametresi Üzerinden Yetki Aşımı /IDOR](https://zekikayaalp.medium.com/id-parametresi-%C3%BCzerinden-yetki-a%C5%9F%C4%B1m%C4%B1-idor-9fd6f2364fd3?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 January 2026
 
 - **[A Simple IDOR That Ignored Platform Logic](https://scriptjacker.medium.com/a-simple-idor-that-ignored-platform-logic-09bf86a8bf1d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

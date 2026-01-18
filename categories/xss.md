@@ -1,5 +1,8 @@
 ## 📅 18 January 2026
 
+- **[Design-Level Stored XSS in Matomo i18n Rendering](https://medium.com/@diwagithub687/design-level-stored-xss-in-matomo-i18n-rendering-aa305d7f88bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 January 2026
+
 - **[Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing](https://cybercraftsman.medium.com/unrestricted-file-upload-leads-to-stored-xss-ssrf-and-phishing-08e14c6e6907?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 

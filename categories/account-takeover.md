@@ -1,5 +1,11 @@
 ## 📅 18 January 2026
 
+- **[Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion](https://medium.com/@0xMo7areb/password-reset-token-misconfiguration-leading-to-pre-account-takeover-and-account-deletion-8f344cb0e9d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 January 2026
+
+- **[Design-Level Stored XSS in Matomo i18n Rendering](https://medium.com/@diwagithub687/design-level-stored-xss-in-matomo-i18n-rendering-aa305d7f88bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 January 2026
+
 - **[When Rate Limits Lie: A Quiet Path to Account Takeover](https://medium.com/@pevinkumar/when-rate-limits-lie-a-quiet-path-to-account-takeover-8004000afe01?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 January 2026
 
