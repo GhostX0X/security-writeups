@@ -1,3 +1,6 @@
+## 📅 17 January 2026
+
+- **[Hidden in the Source: Discovering Reflected XSS via Manual Code Review](https://medium.com/@xelcezeri/hidden-in-the-source-discovering-reflected-xss-via-manual-code-review-c2a697d9d8c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 January 2026
 
 - **[“Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin…](https://osintteam.blog/bug-bounty-bootcamp-17-mastering-blind-xss-unleash-the-hidden-predator-that-devours-admin-4d2753520212?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

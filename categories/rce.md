@@ -1,5 +1,14 @@
 ## 📅 17 January 2026
 
+- **[How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE](https://medium.com/@bakkar0x/how-i-discovered-a-dependency-confusion-vulnerability-in-a-ruby-application-leading-to-rce-9dd4c6b28127?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 January 2026
+
+- **[How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE](https://medium.com/@bakkar0x/how-i-discovered-a-dependency-confusion-vulnerability-in-a-ruby-application-leading-to-rce-9dd4c6b28127?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 January 2026
+
+- **[Hidden in the Source: Discovering Reflected XSS via Manual Code Review](https://medium.com/@xelcezeri/hidden-in-the-source-discovering-reflected-xss-via-manual-code-review-c2a697d9d8c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 January 2026
+
 - **[Wazuh: The Open-Source SIEM That Beats Splunk (And It’s Completely Free)](https://medium.com/@inboryn/wazuh-the-open-source-siem-that-beats-splunk-and-its-completely-free-5f7edc8c4c7e?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 January 2026
 
