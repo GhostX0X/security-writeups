@@ -1,5 +1,8 @@
 ## 📅 19 January 2026
 
+- **[Part 3 — Intercepting HTTPS Traffic, Bypassing Certificate Pinning & Flutter Protections (Testing…](https://medium.com/sud0root/part-3-intercepting-https-traffic-bypassing-certificate-pinning-flutter-protections-testing-ba9557cef992?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 January 2026
+
 - **[Insecure Direct Object Reference Allows Cross-Organization Resource Disclosure](https://mmnahian.medium.com/insecure-direct-object-reference-allows-cross-organization-resource-disclosure-dd737604d714?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 January 2026
 
