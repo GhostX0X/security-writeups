@@ -1,5 +1,11 @@
 ## 📅 18 January 2026
 
+- **[Web Pentesting 101: Documenting a Successful Stored XSS Attack Chain](https://medium.com/@sosahattah55/web-pentesting-101-documenting-a-successful-stored-xss-attack-chain-690b1d8c92ef?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 January 2026
+
+- **[Lab: Reflected XSS into HTML context with nothing encoded](https://medium.com/@mylescorey87/lab-reflected-xss-into-html-context-with-nothing-encoded-ec6b3cac0fa5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 January 2026
+
 - **[Design-Level Stored XSS in Matomo i18n Rendering](https://medium.com/@diwagithub687/design-level-stored-xss-in-matomo-i18n-rendering-aa305d7f88bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 
