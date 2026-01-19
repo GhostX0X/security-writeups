@@ -1,3 +1,9 @@
+## 📅 19 January 2026
+
+- **[Insecure Direct Object Reference Allows Cross-Organization Resource Disclosure](https://mmnahian.medium.com/insecure-direct-object-reference-allows-cross-organization-resource-disclosure-dd737604d714?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 January 2026
+
+- **[Enforcement Partner Onboarding Made Easy](https://parqex.medium.com/enforcement-partner-onboarding-made-easy-9ad3a0701f03?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 January 2026
 
 - **[How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE](https://medium.com/@bakkar0x/how-i-discovered-a-dependency-confusion-vulnerability-in-a-ruby-application-leading-to-rce-9dd4c6b28127?source=rss------pentesting-5)** _(Medium Pentesting)_

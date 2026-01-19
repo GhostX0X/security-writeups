@@ -1,3 +1,6 @@
+## 📅 19 January 2026
+
+- **[How a simple password reset led to a complete account takeover](https://medium.com/@vansh_51476/how-a-simple-password-reset-led-to-a-complete-account-takeover-2cd56639d150?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 
 - **[Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion](https://medium.com/@0xMo7areb/password-reset-token-misconfiguration-leading-to-pre-account-takeover-and-account-deletion-8f344cb0e9d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
