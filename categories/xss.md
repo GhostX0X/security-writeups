@@ -1,3 +1,6 @@
+## 📅 20 January 2026
+
+- **[DOM-Based XSS: From Browser Logic to Bounty](https://medium.com/@jayeshkunwal/dom-based-xss-from-browser-logic-to-bounty-70cf4d94f694?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 
 - **[Web Pentesting 101: Documenting a Successful Stored XSS Attack Chain](https://medium.com/@sosahattah55/web-pentesting-101-documenting-a-successful-stored-xss-attack-chain-690b1d8c92ef?source=rss------pentesting-5)** _(Medium Pentesting)_
