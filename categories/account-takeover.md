@@ -1,5 +1,11 @@
 ## 📅 19 January 2026
 
+- **[Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO](https://medium.com/@dk4trin/explorando-uma-chain-cache-poisoning-openid-misconfiguration-ato-65a5f4210887?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 January 2026
+
+- **[The Ghost Password : How a Design Flaw Led to Full Account Takeover (ATO)](https://medium.com/@xlr99/the-ghost-password-how-a-design-flaw-led-to-full-account-takeover-ato-52b7c1ca94fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 January 2026
+
 - **[How a simple password reset led to a complete account takeover](https://medium.com/@vansh_51476/how-a-simple-password-reset-led-to-a-complete-account-takeover-2cd56639d150?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 

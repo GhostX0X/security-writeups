@@ -1,3 +1,6 @@
+## 📅 20 January 2026
+
+- **[Breaking Authentication Without Brute Force: A Pentester’s Perspective](https://radiohackers.com/breaking-authentication-without-brute-force-a-pentesters-perspective-19cda79f5038?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 January 2026
 
 - **[Part 3 — Intercepting HTTPS Traffic, Bypassing Certificate Pinning & Flutter Protections (Testing…](https://medium.com/sud0root/part-3-intercepting-https-traffic-bypassing-certificate-pinning-flutter-protections-testing-ba9557cef992?source=rss------pentesting-5)** _(Medium Pentesting)_
