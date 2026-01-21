@@ -1,3 +1,6 @@
+## 📅 21 January 2026
+
+- **[Trump’s Greenland Ultimatum Is Tearing NATO Apart](https://medium.com/@jens_sorensen_geopol./trumps-greenland-ultimatum-is-tearing-nato-apart-60a03e34222d?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 January 2026
 
 - **[Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO](https://medium.com/@dk4trin/explorando-uma-chain-cache-poisoning-openid-misconfiguration-ato-65a5f4210887?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
