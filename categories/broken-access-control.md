@@ -1,3 +1,6 @@
+## 📅 21 January 2026
+
+- **[Simple Broken Access Control](https://medium.com/@windasunny/simple-broken-access-control-850cb9beb7c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 January 2026
 
 - **[How I Found a P2 Broken Access Control Bug via a Tokenized URL](https://medium.com/@sivasankardas/how-i-found-a-p2-broken-access-control-bug-via-a-tokenized-ur-f4d48e26a022?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

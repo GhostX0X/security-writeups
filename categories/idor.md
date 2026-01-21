@@ -1,3 +1,9 @@
+## 📅 21 January 2026
+
+- **[IDOR in 5 mins, That Paid me 500$](https://medium.com/@rajanbala39/idor-in-5-mins-that-paid-me-500-0d72a2243d1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 January 2026
+
+- **[Unauthenticated IDOR Leading to Unauthorized Read and Delete Sensitive Data](https://medium.com/@bashirabdulmajeed878/unauthenticated-idor-leading-to-unauthorized-read-and-delete-sensitive-data-abdb1037139b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 
 - **[ID Parametresi Üzerinden Yetki Aşımı /IDOR](https://zekikayaalp.medium.com/id-parametresi-%C3%BCzerinden-yetki-a%C5%9F%C4%B1m%C4%B1-idor-9fd6f2364fd3?source=rss------pentesting-5)** _(Medium Pentesting)_
