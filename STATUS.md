@@ -1,6 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-01-21 12:28:07.517015 UTC
+Last updated: 2026-01-21 18:30:48.227217 UTC
 
-- broken-access-control: 1
-- idor: 2
+- xss: 2
+- ssrf: 1

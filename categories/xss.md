@@ -1,3 +1,9 @@
+## 📅 21 January 2026
+
+- **[How I Convinced an AI to Hack Itself: Prompt Injection to XSS ️](https://infosecwriteups.com/how-i-convinced-an-ai-to-hack-itself-prompt-injection-to-xss-%EF%B8%8F-dab60010e40d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 21 January 2026
+
+- **[How I Convinced an AI to Hack Itself: Prompt Injection to XSS ️](https://infosecwriteups.com/how-i-convinced-an-ai-to-hack-itself-prompt-injection-to-xss-%EF%B8%8F-dab60010e40d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 January 2026
 
 - **[DOM-Based XSS: From Browser Logic to Bounty](https://medium.com/@jayeshkunwal/dom-based-xss-from-browser-logic-to-bounty-70cf4d94f694?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

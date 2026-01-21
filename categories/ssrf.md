@@ -1,3 +1,6 @@
+## 📅 21 January 2026
+
+- **[WordPress XML-RPC Attack Surface Method Enumeration via system.listMethods Leading to SSRF](https://ajay-vardhan01.medium.com/wordpress-xml-rpc-attack-surface-method-enumeration-via-system-listmethods-leading-to-ssrf-0971d977372a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 January 2026
 
 - **[Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing](https://cybercraftsman.medium.com/unrestricted-file-upload-leads-to-stored-xss-ssrf-and-phishing-08e14c6e6907?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
