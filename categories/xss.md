@@ -1,5 +1,8 @@
 ## 📅 21 January 2026
 
+- **[Day-18 of Bug Bounty Journey : XSS Concept](https://medium.com/@anshkamra00/day-18-of-bug-bounty-journey-xss-concept-19e79cf45fcd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 January 2026
+
 - **[How I Convinced an AI to Hack Itself: Prompt Injection to XSS ️](https://infosecwriteups.com/how-i-convinced-an-ai-to-hack-itself-prompt-injection-to-xss-%EF%B8%8F-dab60010e40d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 January 2026
 

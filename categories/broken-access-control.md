@@ -1,5 +1,8 @@
 ## 📅 21 January 2026
 
+- **[Unauthorized File Deletion via Broken Access Control](https://medium.com/@omerasraan/unauthorized-file-deletion-via-broken-access-control-63c287abcd29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 January 2026
+
 - **[Simple Broken Access Control](https://medium.com/@windasunny/simple-broken-access-control-850cb9beb7c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 January 2026
 
