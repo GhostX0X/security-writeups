@@ -1,3 +1,9 @@
+## 📅 22 January 2026
+
+- **[Some Weird Zero Click Account Takeover Techniques](https://medium.com/@mohameddiv77/some-weird-zero-click-account-takeover-techniques-4c00b32f0a1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 January 2026
+
+- **[Anatomía de un centinela — código, lógica y despliegue automatizado(2/3)](https://medium.com/@yancel.salinas/anatom%C3%ADa-de-un-centinela-c%C3%B3digo-l%C3%B3gica-y-despliegue-automatizado-2-3-bf70c040c785?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 January 2026
 
 - **[Trump’s Greenland Ultimatum Is Tearing NATO Apart](https://medium.com/@jens_sorensen_geopol./trumps-greenland-ultimatum-is-tearing-nato-apart-60a03e34222d?source=rss------security-5)** _(Medium Security)_

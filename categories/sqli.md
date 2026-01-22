@@ -1,3 +1,9 @@
+## 📅 22 January 2026
+
+- **[Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 January 2026
+
+- **[Github Copilot Says-Its SQL Injection and Lead to Security Risk](https://medium.com/@umesh.nagar92x/github-copilot-says-its-sql-injection-and-lead-to-security-risk-80160703e4a5?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 January 2026
 
 - **[SQLi](https://medium.com/@keupi1963/sqli-d16e92a2fad4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
