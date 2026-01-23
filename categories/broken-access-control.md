@@ -1,3 +1,6 @@
+## 📅 23 January 2026
+
+- **[Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee](https://medium.com/@mostafa23110006/broken-access-control-how-i-viewed-admin-only-configs-as-a-standard-employee-83f5a1ee6a08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 January 2026
 
 - **[BROKEN ACCESS CONTROL](https://zekikayaalp.medium.com/broken-acces-control-02fc6dcbb1b0?source=rss------pentesting-5)** _(Medium Pentesting)_

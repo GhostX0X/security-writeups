@@ -1,3 +1,6 @@
+## 📅 23 January 2026
+
+- **[“Bug Bounty Bootcamp #20: CSRF — The Silent Attack That Makes Users Work for the Hacker”](https://osintteam.blog/bug-bounty-bootcamp-20-csrf-the-silent-attack-that-makes-users-work-for-the-hacker-442596225c23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 January 2026
 
 - **[[PortSwigger][Practitioner]- Lab: CSRF where token validation depends on request method](https://medium.com/@Javiki/portswigger-practitioner-lab-csrf-where-token-validation-depends-on-request-method-6661116fa0be?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

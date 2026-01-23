@@ -1,3 +1,6 @@
+## 📅 23 January 2026
+
+- **[Greenland, NATO and Global Security](https://medium.com/@holts.history.hub/greenland-nato-and-global-security-9cbfe876d58c?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 January 2026
 
 - **[Some Weird Zero Click Account Takeover Techniques](https://medium.com/@mohameddiv77/some-weird-zero-click-account-takeover-techniques-4c00b32f0a1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
