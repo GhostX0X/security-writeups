@@ -1,3 +1,9 @@
+## 📅 22 January 2026
+
+- **[BROKEN ACCESS CONTROL](https://zekikayaalp.medium.com/broken-acces-control-02fc6dcbb1b0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 January 2026
+
+- **[BROKEN ACCESS CONTROL](https://zekikayaalp.medium.com/broken-acces-control-02fc6dcbb1b0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 January 2026
 
 - **[Unauthorized File Deletion via Broken Access Control](https://medium.com/@omerasraan/unauthorized-file-deletion-via-broken-access-control-63c287abcd29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
