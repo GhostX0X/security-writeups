@@ -1,3 +1,6 @@
+## 📅 23 January 2026
+
+- **[Metasploitable2 Full Exploitation Walkthrough — From Recon to Root](https://medium.com/@2203031260180/metasploitable2-full-exploitation-walkthrough-from-recon-to-root-df034f00eb63?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 20 January 2026
 
 - **[Building a Recon Toolkit with Docker](https://medium.com/@samhilliard/building-a-recon-toolkit-with-docker-ec14e556f858?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

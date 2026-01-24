@@ -1,3 +1,6 @@
+## 📅 23 January 2026
+
+- **[DevSecOps for Git: How Enterprises Actually Secure Their Source Code (No Theory, Just Reality)](https://medium.com/@bhanureddybandi/devsecops-for-git-how-enterprises-actually-secure-their-source-code-no-theory-just-reality-f18e8f8d2698?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 January 2026
 
 - **[The “Triple Threat” of 2026: Why Your AI Workforce Is Your Biggest Security Blind Spot](https://medium.com/@kenneth.buckler/the-triple-threat-of-2026-why-your-ai-workforce-is-your-biggest-security-blind-spot-4615f69bfc51?source=rss------security-5)** _(Medium Security)_
