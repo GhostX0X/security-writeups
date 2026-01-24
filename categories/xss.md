@@ -1,3 +1,6 @@
+## 📅 24 January 2026
+
+- **[How I Found 3 Critical Reflected XSS Bugs Using Simple URL Encoding Tricks](https://medium.com/@ahmad.suhendra1405/how-i-found-3-critical-reflected-xss-bugs-using-simple-url-encoding-tricks-215d1c33bbea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 January 2026
 
 - **[Day-18 of Bug Bounty Journey : XSS Concept](https://medium.com/@anshkamra00/day-18-of-bug-bounty-journey-xss-concept-19e79cf45fcd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
