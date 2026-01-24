@@ -1,3 +1,6 @@
+## 📅 24 January 2026
+
+- **[Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026](https://sameerthite.medium.com/server-actions-are-just-post-requests-the-csrf-trap-were-ignoring-in-2026-b1d81d0c9019?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 January 2026
 
 - **[“Bug Bounty Bootcamp #20: CSRF — The Silent Attack That Makes Users Work for the Hacker”](https://osintteam.blog/bug-bounty-bootcamp-20-csrf-the-silent-attack-that-makes-users-work-for-the-hacker-442596225c23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
