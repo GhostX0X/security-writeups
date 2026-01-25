@@ -1,3 +1,6 @@
+## 📅 25 January 2026
+
+- **[[PortSwigger][Practitioner]- Lab: CSRF where token validation depends on token being present](https://medium.com/@Javiki/portswigger-practitioner-lab-csrf-where-token-validation-depends-on-token-being-present-26082e05a752?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 January 2026
 
 - **[Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026](https://sameerthite.medium.com/server-actions-are-just-post-requests-the-csrf-trap-were-ignoring-in-2026-b1d81d0c9019?source=rss------security-5)** _(Medium Security)_

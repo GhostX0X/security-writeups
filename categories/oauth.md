@@ -1,3 +1,6 @@
+## 📅 25 January 2026
+
+- **[Securing REST API Endpoints with OAuth 2.0 and Keycloak Client Scopes](https://medium.com/@vgzxkgmrpn/securing-rest-api-endpoints-with-oauth-2-0-and-keycloak-client-scopes-b5979702472a?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 January 2026
 
 - **[Two OAuth 2.0 Specs You Should Know About: Token Exchange and JWT Bearer Grant](https://medium.com/@vgzxkgmrpn/two-oauth-2-0-specs-you-should-know-about-token-exchange-and-jwt-bearer-grant-4c9c56299130?source=rss------security-5)** _(Medium Security)_
