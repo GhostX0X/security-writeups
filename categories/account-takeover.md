@@ -1,3 +1,6 @@
+## 📅 24 January 2026
+
+- **[Anatomy of AWS WAF: What Actually Protects Your Applications](https://shivanshu-sharma.medium.com/anatomy-of-aws-waf-what-actually-protects-your-applications-9e8a21d2592d?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 January 2026
 
 - **[Greenland, NATO and Global Security](https://medium.com/@holts.history.hub/greenland-nato-and-global-security-9cbfe876d58c?source=rss------security-5)** _(Medium Security)_
