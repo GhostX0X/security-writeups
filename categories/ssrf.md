@@ -1,3 +1,9 @@
+## 📅 26 January 2026
+
+- **[Understanding SSRF and Detecting It With AI, Enter See-SURF](https://infosecwriteups.com/understanding-ssrf-and-detecting-it-with-ai-enter-see-surf-0277e0179a50?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 January 2026
+
+- **[Understanding SSRF and Detecting It With AI, Enter See-SURF](https://infosecwriteups.com/understanding-ssrf-and-detecting-it-with-ai-enter-see-surf-0277e0179a50?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 January 2026
 
 - **[WordPress XML-RPC Attack Surface Method Enumeration via system.listMethods Leading to SSRF](https://ajay-vardhan01.medium.com/wordpress-xml-rpc-attack-surface-method-enumeration-via-system-listmethods-leading-to-ssrf-0971d977372a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

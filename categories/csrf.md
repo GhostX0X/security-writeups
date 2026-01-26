@@ -1,3 +1,6 @@
+## 📅 26 January 2026
+
+- **[How I Turned a Boring Self-XSS into a Real-World Attack Using CSRF](https://medium.com/@mostafamhmoud378/how-i-turned-a-boring-self-xss-into-a-real-world-attack-using-csrf-37cf3a78e3da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 January 2026
 
 - **[[PortSwigger][Practitioner]- Lab: CSRF where token validation depends on token being present](https://medium.com/@Javiki/portswigger-practitioner-lab-csrf-where-token-validation-depends-on-token-being-present-26082e05a752?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
