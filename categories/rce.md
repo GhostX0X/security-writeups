@@ -1,5 +1,11 @@
 ## 📅 25 January 2026
 
+- **[#LifeAmongstBugs02: Intercepting the State’s Secrets](https://medium.com/@anmolvats220703/lifeamongstbugs02-intercepting-the-states-secrets-%EF%B8%8F-%EF%B8%8F-9000297a947c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 January 2026
+
+- **[#LifeAmongstBugs02: Intercepting the State’s Secrets](https://medium.com/@anmolvats220703/lifeamongstbugs02-intercepting-the-states-secrets-%EF%B8%8F-%EF%B8%8F-9000297a947c?source=rss------security-5)** _(Medium Security)_
+## 📅 25 January 2026
+
 - **[How I hacked NASA with an RCE!!!](https://medium.com/@mr_prey3r/how-i-hacked-nasa-with-an-rce-5e764ed54dea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 January 2026
 

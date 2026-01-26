@@ -1,3 +1,6 @@
+## 📅 25 January 2026
+
+- **[As always in every penetration testing engagements we start by reconnaissance and information…](https://infosecwriteups.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-04bf8744dc7e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 23 January 2026
 
 - **[Metasploitable2 Full Exploitation Walkthrough — From Recon to Root](https://medium.com/@2203031260180/metasploitable2-full-exploitation-walkthrough-from-recon-to-root-df034f00eb63?source=rss------pentesting-5)** _(Medium Pentesting)_
