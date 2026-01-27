@@ -1,3 +1,6 @@
+## 📅 27 January 2026
+
+- **[IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 January 2026
 
 - **[IDOR in 5 mins, That Paid me 500$](https://medium.com/@rajanbala39/idor-in-5-mins-that-paid-me-500-0d72a2243d1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
