@@ -1,5 +1,8 @@
 ## 📅 27 January 2026
 
+- **[I Reported an IDOR, Made $25,000, and Learned More About Bug Bounties Than I Expected](https://medium.com/@justas_b_2/i-reported-an-idor-made-25-000-and-learned-more-about-bug-bounties-than-i-expected-8354e68e1ffe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 January 2026
+
 - **[IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 January 2026
 
