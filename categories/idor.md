@@ -1,5 +1,8 @@
 ## 📅 27 January 2026
 
+- **[When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform](https://mokhansec.medium.com/when-export-csv-becomes-a-data-breach-a-case-study-of-a-idor-in-a-crypto-platform-ba29149d7c4a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 January 2026
+
 - **[I Reported an IDOR, Made $25,000, and Learned More About Bug Bounties Than I Expected](https://medium.com/@justas_b_2/i-reported-an-idor-made-25-000-and-learned-more-about-bug-bounties-than-i-expected-8354e68e1ffe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 January 2026
 

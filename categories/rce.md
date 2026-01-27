@@ -1,3 +1,6 @@
+## 📅 27 January 2026
+
+- **[How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 January 2026
 
 - **[Stop SIEM Noise at the Source: Wazuh Agent-Side Suppression for Windows Security Events (QueryList…](https://socfortress.medium.com/stop-siem-noise-at-the-source-wazuh-agent-side-suppression-for-windows-security-events-querylist-0eacbf4326df?source=rss------security-5)** _(Medium Security)_

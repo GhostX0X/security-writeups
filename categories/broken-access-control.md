@@ -1,3 +1,6 @@
+## 📅 27 January 2026
+
+- **[Access Control Guards Improve Event Venue Safety In 2025](https://medium.com/@gpsgroup.ca/access-control-guards-improve-event-venue-safety-in-2025-1c24dd96cd00?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 January 2026
 
 - **[Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee](https://medium.com/@mostafa23110006/broken-access-control-how-i-viewed-admin-only-configs-as-a-standard-employee-83f5a1ee6a08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

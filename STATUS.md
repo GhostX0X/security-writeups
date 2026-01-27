@@ -1,5 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-01-27 12:27:47.870769 UTC
+Last updated: 2026-01-27 18:26:07.929829 UTC
 
-- idor: 2
+- broken-access-control: 1
+- rce: 1
+- idor: 3
