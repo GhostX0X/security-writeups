@@ -1,3 +1,6 @@
+## 📅 26 January 2026
+
+- **[Stop SIEM Noise at the Source: Wazuh Agent-Side Suppression for Windows Security Events (QueryList…](https://socfortress.medium.com/stop-siem-noise-at-the-source-wazuh-agent-side-suppression-for-windows-security-events-querylist-0eacbf4326df?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 January 2026
 
 - **[#LifeAmongstBugs02: Intercepting the State’s Secrets](https://medium.com/@anmolvats220703/lifeamongstbugs02-intercepting-the-states-secrets-%EF%B8%8F-%EF%B8%8F-9000297a947c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
