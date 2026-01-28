@@ -1,3 +1,6 @@
+## 📅 28 January 2026
+
+- **[Stop Trusting OnlyYour Backend: Let PostgreSQL Enforce Data Security](https://medium.com/@alessandro.tornesello99/stop-trusting-onlyyour-backend-let-postgresql-enforce-data-security-04bf2dae375f?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 January 2026
 
 - **[How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

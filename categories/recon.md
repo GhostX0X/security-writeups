@@ -1,3 +1,9 @@
+## 📅 28 January 2026
+
+- **[ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/reconftw-automatiser-la-reconnaissance-pour-une-surface-dattaque-compl%C3%A8te-e3a474ecc92d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 January 2026
+
+- **[ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/reconftw-automatiser-la-reconnaissance-pour-une-surface-dattaque-compl%C3%A8te-e3a474ecc92d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 January 2026
 
 - **[As always in every penetration testing engagements we start by reconnaissance and information…](https://infosecwriteups.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-04bf8744dc7e?source=rss------pentesting-5)** _(Medium Pentesting)_

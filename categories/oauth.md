@@ -1,3 +1,6 @@
+## 📅 28 January 2026
+
+- **[2. OAuth Misbinding Vulnerability](https://infosecwriteups.com/2-oauth-misbinding-vulnerability-ed0e0830bdde?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 January 2026
 
 - **[Securing REST API Endpoints with OAuth 2.0 and Keycloak Client Scopes](https://medium.com/@vgzxkgmrpn/securing-rest-api-endpoints-with-oauth-2-0-and-keycloak-client-scopes-b5979702472a?source=rss------security-5)** _(Medium Security)_
