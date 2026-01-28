@@ -1,5 +1,8 @@
 ## 📅 28 January 2026
 
+- **[Escaping the Matrix: A Deep Dive into SandboxJS RCE (CVE-2026–23830)](https://medium.com/@meysam_bal-afkan/escaping-the-matrix-a-deep-dive-into-sandboxjs-rce-cve-2026-23830-1fbbca3f46fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 January 2026
+
 - **[Stop Trusting OnlyYour Backend: Let PostgreSQL Enforce Data Security](https://medium.com/@alessandro.tornesello99/stop-trusting-onlyyour-backend-let-postgresql-enforce-data-security-04bf2dae375f?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 January 2026
 

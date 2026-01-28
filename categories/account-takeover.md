@@ -1,3 +1,6 @@
+## 📅 28 January 2026
+
+- **[How I Earned a 4-Digit Bounty: Complete Account Takeover via Insecure Session Cookie](https://adityasunny06.medium.com/how-i-earned-a-4-digit-bounty-complete-account-takeover-via-insecure-session-cookie-75d1992c9367?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 January 2026
 
 - **[Anatomy of AWS WAF: What Actually Protects Your Applications](https://shivanshu-sharma.medium.com/anatomy-of-aws-waf-what-actually-protects-your-applications-9e8a21d2592d?source=rss------security-5)** _(Medium Security)_
