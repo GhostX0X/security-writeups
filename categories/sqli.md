@@ -1,3 +1,6 @@
+## 📅 28 January 2026
+
+- **[Exploiting SQL Injection with SQLMap](https://medium.com/@hello.cybeague/exploiting-sql-injection-with-sqlmap-89f90efe5f80?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 January 2026
 
 - **[Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
