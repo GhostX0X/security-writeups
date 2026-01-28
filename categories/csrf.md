@@ -1,3 +1,6 @@
+## 📅 27 January 2026
+
+- **[One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass (F*ck HttpOnly)](https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 January 2026
 
 - **[How I Turned a Boring Self-XSS into a Real-World Attack Using CSRF](https://medium.com/@mostafamhmoud378/how-i-turned-a-boring-self-xss-into-a-real-world-attack-using-csrf-37cf3a78e3da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
