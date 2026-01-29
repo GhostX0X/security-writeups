@@ -1,3 +1,6 @@
+## 📅 29 January 2026
+
+- **[Account Takeover via Weak Password Reset Token Validation](https://systemweakness.com/account-takeover-via-weak-password-reset-token-validation-91df56296f07?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 January 2026
 
 - **[How I Earned a 4-Digit Bounty: Complete Account Takeover via Insecure Session Cookie](https://adityasunny06.medium.com/how-i-earned-a-4-digit-bounty-complete-account-takeover-via-insecure-session-cookie-75d1992c9367?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

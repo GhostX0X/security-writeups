@@ -1,3 +1,9 @@
+## 📅 29 January 2026
+
+- **[Unrestricted Resource Consumption: When APIs Never Say “Enough”](https://medium.com/@emmanuelnnebedum704/unrestricted-resource-consumption-when-apis-never-say-enough-a7ce55707561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 January 2026
+
+- **[Unrestricted Resource Consumption: When APIs Never Say “Enough”](https://medium.com/@emmanuelnnebedum704/unrestricted-resource-consumption-when-apis-never-say-enough-a7ce55707561?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 January 2026
 
 - **[Microsoft Fabric Core Patterns for accessing Private Data Sources](https://isinghrana.medium.com/microsoft-fabric-core-patterns-for-accessing-private-data-sources-2631c4cd0c4d?source=rss------security-5)** _(Medium Security)_

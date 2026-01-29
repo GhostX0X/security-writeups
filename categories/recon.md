@@ -1,3 +1,6 @@
+## 📅 29 January 2026
+
+- **[Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight](https://nullsecurityx.medium.com/technical-bug-bounty-methodology-deep-recon-automation-and-human-insight-ec61e9e0f4dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 January 2026
 
 - **[ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/reconftw-automatiser-la-reconnaissance-pour-une-surface-dattaque-compl%C3%A8te-e3a474ecc92d?source=rss------pentesting-5)** _(Medium Pentesting)_
