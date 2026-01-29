@@ -1,5 +1,8 @@
 ## 📅 28 January 2026
 
+- **[Microsoft Fabric Core Patterns for accessing Private Data Sources](https://isinghrana.medium.com/microsoft-fabric-core-patterns-for-accessing-private-data-sources-2631c4cd0c4d?source=rss------security-5)** _(Medium Security)_
+## 📅 28 January 2026
+
 - **[Escaping the Matrix: A Deep Dive into SandboxJS RCE (CVE-2026–23830)](https://medium.com/@meysam_bal-afkan/escaping-the-matrix-a-deep-dive-into-sandboxjs-rce-cve-2026-23830-1fbbca3f46fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 January 2026
 
