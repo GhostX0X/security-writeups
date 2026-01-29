@@ -1,3 +1,6 @@
+## 📅 29 January 2026
+
+- **[IDOR: The Easiest High-Severity Bug Most Hunters Still Miss](https://osintteam.blog/idor-the-easiest-high-severity-bug-most-hunters-still-miss-c7e2096eca6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 January 2026
 
 - **[When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform](https://mokhansec.medium.com/when-export-csv-becomes-a-data-breach-a-case-study-of-a-idor-in-a-crypto-platform-ba29149d7c4a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
