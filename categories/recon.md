@@ -1,3 +1,6 @@
+## 📅 30 January 2026
+
+- **[Guía de WhatWeb: Fingerprinting y Reconocimiento para Bug Hunting](https://medium.com/@jpablo13/gu%C3%ADa-de-whatweb-fingerprinting-y-reconocimiento-para-bug-hunting-1a9360ecb05c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 January 2026
 
 - **[Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight](https://nullsecurityx.medium.com/technical-bug-bounty-methodology-deep-recon-automation-and-human-insight-ec61e9e0f4dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

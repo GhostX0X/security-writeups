@@ -1,5 +1,11 @@
 ## 📅 29 January 2026
 
+- **[IDOR : Simple to Understand, easy to miss](https://medium.com/@anshkamra00/idor-simple-to-understand-easy-to-miss-4beea0b4847b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 January 2026
+
+- **[The IDOR’ventures & Why I Love Hackerone — A Different Kind Of $33,500 Bounty](https://medium.com/@justas_b_2/the-idorventures-why-i-love-hackerone-a-different-kind-of-33-500-bounty-a48665a7b900?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 January 2026
+
 - **[IDOR: The Easiest High-Severity Bug Most Hunters Still Miss](https://osintteam.blog/idor-the-easiest-high-severity-bug-most-hunters-still-miss-c7e2096eca6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 January 2026
 
