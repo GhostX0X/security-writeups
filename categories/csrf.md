@@ -1,3 +1,15 @@
+## 📅 30 January 2026
+
+- **[Cross-Site Request Forgery (CSRF): A Practical Methodology for Security Testing](https://iaraoz.medium.com/cross-site-request-forgery-csrf-a-practical-methodology-for-security-testing-e7e7283c2132?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 January 2026
+
+- **[Cross-Site Request Forgery (CSRF): A Practical Methodology for Security Testing](https://iaraoz.medium.com/cross-site-request-forgery-csrf-a-practical-methodology-for-security-testing-e7e7283c2132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 January 2026
+
+- **[[PortSwigger][Practitioner] - Lab: CSRF where token is not tied to user session](https://medium.com/@Javiki/portswigger-practitioner-lab-csrf-where-token-is-not-tied-to-user-session-ccdf23b43f4b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 January 2026
+
+- **[Cross-Site Request Forgery (CSRF): A Practical Methodology for Security Testing](https://iaraoz.medium.com/cross-site-request-forgery-csrf-a-practical-methodology-for-security-testing-e7e7283c2132?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 January 2026
 
 - **[One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass (F*ck HttpOnly)](https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

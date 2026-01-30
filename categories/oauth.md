@@ -1,3 +1,6 @@
+## 📅 30 January 2026
+
+- **[The OAuth mechanism and its most common flows](https://medium.com/@evyeveline1/the-oauth-mechanism-and-its-most-common-flows-c6186935ab1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 January 2026
 
 - **[2. OAuth Misbinding Vulnerability](https://infosecwriteups.com/2-oauth-misbinding-vulnerability-ed0e0830bdde?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

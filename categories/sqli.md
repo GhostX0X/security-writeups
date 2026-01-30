@@ -1,3 +1,6 @@
+## 📅 30 January 2026
+
+- **[Blind SQL Injection Attacks](https://medium.com/@amrsmooke321/blind-sql-injection-attacks-93a4ed86172a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 January 2026
 
 - **[Exploiting SQL Injection with SQLMap](https://medium.com/@hello.cybeague/exploiting-sql-injection-with-sqlmap-89f90efe5f80?source=rss------security-5)** _(Medium Security)_

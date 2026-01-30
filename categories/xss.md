@@ -1,3 +1,6 @@
+## 📅 30 January 2026
+
+- **[Exploiting DOM Clobbering to Enable DOM-Based XSS](https://osintteam.blog/exploiting-dom-clobbering-to-enable-dom-based-xss-009edbca9d10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 January 2026
 
 - **[One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass (F*ck HttpOnly)](https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
