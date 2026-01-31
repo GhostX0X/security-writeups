@@ -1,3 +1,6 @@
+## 📅 31 January 2026
+
+- **[When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource](https://medium.com/@raminiskandarov2004/when-draft-doesnt-mean-private-finding-an-idor-in-an-unpublished-resource-2c9ead4e7bfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 January 2026
 
 - **[Unrestricted Resource Consumption: When APIs Never Say “Enough”](https://medium.com/@emmanuelnnebedum704/unrestricted-resource-consumption-when-apis-never-say-enough-a7ce55707561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

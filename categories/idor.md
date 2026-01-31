@@ -1,3 +1,6 @@
+## 📅 31 January 2026
+
+- **[When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource](https://medium.com/@raminiskandarov2004/when-draft-doesnt-mean-private-finding-an-idor-in-an-unpublished-resource-2c9ead4e7bfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 January 2026
 
 - **[IDOR : Simple to Understand, easy to miss](https://medium.com/@anshkamra00/idor-simple-to-understand-easy-to-miss-4beea0b4847b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
