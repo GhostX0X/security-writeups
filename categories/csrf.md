@@ -1,5 +1,8 @@
 ## 📅 30 January 2026
 
+- **[CSRF: How to trick a website into taking Action on your behalf](https://medium.com/@anshkamra00/csrf-how-to-trick-a-website-f2bb91184b1d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 January 2026
+
 - **[Cross-Site Request Forgery (CSRF): A Practical Methodology for Security Testing](https://iaraoz.medium.com/cross-site-request-forgery-csrf-a-practical-methodology-for-security-testing-e7e7283c2132?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 January 2026
 
