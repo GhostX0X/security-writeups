@@ -1,3 +1,6 @@
+## 📅 31 January 2026
+
+- **[A Subtle SSRF Through the Referer Header](https://medium.com/@raminiskandarov2004/a-subtle-ssrf-through-the-referer-header-79f531604dd0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 January 2026
 
 - **[Understanding SSRF and Detecting It With AI, Enter See-SURF](https://infosecwriteups.com/understanding-ssrf-and-detecting-it-with-ai-enter-see-surf-0277e0179a50?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

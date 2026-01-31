@@ -1,8 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-01-31 12:25:50.154801 UTC
+Last updated: 2026-01-31 18:19:10.527091 UTC
 
-- broken-access-control: 1
-- idor: 1
-- rce: 1
+- ssrf: 1
+- recon: 1
 - csrf: 1

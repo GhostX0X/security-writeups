@@ -1,3 +1,6 @@
+## 📅 31 January 2026
+
+- **[The Art of Knowing Before Breaking(Reconnaissance):](https://medium.com/@amandogra4867/the-art-of-knowing-before-breaking-reconnaissance-b0d9ea630304?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 January 2026
 
 - **[As always in every penetration testing engagements we start by reconnaissance and information…](https://infosecwriteups.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-bd3757b67dfc?source=rss------pentesting-5)** _(Medium Pentesting)_
