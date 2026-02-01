@@ -1,3 +1,9 @@
+## 📅 01 February 2026
+
+- **[A Real-World Recon Workflow — One Command, Clean Results](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/a-real-world-recon-workflow-one-command-clean-results-0043c6d9b552?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 February 2026
+
+- **[Tools you need for Bug Bounty v1.0 (Recon Starter Pack)](https://meetcyber.net/tools-you-need-for-bug-bounty-v1-0-recon-starter-pack-972425c8c586?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 January 2026
 
 - **[The Art of Knowing Before Breaking(Reconnaissance):](https://medium.com/@amandogra4867/the-art-of-knowing-before-breaking-reconnaissance-b0d9ea630304?source=rss------pentesting-5)** _(Medium Pentesting)_

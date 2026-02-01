@@ -1,3 +1,6 @@
+## 📅 01 February 2026
+
+- **[Clobbering DOM Attributes to Bypass HTML Filters and Trigger DOM-Based XSS](https://meetcyber.net/clobbering-dom-attributes-to-bypass-html-filters-and-trigger-dom-based-xss-cc2afb437bde?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 January 2026
 
 - **[How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

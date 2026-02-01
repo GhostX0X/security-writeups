@@ -1,3 +1,6 @@
+## 📅 01 February 2026
+
+- **[IDOR Lets Attackers Choose Your Payment Method](https://medium.com/legionhunters/idor-lets-attackers-choose-your-payment-method-abe87784e726?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 January 2026
 
 - **[The IDOR’ventures — The Tickets & More — A Different Kind Of $36,000 Bounty](https://medium.com/@justas_b_2/the-idorventures-the-tickets-more-a-different-kind-of-36-000-bounty-6cabbd01e4fb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
