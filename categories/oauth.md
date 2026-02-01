@@ -1,3 +1,6 @@
+## 📅 01 February 2026
+
+- **[Building OAuth 2.0 Authorization Code Flow in Go (RFC 6749)](https://medium.com/@rabbi.cse.sust.bd/building-oauth-2-0-authorization-code-flow-in-go-rfc-6749-12a1f92c1034?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 January 2026
 
 - **[The OAuth mechanism and its most common flows](https://medium.com/@shehacks_/the-oauth-mechanism-and-its-most-common-flows-c6186935ab1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
