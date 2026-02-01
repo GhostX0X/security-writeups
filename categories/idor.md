@@ -1,5 +1,8 @@
 ## 📅 31 January 2026
 
+- **[The IDOR’ventures — The Tickets & More — A Different Kind Of $36,000 Bounty](https://medium.com/@justas_b_2/the-idorventures-the-tickets-more-a-different-kind-of-36-000-bounty-6cabbd01e4fb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 January 2026
+
 - **[When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource](https://medium.com/@raminiskandarov2004/when-draft-doesnt-mean-private-finding-an-idor-in-an-unpublished-resource-2c9ead4e7bfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 January 2026
 

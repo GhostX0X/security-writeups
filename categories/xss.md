@@ -1,3 +1,9 @@
+## 📅 31 January 2026
+
+- **[How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 January 2026
+
+- **[How a Simple Note Feature Turned Into a Stored XSS (₹7,500 Bounty)](https://medium.com/@Rahul.Masal/how-a-simple-note-feature-turned-into-a-stored-xss-7-500-bounty-1d4582f5120d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 January 2026
 
 - **[Exploiting DOM Clobbering to Enable DOM-Based XSS](https://osintteam.blog/exploiting-dom-clobbering-to-enable-dom-based-xss-009edbca9d10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
