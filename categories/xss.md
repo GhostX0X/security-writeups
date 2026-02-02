@@ -1,3 +1,6 @@
+## 📅 02 February 2026
+
+- **[XSS Made Simple: How It Works, Why It’s Dangerous, and How Hackers Use JavaScript](https://medium.com/@MuhammedAsfan/xss-made-simple-how-it-works-why-its-dangerous-and-how-hackers-use-javascript-246162e273cc?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 February 2026
 
 - **[Clobbering DOM Attributes to Bypass HTML Filters and Trigger DOM-Based XSS](https://meetcyber.net/clobbering-dom-attributes-to-bypass-html-filters-and-trigger-dom-based-xss-cc2afb437bde?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

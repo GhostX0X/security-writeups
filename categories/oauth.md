@@ -1,3 +1,6 @@
+## 📅 02 February 2026
+
+- **[OAuth 2.0 Explained: A Beginner-Friendly Guide](https://medium.com/@chinthakahasan/oauth-2-0-explained-a-beginner-friendly-guide-2d083c8a80a2?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 February 2026
 
 - **[Building OAuth 2.0 Authorization Code Flow in Go (RFC 6749)](https://medium.com/@rabbi.cse.sust.bd/building-oauth-2-0-authorization-code-flow-in-go-rfc-6749-12a1f92c1034?source=rss------security-5)** _(Medium Security)_
