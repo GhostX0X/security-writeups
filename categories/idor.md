@@ -1,5 +1,11 @@
 ## 📅 01 February 2026
 
+- **[IDOR Vulnerability in Campaign Workflows – Accessing Archived Campaigns of Any User 150$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-campaign-workflows-accessing-archived-campaigns-of-any-user-150-f24b46c0cf59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 February 2026
+
+- **[Servidores inmutables: seguridad y repetibilidad todo en uno](https://medium.com/@serg-digitalis/servidores-inmutables-seguridad-y-repetibilidad-todo-en-uno-ee057478edff?source=rss------security-5)** _(Medium Security)_
+## 📅 01 February 2026
+
 - **[IDOR Lets Attackers Choose Your Payment Method](https://medium.com/legionhunters/idor-lets-attackers-choose-your-payment-method-abe87784e726?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 January 2026
 
