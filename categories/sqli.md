@@ -1,3 +1,12 @@
+## 📅 02 February 2026
+
+- **[Cracking the Silence: A Deep Dive into Blind SQL Injection (Conditional Responses)](https://medium.com/@taysirzeituni/cracking-the-silence-a-deep-dive-into-blind-sql-injection-conditional-responses-2f0961842081?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 February 2026
+
+- **[Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi](https://medium.com/@threat.hunter96/beyond-the-blacklist-using-ai-to-automate-advanced-filter-evasion-in-time-based-sqli-28dafe700686?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 February 2026
+
+- **[Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi](https://medium.com/@threat.hunter96/beyond-the-blacklist-using-ai-to-automate-advanced-filter-evasion-in-time-based-sqli-28dafe700686?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 January 2026
 
 - **[Blind SQL Injection Attacks](https://medium.com/@amrsmooke321/blind-sql-injection-attacks-93a4ed86172a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
