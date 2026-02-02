@@ -1,5 +1,8 @@
 ## 📅 02 February 2026
 
+- **[Part 2: A Real-World Recon Workflow — One Command, Clean Results](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-2-a-real-world-recon-workflow-one-command-clean-results-989d73ffe14a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 February 2026
+
 - **[JS Recon to Uncover Hidden Web Vulnerabilities in Minutes — And How You Can Too](https://osintteam.blog/js-recon-to-uncover-hidden-web-vulnerabilities-in-minutes-and-how-you-can-too-350b49b805c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 February 2026
 
