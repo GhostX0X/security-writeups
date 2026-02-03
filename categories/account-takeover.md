@@ -1,3 +1,6 @@
+## 📅 03 February 2026
+
+- **[Android WebView Exploitation: From Deep Link to Account Takeover](https://medium.com/@BaymaxPop23/android-webview-exploitation-from-deep-link-to-account-takeover-62f7a3e1da15?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 February 2026
 
 - **[Privilege Escalation Is Everything: 12 Real-World Chains That Lead to Full Account Takeover](https://cybersecuritywriteups.com/privilege-escalation-is-everything-12-real-world-chains-that-lead-to-full-account-takeover-1edea063a055?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
