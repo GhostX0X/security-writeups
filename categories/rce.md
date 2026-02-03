@@ -1,3 +1,15 @@
+## 📅 03 February 2026
+
+- **[SSRF + Gopher: O “Túnel” para o RCE](https://medium.com/@sarkis093/ssrf-gopher-o-t%C3%BAnel-para-o-rce-af7ef2b74629?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 February 2026
+
+- **[My First Week: 3 Business Logic Bugs in Major E-Commerce](https://medium.com/@youalialassaf/my-first-week-3-business-logic-bugs-in-major-e-commerce-8b303e02771f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 February 2026
+
+- **[#8: Security Misconfiguration — The “Unforced Error” of API Security](https://medium.com/@emmanuelnnebedum704/8-security-misconfiguration-the-unforced-error-of-api-security-d02bbea43508?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 February 2026
+
+- **[How to Encrypt Your Laravel Source Code Using phpBolt](https://medium.com/@premodsuraweera1/how-to-encrypt-your-laravel-source-code-using-phpbolt-eeda104a9177?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 January 2026
 
 - **[When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource](https://medium.com/@raminiskandarov2004/when-draft-doesnt-mean-private-finding-an-idor-in-an-unpublished-resource-2c9ead4e7bfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

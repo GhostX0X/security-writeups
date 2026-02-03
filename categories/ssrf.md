@@ -1,5 +1,8 @@
 ## 📅 03 February 2026
 
+- **[SSRF + Gopher: O “Túnel” para o RCE](https://medium.com/@sarkis093/ssrf-gopher-o-t%C3%BAnel-para-o-rce-af7ef2b74629?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 February 2026
+
 - **[#7: Server Side Request Forgery (SSRF)](https://medium.com/@emmanuelnnebedum704/7-server-side-request-forgery-ssrf-7296adf203a9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 January 2026
 
