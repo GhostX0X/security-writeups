@@ -1,3 +1,12 @@
+## 📅 03 February 2026
+
+- **[Recon for PHP, ASPX, JSP Juicy Endpoints via URLScan Dorking](https://medium.com/legionhunters/recon-for-php-aspx-jsp-juicy-endpoints-via-urlscan-dorking-a67164c8f709?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 February 2026
+
+- **[Recon for PHP, ASPX, JSP Juicy Endpoints via URLScan Dorking](https://medium.com/legionhunters/recon-for-php-aspx-jsp-juicy-endpoints-via-urlscan-dorking-a67164c8f709?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 February 2026
+
+- **[Part 3: From Recon to Critical Impact — Chaining Bugs the Right Way](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-3-from-recon-to-critical-impact-chaining-bugs-the-right-way-6a1818f08cb0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 February 2026
 
 - **[Full-Chain Exploitation: From Recon to Blind SQLi](https://medium.com/@xelcezeri/full-chain-exploitation-from-recon-to-blind-sqli-239eed0252a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

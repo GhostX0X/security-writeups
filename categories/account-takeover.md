@@ -1,5 +1,8 @@
 ## 📅 03 February 2026
 
+- **[My bug bounty journey: Full account takeover caused by SSO token misuse](https://medium.com/@AnonymousPlayer/my-bug-bounty-journey-full-account-takeover-caused-by-sso-token-misuse-d35e801371b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 February 2026
+
 - **[Android WebView Exploitation: From Deep Link to Account Takeover](https://medium.com/@BaymaxPop23/android-webview-exploitation-from-deep-link-to-account-takeover-62f7a3e1da15?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 February 2026
 
