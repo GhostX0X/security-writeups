@@ -1,3 +1,6 @@
+## 📅 04 February 2026
+
+- **[Shadow AI Is Everywhere: Meet Julius, the Open-Source LLM Fingerprinting Tool](https://medium.com/@praetorianguard/shadow-ai-is-everywhere-meet-julius-the-open-source-llm-fingerprinting-tool-c2ba7fd739a2?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 February 2026
 
 - **[SSRF + Gopher: O “Túnel” para o RCE](https://medium.com/@sarkis093/ssrf-gopher-o-t%C3%BAnel-para-o-rce-af7ef2b74629?source=rss------pentesting-5)** _(Medium Pentesting)_
