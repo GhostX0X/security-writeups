@@ -1,5 +1,8 @@
 ## 📅 03 February 2026
 
+- **[The Invisible Flaw: A Write-Up on Business Logic & Access Control](https://medium.com/@mohamed0salah213/the-invisible-flaw-a-write-up-on-business-logic-access-control-efe795a4b08f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 February 2026
+
 - **[Unlocking Better Security & Efficiency with Advanced Access Control Software](https://medium.com/@tonybrooksweston/unlocking-better-security-efficiency-with-advanced-access-control-software-a79618e3abfc?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 January 2026
 
