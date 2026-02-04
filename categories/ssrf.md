@@ -1,3 +1,6 @@
+## 📅 04 February 2026
+
+- **[Bug Bounty Tutorial Series — Part 2: Understanding SSRF (Server-Side Request Forgery)](https://osintteam.blog/bug-bounty-tutorial-series-part-2-understanding-ssrf-server-side-request-forgery-96c6b96fca00?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 February 2026
 
 - **[SSRF + Gopher: O “Túnel” para o RCE](https://medium.com/@sarkis093/ssrf-gopher-o-t%C3%BAnel-para-o-rce-af7ef2b74629?source=rss------pentesting-5)** _(Medium Pentesting)_
