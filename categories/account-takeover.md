@@ -1,3 +1,9 @@
+## 📅 04 February 2026
+
+- **[A Simple Chain That Leads to “Android App” Account Takeover via Intent Hijacking](https://medium.com/fmisec/a-simple-chain-that-leads-to-android-app-account-takeover-via-intent-hijacking-fd266144ebd4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 February 2026
+
+- **[A Simple Chain That Leads to “Android App” Account Takeover via Intent Hijacking](https://medium.com/fmisec/a-simple-chain-that-leads-to-android-app-account-takeover-via-intent-hijacking-fd266144ebd4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 February 2026
 
 - **[My bug bounty journey: Full account takeover caused by SSO token misuse](https://medium.com/@AnonymousPlayer/my-bug-bounty-journey-full-account-takeover-caused-by-sso-token-misuse-d35e801371b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

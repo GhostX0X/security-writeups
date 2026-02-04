@@ -1,3 +1,6 @@
+## 📅 04 February 2026
+
+- **[When Encryption Replaced Authorization — and the IDOR Didn’t Go Away](https://medium.com/@Xp10it/when-encryption-replaced-authorization-and-the-idor-didnt-go-away-cca52c7c9b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 February 2026
 
 - **[IDOR Vulnerability in Campaign Workflows – Accessing Archived Campaigns of Any User 150$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-campaign-workflows-accessing-archived-campaigns-of-any-user-150-f24b46c0cf59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
