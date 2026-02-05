@@ -1,5 +1,8 @@
 ## 📅 05 February 2026
 
+- **[The Recon Blueprint: How a Single Command Led to a $1,300 Bounty](https://medium.com/@gopikrishna0295/the-recon-blueprint-how-a-single-command-led-to-a-1-300-bounty-9dfc38fad59a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 February 2026
+
 - **[As always in every penetration testing engagements we start by reconnaissance and information…](https://cyb0rgbytes.medium.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-25b03ee6f8fa?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 February 2026
 

@@ -1,3 +1,12 @@
+## 📅 05 February 2026
+
+- **[Finding IDORs with Burp Suite: Real-World Examples That Actually Work](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/finding-idors-with-burp-suite-real-world-examples-that-actually-work-88bc4a165492?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 February 2026
+
+- **[Finding IDORs with Burp Suite: Real-World Examples That Actually Work](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/finding-idors-with-burp-suite-real-world-examples-that-actually-work-88bc4a165492?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 February 2026
+
+- **[Cross-Domain IDOR in Email Preferences Management via Reusable emailaddress Identifier](https://medium.com/@pophacker996/cross-domain-idor-in-email-preferences-management-via-reusable-emailaddress-identifier-2511ac9f7d05?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 February 2026
 
 - **[When Encryption Replaced Authorization — and the IDOR Didn’t Go Away](https://medium.com/@Xp10it/when-encryption-replaced-authorization-and-the-idor-didnt-go-away-cca52c7c9b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
