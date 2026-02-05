@@ -1,3 +1,6 @@
+## 📅 04 February 2026
+
+- **[How I Found Two Broken Access Control Vulnerabilities in the Same Program !](https://medium.com/@1yz02/how-i-found-two-broken-access-control-vulnerabilities-in-the-same-program-910fcf4f4015?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 February 2026
 
 - **[The Invisible Flaw: A Write-Up on Business Logic & Access Control](https://medium.com/@mohamed0salah213/the-invisible-flaw-a-write-up-on-business-logic-access-control-efe795a4b08f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
