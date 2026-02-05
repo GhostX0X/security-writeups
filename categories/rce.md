@@ -1,3 +1,6 @@
+## 📅 05 February 2026
+
+- **[Apache + PHP deployment pattern turns into instant RCE](https://medium.com/@24bkdoor/apache-php-deployment-pattern-turns-into-instant-rce-e8537f09e34f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 February 2026
 
 - **[Shadow AI Is Everywhere: Meet Julius, the Open-Source LLM Fingerprinting Tool](https://medium.com/@praetorianguard/shadow-ai-is-everywhere-meet-julius-the-open-source-llm-fingerprinting-tool-c2ba7fd739a2?source=rss------security-5)** _(Medium Security)_

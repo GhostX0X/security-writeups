@@ -1,3 +1,6 @@
+## 📅 05 February 2026
+
+- **[Account Takeover using Improper Authorization in “Check Availability” Feature](https://infosecwriteups.com/account-takeover-using-improper-authorization-in-check-availability-feature-4f9f65098853?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 February 2026
 
 - **[A Simple Chain That Leads to “Android App” Account Takeover via Intent Hijacking](https://medium.com/fmisec/a-simple-chain-that-leads-to-android-app-account-takeover-via-intent-hijacking-fd266144ebd4?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,9 @@
+## 📅 05 February 2026
+
+- **[How I Exploited a Secondary Context Bug to Trigger SSRF & Path Traversal in Backend API Calls](https://medium.com/fmisec/how-i-exploited-a-secondary-context-bug-to-trigger-ssrf-path-traversal-in-backend-api-calls-f1023cac5384?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 February 2026
+
+- **[How I Exploited a Secondary Context Bug to Trigger SSRF & Path Traversal in Backend API Calls](https://medium.com/fmisec/how-i-exploited-a-secondary-context-bug-to-trigger-ssrf-path-traversal-in-backend-api-calls-f1023cac5384?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 February 2026
 
 - **[Bug Bounty Tutorial Series — Part 2: Understanding SSRF (Server-Side Request Forgery)](https://osintteam.blog/bug-bounty-tutorial-series-part-2-understanding-ssrf-server-side-request-forgery-96c6b96fca00?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

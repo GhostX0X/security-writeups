@@ -1,3 +1,6 @@
+## 📅 05 February 2026
+
+- **[As always in every penetration testing engagements we start by reconnaissance and information…](https://cyb0rgbytes.medium.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-25b03ee6f8fa?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 February 2026
 
 - **[Recon for PHP, ASPX, JSP Juicy Endpoints via URLScan Dorking](https://medium.com/legionhunters/recon-for-php-aspx-jsp-juicy-endpoints-via-urlscan-dorking-a67164c8f709?source=rss------pentesting-5)** _(Medium Pentesting)_
