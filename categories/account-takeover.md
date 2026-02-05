@@ -1,5 +1,8 @@
 ## 📅 05 February 2026
 
+- **[ATO via email verification endpoint leads to unauthorized email binding and password reset](https://0xm0r4d.medium.com/ato-via-email-verification-endpoint-leads-to-unauthorized-email-binding-and-password-reset-32c51484ca76?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 February 2026
+
 - **[Account Takeover using Improper Authorization in “Check Availability” Feature](https://infosecwriteups.com/account-takeover-using-improper-authorization-in-check-availability-feature-4f9f65098853?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 February 2026
 

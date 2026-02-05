@@ -1,5 +1,8 @@
 ## 📅 05 February 2026
 
+- **[Authorization Bugs Beyond IDOR: What Most Hackers Miss](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/authorization-bugs-beyond-idor-what-most-hackers-miss-c1cde8adf51d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 February 2026
+
 - **[Finding IDORs with Burp Suite: Real-World Examples That Actually Work](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/finding-idors-with-burp-suite-real-world-examples-that-actually-work-88bc4a165492?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 February 2026
 

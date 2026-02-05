@@ -1,5 +1,8 @@
 ## 📅 05 February 2026
 
+- **[Your AI Agent Just Tried to Delete Production. Here’s the Open-Source Firewall That Stopped It.](https://medium.com/@sattyamjain96/your-ai-agent-just-tried-to-delete-production-heres-the-open-source-firewall-that-stopped-it-06644a93576b?source=rss------security-5)** _(Medium Security)_
+## 📅 05 February 2026
+
 - **[Apache + PHP deployment pattern turns into instant RCE](https://medium.com/@24bkdoor/apache-php-deployment-pattern-turns-into-instant-rce-e8537f09e34f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 February 2026
 
