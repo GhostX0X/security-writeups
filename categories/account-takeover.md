@@ -1,5 +1,8 @@
 ## 📅 06 February 2026
 
+- **[From Role Escalation to Account Takeover: How Authorization Bugs Lead to Full Compromise](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-role-escalation-to-account-takeover-how-authorization-bugs-lead-to-full-compromise-534a4168489d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 February 2026
+
 - **[EU’s defence awakening and NATO — military aspects](https://medium.com/ecajournal/eus-defence-awakening-and-nato-military-aspects-c143aaf311a5?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 February 2026
 
