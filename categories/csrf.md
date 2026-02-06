@@ -1,3 +1,6 @@
+## 📅 05 February 2026
+
+- **[Broken CSRF Protection: Bypassing Tokens by Switching from POST to GET](https://medium.com/@sudoxploit/broken-csrf-protection-bypassing-tokens-by-switching-from-post-to-get-d7736921a858?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 January 2026
 
 - **[CSRF: How to trick a website into taking Action on your behalf](https://medium.com/@anshkamra00/csrf-how-to-trick-a-website-f2bb91184b1d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

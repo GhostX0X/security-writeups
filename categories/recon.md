@@ -1,3 +1,6 @@
+## 📅 06 February 2026
+
+- **[Guía Avanzada de Curl para Bug Hunting: Técnicas de Reconocimiento y Explotación](https://medium.com/@jpablo13/gu%C3%ADa-avanzada-de-curl-para-bug-hunting-t%C3%A9cnicas-de-reconocimiento-y-explotaci%C3%B3n-4938b3b04372?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 
 - **[The Recon Blueprint: How a Single Command Led to a $1,300 Bounty](https://medium.com/@gopikrishna0295/the-recon-blueprint-how-a-single-command-led-to-a-1-300-bounty-9dfc38fad59a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
