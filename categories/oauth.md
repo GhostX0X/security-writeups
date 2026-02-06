@@ -1,3 +1,6 @@
+## 📅 06 February 2026
+
+- **[OAuth Consent Phishing: When MFA and Password Resets Don’t Matter](https://ankisinha.medium.com/oauth-consent-phishing-when-mfa-and-password-resets-dont-matter-23d622ab36fc?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 February 2026
 
 - **[OAuth 2.0 Explained: A Beginner-Friendly Guide](https://medium.com/@chinthakahasan/oauth-2-0-explained-a-beginner-friendly-guide-2d083c8a80a2?source=rss------security-5)** _(Medium Security)_

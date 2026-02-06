@@ -1,5 +1,14 @@
 ## 📅 06 February 2026
 
+- **[Thick Client Pentesting (Part 2): Reconnaissance](https://medium.com/@harishmuthyala2002/thick-client-pentesting-part-2-reconnaissance-c55cc60aa7b8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 February 2026
+
+- **[WP-Hunter: Intelligent Reconnaissance Tool for WordPress Plugins and Themes](https://medium.com/@xeloxa/wp-hunter-intelligent-reconnaissance-tool-for-wordpress-plugins-and-themes-6c22fffd2ff3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 February 2026
+
+- **[Part 1: The Modern Recon Stack — How I Found What Others Missed](https://medium.com/@gopikrishna0295/part-1-the-modern-recon-stack-how-i-found-what-others-missed-e837e70863c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 February 2026
+
 - **[Guía Avanzada de Curl para Bug Hunting: Técnicas de Reconocimiento y Explotación](https://medium.com/@jpablo13/gu%C3%ADa-avanzada-de-curl-para-bug-hunting-t%C3%A9cnicas-de-reconocimiento-y-explotaci%C3%B3n-4938b3b04372?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 

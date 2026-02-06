@@ -1,3 +1,12 @@
+## 📅 06 February 2026
+
+- **[How I Identified a SQL Injection Vulnerability in an E-Commerce Website](https://medium.com/@ananda.krishnanprofficial/how-i-identified-a-sql-injection-vulnerability-in-an-e-commerce-website-b19aa43777d8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 February 2026
+
+- **[How I Identified a SQL Injection Vulnerability in an E-Commerce Website](https://medium.com/@ananda.krishnanprofficial/how-i-identified-a-sql-injection-vulnerability-in-an-e-commerce-website-b19aa43777d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 February 2026
+
+- **[Keeping OCI Resources Safe in the Age of AI](https://medium.com/@poojashivani/keeping-oci-resources-safe-in-the-age-of-ai-e93a0797c7af?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 February 2026
 
 - **[Your AI Agent Just Tried to Delete Production. Here’s the Open-Source Firewall That Stopped It.](https://medium.com/@sattyamjain96/your-ai-agent-just-tried-to-delete-production-heres-the-open-source-firewall-that-stopped-it-06644a93576b?source=rss------security-5)** _(Medium Security)_

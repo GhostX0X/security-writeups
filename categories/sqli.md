@@ -1,3 +1,9 @@
+## 📅 06 February 2026
+
+- **[How I Identified a SQL Injection Vulnerability in an E-Commerce Website](https://medium.com/@ananda.krishnanprofficial/how-i-identified-a-sql-injection-vulnerability-in-an-e-commerce-website-b19aa43777d8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 February 2026
+
+- **[How I Identified a SQL Injection Vulnerability in an E-Commerce Website](https://medium.com/@ananda.krishnanprofficial/how-i-identified-a-sql-injection-vulnerability-in-an-e-commerce-website-b19aa43777d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 
 - **[CyberNova — Lazarus Phantom DB CTF Write-Up (SQLi → JWT → XOR Decrypt)](https://medium.com/@VulnHunt3r/cybernova-lazarus-phantom-db-ctf-write-up-sqli-jwt-xor-decrypt-a2a78f2463a1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,11 @@
 ## 📅 06 February 2026
 
+- **[From IDOR to Role Escalation: How Small Access Bugs Become Critical](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-idor-to-role-escalation-how-small-access-bugs-become-critical-99b980dd9ccd?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 February 2026
+
+- **[From IDOR to Role Escalation: How Small Access Bugs Become Critical](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-idor-to-role-escalation-how-small-access-bugs-become-critical-99b980dd9ccd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 February 2026
+
 - **[IDOR to Payment Bypass: How a Trusted Payment Callback Issued a Policy Without Paying](https://medium.com/@Xp10it/idor-to-payment-bypass-how-a-trusted-payment-callback-issued-a-policy-without-paying-86a2fef0048b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 

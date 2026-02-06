@@ -1,3 +1,6 @@
+## 📅 06 February 2026
+
+- **[EU’s defence awakening and NATO — military aspects](https://medium.com/ecajournal/eus-defence-awakening-and-nato-military-aspects-c143aaf311a5?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 February 2026
 
 - **[ATO via email verification endpoint leads to unauthorized email binding and password reset](https://0xm0r4d.medium.com/ato-via-email-verification-endpoint-leads-to-unauthorized-email-binding-and-password-reset-32c51484ca76?source=rss------pentesting-5)** _(Medium Pentesting)_
