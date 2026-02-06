@@ -1,3 +1,6 @@
+## 📅 06 February 2026
+
+- **[IDOR to Payment Bypass: How a Trusted Payment Callback Issued a Policy Without Paying](https://medium.com/@Xp10it/idor-to-payment-bypass-how-a-trusted-payment-callback-issued-a-policy-without-paying-86a2fef0048b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 
 - **[Authorization Bugs Beyond IDOR: What Most Hackers Miss](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/authorization-bugs-beyond-idor-what-most-hackers-miss-c1cde8adf51d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
