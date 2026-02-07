@@ -1,3 +1,9 @@
+## 📅 07 February 2026
+
+- **[PHP mail() Command Injection to Remote Code Execution (RCE)](https://nullsecurityx.medium.com/php-mail-command-injection-to-remote-code-execution-rce-b2991e929ca3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 February 2026
+
+- **[Understanding Interceptors in Spring Boot: Building Smarter and More Secure APIs](https://emmanuelngane.medium.com/understanding-interceptors-in-spring-boot-building-smarter-and-more-secure-apis-bd3bbc090af3?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 February 2026
 
 - **[OpenClaw Proved Something…We’re Ready for Autonomous Workforces.](https://hiimsix.medium.com/openclaw-proved-something-were-ready-for-autonomous-workforces-c7a9071c10c5?source=rss------security-5)** _(Medium Security)_

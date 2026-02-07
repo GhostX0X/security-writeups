@@ -1,3 +1,6 @@
+## 📅 07 February 2026
+
+- **[How I Discovered My First IDOR Vulnerability (Step-by-Step)](https://medium.com/@shafiqulsumon007/how-i-discovered-my-first-idor-vulnerability-step-by-step-f0fc0734f980?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 February 2026
 
 - **[From IDOR to Role Escalation: How Small Access Bugs Become Critical](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-idor-to-role-escalation-how-small-access-bugs-become-critical-99b980dd9ccd?source=rss------pentesting-5)** _(Medium Pentesting)_

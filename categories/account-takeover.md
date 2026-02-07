@@ -1,3 +1,6 @@
+## 📅 07 February 2026
+
+- **[Chaining OTP Bypass to Full Account Takeover](https://medium.com/@atharvchawna/chaining-otp-bypass-to-full-account-takeover-67293b48ae28?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
 - **[From Role Escalation to Account Takeover: How Authorization Bugs Lead to Full Compromise](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-role-escalation-to-account-takeover-how-authorization-bugs-lead-to-full-compromise-534a4168489d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
