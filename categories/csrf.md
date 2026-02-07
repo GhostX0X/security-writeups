@@ -1,3 +1,6 @@
+## 📅 06 February 2026
+
+- **[CSRF Protection Done Wrong: Accepting Requests Without Tokens](https://medium.com/@sudoxploit/csrf-protection-done-wrong-accepting-requests-without-tokens-f96708d39090?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 
 - **[Broken CSRF Protection: Bypassing Tokens by Switching from POST to GET](https://medium.com/@sudoxploit/broken-csrf-protection-bypassing-tokens-by-switching-from-post-to-get-d7736921a858?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

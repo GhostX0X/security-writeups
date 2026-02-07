@@ -1,3 +1,6 @@
+## 📅 07 February 2026
+
+- **[Advanced Curl Guide for Bug Hunting: Reconnaissance and Exploitation Techniques](https://medium.com/@jpablo13/advanced-curl-guide-for-bug-hunting-reconnaissance-and-exploitation-techniques-3ed32744a2b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
 - **[Thick Client Pentesting (Part 2): Reconnaissance](https://medium.com/@harishmuthyala2002/thick-client-pentesting-part-2-reconnaissance-c55cc60aa7b8?source=rss------pentesting-5)** _(Medium Pentesting)_
