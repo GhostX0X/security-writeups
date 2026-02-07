@@ -1,5 +1,11 @@
 ## 📅 07 February 2026
 
+- **[Bug Bounty Recon for Everyone](https://medium.com/@batuhanaydinn/bug-bounty-recon-for-everyone-220ae026a42c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 February 2026
+
+- **[How to Turn Recon Notes Into Real Bug Bounty Findings](https://medium.com/@ramanidhaval11/how-to-turn-recon-notes-into-real-bug-bounty-findings-f3742df446de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 February 2026
+
 - **[Advanced Curl Guide for Bug Hunting: Reconnaissance and Exploitation Techniques](https://medium.com/@jpablo13/advanced-curl-guide-for-bug-hunting-reconnaissance-and-exploitation-techniques-3ed32744a2b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
