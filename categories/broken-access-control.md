@@ -1,3 +1,6 @@
+## 📅 07 February 2026
+
+- **[403 Isn’t the End: Understanding Access Control Failures in Web Applications](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/403-isnt-the-end-understanding-access-control-failures-in-web-applications-dab64f79bdcb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
 - **[Here’s how I discovered a high-severity broken access control vulnerability (BAC-1)](https://medium.com/@Br0k3n_1337/heres-how-i-discovered-a-high-severity-broken-access-control-vulnerability-bac-1-27c0e3e821f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 07 February 2026
 
+- **[Bug Bounty Recon Shortcut: 3 Filters That Surface High-Value Credentials Fast](https://medium.com/@alexandrevandammepro/bug-bounty-recon-shortcut-3-filters-that-surface-high-value-credentials-fast-d5810e7f6106?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 February 2026
+
 - **[Bug Bounty Recon for Everyone](https://medium.com/@batuhanaydinn/bug-bounty-recon-for-everyone-220ae026a42c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 February 2026
 
