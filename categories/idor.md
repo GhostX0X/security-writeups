@@ -1,3 +1,9 @@
+## 📅 08 February 2026
+
+- **[Pentester Bytes: IDOR Basics & Pentesting Methodology](https://medium.com/@shivam_bathla/all-about-idors-basics-pentesting-methodology-fbdc73fd736d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 February 2026
+
+- **[Pentester Bytes: IDOR Basics & Pentesting Methodology](https://medium.com/@shivam_bathla/all-about-idors-basics-pentesting-methodology-fbdc73fd736d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 February 2026
 
 - **[How I Discovered My First IDOR Vulnerability (Step-by-Step)](https://medium.com/@shafiqulsumon007/how-i-discovered-my-first-idor-vulnerability-step-by-step-f0fc0734f980?source=rss------security-5)** _(Medium Security)_
