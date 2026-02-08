@@ -1,5 +1,8 @@
 ## 📅 07 February 2026
 
+- **[Multiple Vertical Broken Access Control Issues via Admin Functionality Leakage from Test…](https://medium.com/@mhmodgm54/multiple-vertical-broken-access-control-issues-via-admin-functionality-leakage-from-test-f714f48040a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 February 2026
+
 - **[403 Isn’t the End: Understanding Access Control Failures in Web Applications](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/403-isnt-the-end-understanding-access-control-failures-in-web-applications-dab64f79bdcb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
