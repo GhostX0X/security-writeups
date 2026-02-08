@@ -1,3 +1,6 @@
+## 📅 08 February 2026
+
+- **[XSS leads to Infrastructure Compromise](https://osintteam.blog/xss-leads-to-infrastructure-compromise-396945a701c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
 - **[Stored XSS Bypass using unicode encoding in template builder via Button and Social media links](https://medium.com/@simoxsimo94x/stored-xss-bypass-using-unicode-encoding-in-template-builder-via-button-and-social-media-links-73c4bc8ea4ef?source=rss------pentesting-5)** _(Medium Pentesting)_
