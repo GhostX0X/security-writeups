@@ -1,3 +1,6 @@
+## 📅 09 February 2026
+
+- **[How I Found an OOB Heap Write in V8's Atomics Implementation](https://medium.com/@medsalemeddah/how-i-found-an-oob-heap-write-in-v8s-atomics-implementation-1bba5d327998?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 February 2026
 
 - **[Chaining OTP Bypass to Full Account Takeover](https://medium.com/@atharvchawna/chaining-otp-bypass-to-full-account-takeover-67293b48ae28?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,6 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-02-09 06:54:39.656380 UTC
+Last updated: 2026-02-09 12:43:32.297008 UTC
 
-- oauth: 1
-- idor: 3
+- broken-access-control: 1
+- recon: 1
+- account-takeover: 1
+- idor: 2

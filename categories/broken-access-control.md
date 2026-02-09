@@ -1,3 +1,6 @@
+## 📅 09 February 2026
+
+- **[Automatic Hydraulic Bollards — Smart & Secure Access Control Solutions](https://medium.com/@etradefia1/automatic-hydraulic-bollards-smart-secure-access-control-solutions-01e9735879a7?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 February 2026
 
 - **[Multiple Vertical Broken Access Control Issues via Admin Functionality Leakage from Test…](https://medium.com/@mhmodgm54/multiple-vertical-broken-access-control-issues-via-admin-functionality-leakage-from-test-f714f48040a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
