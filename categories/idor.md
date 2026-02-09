@@ -1,3 +1,6 @@
+## 📅 09 February 2026
+
+- **[Firefox Containers for IDOR & BAC Testing](https://medium.com/legionhunters/firefox-containers-for-idor-bac-testing-1b852095f190?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 February 2026
 
 - **[Pentester Bytes: IDOR Basics & Pentesting Methodology](https://medium.com/@shivam_bathla/all-about-idors-basics-pentesting-methodology-fbdc73fd736d?source=rss------pentesting-5)** _(Medium Pentesting)_

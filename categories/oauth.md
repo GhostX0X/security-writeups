@@ -1,3 +1,6 @@
+## 📅 09 February 2026
+
+- **[OAuth Token Abuse vs Session Hijacking: Same Outcome, Different Paths](https://ankisinha.medium.com/oauth-token-abuse-vs-session-hijacking-same-outcome-different-paths-8f83d7e0c110?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 February 2026
 
 - **[OAuth Consent Phishing: When MFA and Password Resets Don’t Matter](https://ankisinha.medium.com/oauth-consent-phishing-when-mfa-and-password-resets-dont-matter-23d622ab36fc?source=rss------security-5)** _(Medium Security)_
