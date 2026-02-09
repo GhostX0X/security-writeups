@@ -1,5 +1,11 @@
 ## 📅 09 February 2026
 
+- **[DeepVex: A Modern Web Reconnaissance Tool Built for Real-World Security Testing](https://medium.com/@medjahdii/deepvex-a-modern-web-reconnaissance-tool-built-for-real-world-security-testing-05ce48955117?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 February 2026
+
+- **[Ethical Hacking Lab: From Recon to Shell Access (Step-by-Step Beginner Walkthrough)](https://medium.com/@shafiqulsumon007/ethical-hacking-lab-from-recon-to-shell-access-step-by-step-beginner-walkthrough-faf3e566cbda?source=rss------security-5)** _(Medium Security)_
+## 📅 09 February 2026
+
 - **[Part : The Modern Recon Stack - Unlocking the “Last 10%”: A Deep Dive into Cloud Recon](https://medium.com/@gopikrishna0295/part-the-modern-recon-stack-unlocking-the-last-10-a-deep-dive-into-cloud-recon-3bb584883d19?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 February 2026
 

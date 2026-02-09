@@ -1,5 +1,8 @@
 ## 📅 09 February 2026
 
+- **[الاستيلاء على الحساب من خلال إدارة دورة حياة OAuth غير السليمة](https://medium.com/@montaser_mohsen/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AF%D9%88%D8%B1%D8%A9-%D8%AD%D9%8A%D8%A7%D8%A9-oauth-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A9-452bb0cd8cff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 February 2026
+
 - **[OAuth Token Abuse vs Session Hijacking: Same Outcome, Different Paths](https://ankisinha.medium.com/oauth-token-abuse-vs-session-hijacking-same-outcome-different-paths-8f83d7e0c110?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 February 2026
 
