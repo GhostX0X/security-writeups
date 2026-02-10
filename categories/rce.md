@@ -1,5 +1,8 @@
 ## 📅 10 February 2026
 
+- **[HackerDNA — Secrets in Source Write-Up | Client-Side Information Disclosure](https://medium.com/@madaminovrahmatilloh1/hackerdna-secrets-in-source-write-up-client-side-information-disclosure-82369fa4af6d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 February 2026
+
 - **[The Zombie SSH: How I Forced a Modern Server into a “Logjam” (And Why It Was Marked N/A)](https://systemweakness.com/the-zombie-ssh-how-i-forced-a-modern-server-into-a-logjam-and-why-it-was-marked-n-a-d6c22cbd9a93?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 February 2026
 

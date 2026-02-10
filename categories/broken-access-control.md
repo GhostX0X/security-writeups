@@ -1,5 +1,11 @@
 ## 📅 10 February 2026
 
+- **[How little things matter: Broken Access Control leading to user promoting to Admin](https://medium.com/@sdelesil/how-little-things-matter-broken-access-control-leading-to-user-promoting-to-admin-8b3ff652a6cb?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 February 2026
+
+- **[Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data](https://infosecwriteups.com/breaking-the-paywall-how-a-simple-access-control-flaw-exposed-premium-hiring-data-013a5605646c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 February 2026
+
 - **[AI-Based Vehicle Monitoring and the Rising Need for Strong Access Control in 2026](https://spotem.medium.com/ai-based-vehicle-monitoring-and-the-rising-need-for-strong-access-control-in-2026-715def039de7?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 February 2026
 
