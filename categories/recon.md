@@ -1,3 +1,6 @@
+## 📅 10 February 2026
+
+- **[Easy 1000$ Bounty | Exposed Internal Tool Found During Shodan Recon](https://anupamas02.medium.com/exposed-internal-tool-found-during-shodan-recon-a58a54110ee3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 February 2026
 
 - **[DeepVex: A Modern Web Reconnaissance Tool Built for Real-World Security Testing](https://medium.com/@medjahdii/deepvex-a-modern-web-reconnaissance-tool-built-for-real-world-security-testing-05ce48955117?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 09 February 2026
 
+- **[How I Pulled Off a Zero-Click Account Takeover on a $150M Website](https://hexaphp.medium.com/how-i-pulled-off-a-zero-click-account-takeover-on-a-150m-website-5a15b69f3dd1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 February 2026
+
 - **[How I Found an OOB Heap Write in V8's Atomics Implementation](https://medium.com/@medsalemeddah/how-i-found-an-oob-heap-write-in-v8s-atomics-implementation-1bba5d327998?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 February 2026
 

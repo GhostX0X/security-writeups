@@ -1,3 +1,9 @@
+## 📅 10 February 2026
+
+- **[How I Found SQL Injection on Honda](https://mujtabasec.medium.com/how-i-found-sql-injection-on-honda-963ab5fbf7e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 February 2026
+
+- **[XPATH Error Based SQL Injection](https://medium.com/@webcipher101/xpath-error-based-sql-injection-fbfab1c10049?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
 - **[How I Identified a SQL Injection Vulnerability in an E-Commerce Website](https://medium.com/@ananda.krishnanprofficial/how-i-identified-a-sql-injection-vulnerability-in-an-e-commerce-website-b19aa43777d8?source=rss------pentesting-5)** _(Medium Pentesting)_

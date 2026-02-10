@@ -1,3 +1,6 @@
+## 📅 10 February 2026
+
+- **[AI-Based Vehicle Monitoring and the Rising Need for Strong Access Control in 2026](https://spotem.medium.com/ai-based-vehicle-monitoring-and-the-rising-need-for-strong-access-control-in-2026-715def039de7?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 February 2026
 
 - **[Automatic Hydraulic Bollards — Smart & Secure Access Control Solutions](https://medium.com/@etradefia1/automatic-hydraulic-bollards-smart-secure-access-control-solutions-01e9735879a7?source=rss------security-5)** _(Medium Security)_
