@@ -1,3 +1,6 @@
+## 📅 10 February 2026
+
+- **[Mobile 2026: O Preço da Compatibilidade e o Fator Humano na Segurança](https://micheltlutz.medium.com/mobile-2026-o-pre%C3%A7o-da-compatibilidade-e-o-fator-humano-na-seguran%C3%A7a-a0bd59db06a7?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 February 2026
 
 - **[How I Pulled Off a Zero-Click Account Takeover on a $150M Website](https://hexaphp.medium.com/how-i-pulled-off-a-zero-click-account-takeover-on-a-150m-website-5a15b69f3dd1?source=rss------pentesting-5)** _(Medium Pentesting)_
