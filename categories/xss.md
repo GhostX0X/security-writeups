@@ -1,5 +1,8 @@
 ## 📅 11 February 2026
 
+- **[I Asked ChatGPT to Bypass an XSS Filter — Here’s What Happened](https://medium.com/@ibrahim936356/i-asked-chatgpt-to-bypass-an-xss-filter-heres-what-happened-ed2244e24e1f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 February 2026
+
 - **[⚔️ XSStrike: Powerful Tool, Weak Results (If You Don’t Think First)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-xsstrike-powerful-tool-weak-results-if-you-dont-think-first-19630ed8c3a1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 February 2026
 

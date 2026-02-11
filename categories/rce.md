@@ -1,3 +1,6 @@
+## 📅 11 February 2026
+
+- **[HackerDNA — Secrets in Source 2 Write-Up | Client-Side Obfuscation and Hidden Secrets](https://medium.com/@madaminovrahmatilloh1/hackerdna-secrets-in-source-2-write-up-client-side-obfuscation-and-hidden-secrets-198f6672bf1e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 10 February 2026
 
 - **[HackerDNA — Secrets in Source Write-Up | Client-Side Information Disclosure](https://medium.com/@madaminovrahmatilloh1/hackerdna-secrets-in-source-write-up-client-side-information-disclosure-82369fa4af6d?source=rss------pentesting-5)** _(Medium Pentesting)_
