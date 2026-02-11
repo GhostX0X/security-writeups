@@ -1,3 +1,6 @@
+## 📅 11 February 2026
+
+- **[⚔️ XSStrike: Powerful Tool, Weak Results (If You Don’t Think First)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-xsstrike-powerful-tool-weak-results-if-you-dont-think-first-19630ed8c3a1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 February 2026
 
 - **[XSS leads to Infrastructure Compromise](https://osintteam.blog/xss-leads-to-infrastructure-compromise-396945a701c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
