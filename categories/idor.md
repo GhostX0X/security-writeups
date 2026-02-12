@@ -1,3 +1,6 @@
+## 📅 12 February 2026
+
+- **[WebSocket Penetration Testing: How to Test for WebSocket Hijacking, IDOR, Injection & More](https://medium.com/@exploitersorigin/ws-strike-a-burp-suite-extension-for-websocket-penetration-testing-b2fe9676da07?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 February 2026
 
 - **[Firefox Containers for IDOR & BAC Testing](https://medium.com/legionhunters/firefox-containers-for-idor-bac-testing-1b852095f190?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

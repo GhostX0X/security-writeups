@@ -1,3 +1,6 @@
+## 📅 12 February 2026
+
+- **[How I found an XSS in a Logbook System(Inline Code)](https://mohamedalgabry.medium.com/how-i-found-an-xss-in-a-logbook-system-inline-code-c0390857d2b2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 February 2026
 
 - **[I Asked ChatGPT to Bypass an XSS Filter — Here’s What Happened](https://medium.com/@ibrahim936356/i-asked-chatgpt-to-bypass-an-xss-filter-heres-what-happened-ed2244e24e1f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
