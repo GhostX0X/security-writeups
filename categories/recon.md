@@ -1,3 +1,6 @@
+## 📅 12 February 2026
+
+- **[Part 3: The Modern Recon Stack — The automation script](https://medium.com/@gopikrishna0295/part-3-the-modern-recon-stack-the-automation-script-6aacbba06916?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 February 2026
 
 - **[From Recon to DNS Callbacks: Discovering an MSSQL Out-of-Band SQL Injection in a Bug Bounty Program](https://nullsecurityx.medium.com/from-recon-to-dns-callbacks-discovering-an-mssql-out-of-band-sql-injection-in-a-bug-bounty-program-53e214e34f55?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

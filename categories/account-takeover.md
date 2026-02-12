@@ -1,3 +1,6 @@
+## 📅 12 February 2026
+
+- **[How I Found My First Account Takeover Vulnerability](https://sudohunt.medium.com/how-i-found-my-first-account-takeover-vulnerability-386af5e45bc3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 February 2026
 
 - **[Mobile 2026: O Preço da Compatibilidade e o Fator Humano na Segurança](https://micheltlutz.medium.com/mobile-2026-o-pre%C3%A7o-da-compatibilidade-e-o-fator-humano-na-seguran%C3%A7a-a0bd59db06a7?source=rss------security-5)** _(Medium Security)_
