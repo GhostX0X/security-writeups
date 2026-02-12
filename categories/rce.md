@@ -1,5 +1,8 @@
 ## 📅 11 February 2026
 
+- **[From YAML to RCE: The PyYAML Deserialization Story](https://0d-amr.medium.com/from-yaml-to-rce-the-pyyaml-deserialization-story-4a7d1dfe4f43?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 February 2026
+
 - **[HackerDNA — Secrets in Source 2 Write-Up | Client-Side Obfuscation and Hidden Secrets](https://medium.com/@madaminovrahmatilloh1/hackerdna-secrets-in-source-2-write-up-client-side-obfuscation-and-hidden-secrets-198f6672bf1e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 10 February 2026
 

@@ -1,5 +1,11 @@
 ## 📅 11 February 2026
 
+- **[Tüm Hatlarıyla SSRF Zafiyeti](https://zekikayaalp.medium.com/t%C3%BCm-hatlar%C4%B1yla-ssrf-zafiyeti-c33009e8ce47?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 February 2026
+
+- **[Tüm Hatlarıyla SSRF Zafiyeti](https://zekikayaalp.medium.com/t%C3%BCm-hatlar%C4%B1yla-ssrf-zafiyeti-c33009e8ce47?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 February 2026
+
 - **[Server-Side Request Forgery (SSRF) | Complete Guide](https://medium.com/@amrsmooke321/server-side-request-forgery-ssrf-complete-guide-f8f1f81ae3b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 February 2026
 
