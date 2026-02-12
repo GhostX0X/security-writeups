@@ -1,5 +1,11 @@
 ## 📅 12 February 2026
 
+- **[The Logic Flaw That Leads to Total Control: Mastering Account Takeovers in 2026](https://infosecwriteups.com/the-logic-flaw-that-leads-to-total-control-mastering-account-takeovers-in-2026-aecef6d30bd9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 February 2026
+
+- **[Thermal vs. Night Vision Scopes: What Every Predator Hunter Should Know](https://medium.com/@nightvisionpvs14/thermal-vs-night-vision-scopes-what-every-predator-hunter-should-know-ebd811ed3041?source=rss------security-5)** _(Medium Security)_
+## 📅 12 February 2026
+
 - **[How I Found My First Account Takeover Vulnerability](https://sudohunt.medium.com/how-i-found-my-first-account-takeover-vulnerability-386af5e45bc3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 February 2026
 

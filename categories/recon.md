@@ -1,5 +1,8 @@
 ## 📅 12 February 2026
 
+- **[Top 10 Pentest Reconnaissance Tools](https://medium.com/@priyanka.aash/top-10-pentest-reconnaissance-tools-eb02ca959803?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 February 2026
+
 - **[Part 3: The Modern Recon Stack — The automation script](https://medium.com/@gopikrishna0295/part-3-the-modern-recon-stack-the-automation-script-6aacbba06916?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 February 2026
 
