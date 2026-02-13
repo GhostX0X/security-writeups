@@ -1,5 +1,8 @@
 ## 📅 12 February 2026
 
+- **[AWS S3 Bucket Recon Bugbounty](https://medium.com/@mr.robot.hackteam1/aws-s3-bucket-recon-bugbounty-be15c0c73c68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 February 2026
+
 - **[Top 10 Pentest Reconnaissance Tools](https://medium.com/@priyanka.aash/top-10-pentest-reconnaissance-tools-eb02ca959803?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 February 2026
 
