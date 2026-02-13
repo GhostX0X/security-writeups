@@ -1,3 +1,9 @@
+## 📅 13 February 2026
+
+- **[Pentester Bytes: API Pentesting Methodology — Lack of Resources and Rate Limiting](https://medium.com/@shivam_bathla/pentester-bytes-api-pentesting-methodology-lack-of-resources-and-rate-limiting-a7cbfd91ce1e?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 13 February 2026
+
+- **[Pentester Bytes: API Pentesting Methodology — Lack of Resources and Rate Limiting](https://medium.com/@shivam_bathla/pentester-bytes-api-pentesting-methodology-lack-of-resources-and-rate-limiting-a7cbfd91ce1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 
 - **[A Phala firma parceria com a Z.AI para levar o GLM-5 à produção.](https://medium.com/@phalaportugues/a-phala-firma-parceria-com-a-z-ai-para-levar-o-glm-5-%C3%A0-produ%C3%A7%C3%A3o-213910fe9518?source=rss------security-5)** _(Medium Security)_

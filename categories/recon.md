@@ -1,5 +1,8 @@
 ## 📅 13 February 2026
 
+- **[From Deep Recon to Account Takeover: How Burp Suite Uncovered a Hidden “Legacy” Page](https://medium.com/@belalshohaip222/from-deep-recon-to-account-takeover-how-burp-suite-uncovered-a-hidden-legacy-page-c060d1de9b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 February 2026
+
 - **[Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs](https://osintteam.blog/top-10-recon-mistakes-that-make-hackers-miss-easy-bugs-7618c8ae1e88?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 

@@ -1,3 +1,6 @@
+## 📅 13 February 2026
+
+- **[From Deep Recon to Account Takeover: How Burp Suite Uncovered a Hidden “Legacy” Page](https://medium.com/@belalshohaip222/from-deep-recon-to-account-takeover-how-burp-suite-uncovered-a-hidden-legacy-page-c060d1de9b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 
 - **[The Logic Flaw That Leads to Total Control: Mastering Account Takeovers in 2026](https://infosecwriteups.com/the-logic-flaw-that-leads-to-total-control-mastering-account-takeovers-in-2026-aecef6d30bd9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
