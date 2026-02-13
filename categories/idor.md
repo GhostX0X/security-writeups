@@ -1,5 +1,8 @@
 ## 📅 13 February 2026
 
+- **[IDOR to Content Spoofing: Hijacking Brand Trust via a Simple UUID Swap](https://medium.com/@Ahm3dX_/idor-to-content-spoofing-hijacking-brand-trust-via-a-simple-uuid-swap-f9c10d046c5e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 February 2026
+
 - **[$1000 Bounty for Chaining 2 IDOR’s & WAF Bypass to Expose Full Event Database](https://medium.com/@DarkyOS/1000-bounty-for-chaining-2-idors-waf-bypass-to-expose-full-event-database-602a577a71cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 

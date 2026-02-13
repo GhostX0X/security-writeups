@@ -1,3 +1,9 @@
+## 📅 13 February 2026
+
+- **[How I Approach XSS Hunting as a Security Beginner](https://medium.com/@narmadha484/how-i-approach-xss-hunting-as-a-security-beginner-bbba9f3c4ca1?source=rss------security-5)** _(Medium Security)_
+## 📅 13 February 2026
+
+- **[Web App Hacking Lab: Finding and Exploiting XSS (Step-by-Step Beginner Guide)](https://medium.com/@shafiqulsumon007/web-app-hacking-lab-finding-and-exploiting-xss-step-by-step-beginner-guide-bf18c78a2b48?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 February 2026
 
 - **[How I found an XSS in a Logbook System(Inline Code)](https://mohamedalgabry.medium.com/how-i-found-an-xss-in-a-logbook-system-inline-code-c0390857d2b2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

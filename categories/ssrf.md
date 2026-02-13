@@ -1,3 +1,6 @@
+## 📅 13 February 2026
+
+- **[Deep Dive into SSRF Exploitation: Why Internal Networks Are No Longer Safe](https://medium.com/@r3dbrothers1/deep-dive-into-ssrf-exploitation-why-internal-networks-are-no-longer-safe-d6a5a11b9f27?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 February 2026
 
 - **[Tüm Hatlarıyla SSRF Zafiyeti](https://zekikayaalp.medium.com/t%C3%BCm-hatlar%C4%B1yla-ssrf-zafiyeti-c33009e8ce47?source=rss------pentesting-5)** _(Medium Pentesting)_

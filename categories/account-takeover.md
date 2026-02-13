@@ -1,5 +1,8 @@
 ## 📅 13 February 2026
 
+- **[America’s NATO Deal Was Simple: You Don’t Rearm, We Run the Show. Now They Want Both.](https://medium.com/@societive/americas-nato-deal-was-simple-you-don-t-rearm-we-run-the-show-now-they-want-both-d494166835ac?source=rss------security-5)** _(Medium Security)_
+## 📅 13 February 2026
+
 - **[From Deep Recon to Account Takeover: How Burp Suite Uncovered a Hidden “Legacy” Page](https://medium.com/@belalshohaip222/from-deep-recon-to-account-takeover-how-burp-suite-uncovered-a-hidden-legacy-page-c060d1de9b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 
