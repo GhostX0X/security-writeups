@@ -1,3 +1,6 @@
+## 📅 13 February 2026
+
+- **[$1000 Bounty for Chaining 2 IDOR’s & WAF Bypass to Expose Full Event Database](https://medium.com/@DarkyOS/1000-bounty-for-chaining-2-idors-waf-bypass-to-expose-full-event-database-602a577a71cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 
 - **[WebSocket Penetration Testing: How to Test for WebSocket Hijacking, IDOR, Injection & More](https://medium.com/@exploitersorigin/ws-strike-a-burp-suite-extension-for-websocket-penetration-testing-b2fe9676da07?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

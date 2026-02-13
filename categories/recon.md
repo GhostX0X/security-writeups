@@ -1,3 +1,6 @@
+## 📅 13 February 2026
+
+- **[Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs](https://osintteam.blog/top-10-recon-mistakes-that-make-hackers-miss-easy-bugs-7618c8ae1e88?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 February 2026
 
 - **[AWS S3 Bucket Recon Bugbounty](https://medium.com/@mr.robot.hackteam1/aws-s3-bucket-recon-bugbounty-be15c0c73c68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

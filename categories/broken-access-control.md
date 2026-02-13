@@ -1,3 +1,6 @@
+## 📅 13 February 2026
+
+- **[Breaking Role Barriers: Exploiting Broken Access Control in CriticalOps — HTB Walkthrough](https://osintteam.blog/breaking-role-barriers-exploiting-broken-access-control-in-criticalops-htb-walkthrough-cb81d3aef820?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 February 2026
 
 - **[How little things matter: Broken Access Control leading to user promoting to Admin](https://medium.com/@sdelesil/how-little-things-matter-broken-access-control-leading-to-user-promoting-to-admin-8b3ff652a6cb?source=rss------pentesting-5)** _(Medium Pentesting)_
