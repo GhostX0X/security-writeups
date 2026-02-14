@@ -1,3 +1,9 @@
+## 📅 14 February 2026
+
+- **[Intercepting Mobile Apps Traffic Using Burp and Ngrok](https://hackerassociate.medium.com/intercepting-mobile-apps-traffic-using-burp-and-ngrok-17e31f674721?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 February 2026
+
+- **[Intercepting Mobile Apps Traffic Using Burp and Ngrok](https://hackerassociate.medium.com/intercepting-mobile-apps-traffic-using-burp-and-ngrok-17e31f674721?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 February 2026
 
 - **[Pentester Bytes: API Pentesting Methodology — Lack of Resources and Rate Limiting](https://medium.com/@shivam_bathla/pentester-bytes-api-pentesting-methodology-lack-of-resources-and-rate-limiting-a7cbfd91ce1e?source=rss------pentesting-5)** _(Medium Pentesting)_
