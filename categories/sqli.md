@@ -1,3 +1,6 @@
+## 📅 14 February 2026
+
+- **[Manual SQL Injection to Admin Takeover | SQLite Exploitation, Hash Cracking & Cookie Manipulation](https://nullsecurityx.medium.com/manual-sql-injection-to-admin-takeover-sqlite-exploitation-hash-cracking-cookie-manipulation-7ac0751db2ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 February 2026
 
 - **[SQL Injection Explained from Scratch (Beginner to Advanced)](https://medium.com/@anshkamra00/sql-injection-explained-from-scratch-beginner-to-advanced-22a3911de1b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

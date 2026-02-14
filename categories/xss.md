@@ -1,3 +1,6 @@
+## 📅 14 February 2026
+
+- **[How I Found a Reflected XSS in 5 Minutes by Hunting Smart, Not Hard](https://medium.com/@birbhansingh789/how-i-found-a-reflected-xss-in-5-minutes-by-hunting-smart-not-hard-27231b7cabd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 February 2026
 
 - **[How I Approach XSS Hunting as a Security Beginner](https://medium.com/@narmadha484/how-i-approach-xss-hunting-as-a-security-beginner-bbba9f3c4ca1?source=rss------security-5)** _(Medium Security)_
