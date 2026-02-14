@@ -1,7 +1,5 @@
 # 📊 Status
 
-Last updated: 2026-02-14 06:32:50.862677 UTC
+Last updated: 2026-02-14 12:26:16.915373 UTC
 
 - rce: 2
-- sqli: 1
-- ssrf: 1
