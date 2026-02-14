@@ -1,3 +1,6 @@
+## 📅 13 February 2026
+
+- **[SQL Injection Explained from Scratch (Beginner to Advanced)](https://medium.com/@anshkamra00/sql-injection-explained-from-scratch-beginner-to-advanced-22a3911de1b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 February 2026
 
 - **[The DC-9 Breach: From SQL Injection to Root Authority](https://medium.com/@gopikasureshsg/the-dc-9-breach-from-sql-injection-to-root-authority-a7de58064bfe?source=rss------pentesting-5)** _(Medium Pentesting)_
