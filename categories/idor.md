@@ -1,3 +1,6 @@
+## 📅 14 February 2026
+
+- **[Account Takeover via IDOR in Password Change Functionality](https://medium.com/@abhisheksec/account-takeover-via-idor-in-password-change-functionality-199d6edd648d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 February 2026
 
 - **[IDOR to Content Spoofing: Hijacking Brand Trust via a Simple UUID Swap](https://medium.com/@Ahm3dX_/idor-to-content-spoofing-hijacking-brand-trust-via-a-simple-uuid-swap-f9c10d046c5e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

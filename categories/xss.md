@@ -1,5 +1,8 @@
 ## 📅 14 February 2026
 
+- **[XSS WAF Bypass: 3 Tricks to Beat Alert Blockers](https://medium.com/@cybersecplayground/xss-waf-bypass-3-tricks-to-beat-alert-blockers-b7552dcde45b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 February 2026
+
 - **[How I Found a Reflected XSS in 5 Minutes by Hunting Smart, Not Hard](https://medium.com/@birbhansingh789/how-i-found-a-reflected-xss-in-5-minutes-by-hunting-smart-not-hard-27231b7cabd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 February 2026
 
