@@ -1,5 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-02-16 06:52:25.185598 UTC
+Last updated: 2026-02-16 12:39:01.301771 UTC
 
-- account-takeover: 1
+- broken-access-control: 1
+- recon: 1

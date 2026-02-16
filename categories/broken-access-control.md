@@ -1,3 +1,6 @@
+## 📅 16 February 2026
+
+- **[Spike Barrier: Advanced Vehicle Access Control for Secure Premises](https://medium.com/@etradefia1/spike-barrier-advanced-vehicle-access-control-for-secure-premises-802e0fca54bf?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 February 2026
 
 - **[Breaking Role Barriers: Exploiting Broken Access Control in CriticalOps — HTB Walkthrough](https://osintteam.blog/breaking-role-barriers-exploiting-broken-access-control-in-criticalops-htb-walkthrough-cb81d3aef820?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

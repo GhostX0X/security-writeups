@@ -1,3 +1,6 @@
+## 📅 16 February 2026
+
+- **[AI Recon Automation Stack: 12 Tools You Must Use to Supercharge Your Recon Game](https://medium.com/@verylazytech/ai-recon-automation-stack-12-tools-you-must-use-to-supercharge-your-recon-game-e7a72ab64e0d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 February 2026
 
 - **[From Deep Recon to Account Takeover: How Burp Suite Uncovered a Hidden “Legacy” Page](https://medium.com/@belalshohaip222/from-deep-recon-to-account-takeover-how-burp-suite-uncovered-a-hidden-legacy-page-c060d1de9b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
