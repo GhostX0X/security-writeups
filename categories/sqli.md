@@ -1,3 +1,6 @@
+## 📅 16 February 2026
+
+- **[Stop Trusting req.body: How I Broke an Express + MongoDB App with NoSQL Injection](https://infosecwriteups.com/stop-trusting-req-body-how-i-broke-an-express-mongodb-app-with-nosql-injection-ba92208ebe53?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 February 2026
 
 - **[Manual SQL Injection to Admin Takeover | SQLite Exploitation, Hash Cracking & Cookie Manipulation](https://nullsecurityx.medium.com/manual-sql-injection-to-admin-takeover-sqlite-exploitation-hash-cracking-cookie-manipulation-7ac0751db2ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

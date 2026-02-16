@@ -1,6 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-02-16 12:39:01.301771 UTC
+Last updated: 2026-02-16 18:30:12.432255 UTC
 
-- broken-access-control: 1
+- sqli: 1
 - recon: 1
