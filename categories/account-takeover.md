@@ -1,3 +1,6 @@
+## 📅 15 February 2026
+
+- **[My First Bug Bounty: A Simple OTP Flaw That Led to Account Takeover](https://medium.com/@montaser_mohsen/my-first-bug-bounty-a-simple-otp-flaw-that-led-to-account-takeover-7c6a73d3dce7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 February 2026
 
 - **[Account Takeover via IDOR in Password Change Functionality](https://medium.com/@abhisheksec/account-takeover-via-idor-in-password-change-functionality-199d6edd648d?source=rss------pentesting-5)** _(Medium Pentesting)_
