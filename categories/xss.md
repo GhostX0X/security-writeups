@@ -1,3 +1,9 @@
+## 📅 17 February 2026
+
+- **[Cookie Tossing : Escalating Low impact XSS into Criticals](https://medium.com/@TheCzar/cookie-tossing-escalating-low-impact-xss-into-criticals-e29a0a668a74?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 February 2026
+
+- **[Cookie Tossing : Escalating Low impact XSS into Criticals](https://medium.com/@TheCzar/cookie-tossing-escalating-low-impact-xss-into-criticals-e29a0a668a74?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 February 2026
 
 - **[XSS WAF Bypass: 3 Tricks to Beat Alert Blockers](https://medium.com/@cybersecplayground/xss-waf-bypass-3-tricks-to-beat-alert-blockers-b7552dcde45b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

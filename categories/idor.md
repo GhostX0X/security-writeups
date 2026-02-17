@@ -1,3 +1,6 @@
+## 📅 17 February 2026
+
+- **[IDOR Vulnerabilities Explained: A Researcher’s Guide to Authorization Flaws](https://medium.com/@ud4y25/idor-vulnerabilities-explained-a-researchers-guide-to-authorization-flaws-82030def0e28?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 February 2026
 
 - **[IDOR Vulnerability in Staff Management Endpoint — Arbitrary Deletion of Staff Members — 500$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-staff-management-endpoint-arbitrary-deletion-of-staff-members-500-aff5c84de2ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
