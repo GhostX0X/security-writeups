@@ -1,3 +1,6 @@
+## 📅 16 February 2026
+
+- **[Shadow Operators: How Private Security Firms Navigate the Grey Zone of Modern Warfare](https://medium.com/@jonas.riosesq/shadow-operators-how-private-security-firms-navigate-the-grey-zone-of-modern-warfare-853b18062d3c?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 February 2026
 
 - **[My First Bug Bounty: A Simple OTP Flaw That Led to Account Takeover](https://medium.com/@montaser_mohsen/my-first-bug-bounty-a-simple-otp-flaw-that-led-to-account-takeover-7c6a73d3dce7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
