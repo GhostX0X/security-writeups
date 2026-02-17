@@ -1,3 +1,9 @@
+## 📅 17 February 2026
+
+- **[Light (TryHackMe) — Breaking a Filtered SQLite Login with Structured SQL Injection](https://meetcyber.net/light-tryhackme-breaking-a-filtered-sqlite-login-with-structured-sql-injection-3334af82503a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 February 2026
+
+- **[SQL Injection in 2026? Yes. And It Took One Apostrophe.](https://udayshelke17-40981.medium.com/sql-injection-in-2026-yes-and-it-took-one-apostrophe-39fed99c4ce3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 February 2026
 
 - **[Stop Trusting req.body: How I Broke an Express + MongoDB App with NoSQL Injection](https://infosecwriteups.com/stop-trusting-req-body-how-i-broke-an-express-mongodb-app-with-nosql-injection-ba92208ebe53?source=rss------security-5)** _(Medium Security)_

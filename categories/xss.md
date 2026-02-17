@@ -1,5 +1,8 @@
 ## 📅 17 February 2026
 
+- **[Cross-Site Scripting (XSS) — Part 2: Stored, DOM-Based, and Blind XSS](https://medium.com/@may.hack/cross-site-scripting-xss-part-2-stored-dom-based-and-blind-xss-ee96e59e01b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 February 2026
+
 - **[Cross-Site Scripting (XSS)](https://songulkizilay.medium.com/cross-site-scripting-xss-3e1ef0d5d958?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 February 2026
 
