@@ -1,5 +1,14 @@
 ## 📅 17 February 2026
 
+- **[Cross-Site Scripting (XSS)](https://songulkizilay.medium.com/cross-site-scripting-xss-3e1ef0d5d958?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 February 2026
+
+- **[From Learning to Splitting “alert”: My Accidental Self-XSS Story](https://medium.com/@harshavardhanreddy1715/from-learning-to-splitting-alert-my-accidental-self-xss-story-562a4462c3d0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 February 2026
+
+- **[React Can’t Save You: How SSR Bypasses Your XSS Filters](https://medium.com/frontend-simplified/react-cant-save-you-how-ssr-bypasses-your-xss-filters-7e20637d88cc?source=rss------security-5)** _(Medium Security)_
+## 📅 17 February 2026
+
 - **[Cookie Tossing : Escalating Low impact XSS into Criticals](https://medium.com/@TheCzar/cookie-tossing-escalating-low-impact-xss-into-criticals-e29a0a668a74?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 February 2026
 

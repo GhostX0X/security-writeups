@@ -1,3 +1,6 @@
+## 📅 17 February 2026
+
+- **[Inside target.com: Mapping a Hardened WordPress REST API for Bug Bounty Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/inside-target-com-mapping-a-hardened-wordpress-rest-api-for-bug-bounty-recon-eafb6ee811ca?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 February 2026
 
 - **[AI Recon Automation Stack: 12 Tools You Must Use to Supercharge Your Recon Game](https://medium.com/@verylazytech/ai-recon-automation-stack-12-tools-you-must-use-to-supercharge-your-recon-game-e7a72ab64e0d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
