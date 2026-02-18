@@ -1,5 +1,11 @@
 ## 📅 17 February 2026
 
+- **[SSRF Vulnerability and Detecting It With AI, Enter See-SURF!!](https://medium.com/@in3tinct/ssrf-vulnerability-and-detecting-it-with-ai-enter-see-surf-f519b19c9d36?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 February 2026
+
+- **[SSRF Vulnerability and Detecting It With AI, Enter See-SURF!!](https://medium.com/@in3tinct/ssrf-vulnerability-and-detecting-it-with-ai-enter-see-surf-f519b19c9d36?source=rss------security-5)** _(Medium Security)_
+## 📅 17 February 2026
+
 - **[Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel](https://infosecwriteups.com/breaking-the-trust-boundary-ssrf-via-a-misconfigured-sentry-tunnel-ed054820b743?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 February 2026
 
