@@ -1,3 +1,9 @@
+## 📅 18 February 2026
+
+- **[From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 February 2026
+
+- **[From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 February 2026
 
 - **[Cross-Site Scripting (XSS) — Part 2: Stored, DOM-Based, and Blind XSS](https://medium.com/@may.hack/cross-site-scripting-xss-part-2-stored-dom-based-and-blind-xss-ee96e59e01b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

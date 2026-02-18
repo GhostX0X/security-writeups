@@ -1,5 +1,11 @@
 ## 📅 18 February 2026
 
+- **[From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 February 2026
+
+- **[From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 February 2026
+
 - **[Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 February 2026
 

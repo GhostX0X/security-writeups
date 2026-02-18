@@ -1,3 +1,6 @@
+## 📅 18 February 2026
+
+- **[Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@dhananjay_00/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-e7b2a7fdb211?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 February 2026
 
 - **[Inside target.com: Mapping a Hardened WordPress REST API for Bug Bounty Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/inside-target-com-mapping-a-hardened-wordpress-rest-api-for-bug-bounty-recon-eafb6ee811ca?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
