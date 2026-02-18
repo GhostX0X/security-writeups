@@ -1,5 +1,8 @@
 ## 📅 18 February 2026
 
+- **[Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application](https://medium.com/@sthapranaya890/solving-a-bugforge-challenge-exploiting-sql-injection-in-a-pizza-store-application-b55906098646?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 February 2026
+
 - **[From Beginner to Finding My First Critical SQL Injection in a Real VAPT Project](https://medium.com/@indrajitchavan7522/from-beginner-to-finding-my-first-critical-sql-injection-in-a-real-vapt-project-9fe1e4b5b1ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 February 2026
 

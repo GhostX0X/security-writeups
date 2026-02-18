@@ -1,3 +1,6 @@
+## 📅 18 February 2026
+
+- **[How I Bypassed Giant Swarm’s Nginx Regex to Score a Critical SSRF](https://medium.com/@sumitshahorg/how-i-bypassed-giant-swarms-nginx-regex-to-score-a-critical-ssrf-e7872ea25e16?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 February 2026
 
 - **[SSRF Vulnerability and Detecting It With AI, Enter See-SURF!!](https://medium.com/@in3tinct/ssrf-vulnerability-and-detecting-it-with-ai-enter-see-surf-f519b19c9d36?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
