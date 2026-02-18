@@ -1,3 +1,6 @@
+## 📅 18 February 2026
+
+- **[From Beginner to Finding My First Critical SQL Injection in a Real VAPT Project](https://medium.com/@indrajitchavan7522/from-beginner-to-finding-my-first-critical-sql-injection-in-a-real-vapt-project-9fe1e4b5b1ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 February 2026
 
 - **[Light (TryHackMe) — Breaking a Filtered SQLite Login with Structured SQL Injection](https://meetcyber.net/light-tryhackme-breaking-a-filtered-sqlite-login-with-structured-sql-injection-3334af82503a?source=rss------pentesting-5)** _(Medium Pentesting)_

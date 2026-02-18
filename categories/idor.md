@@ -1,3 +1,9 @@
+## 📅 18 February 2026
+
+- **[Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 February 2026
+
+- **[Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 February 2026
 
 - **[IDOR Vulnerabilities Explained: A Researcher’s Guide to Authorization Flaws](https://medium.com/@ud4y25/idor-vulnerabilities-explained-a-researchers-guide-to-authorization-flaws-82030def0e28?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

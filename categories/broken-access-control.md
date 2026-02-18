@@ -1,3 +1,9 @@
+## 📅 18 February 2026
+
+- **[Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 February 2026
+
+- **[Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 February 2026
 
 - **[Spike Barrier: Advanced Vehicle Access Control for Secure Premises](https://medium.com/@etradefia1/spike-barrier-advanced-vehicle-access-control-for-secure-premises-802e0fca54bf?source=rss------security-5)** _(Medium Security)_

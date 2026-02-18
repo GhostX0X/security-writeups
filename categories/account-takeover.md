@@ -1,3 +1,6 @@
+## 📅 18 February 2026
+
+- **[One-Click Account Takeover via Deep Link Token Auto-Append](https://medium.com/@BaymaxPop23/one-click-account-takeover-via-deep-link-token-auto-append-ad91993bd336?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 February 2026
 
 - **[Shadow Operators: How Private Security Firms Navigate the Grey Zone of Modern Warfare](https://medium.com/@jonas.riosesq/shadow-operators-how-private-security-firms-navigate-the-grey-zone-of-modern-warfare-853b18062d3c?source=rss------security-5)** _(Medium Security)_

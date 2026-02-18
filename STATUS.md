@@ -1,7 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-02-18 01:15:38.183817 UTC
+Last updated: 2026-02-18 06:50:41.705843 UTC
 
-- ssrf: 2
-- xss: 3
-- sqli: 1
+- broken-access-control: 2
+- idor: 2
+- sqli: 2
+- account-takeover: 1
+- xss: 2
