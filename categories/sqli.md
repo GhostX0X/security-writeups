@@ -1,3 +1,9 @@
+## 📅 19 February 2026
+
+- **[Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection Vulnerabilities](https://medium.com/@maryblessing633/thinking-like-an-attacker-how-api-pen-testers-identify-sql-injection-vulnerabilities-1c07b104f8e3?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 February 2026
+
+- **[Prompt Injection: The New SQL Injection of the AI Era](https://medium.com/@shafiqulsumon007/prompt-injection-the-new-sql-injection-of-the-ai-era-bec0ded3264a?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 February 2026
 
 - **[Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application](https://medium.com/@sthapranaya890/solving-a-bugforge-challenge-exploiting-sql-injection-in-a-pizza-store-application-b55906098646?source=rss------pentesting-5)** _(Medium Pentesting)_

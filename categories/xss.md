@@ -1,3 +1,6 @@
+## 📅 19 February 2026
+
+- **[Lab: DOM XSS in innerHTML sink using source location.search](https://medium.com/@may.hack/lab-dom-xss-in-innerhtml-sink-using-source-location-search-ea065a071da5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 February 2026
 
 - **[From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------pentesting-5)** _(Medium Pentesting)_

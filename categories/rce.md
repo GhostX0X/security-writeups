@@ -1,3 +1,9 @@
+## 📅 19 February 2026
+
+- **[Lab: DOM XSS in innerHTML sink using source location.search](https://medium.com/@may.hack/lab-dom-xss-in-innerhtml-sink-using-source-location-search-ea065a071da5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 February 2026
+
+- **[Unauthenticated Deployment API on Vercel Infrastructure — A Responsible Disclosure Case Study](https://medium.com/@paulanubhab04/unauthenticated-deployment-api-on-vercel-infrastructure-a-responsible-disclosure-case-study-93dc0f53cb8e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 February 2026
 
 - **[Intercepting Mobile Apps Traffic Using Burp and Ngrok](https://hackerassociate.medium.com/intercepting-mobile-apps-traffic-using-burp-and-ngrok-17e31f674721?source=rss------pentesting-5)** _(Medium Pentesting)_
