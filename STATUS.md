@@ -1,9 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-02-19 01:15:02.793996 UTC
+Last updated: 2026-02-19 06:48:06.141201 UTC
 
+- recon: 3
 - ssrf: 1
-- recon: 1
-- xss: 2
-- idor: 2
 - sqli: 1
+- xss: 1
+- idor: 1
