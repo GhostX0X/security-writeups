@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach](https://medium.com/@mostafa23110006/reading-private-chats-how-i-turned-an-idor-into-a-privacy-breach-3720d8ed6a0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 February 2026
 
 - **[How a Simple Update Profile Picture Endpoint Led to an IDOR Vulnerability But](https://medium.com/@shreyasjthakur/how-a-simple-update-profile-picture-endpoint-led-to-an-idor-vulnerability-but-99e8fe1ddc13?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

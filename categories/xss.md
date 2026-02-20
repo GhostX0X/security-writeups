@@ -1,5 +1,14 @@
 ## 📅 20 February 2026
 
+- **[Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 20 February 2026
+
+- **[Stored XSS in Gen AI Chat via Phonetic Obfuscation: Tricking Language Models into Writing Malicious…](https://medium.com/@SJ_Offsec/stored-xss-in-gen-ai-chat-via-phonetic-obfuscation-tricking-language-models-into-writing-malicious-7edcc9b92f46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 February 2026
+
+- **[Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 February 2026
+
 - **[Lab: DOM XSS in jQuery Anchor href Attribute Using location.search](https://medium.com/@may.hack/lab-dom-xss-in-jquery-anchor-href-attribute-using-location-search-499b6202457a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 February 2026
 
