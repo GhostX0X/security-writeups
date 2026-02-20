@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[Turning Recon Into High-Impact Vulnerabilities](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/turning-recon-into-high-impact-vulnerabilities-3f88bbb8cf56?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 February 2026
 
 - **[Ultimate One-Click Bug Bounty Recon Pipeline](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ultimate-one-click-bug-bounty-recon-pipeline-71cff97ea107?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
