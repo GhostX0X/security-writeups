@@ -1,3 +1,9 @@
+## 📅 19 February 2026
+
+- **[How a Simple Update Profile Picture Endpoint Led to an IDOR Vulnerability But](https://medium.com/@shreyasjthakur/how-a-simple-update-profile-picture-endpoint-led-to-an-idor-vulnerability-but-99e8fe1ddc13?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 February 2026
+
+- **[Servidores inmutables: seguridade e repetibilidade todo en un](https://medium.com/@serg-digitalis/servidores-inmutables-seguridade-e-repetibilidade-todo-en-un-567c1f62c2f0?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 February 2026
 
 - **[From Random Browsing to Finding Stored XSS + IDOR](https://medium.com/@dhxrxx/from-random-browsing-to-finding-stored-xss-idor-f50a720672ea?source=rss------pentesting-5)** _(Medium Pentesting)_
