@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[Lab: DOM XSS in jQuery Anchor href Attribute Using location.search](https://medium.com/@may.hack/lab-dom-xss-in-jquery-anchor-href-attribute-using-location-search-499b6202457a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 February 2026
 
 - **[Lab: DOM XSS in innerHTML sink using source location.search](https://medium.com/@may.hack/lab-dom-xss-in-innerhtml-sink-using-source-location-search-ea065a071da5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

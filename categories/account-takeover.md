@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[Session Fixation Leading to Full Account Takeover](https://medium.com/@hjnjhjsas/session-fixation-leading-to-full-account-takeover-5fe5c3cbde57?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 February 2026
 
 - **[One-Click Account Takeover via Deep Link Token Auto-Append](https://medium.com/@BaymaxPop23/one-click-account-takeover-via-deep-link-token-auto-append-ad91993bd336?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
