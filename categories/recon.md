@@ -1,5 +1,11 @@
 ## 📅 21 February 2026
 
+- **[Argus Tool Deep Dive | Smart Recon & Analysis](https://medium.com/@pentesterclubpvtltd/argus-tool-deep-dive-smart-recon-analysis-d028c8ca1429?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 February 2026
+
+- **[Argus Tool Deep Dive | Smart Recon & Analysis](https://medium.com/@pentesterclubpvtltd/argus-tool-deep-dive-smart-recon-analysis-d028c8ca1429?source=rss------security-5)** _(Medium Security)_
+## 📅 21 February 2026
+
 - **[From Zero to Recon Hero: 15 Free Pentesting Tools That Feel Like Cheat Codes](https://medium.com/@mvspavs/from-zero-to-recon-hero-15-free-pentesting-tools-that-feel-like-cheat-codes-2d137f3e1152?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 February 2026
 
