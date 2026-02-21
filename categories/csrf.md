@@ -1,3 +1,6 @@
+## 📅 21 February 2026
+
+- **[How I found CVE-2026–27146 (CSRF)| Cyber Tamarin](https://cybertamarin.medium.com/how-i-found-cve-2026-27146-cyber-tamarin-a2886542db22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
 - **[CSRF Protection Done Wrong: Accepting Requests Without Tokens](https://medium.com/@sudoxploit/csrf-protection-done-wrong-accepting-requests-without-tokens-f96708d39090?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

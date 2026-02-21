@@ -1,3 +1,6 @@
+## 📅 21 February 2026
+
+- **[SQL Injection in a Windows Application Exposing Millions of Records](https://hexaphp.medium.com/sql-injection-in-a-windows-application-exposing-millions-of-records-f657a6de46ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 February 2026
 
 - **[Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection Vulnerabilities](https://medium.com/@maryblessing633/thinking-like-an-attacker-how-api-pen-testers-identify-sql-injection-vulnerabilities-1c07b104f8e3?source=rss------pentesting-5)** _(Medium Pentesting)_

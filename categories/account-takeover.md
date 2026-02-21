@@ -1,3 +1,6 @@
+## 📅 21 February 2026
+
+- **[When Password Reset Fails: Account Takeover via User Enumeration ($3,000–$7,000)](https://medium.com/@abinsecurityresearcher/when-password-reset-fails-account-takeover-via-user-enumeration-3-000-7-000-9edaa0d21d1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 February 2026
 
 - **[Session Fixation Leading to Full Account Takeover](https://medium.com/@hjnjhjsas/session-fixation-leading-to-full-account-takeover-5fe5c3cbde57?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

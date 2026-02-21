@@ -1,3 +1,6 @@
+## 📅 21 February 2026
+
+- **[How I discovered CVE-2026–27147 — Stored XSS | Cyber Tamarin](https://cybertamarin.medium.com/how-i-discovered-cve-2026-27147-stored-xss-cyber-tamarin-c5ff993a3062?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 February 2026
 
 - **[Stored Cross-Site Scripting (XSS) in Accounts Manager App Using PHP and MySQL (SourceCodester)](https://medium.com/@hemantrajbhati5555/stored-cross-site-scripting-xss-in-accounts-manager-app-using-php-and-mysql-sourcecodester-ab557de210bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
