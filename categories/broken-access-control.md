@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[How I Found 3 Logic Bugs & 2 Access Control Issues in One Public BB Program.](https://mahmoud-khalid.medium.com/how-i-found-3-logic-bugs-2-access-control-issues-in-one-public-bb-program-9ce2cf66fdd8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 February 2026
 
 - **[Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken…](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/advanced-business-logic-attacks-%EF%B8%8F-part-4-mastering-access-control-how-to-find-idor-broken-f4c17a337b3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

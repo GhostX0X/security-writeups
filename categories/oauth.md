@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 February 2026
 
 - **[Hacking Google Drive Integrations: A Deep Dive into OAuth Security](https://infosecwriteups.com/hacking-google-drive-integrations-a-deep-dive-into-oauth-security-4e233bfcf395?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

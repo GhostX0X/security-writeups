@@ -1,3 +1,6 @@
+## 📅 20 February 2026
+
+- **[Stored Cross-Site Scripting (XSS) in Accounts Manager App Using PHP and MySQL (SourceCodester)](https://medium.com/@hemantrajbhati5555/stored-cross-site-scripting-xss-in-accounts-manager-app-using-php-and-mysql-sourcecodester-ab557de210bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 February 2026
 
 - **[Lab: DOM XSS in innerHTML sink using source location.search](https://medium.com/@may.hack/lab-dom-xss-in-innerhtml-sink-using-source-location-search-ea065a071da5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

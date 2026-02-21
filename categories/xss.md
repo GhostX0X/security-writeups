@@ -1,5 +1,8 @@
 ## 📅 20 February 2026
 
+- **[Stored Cross-Site Scripting (XSS) in Accounts Manager App Using PHP and MySQL (SourceCodester)](https://medium.com/@hemantrajbhati5555/stored-cross-site-scripting-xss-in-accounts-manager-app-using-php-and-mysql-sourcecodester-ab557de210bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 February 2026
+
 - **[Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 20 February 2026
 
