@@ -1,3 +1,6 @@
+## 📅 21 February 2026
+
+- **[Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 February 2026
 
 - **[Turning Recon Into High-Impact Vulnerabilities](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/turning-recon-into-high-impact-vulnerabilities-3f88bbb8cf56?source=rss------security-5)** _(Medium Security)_

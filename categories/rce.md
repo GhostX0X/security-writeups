@@ -1,3 +1,6 @@
+## 📅 21 February 2026
+
+- **[The Ghost in the Commit: RCE in GitHub Actions via Command Injection](https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 February 2026
 
 - **[Stored Cross-Site Scripting (XSS) in Accounts Manager App Using PHP and MySQL (SourceCodester)](https://medium.com/@hemantrajbhati5555/stored-cross-site-scripting-xss-in-accounts-manager-app-using-php-and-mysql-sourcecodester-ab557de210bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
