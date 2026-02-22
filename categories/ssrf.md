@@ -1,5 +1,8 @@
 ## 📅 22 February 2026
 
+- **[I Found a Critical SSRF Vulnerability That Could Have Exposed an Entire Server Here’s How](https://medium.com/@HackerMD/i-found-a-critical-ssrf-vulnerability-that-could-have-exposed-an-entire-server-heres-how-0a69c2ba2dee?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 February 2026
+
 - **[SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study](https://medium.com/@Xp10it/ssrf-via-stored-profile-data-in-an-ai-chatbot-a-real-world-case-study-83355beac933?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 February 2026
 

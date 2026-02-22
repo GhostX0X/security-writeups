@@ -1,3 +1,6 @@
+## 📅 22 February 2026
+
+- **[PowerHell: A PowerShell Payload Generator & Obfuscator for Red Teamers](https://medium.com/@vaiibhav/powerhell-a-powershell-payload-generator-obfuscator-for-red-teamers-9ecd039255e9?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 February 2026
 
 - **[When Password Reset Fails: Account Takeover via User Enumeration ($3,000–$7,000)](https://medium.com/@abinsecurityresearcher/when-password-reset-fails-account-takeover-via-user-enumeration-3-000-7-000-9edaa0d21d1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
