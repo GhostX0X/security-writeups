@@ -1,3 +1,6 @@
+## 📅 22 February 2026
+
+- **[I Audited a Popular Open-Source AI Assistant.](https://medium.com/@terminalsandcoffee/i-audited-a-popular-open-source-ai-assistant-cd20a0649b22?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 February 2026
 
 - **[The Ghost in the Commit: RCE in GitHub Actions via Command Injection](https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813?source=rss------security-5)** _(Medium Security)_

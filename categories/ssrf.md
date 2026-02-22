@@ -1,3 +1,6 @@
+## 📅 22 February 2026
+
+- **[SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study](https://medium.com/@Xp10it/ssrf-via-stored-profile-data-in-an-ai-chatbot-a-real-world-case-study-83355beac933?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 February 2026
 
 - **[How I Bypassed Giant Swarm’s Nginx Regex to Score a Critical SSRF](https://medium.com/@sumitshahorg/how-i-bypassed-giant-swarms-nginx-regex-to-score-a-critical-ssrf-e7872ea25e16?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
