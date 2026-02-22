@@ -1,5 +1,8 @@
 ## 📅 21 February 2026
 
+- **[How I Discovered a CSRF Vulnerability in a CV Update Feature](https://medium.com/@montaser_mohsen/how-i-discovered-a-csrf-vulnerability-in-a-cv-update-feature-b3b83680ee11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 February 2026
+
 - **[How I found CVE-2026–27146 (CSRF)| Cyber Tamarin](https://cybertamarin.medium.com/how-i-found-cve-2026-27146-cyber-tamarin-a2886542db22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 February 2026
 
