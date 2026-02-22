@@ -1,3 +1,6 @@
+## 📅 22 February 2026
+
+- **[Thinking Like an Attacker: How SQL Injection Breaks API Authentication](https://dattajoyatee.medium.com/thinking-like-an-attacker-how-sql-injection-breaks-api-authentication-fff4c4e47942?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 February 2026
 
 - **[SQL Injection in a Windows Application Exposing Millions of Records](https://hexaphp.medium.com/sql-injection-in-a-windows-application-exposing-millions-of-records-f657a6de46ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
