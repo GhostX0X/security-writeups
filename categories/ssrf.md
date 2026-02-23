@@ -1,3 +1,6 @@
+## 📅 23 February 2026
+
+- **[Double Compromise: Unearthing Unauthenticated SSRF and Weaponized XSS on Legacy Oracle…](https://medium.com/@k4r33m/double-compromise-unearthing-unauthenticated-ssrf-and-weaponized-xss-on-legacy-oracle-d41ed9f7f7b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 February 2026
 
 - **[I Found a Critical SSRF Vulnerability That Could Have Exposed an Entire Server Here’s How](https://medium.com/@HackerMD/i-found-a-critical-ssrf-vulnerability-that-could-have-exposed-an-entire-server-heres-how-0a69c2ba2dee?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 23 February 2026
+
+- **[Breaking Down cross-site scripting (XSS) part 1 | Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-1-walkthrough-via-portswigger-bc2f2fb76692?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 February 2026
+
+- **[Double Compromise: Unearthing Unauthenticated SSRF and Weaponized XSS on Legacy Oracle…](https://medium.com/@k4r33m/double-compromise-unearthing-unauthenticated-ssrf-and-weaponized-xss-on-legacy-oracle-d41ed9f7f7b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 February 2026
 
 - **[How I discovered CVE-2026–27147 — Stored XSS | Cyber Tamarin](https://cybertamarin.medium.com/how-i-discovered-cve-2026-27147-stored-xss-cyber-tamarin-c5ff993a3062?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

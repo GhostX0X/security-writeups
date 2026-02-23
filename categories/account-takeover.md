@@ -1,3 +1,9 @@
+## 📅 23 February 2026
+
+- **[Escalating a Duplicate Finding to a CVSS 10.0: Chaining Logic and Session Flaws for Persistent ATO](https://medium.com/@k4r33m/chaining-bugs-for-critical-impact-from-missing-rate-limit-to-persistent-ato-7b856bfe20d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 February 2026
+
+- **[Full Organization Account Takeover (ATO) by Changing One Parameter](https://medium.com/@2os5/full-organization-account-takeover-ato-by-changing-one-parameter-9f67472d3138?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 February 2026
 
 - **[PowerHell: A PowerShell Payload Generator & Obfuscator for Red Teamers](https://medium.com/@vaiibhav/powerhell-a-powershell-payload-generator-obfuscator-for-red-teamers-9ecd039255e9?source=rss------pentesting-5)** _(Medium Pentesting)_
