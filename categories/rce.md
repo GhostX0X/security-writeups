@@ -1,5 +1,8 @@
 ## 📅 22 February 2026
 
+- **[Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE](https://medium.com/@HackerMD/escaping-the-sandbox-how-a-simple-python-path-flaw-led-to-host-rce-817d39c95f86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 February 2026
+
 - **[DVWA: Brute Force (Low Security)](https://medium.com/@Kamal_S/dvwa-brute-force-low-security-1e17b8b0073c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 February 2026
 

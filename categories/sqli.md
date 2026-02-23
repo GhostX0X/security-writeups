@@ -1,5 +1,8 @@
 ## 📅 22 February 2026
 
+- **[PortSwigger SQL Injection Labs — Part 4: Blind SQL Injection](https://medium.com/@emirkilicer01/portswigger-sql-injection-labs-part-4-blind-sql-injection-f2a2078c6032?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 February 2026
+
 - **[Thinking Like an Attacker: How SQL Injection Breaks API Authentication](https://dattajoyatee.medium.com/thinking-like-an-attacker-how-sql-injection-breaks-api-authentication-fff4c4e47942?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 February 2026
 

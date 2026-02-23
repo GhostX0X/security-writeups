@@ -1,3 +1,6 @@
+## 📅 22 February 2026
+
+- **[Web Pentest’te Recon neden önemlidir neler kullanılmalıdır?](https://zekikayaalp.medium.com/web-pentestte-recon-neden-%C3%B6nemlidir-neler-kullan%C4%B1lmal%C4%B1d%C4%B1r-d1ca79c5d891?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 February 2026
 
 - **[Argus Tool Deep Dive | Smart Recon & Analysis](https://medium.com/@pentesterclubpvtltd/argus-tool-deep-dive-smart-recon-analysis-d028c8ca1429?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
