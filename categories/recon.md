@@ -1,3 +1,9 @@
+## 📅 23 February 2026
+
+- **[Beyond Recon: Mastering Authentication Logic in Bug Bounty](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/beyond-recon-mastering-authentication-logic-in-bug-bounty-9be065e13ea7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 February 2026
+
+- **[Beyond Recon: Mastering Authentication Logic in Bug Bounty](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/beyond-recon-mastering-authentication-logic-in-bug-bounty-9be065e13ea7?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 February 2026
 
 - **[Web Pentest’te Recon neden önemlidir neler kullanılmalıdır?](https://blog.ankasec.co/web-pentestte-recon-neden-%C3%B6nemlidir-neler-kullan%C4%B1lmal%C4%B1d%C4%B1r-d1ca79c5d891?source=rss------pentesting-5)** _(Medium Pentesting)_
