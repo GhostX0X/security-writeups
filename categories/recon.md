@@ -1,3 +1,6 @@
+## 📅 24 February 2026
+
+- **[Guía de Hakrawler: Rastreo Web Ultra Rápido para Bug Hunting y Recon](https://medium.com/@jpablo13/gu%C3%ADa-de-hakrawler-rastreo-web-ultra-r%C3%A1pido-para-bug-hunting-y-recon-915889ad2e77?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 February 2026
 
 - **[Beyond Recon: Mastering Authentication Logic in Bug Bounty](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/beyond-recon-mastering-authentication-logic-in-bug-bounty-9be065e13ea7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 23 February 2026
+
+- **[Resource-Constrained Security: Turning a 2011 Toshiba into a Headless SOC Lab #01](https://medium.com/@pinac.joshi/resource-constrained-security-turning-a-2011-toshiba-into-a-headless-soc-lab-01-42ad81d9d16b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 February 2026
 
 - **[Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE](https://medium.com/@HackerMD/escaping-the-sandbox-how-a-simple-python-path-flaw-led-to-host-rce-817d39c95f86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 23 February 2026
+
+- **[Deleting an Admin Isn’t Enough: A Broken Access Control Case](https://medium.com/@zyad_ibrahim333/deleting-an-admin-isnt-enough-a-broken-access-control-case-e82d9f2ac002?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 February 2026
+
+- **[Beyond RBAC: Scaling AWS Security with Attribute-Based Access Control (ABAC)](https://aws.plainenglish.io/beyond-rbac-scaling-aws-security-with-attribute-based-access-control-abac-10f6ae08e0c7?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 February 2026
 
 - **[How I Found 3 Logic Bugs & 2 Access Control Issues in One Public BB Program.](https://mahmoud-khalid.medium.com/how-i-found-3-logic-bugs-2-access-control-issues-in-one-public-bb-program-9ce2cf66fdd8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
