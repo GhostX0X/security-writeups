@@ -1,3 +1,6 @@
+## 📅 24 February 2026
+
+- **[Interconnection queue stalls solar builds and forces power delays](https://medium.com/kairi-ai/interconnection-queue-stalls-solar-builds-and-forces-power-delays-fde44eaf49d4?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 February 2026
 
 - **[Resource-Constrained Security: Turning a 2011 Toshiba into a Headless SOC Lab #01](https://medium.com/@pinac.joshi/resource-constrained-security-turning-a-2011-toshiba-into-a-headless-soc-lab-01-42ad81d9d16b?source=rss------pentesting-5)** _(Medium Pentesting)_

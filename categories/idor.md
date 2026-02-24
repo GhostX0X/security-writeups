@@ -1,3 +1,6 @@
+## 📅 24 February 2026
+
+- **[Intigriti CTF February 2026: CSRF+XSS+IDOR Chain](https://medium.com/@safehacker_2715/intigriti-ctf-february-2026-csrf-xss-idor-chain-9850654bd6b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 February 2026
 
 - **[Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach](https://medium.com/@mostafa23110006/reading-private-chats-how-i-turned-an-idor-into-a-privacy-breach-3720d8ed6a0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

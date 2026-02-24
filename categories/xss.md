@@ -1,3 +1,6 @@
+## 📅 24 February 2026
+
+- **[Intigriti CTF February 2026: CSRF+XSS+IDOR Chain](https://medium.com/@safehacker_2715/intigriti-ctf-february-2026-csrf-xss-idor-chain-9850654bd6b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 February 2026
 
 - **[Breaking Down cross-site scripting (XSS) part 1 | Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-1-walkthrough-via-portswigger-bc2f2fb76692?source=rss------pentesting-5)** _(Medium Pentesting)_
