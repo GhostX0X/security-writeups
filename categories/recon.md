@@ -1,5 +1,8 @@
 ## 📅 24 February 2026
 
+- **[Recon? Fuzzing? Exploitation? No just a web sec write-up.](https://medium.com/@momen_besher/recon-fuzzing-exploitation-no-just-a-web-sec-write-up-58ff5f992611?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 February 2026
+
 - **[Guía de Hakrawler: Rastreo Web Ultra Rápido para Bug Hunting y Recon](https://medium.com/@jpablo13/gu%C3%ADa-de-hakrawler-rastreo-web-ultra-r%C3%A1pido-para-bug-hunting-y-recon-915889ad2e77?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 February 2026
 
