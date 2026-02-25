@@ -1,3 +1,9 @@
+## 📅 25 February 2026
+
+- **[Cross-Site Request Forgery Leading to Account Takeover](https://medium.com/@montaser_mohsen/cross-site-request-forgery-leading-to-account-takeover-640f9ee3b2be?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 February 2026
+
+- **[Zero-click account takeover worth 1500€](https://medium.com/@sakshirathore3478/zero-click-account-takeover-worth-1500-28ea7bd537ed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 February 2026
 
 - **[Enhance Account Security and Management with PVACreator's Automation Tools](https://medium.com/@thomasjuan902/enhance-account-security-and-management-with-pvacreators-automation-tools-ac84deb4d8e3?source=rss------security-5)** _(Medium Security)_
