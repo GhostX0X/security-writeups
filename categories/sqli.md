@@ -1,3 +1,6 @@
+## 📅 25 February 2026
+
+- **[Responsible Disclosure: SQL Injection in Rutgers ROMS Platform](https://medium.com/@abbushadshaikh/responsible-disclosure-sql-injection-in-rutgers-roms-platform-92840932280e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 February 2026
 
 - **[PortSwigger SQL Injection Labs — Part 4: Blind SQL Injection](https://medium.com/@emirkilicer01/portswigger-sql-injection-labs-part-4-blind-sql-injection-f2a2078c6032?source=rss------pentesting-5)** _(Medium Pentesting)_
