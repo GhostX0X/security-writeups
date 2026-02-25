@@ -1,5 +1,8 @@
 ## 📅 25 February 2026
 
+- **[Panduan Recon & Enumeration Bug Bounty (Chime) untuk Pemula](https://medium.com/@adriansyah1230/panduan-recon-enumeration-bug-bounty-chime-untuk-pemula-a37c559d2e72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 February 2026
+
 - **[Hakrawler Guide: Ultra-Fast Web Crawling for Bug Hunting and Recon](https://medium.com/@jpablo13/hakrawler-guide-ultra-fast-web-crawling-for-bug-hunting-and-recon-5ae9bf44be29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 February 2026
 

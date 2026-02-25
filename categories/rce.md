@@ -1,3 +1,6 @@
+## 📅 25 February 2026
+
+- **[How IoT is Transforming Logistics & E-commerce Security in 2026](https://medium.com/@kirtilabstechnologie/how-iot-is-transforming-logistics-e-commerce-security-in-2026-6829d7c2c4c6?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 February 2026
 
 - **[Interconnection queue stalls solar builds and forces power delays](https://medium.com/kairi-ai/interconnection-queue-stalls-solar-builds-and-forces-power-delays-fde44eaf49d4?source=rss------security-5)** _(Medium Security)_

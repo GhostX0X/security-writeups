@@ -1,3 +1,6 @@
+## 📅 25 February 2026
+
+- **[Residential Security Guard Services West Covina for Gated Access Control](https://guardlinechronicles.medium.com/residential-security-guard-services-west-covina-for-gated-access-control-b4f46a6d5376?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 February 2026
 
 - **[Deleting an Admin Isn’t Enough: A Broken Access Control Case](https://medium.com/@zyad_ibrahim333/deleting-an-admin-isnt-enough-a-broken-access-control-case-e82d9f2ac002?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
