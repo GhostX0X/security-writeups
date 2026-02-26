@@ -1,5 +1,11 @@
 ## 📅 26 February 2026
 
+- **[Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k](https://infosecwriteups.com/anatomy-of-a-cloud-native-attack-how-we-pwned-kubernetes-for-100k-6201ce3808af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 February 2026
+
+- **[Top Password Generator Tools Online](https://medium.com/@rituraj.shakti/top-password-generator-tools-online-5c76c94cb687?source=rss------security-5)** _(Medium Security)_
+## 📅 26 February 2026
+
 - **[Anatomy of a Build Tool Vulnerability: Auditing Nubank’s Vessel](https://medium.com/@rdin777/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 February 2026
 

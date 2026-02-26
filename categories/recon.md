@@ -1,5 +1,8 @@
 ## 📅 26 February 2026
 
+- **[What Hackers Talk About at 2 AM: Using Dark Web Forums for Recon ️](https://infosecwriteups.com/what-hackers-talk-about-at-2-am-using-dark-web-forums-for-recon-%EF%B8%8F-bdbff44bdea5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 February 2026
+
 - **[From Shodan Recon to Multiple Security Flaws in the Same Program](https://medium.com/@marwanelshamy/from-shodan-recon-to-multiple-security-flaws-in-the-same-program-2a3dd91d1457?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 February 2026
 
