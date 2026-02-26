@@ -1,5 +1,8 @@
 ## 📅 26 February 2026
 
+- **[Anatomy of a Build Tool Vulnerability: Auditing Nubank’s Vessel](https://medium.com/@rdin777/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 February 2026
+
 - **[Anatomy of a Build Tool Vulnerability: Auditing Nubank’s Vessel](https://medium.com/@levp254/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 February 2026
 

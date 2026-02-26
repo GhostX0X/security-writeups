@@ -1,3 +1,6 @@
+## 📅 26 February 2026
+
+- **[LLM Governance, Security, and Policy Enforcement in 2026 , From Principles to Production Controls](https://medium.com/@sasipreetham142003/llm-governance-security-and-policy-enforcement-in-2026-from-principles-to-production-controls-d6ea4ff096e8?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 February 2026
 
 - **[How IoT is Transforming Logistics & E-commerce Security in 2026](https://medium.com/@kirtilabstechnologie/how-iot-is-transforming-logistics-e-commerce-security-in-2026-6829d7c2c4c6?source=rss------security-5)** _(Medium Security)_

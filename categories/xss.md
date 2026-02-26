@@ -1,3 +1,9 @@
+## 📅 26 February 2026
+
+- **[When a Link Becomes JavaScript (Stored XSS via javascript: URL)](https://medium.com/@issanpanda/when-a-link-becomes-javascript-stored-xss-via-javascript-url-f0490479e428?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 26 February 2026
+
+- **[Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded](https://medium.com/@may.hack/lab-stored-xss-into-anchor-href-attribute-with-double-quotes-html-encoded-efc3fdd60da8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 February 2026
 
 - **[Lab: Reflected XSS into Attribute with Angle Brackets HTML-Encoded](https://medium.com/@may.hack/lab-reflected-xss-into-attribute-with-angle-brackets-html-encoded-e042b6c6d596?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

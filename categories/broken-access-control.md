@@ -1,3 +1,6 @@
+## 📅 26 February 2026
+
+- **[How Access Control Systems Are Transforming Security in Apartment Complexes](https://medium.com/@discreet.marcom/how-access-control-systems-are-transforming-security-in-apartment-complexes-db021449ae28?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 February 2026
 
 - **[Residential Security Guard Services West Covina for Gated Access Control](https://guardlinechronicles.medium.com/residential-security-guard-services-west-covina-for-gated-access-control-b4f46a6d5376?source=rss------security-5)** _(Medium Security)_
