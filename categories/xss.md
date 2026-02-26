@@ -1,3 +1,6 @@
+## 📅 25 February 2026
+
+- **[Lab: Reflected XSS into Attribute with Angle Brackets HTML-Encoded](https://medium.com/@may.hack/lab-reflected-xss-into-attribute-with-angle-brackets-html-encoded-e042b6c6d596?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 February 2026
 
 - **[Intigriti CTF February 2026: CSRF+XSS+IDOR Chain](https://medium.com/@safehacker_2715/intigriti-ctf-february-2026-csrf-xss-idor-chain-9850654bd6b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

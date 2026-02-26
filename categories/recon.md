@@ -1,3 +1,6 @@
+## 📅 26 February 2026
+
+- **[From Shodan Recon to Multiple Security Flaws in the Same Program](https://medium.com/@marwanelshamy/from-shodan-recon-to-multiple-security-flaws-in-the-same-program-2a3dd91d1457?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 February 2026
 
 - **[Why ‘Nothing Interesting Found’ Is a Recon Failure](https://kd-200.medium.com/why-nothing-interesting-found-is-a-recon-failure-a19202c93028?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
