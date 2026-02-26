@@ -1,3 +1,6 @@
+## 📅 26 February 2026
+
+- **[Anatomy of a Build Tool Vulnerability: Auditing Nubank’s Vessel](https://medium.com/@levp254/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 February 2026
 
 - **[Cross-Site Request Forgery Leading to Account Takeover](https://medium.com/@montaser_mohsen/cross-site-request-forgery-leading-to-account-takeover-640f9ee3b2be?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
