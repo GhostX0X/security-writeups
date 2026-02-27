@@ -1,3 +1,6 @@
+## 📅 27 February 2026
+
+- **[From SSRF to AWS Pwnage: A Hacker’s Guide to Cloud-Native Exploits](https://xalgord.medium.com/from-ssrf-to-aws-pwnage-a-hackers-guide-to-cloud-native-exploits-bc4621ebb048?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 February 2026
 
 - **[Double Compromise: Unearthing Unauthenticated SSRF and Weaponized XSS on Legacy Oracle…](https://medium.com/@k4r33m/double-compromise-unearthing-unauthenticated-ssrf-and-weaponized-xss-on-legacy-oracle-d41ed9f7f7b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

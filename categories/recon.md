@@ -1,3 +1,6 @@
+## 📅 27 February 2026
+
+- **[A Technical Reconstruction of the xz Supply-Chain Attack](https://medium.com/@sudom0nk/a-technical-reconstruction-of-the-xz-supply-chain-attack-5b3479f2cbf5?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 February 2026
 
 - **[What Hackers Talk About at 2 AM: Using Dark Web Forums for Recon ️](https://infosecwriteups.com/what-hackers-talk-about-at-2-am-using-dark-web-forums-for-recon-%EF%B8%8F-bdbff44bdea5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
