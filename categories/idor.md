@@ -1,3 +1,9 @@
+## 📅 27 February 2026
+
+- **[Understanding IDOR (Insecure Direct Object Reference)](https://medium.com/@sharmamansi0502/understanding-idor-insecure-direct-object-reference-b99690842319?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 February 2026
+
+- **[Broken Access Control: From IDOR to Privilege Escalation](https://medium.com/@m9o/broken-access-control-from-idor-to-privilege-escalation-dbb76b0b839e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 February 2026
 
 - **[IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

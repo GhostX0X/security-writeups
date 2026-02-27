@@ -1,3 +1,6 @@
+## 📅 27 February 2026
+
+- **[Broken Access Control: From IDOR to Privilege Escalation](https://medium.com/@m9o/broken-access-control-from-idor-to-privilege-escalation-dbb76b0b839e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 February 2026
 
 - **[How Access Control Systems Are Transforming Security in Apartment Complexes](https://medium.com/@discreet.marcom/how-access-control-systems-are-transforming-security-in-apartment-complexes-db021449ae28?source=rss------security-5)** _(Medium Security)_

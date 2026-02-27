@@ -1,5 +1,8 @@
 ## 📅 27 February 2026
 
+- **[Salesforce Managed Services: A Strategic Growth Engine for Modern Enterprises](https://medium.com/@abhaykhs/salesforce-managed-services-a-strategic-growth-engine-for-modern-enterprises-3faf58c7690a?source=rss------security-5)** _(Medium Security)_
+## 📅 27 February 2026
+
 - **[How a Split-Source-of-Truth Bug Let Me Bypass a Commercial Trial](https://osintteam.blog/how-a-split-source-of-truth-bug-let-me-bypass-a-commercial-trial-fe880f141174?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 February 2026
 
