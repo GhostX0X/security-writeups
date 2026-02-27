@@ -1,3 +1,6 @@
+## 📅 27 February 2026
+
+- **[Day 9 — Breaking Login With a Single Quote (SQL Injection Begins)](https://medium.com/@issanpanda/day-9-breaking-login-with-a-single-quote-sql-injection-begins-afa7828e73aa?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 25 February 2026
 
 - **[Responsible Disclosure: SQL Injection in Rutgers ROMS Platform](https://medium.com/@abbushadshaikh/responsible-disclosure-sql-injection-in-rutgers-roms-platform-92840932280e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
