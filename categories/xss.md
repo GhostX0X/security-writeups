@@ -1,5 +1,8 @@
 ## 📅 26 February 2026
 
+- **[Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded](https://medium.com/@may.hack/lab-reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-56ed2d1021e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 February 2026
+
 - **[When a Link Becomes JavaScript (Stored XSS via javascript: URL)](https://medium.com/@issanpanda/when-a-link-becomes-javascript-stored-xss-via-javascript-url-f0490479e428?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 February 2026
 
