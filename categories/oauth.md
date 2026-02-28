@@ -1,3 +1,6 @@
+## 📅 27 February 2026
+
+- **[Understanding OAuth2 in a Simple and Practical Way](https://medium.com/@ad-software-engineering/understanding-oauth2-in-a-simple-and-practical-way-8f086a98f6ae?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 February 2026
 
 - **[OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

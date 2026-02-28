@@ -1,5 +1,8 @@
 ## 📅 27 February 2026
 
+- **[PortSwigger Access Control Vulnerabilities Lab Notes](https://medium.com/@emre225650/portswigger-access-control-vulnerabilities-lab-notes-d99a6201258f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 February 2026
+
 - **[Broken Access Control: From IDOR to Privilege Escalation](https://medium.com/@m9o/broken-access-control-from-idor-to-privilege-escalation-dbb76b0b839e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 February 2026
 
