@@ -1,3 +1,9 @@
+## 📅 28 February 2026
+
+- **[“Bug Bounty Bootcamp #26: SQL Injection Fundamentals — Learning to Speak the Database’s Language”](https://osintteam.blog/bug-bounty-bootcamp-26-sql-injection-fundamentals-learning-to-speak-the-databases-language-9cafd7bb6b40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 February 2026
+
+- **[NoSQL Injection Gone Wild: Logging into Any User, Stealing Garba Tickets, and ₹1 Purchases on a…](https://rajukani100.medium.com/nosql-injection-gone-wild-logging-into-any-user-stealing-garba-tickets-and-1-purchases-on-a-417cb9cbd00a?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 February 2026
 
 - **[Day 9 — Breaking Login With a Single Quote (SQL Injection Begins)](https://medium.com/@issanpanda/day-9-breaking-login-with-a-single-quote-sql-injection-begins-afa7828e73aa?source=rss------pentesting-5)** _(Medium Pentesting)_

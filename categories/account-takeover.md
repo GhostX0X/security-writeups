@@ -1,5 +1,8 @@
 ## 📅 28 February 2026
 
+- **[When a Report Generator Lets You Write the Query (in Production)](https://medium.com/@thelazypentester/when-a-report-generator-lets-you-write-the-query-in-production-ccfaaacf651a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 February 2026
+
 - **[How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2](https://medium.com/@harrisonkuria254/how-i-built-a-bank-grade-emulator-detector-to-stop-hackers-dead-part-2-a9d45eb9ec49?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 February 2026
 

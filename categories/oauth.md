@@ -1,3 +1,6 @@
+## 📅 28 February 2026
+
+- **[Authentication Strategies Explained — JWT vs Sessions vs OAuth vs Magic Link](https://medium.com/@kunjbaldha77/authentication-strategies-explained-jwt-vs-sessions-vs-oauth-vs-magic-link-2d47715f2c2c?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 February 2026
 
 - **[Understanding OAuth2 in a Simple and Practical Way](https://medium.com/@ad-software-engineering/understanding-oauth2-in-a-simple-and-practical-way-8f086a98f6ae?source=rss------security-5)** _(Medium Security)_
