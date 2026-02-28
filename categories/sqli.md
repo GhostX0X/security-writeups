@@ -1,5 +1,8 @@
 ## 📅 28 February 2026
 
+- **[Day 10 — Dumping Passwords With UNION (SQL Injection Escalates)](https://medium.com/@issanpanda/day-10-dumping-passwords-with-union-sql-injection-escalates-0ba7e11a8eb8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 February 2026
+
 - **[“Bug Bounty Bootcamp #26: SQL Injection Fundamentals — Learning to Speak the Database’s Language”](https://osintteam.blog/bug-bounty-bootcamp-26-sql-injection-fundamentals-learning-to-speak-the-databases-language-9cafd7bb6b40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 February 2026
 
