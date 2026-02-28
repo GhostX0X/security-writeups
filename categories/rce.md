@@ -1,3 +1,6 @@
+## 📅 28 February 2026
+
+- **[Lab: DOM XSS in document.write sink using source location.search inside a select element](https://medium.com/@may.hack/lab-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-0b8c90e82e08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 February 2026
 
 - **[Salesforce Managed Services: A Strategic Growth Engine for Modern Enterprises](https://medium.com/@abhaykhs/salesforce-managed-services-a-strategic-growth-engine-for-modern-enterprises-3faf58c7690a?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 28 February 2026
+
+- **[AI-Powered Bug Hunting: 20 Tools to Dominate Your Next Recon](https://osintteam.blog/ai-powered-bug-hunting-20-tools-to-dominate-your-next-recon-8ee3501bd5ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 February 2026
 
 - **[A Technical Reconstruction of the xz Supply-Chain Attack](https://medium.com/@sudom0nk/a-technical-reconstruction-of-the-xz-supply-chain-attack-5b3479f2cbf5?source=rss------security-5)** _(Medium Security)_

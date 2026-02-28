@@ -1,3 +1,6 @@
+## 📅 28 February 2026
+
+- **[How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2](https://medium.com/@harrisonkuria254/how-i-built-a-bank-grade-emulator-detector-to-stop-hackers-dead-part-2-a9d45eb9ec49?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 February 2026
 
 - **[Cómo una API mal diseñada expuso los datos de todos los usuarios: IDOR, contraseñas en texto plano…](https://medium.com/@C37webak1ix/c%C3%B3mo-una-api-mal-dise%C3%B1ada-expuso-los-datos-de-todos-los-usuarios-idor-contrase%C3%B1as-en-texto-plano-ba337d1672c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

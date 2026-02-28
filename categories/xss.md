@@ -1,3 +1,6 @@
+## 📅 28 February 2026
+
+- **[Lab: DOM XSS in document.write sink using source location.search inside a select element](https://medium.com/@may.hack/lab-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-0b8c90e82e08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 February 2026
 
 - **[Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded](https://medium.com/@may.hack/lab-reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-56ed2d1021e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
