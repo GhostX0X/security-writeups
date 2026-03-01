@@ -1,3 +1,6 @@
+## 📅 01 March 2026
+
+- **[“Stop Using Google for Recon. Seriously.”](https://medium.com/@padhyepushkar/stop-using-google-for-recon-seriously-f5ceea631ff8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 February 2026
 
 - **[AI-Powered Bug Hunting: 20 Tools to Dominate Your Next Recon](https://osintteam.blog/ai-powered-bug-hunting-20-tools-to-dominate-your-next-recon-8ee3501bd5ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
