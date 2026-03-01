@@ -1,5 +1,8 @@
 ## 📅 01 March 2026
 
+- **[My First XSS Vulnerability. The Day I Started My Bug Bounty Journey](https://medium.com/@moohammaduzairkhan/my-first-xss-vulnerability-the-day-i-started-my-bug-bounty-journey-07e13ef7b465?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 March 2026
+
 - **[Stored xss exposed cookies via .svg in [ cisco] = P3 Bug → P1 bug](https://medium.com/@saijayanth25dec2003/stored-xss-exposed-cookies-via-svg-in-cisco-p3-bug-p1-bug-d2f6c67265af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 March 2026
 

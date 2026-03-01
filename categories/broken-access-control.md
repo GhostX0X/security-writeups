@@ -1,3 +1,6 @@
+## 📅 01 March 2026
+
+- **[A Practical Guide to Finding Broken Access Control (BAC)](https://medium.com/@n0llsec/a-practical-guide-to-finding-broken-access-control-bac-c1be9f23dc24?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 February 2026
 
 - **[PortSwigger Access Control Vulnerabilities Lab Notes](https://medium.com/@emre225650/portswigger-access-control-vulnerabilities-lab-notes-d99a6201258f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
