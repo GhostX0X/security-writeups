@@ -1,3 +1,9 @@
+## 📅 01 March 2026
+
+- **[Stored xss exposed cookies via .svg in [ cisco] = P3 Bug → P1 bug](https://medium.com/@saijayanth25dec2003/stored-xss-exposed-cookies-via-svg-in-cisco-p3-bug-p1-bug-d2f6c67265af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 March 2026
+
+- **[From Swagger to Shell: Turning a Misconfigured configUrl into a $400 RXSS Bounty](https://dr34m14.medium.com/from-swagger-to-shell-turning-a-misconfigured-configurl-into-a-400-rxss-bounty-74375c700a51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 February 2026
 
 - **[Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded](https://medium.com/@may.hack/lab-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-a3233f24a651?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

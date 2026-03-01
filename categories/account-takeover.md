@@ -1,3 +1,6 @@
+## 📅 01 March 2026
+
+- **[Shopify Account Takeover via Email Verification Bypass | Bug Bounty PoC $22,500](https://nullsecurityx.medium.com/shopify-account-takeover-via-email-verification-bypass-bug-bounty-poc-22-500-2088b7d539d4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 February 2026
 
 - **[Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart…](https://medium.com/@HackerMD/critical-web3-vulnerability-full-account-takeover-via-arbitrary-internal-self-calls-in-smart-84a5646ba66b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
