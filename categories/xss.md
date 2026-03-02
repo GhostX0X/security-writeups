@@ -1,5 +1,8 @@
 ## 📅 02 March 2026
 
+- **[Lab: Reflected DOM XSS](https://medium.com/@may.hack/lab-reflected-dom-xss-e39990824f57?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 March 2026
+
 - **[From Swagger to XSS: Turning a Misconfigured configUrl into a $400 RXSS Bounty](https://dr34m14.medium.com/from-swagger-to-xss-turning-a-misconfigured-configurl-into-a-400-rxss-bounty-34b60301b12b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 March 2026
 

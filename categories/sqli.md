@@ -1,3 +1,6 @@
+## 📅 02 March 2026
+
+- **[More SQLi — picoCTF Writeup](https://medium.com/@may.hack/more-sqli-picoctf-writeup-d04ff3728a8b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 March 2026
 
 - **[Day 11 — Extracting Data Without Seeing It (Boolean-Based Blind SQL Injection)](https://medium.com/@issanpanda/day-11-extracting-data-without-seeing-it-boolean-based-blind-sql-injection-85419f828649?source=rss------pentesting-5)** _(Medium Pentesting)_
