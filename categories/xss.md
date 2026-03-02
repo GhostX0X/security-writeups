@@ -1,5 +1,8 @@
 ## 📅 02 March 2026
 
+- **[From Swagger to XSS: Turning a Misconfigured configUrl into a $400 RXSS Bounty](https://dr34m14.medium.com/from-swagger-to-xss-turning-a-misconfigured-configurl-into-a-400-rxss-bounty-34b60301b12b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 March 2026
+
 - **[Breaking Down cross-site scripting (XSS) part 2| Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-2-walkthrough-via-portswigger-22ba857de028?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 March 2026
 
