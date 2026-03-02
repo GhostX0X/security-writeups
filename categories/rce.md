@@ -1,3 +1,6 @@
+## 📅 02 March 2026
+
+- **[Make safer endpoints by simulating bruteforce attack!](https://medium.com/@sir.jeff.nasseri/make-safer-endpoints-by-simulating-bruteforce-attack-dcf29267afa8?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 February 2026
 
 - **[Lab: DOM XSS in document.write sink using source location.search inside a select element](https://medium.com/@may.hack/lab-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-0b8c90e82e08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

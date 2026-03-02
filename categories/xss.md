@@ -1,3 +1,6 @@
+## 📅 02 March 2026
+
+- **[Breaking Down cross-site scripting (XSS) part 2| Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-2-walkthrough-via-portswigger-22ba857de028?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 March 2026
 
 - **[My First XSS Vulnerability. The Day I Started My Bug Bounty Journey](https://medium.com/@moohammaduzairkhan/my-first-xss-vulnerability-the-day-i-started-my-bug-bounty-journey-07e13ef7b465?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
