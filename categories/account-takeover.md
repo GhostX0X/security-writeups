@@ -1,3 +1,6 @@
+## 📅 03 March 2026
+
+- **[ATO Admin Account via Broken Password Reset Flow](https://medium.com/@wanqais007/ato-admin-account-via-broken-password-reset-flow-24c77d169967?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 March 2026
 
 - **[Shopify Account Takeover via Email Verification Bypass | Bug Bounty PoC $22,500](https://nullsecurityx.medium.com/shopify-account-takeover-via-email-verification-bypass-bug-bounty-poc-22-500-2088b7d539d4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
