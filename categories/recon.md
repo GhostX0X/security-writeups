@@ -1,3 +1,6 @@
+## 📅 03 March 2026
+
+- **[From Zero to Recon: How Beginners Can Start Bug Bounty Hunting the Smart Way](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-zero-to-recon-how-beginners-can-start-bug-bounty-hunting-the-smart-way-bd65d3f9234a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 March 2026
 
 - **[From Recon to Exploitation: How Attackers Discover, Exploit, and Chain Web App Vulnerabilities —…](https://medium.com/@anchalrajawat009/from-recon-to-exploitation-how-attackers-discover-exploit-and-chain-web-app-vulnerabilities-79acf227650b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
