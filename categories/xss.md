@@ -1,3 +1,6 @@
+## 📅 04 March 2026
+
+- **[Context Is Everything: A Practical Guide to XSS](https://medium.com/@marduk.i.am/context-is-everything-a-practical-guide-to-xss-eff8d30421df?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 March 2026
 
 - **[Lab: Reflected DOM XSS](https://medium.com/@may.hack/lab-reflected-dom-xss-e39990824f57?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
