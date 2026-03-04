@@ -1,3 +1,6 @@
+## 📅 04 March 2026
+
+- **[The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 March 2026
 
 - **[Snowflake’s Strong Authentication Hub: Turning MFA Enforcement into an Operational Workflow](https://medium.com/@pascalpfffle/snowflakes-strong-authentication-hub-turning-mfa-enforcement-into-an-operational-workflow-4353fe908d3e?source=rss------security-5)** _(Medium Security)_

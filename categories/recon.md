@@ -1,3 +1,6 @@
+## 📅 04 March 2026
+
+- **[CeWL vs Crunch: How to Build Smart Wordlists for Bug Bounty Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/cewl-vs-crunch-how-to-build-smart-wordlists-for-bug-bounty-recon-b9e0658dd370?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 March 2026
 
 - **[From Zero to Recon: How Beginners Can Start Bug Bounty Hunting the Smart Way](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-zero-to-recon-how-beginners-can-start-bug-bounty-hunting-the-smart-way-bd65d3f9234a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
