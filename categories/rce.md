@@ -1,3 +1,6 @@
+## 📅 03 March 2026
+
+- **[Snowflake’s Strong Authentication Hub: Turning MFA Enforcement into an Operational Workflow](https://medium.com/@pascalpfffle/snowflakes-strong-authentication-hub-turning-mfa-enforcement-into-an-operational-workflow-4353fe908d3e?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 March 2026
 
 - **[(High-vuln) How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot](https://0xzyo.medium.com/high-vuln-how-i-bypassed-ip-restrictions-captcha-and-unlocked-unlimited-brute-force-in-one-shot-ec2b7063ef5d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
