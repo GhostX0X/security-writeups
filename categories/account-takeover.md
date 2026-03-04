@@ -1,3 +1,6 @@
+## 📅 04 March 2026
+
+- **[Shellerator: A simple yet powerful CLI tool to generate reverse, bind and web shells](https://olivierkonate.medium.com/shellerator-a-simple-yet-powerful-cli-tool-to-generate-reverse-bind-and-web-shells-2af033731d65?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 March 2026
 
 - **[ATO Admin Account via Broken Password Reset Flow](https://medium.com/@wanqais007/ato-admin-account-via-broken-password-reset-flow-24c77d169967?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

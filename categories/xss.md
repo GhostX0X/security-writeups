@@ -1,5 +1,8 @@
 ## 📅 04 March 2026
 
+- **[Hackviser Write-up [EN / TR] — Stored XSS in Anchor Href Attribute HTML-Encoded](https://medium.com/@0xMuhammet/hackviser-write-up-en-tr-stored-xss-in-anchor-href-attribute-html-encoded-2566946d47d8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 March 2026
+
 - **[Context Is Everything: A Practical Guide to XSS](https://medium.com/@marduk.i.am/context-is-everything-a-practical-guide-to-xss-eff8d30421df?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 March 2026
 
