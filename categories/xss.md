@@ -1,3 +1,6 @@
+## 📅 05 March 2026
+
+- **[XSS Explained: How Hackers Inject Code Into Websites](https://medium.com/@vedanthore/xss-explained-how-hackers-inject-code-into-websites-7d840ce05d4c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 March 2026
 
 - **[Hackviser Write-up [EN / TR] — Stored XSS in Anchor Href Attribute HTML-Encoded](https://medium.com/@0xMuhammet/hackviser-write-up-en-tr-stored-xss-in-anchor-href-attribute-html-encoded-2566946d47d8?source=rss------pentesting-5)** _(Medium Pentesting)_
