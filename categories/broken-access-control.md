@@ -1,3 +1,6 @@
+## 📅 05 March 2026
+
+- **[Security and Access Control Systems for Smart Buildings Explained](https://medium.com/@echo_null/security-and-access-control-systems-for-smart-buildings-explained-d60a4751a623?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 March 2026
 
 - **[A Practical Guide to Finding Broken Access Control (BAC)](https://medium.com/@n0llsec/a-practical-guide-to-finding-broken-access-control-bac-c1be9f23dc24?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
