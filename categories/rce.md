@@ -1,5 +1,8 @@
 ## 📅 04 March 2026
 
+- **[Resource-Constrained Security: Hardening the Perimeter & Solving the Moving IP Headache #02](https://medium.com/@pinac.joshi/resource-constrained-security-hardening-the-perimeter-solving-the-moving-ip-headache-02-f7ac1f502475?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 March 2026
+
 - **[How 54 Percent of Cyberattacks Go Completely Unnoticed](https://medium.com/@merryusman52/how-54-percent-of-cyberattacks-go-completely-unnoticed-f2d3fcdb2ae0?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 March 2026
 
