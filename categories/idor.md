@@ -1,3 +1,9 @@
+## 📅 05 March 2026
+
+- **[Chaining IDOR to Admin Panel Takeover to SQLI](https://medium.com/@dsmodi484/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 March 2026
+
+- **[Chaining IDOR to Admin Panel Takeover to SQLI](https://medium.com/@dsmodi484/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 February 2026
 
 - **[Cómo una API mal diseñada expuso los datos de todos los usuarios: IDOR, contraseñas en texto plano…](https://medium.com/@C37webak1ix/c%C3%B3mo-una-api-mal-dise%C3%B1ada-expuso-los-datos-de-todos-los-usuarios-idor-contrase%C3%B1as-en-texto-plano-ba337d1672c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

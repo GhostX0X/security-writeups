@@ -1,3 +1,9 @@
+## 📅 05 March 2026
+
+- **[Chaining IDOR to Admin Panel Takeover to SQLI](https://medium.com/@dsmodi484/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 March 2026
+
+- **[Chaining IDOR to Admin Panel Takeover to SQLI](https://medium.com/@dsmodi484/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 March 2026
 
 - **[More SQLi — picoCTF Writeup](https://medium.com/@may.hack/more-sqli-picoctf-writeup-d04ff3728a8b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
