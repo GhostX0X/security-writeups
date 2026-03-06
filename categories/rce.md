@@ -1,3 +1,6 @@
+## 📅 05 March 2026
+
+- **[Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay](https://medium.com/@yppip/why-every-scanner-missed-this-rce-reviving-cve-2020-7961-on-a-7-year-old-instance-of-liferay-a0d1c4af0738?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 March 2026
 
 - **[Resource-Constrained Security: Hardening the Perimeter & Solving the Moving IP Headache #02](https://medium.com/@pinac.joshi/resource-constrained-security-hardening-the-perimeter-solving-the-moving-ip-headache-02-f7ac1f502475?source=rss------pentesting-5)** _(Medium Pentesting)_

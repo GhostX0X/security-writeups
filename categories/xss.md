@@ -1,3 +1,6 @@
+## 📅 06 March 2026
+
+- **[Guía de XSS Fundamentals: Vulnerabilidades, Payloads y Bypass de WAF/CSP](https://medium.com/@jpablo13/gu%C3%ADa-de-xss-fundamentals-vulnerabilidades-payloads-y-bypass-de-waf-csp-c2585522a8a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 March 2026
 
 - **[XSS Explained: How Hackers Inject Code Into Websites](https://medium.com/@vedanthore/xss-explained-how-hackers-inject-code-into-websites-7d840ce05d4c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
