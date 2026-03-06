@@ -1,5 +1,8 @@
 ## 📅 06 March 2026
 
+- **[Blind XSS Unleashed: Automating Payloads to Catch Vulnerabilities You Can’t See](https://meetcyber.net/blind-xss-unleashed-automating-payloads-to-catch-vulnerabilities-you-cant-see-180fe779cbae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 March 2026
+
 - **[Guía de XSS Fundamentals: Vulnerabilidades, Payloads y Bypass de WAF/CSP](https://medium.com/@jpablo13/gu%C3%ADa-de-xss-fundamentals-vulnerabilidades-payloads-y-bypass-de-waf-csp-c2585522a8a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 March 2026
 
