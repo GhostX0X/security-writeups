@@ -1,5 +1,8 @@
 ## 📅 05 March 2026
 
+- **[Chaining IDOR to Admin Panel Takeover to SQLI](https://infosecwriteups.com/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 March 2026
+
 - **[Chaining IDOR to Admin Panel Takeover to SQLI](https://medium.com/@dsmodi484/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 March 2026
 
