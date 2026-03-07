@@ -1,5 +1,11 @@
 ## 📅 06 March 2026
 
+- **[Lab: Stored DOM XSS](https://medium.com/@may.hack/lab-stored-dom-xss-ef6a33c19622?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 March 2026
+
+- **[Guide to XSS Fundamentals: Vulnerabilities, Payloads, and WAF/CSP Bypasses](https://medium.com/@jpablo13/guide-to-xss-fundamentals-vulnerabilities-payloads-and-waf-csp-bypasses-6811853b8226?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 March 2026
+
 - **[Blind XSS Unleashed: Automating Payloads to Catch Vulnerabilities You Can’t See](https://meetcyber.net/blind-xss-unleashed-automating-payloads-to-catch-vulnerabilities-you-cant-see-180fe779cbae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 March 2026
 

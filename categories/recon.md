@@ -1,5 +1,11 @@
 ## 📅 06 March 2026
 
+- **[Bug Bounty Recon vs Pentesting Recon: Why the Same Techniques Follow Very Different Rules](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bug-bounty-recon-vs-pentesting-recon-why-the-same-techniques-follow-very-different-rules-e2da90f2d16d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 March 2026
+
+- **[Bug Bounty Recon vs Pentesting Recon: Why the Same Techniques Follow Very Different Rules](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bug-bounty-recon-vs-pentesting-recon-why-the-same-techniques-follow-very-different-rules-e2da90f2d16d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 March 2026
+
 - **[⚡ Building a Bug Bounty Recon Script That Launches OpenClaw for Analysis](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/building-a-bug-bounty-recon-script-that-launches-openclaw-for-analysis-7a6d5b2bbfe8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 March 2026
 

@@ -1,3 +1,6 @@
+## 📅 06 March 2026
+
+- **[Critical RCE Vulnerability in React Server Components — CVE-2025–55182 (React2Shell) — Largify…](https://medium.com/@skelersecurity/critical-rce-vulnerability-in-react-server-components-cve-2025-55182-react2shell-largify-868b1a009718?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 March 2026
 
 - **[Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay](https://medium.com/@yppip/why-every-scanner-missed-this-rce-reviving-cve-2020-7961-on-a-7-year-old-instance-of-liferay-a0d1c4af0738?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

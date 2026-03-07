@@ -1,3 +1,6 @@
+## 📅 06 March 2026
+
+- **[IDOR: The Phone Number That Speaks Everyone’s Secrets](https://medium.com/@anandhanaryan/idor-the-phone-number-that-speaks-everyones-secrets-a6f97f381cd0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 March 2026
 
 - **[Chaining IDOR to Admin Panel Takeover to SQLI](https://infosecwriteups.com/chaining-idor-to-admin-panel-takeover-to-sqli-b2ce412e5259?source=rss------pentesting-5)** _(Medium Pentesting)_
