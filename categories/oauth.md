@@ -1,3 +1,6 @@
+## 📅 07 March 2026
+
+- **[How I Used Reflected XSS + CORS + CSRF to Get 1-Click OAuth Misconfiguration](https://medium.com/developersglobal/how-i-used-reflected-xss-cors-to-get-1-click-oauth-misconfiguration-82088e94c96c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 February 2026
 
 - **[Authentication Strategies Explained — JWT vs Sessions vs OAuth vs Magic Link](https://medium.com/@kunjbaldha77/authentication-strategies-explained-jwt-vs-sessions-vs-oauth-vs-magic-link-2d47715f2c2c?source=rss------security-5)** _(Medium Security)_
