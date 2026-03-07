@@ -1,5 +1,8 @@
 ## 📅 07 March 2026
 
+- **[Reflected XSS in Facebook, Twitter & Google Training Platforms](https://nullsecurityx.medium.com/reflected-xss-in-facebook-twitter-google-training-platforms-f98198d65657?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 March 2026
+
 - **[How I Used Reflected XSS + CORS + CSRF to Get 1-Click OAuth Misconfiguration](https://medium.com/developersglobal/how-i-used-reflected-xss-cors-to-get-1-click-oauth-misconfiguration-82088e94c96c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 March 2026
 

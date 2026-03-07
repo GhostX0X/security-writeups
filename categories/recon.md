@@ -1,3 +1,9 @@
+## 📅 07 March 2026
+
+- **[Passive & Active Reconnaissance for Beginners: The Complete Guide | eJPT Part 1.1](https://medium.com/@shoaibbinrashid11/passive-active-reconnaissance-for-beginners-the-complete-guide-ejpt-part-1-1-8f989446fe7f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 March 2026
+
+- **[Passive & Active Reconnaissance for Beginners: The Complete Guide | eJPT Part 1.1](https://medium.com/@shoaibbinrashid11/passive-active-reconnaissance-for-beginners-the-complete-guide-ejpt-part-1-1-8f989446fe7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 March 2026
 
 - **[Bug Bounty Recon vs Pentesting Recon: Why the Same Techniques Follow Very Different Rules](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bug-bounty-recon-vs-pentesting-recon-why-the-same-techniques-follow-very-different-rules-e2da90f2d16d?source=rss------pentesting-5)** _(Medium Pentesting)_
