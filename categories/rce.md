@@ -1,5 +1,8 @@
 ## 📅 08 March 2026
 
+- **[Intercepting Android HTTPS Traffic for Bug Bounty](https://medium.com/@ilanlan1987/intercepting-android-https-traffic-for-bug-bounty-027b361b52b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 March 2026
+
 - **[I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix](https://infosecwriteups.com/i-hacked-your-account-with-a-6-digit-pin-the-brute-force-nightmare-you-need-to-fix-7707309ca8c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 March 2026
 
