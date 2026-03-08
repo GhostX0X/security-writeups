@@ -1,3 +1,9 @@
+## 📅 08 March 2026
+
+- **[I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix](https://infosecwriteups.com/i-hacked-your-account-with-a-6-digit-pin-the-brute-force-nightmare-you-need-to-fix-7707309ca8c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 March 2026
+
+- **[Never Forget a Bearer Token Again: Angular’s HTTP Interceptor Explained](https://medium.com/scrum-and-coke/never-forget-a-bearer-token-again-angulars-http-interceptor-explained-805b7a63d9c7?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 March 2026
 
 - **[From Rejection to RCE: How a Dependency Confusion Finding Came Back Four Months Later and earned…](https://medium.com/@sagardhoot56/from-rejection-to-rce-how-a-dependency-confusion-finding-came-back-four-months-later-and-earned-e3ef1669fe24?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
