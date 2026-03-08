@@ -1,3 +1,6 @@
+## 📅 07 March 2026
+
+- **[From Rejection to RCE: How a Dependency Confusion Finding Came Back Four Months Later and earned…](https://medium.com/@sagardhoot56/from-rejection-to-rce-how-a-dependency-confusion-finding-came-back-four-months-later-and-earned-e3ef1669fe24?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 March 2026
 
 - **[Critical RCE Vulnerability in React Server Components — CVE-2025–55182 (React2Shell) — Largify…](https://medium.com/@skelersecurity/critical-rce-vulnerability-in-react-server-components-cve-2025-55182-react2shell-largify-868b1a009718?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

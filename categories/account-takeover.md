@@ -1,3 +1,9 @@
+## 📅 07 March 2026
+
+- **[Lab: Exploiting NoSQL operator injection to extract unknown fields (writeup)](https://youssef-nini.medium.com/lab-exploiting-nosql-operator-injection-to-extract-unknown-fields-writeup-889e5d26cffc?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 March 2026
+
+- **[IAM Misconfigurations That Lead to Full Account Takeover](https://medium.com/@shafiqulsumon007/iam-misconfigurations-that-lead-to-full-account-takeover-cf2d99970ce8?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 March 2026
 
 - **[3 Logic Bugs in Zendesk : A Single API Request Gave Me an Administrator’s Identity in Zendesk.](https://medium.com/@1nboard/3-logic-bugs-in-zendesk-a-single-api-request-gave-me-an-administrators-identity-in-zendesk-ade443ea3353?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
