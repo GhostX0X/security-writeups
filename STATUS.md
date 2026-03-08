@@ -1,7 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-03-08 06:30:44.906080 UTC
+Last updated: 2026-03-08 12:26:55.913440 UTC
 
-- rce: 3
-- account-takeover: 2
-- recon: 1
+- rce: 1
+- account-takeover: 1
