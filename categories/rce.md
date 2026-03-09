@@ -1,5 +1,11 @@
 ## 📅 08 March 2026
 
+- **[Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced](https://maordayanofficial.medium.com/detect-download-extract-automating-source-code-recovery-with-dotgit-enhanced-35b0e72402f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 March 2026
+
+- **[Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced](https://maordayanofficial.medium.com/detect-download-extract-automating-source-code-recovery-with-dotgit-enhanced-35b0e72402f3?source=rss------security-5)** _(Medium Security)_
+## 📅 08 March 2026
+
 - **[Intercepting Android HTTPS Traffic for Bug Bounty](https://medium.com/@ilanlan1987/intercepting-android-https-traffic-for-bug-bounty-027b361b52b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 March 2026
 
