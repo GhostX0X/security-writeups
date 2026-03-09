@@ -1,3 +1,9 @@
+## 📅 09 March 2026
+
+- **[Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 March 2026
+
+- **[Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 March 2026
 
 - **[Reflected XSS in Facebook, Twitter & Google Training Platforms](https://nullsecurityx.medium.com/reflected-xss-in-facebook-twitter-google-training-platforms-f98198d65657?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
