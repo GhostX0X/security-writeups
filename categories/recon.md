@@ -1,3 +1,12 @@
+## 📅 09 March 2026
+
+- **[From Reconnaissance to Exploitation: Understanding Penetration Testing Methodologies](https://medium.com/@isameersah/from-reconnaissance-to-exploitation-understanding-penetration-testing-methodologies-34f23e574096?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 March 2026
+
+- **[Reconnaissance Before Exploitation: How Penetration Testers Actually Study Their Targets](https://medium.com/@jigyasha.rajbhandari/reconnaissance-before-exploitation-how-penetration-testers-actually-study-their-targets-b4751ff2b595?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 March 2026
+
+- **[How I Built an All-In-One Bug Bounty Recon Engine for Kali Linux (Stealth & Aggressive Modes)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-built-an-all-in-one-bug-bounty-recon-engine-for-kali-linux-stealth-aggressive-modes-8c2f1aa491c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 March 2026
 
 - **[Passive & Active Reconnaissance for Beginners: The Complete Guide | eJPT Part 1.1](https://medium.com/@shoaibbinrashid11/passive-active-reconnaissance-for-beginners-the-complete-guide-ejpt-part-1-1-8f989446fe7f?source=rss------pentesting-5)** _(Medium Pentesting)_

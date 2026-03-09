@@ -1,5 +1,8 @@
 ## 📅 09 March 2026
 
+- **[Hack Smarter: Polution — Privilege Escalation via Prototype Pollution to XSS](https://systemweakness.com/hack-smarter-polution-prototype-pollution-to-xss-7187eb534df4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 March 2026
+
 - **[Breaking Down cross-site scripting (XSS) part 3 | Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-3-walkthrough-via-portswigger-bc96159c4f82?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 09 March 2026
 
