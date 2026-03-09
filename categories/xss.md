@@ -1,5 +1,8 @@
 ## 📅 09 March 2026
 
+- **[Breaking Down cross-site scripting (XSS) part 3 | Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-3-walkthrough-via-portswigger-bc96159c4f82?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 March 2026
+
 - **[Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 March 2026
 

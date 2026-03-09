@@ -1,3 +1,6 @@
+## 📅 09 March 2026
+
+- **[IDOR Mastery: From Basic ID Changes to Advanced Techniques That Pay $10K+ Bounties](https://medium.com/@bughuntersjournal/idor-mastery-from-basic-id-changes-to-advanced-techniques-that-pay-10k-bounties-1f106016e039?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 March 2026
 
 - **[IDOR: The Phone Number That Speaks Everyone’s Secrets](https://medium.com/@anandhanaryan/idor-the-phone-number-that-speaks-everyones-secrets-a6f97f381cd0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
