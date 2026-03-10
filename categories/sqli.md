@@ -1,5 +1,8 @@
 ## 📅 09 March 2026
 
+- **[Lab: SQL injection UNION attack, finding a column containing text](https://songulkizilay.medium.com/lab-sql-injection-union-attack-finding-a-column-containing-text-dba317ce4a28?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 March 2026
+
 - **[From Zero to 11 SQLi: Creating A Professional Penetration Testing Framework](https://meetcyber.net/from-zero-to-11-sqli-creating-a-professional-penetration-testing-framework-565b376f1e85?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 March 2026
 
