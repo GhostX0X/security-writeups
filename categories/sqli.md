@@ -1,3 +1,6 @@
+## 📅 10 March 2026
+
+- **[“Bug Bounty Bootcamp #28: Boolean-Based Blind SQL Injection — Extracting Data One True/False at a…](https://infosecwriteups.com/bug-bounty-bootcamp-28-boolean-based-blind-sql-injection-extracting-data-one-true-false-at-a-abe69e3de702?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 March 2026
 
 - **[Lab: SQL injection UNION attack, finding a column containing text](https://songulkizilay.medium.com/lab-sql-injection-union-attack-finding-a-column-containing-text-dba317ce4a28?source=rss------pentesting-5)** _(Medium Pentesting)_

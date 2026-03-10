@@ -1,3 +1,6 @@
+## 📅 10 March 2026
+
+- **[Weak Password Reset Token leading to Account Takeover](https://medium.com/@pauldipesh29/weak-password-reset-token-leading-to-account-takeover-1a162d651acf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 March 2026
 
 - **[Lab: Exploiting NoSQL operator injection to extract unknown fields (writeup)](https://youssef-nini.medium.com/lab-exploiting-nosql-operator-injection-to-extract-unknown-fields-writeup-889e5d26cffc?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,5 +1,11 @@
 ## 📅 10 March 2026
 
+- **[Five Flags, Zero Exploits: A Web Reconnaissance Walkthrough | eJPT Part 1.1](https://medium.com/@shoaibbinrashid11/five-flags-zero-exploits-a-web-reconnaissance-walkthrough-ejpt-part-1-1-a4550f297703?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 March 2026
+
+- **[I Turned My Recon Cheat Sheets Into a Bash Script](https://mhndfi.medium.com/i-turned-my-recon-cheat-sheets-into-a-bash-script-2fdca4046491?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 March 2026
+
 - **[️ Supercharging Bug Bounty Recon with Netlas: A Smarter Way to Discover Targets](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-supercharging-bug-bounty-recon-with-netlas-a-smarter-way-to-discover-targets-1911c2aec6a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 March 2026
 
