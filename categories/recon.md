@@ -1,3 +1,6 @@
+## 📅 10 March 2026
+
+- **[️ Supercharging Bug Bounty Recon with Netlas: A Smarter Way to Discover Targets](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-supercharging-bug-bounty-recon-with-netlas-a-smarter-way-to-discover-targets-1911c2aec6a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 March 2026
 
 - **[From Reconnaissance to Exploitation: Understanding Penetration Testing Methodologies](https://medium.com/@isameersah/from-reconnaissance-to-exploitation-understanding-penetration-testing-methodologies-34f23e574096?source=rss------pentesting-5)** _(Medium Pentesting)_
