@@ -1,3 +1,6 @@
+## 📅 11 March 2026
+
+- **[XSS Bypass to Zero Click Account Takeover in AI Chatbot](https://infosecwriteups.com/xss-bypass-to-zero-click-account-takeover-in-ai-chatbot-a19acee8266f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 March 2026
 
 - **[Full Account Takeover via Email Confirmation Misconfiguration](https://medium.com/@abhaycrgowda/full-account-takeover-via-email-confirmation-misconfiguration-9403fa17ba89?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

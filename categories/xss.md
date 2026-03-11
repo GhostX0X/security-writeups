@@ -1,3 +1,9 @@
+## 📅 11 March 2026
+
+- **[XSS Bypass to Zero Click Account Takeover in AI Chatbot](https://infosecwriteups.com/xss-bypass-to-zero-click-account-takeover-in-ai-chatbot-a19acee8266f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 March 2026
+
+- **[PostMessage Misconfiguration + AI Prompt Injection + Sandbox Escape = XSS & Data Exfiltration](https://infosecwriteups.com/postmessage-misconfiguration-ai-prompt-injection-sandbox-escape-xss-data-exfiltration-d1d29821a2de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 March 2026
 
 - **[Lab: Reflected XSS into HTML context with most tags and attributes blocked](https://medium.com/@may.hack/lab-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-ff3f80903598?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
