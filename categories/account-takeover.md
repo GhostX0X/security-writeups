@@ -1,5 +1,11 @@
 ## 📅 10 March 2026
 
+- **[Full Account Takeover via Email Confirmation Misconfiguration](https://medium.com/@abhaycrgowda/full-account-takeover-via-email-confirmation-misconfiguration-9403fa17ba89?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 March 2026
+
+- **[Zero-Click Account Takeover via Organization Invite Abuse](https://medium.com/@abhaycrgowda/zero-click-account-takeover-via-organization-invite-abuse-87751225f950?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 March 2026
+
 - **[Weak Password Reset Token leading to Account Takeover](https://medium.com/@pauldipesh29/weak-password-reset-token-leading-to-account-takeover-1a162d651acf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 March 2026
 

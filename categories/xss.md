@@ -1,3 +1,6 @@
+## 📅 10 March 2026
+
+- **[Lab: Reflected XSS into HTML context with most tags and attributes blocked](https://medium.com/@may.hack/lab-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-ff3f80903598?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 March 2026
 
 - **[Hack Smarter: Polution — Privilege Escalation via Prototype Pollution to XSS](https://systemweakness.com/hack-smarter-polution-prototype-pollution-to-xss-7187eb534df4?source=rss------pentesting-5)** _(Medium Pentesting)_
