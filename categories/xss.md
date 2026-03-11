@@ -1,5 +1,8 @@
 ## 📅 11 March 2026
 
+- **[Breaking Down cross-site scripting (XSS) part 4| Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-4-walkthrough-via-portswigger-850d51d92ad8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 March 2026
+
 - **[XSS Bypass to Zero Click Account Takeover in AI Chatbot](https://infosecwriteups.com/xss-bypass-to-zero-click-account-takeover-in-ai-chatbot-a19acee8266f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 

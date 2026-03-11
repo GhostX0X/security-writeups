@@ -1,3 +1,6 @@
+## 📅 11 March 2026
+
+- **[Kyverno Validation Policies: Enforce Security and Best Practices](https://medium.com/@rameshavutu/kyverno-validation-policies-enforce-security-and-best-practices-65b01a82b9b8?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 March 2026
 
 - **[Your WiFi Router Can Now See You Through Walls. Someone Just Open-Sourced It.](https://medium.com/coding-nexus/your-wifi-router-can-now-see-you-through-walls-someone-just-open-sourced-it-76c265fcb6c7?source=rss------security-5)** _(Medium Security)_
