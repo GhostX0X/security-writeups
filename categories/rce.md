@@ -1,5 +1,8 @@
 ## 📅 11 March 2026
 
+- **[No Token. No Session. No Problem. How a Default GraphQL Endpoint Led Me to Unauthenticated RCE](https://medium.com/@youssefmohamedsaadhelal1214/no-token-no-session-no-problem-how-a-default-graphql-endpoint-led-me-to-unauthenticated-rce-494932f1a4f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 March 2026
+
 - **[Kyverno Validation Policies: Enforce Security and Best Practices](https://medium.com/@rameshavutu/kyverno-validation-policies-enforce-security-and-best-practices-65b01a82b9b8?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 March 2026
 

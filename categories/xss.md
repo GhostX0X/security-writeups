@@ -1,5 +1,8 @@
 ## 📅 11 March 2026
 
+- **[Intigriti XSS Challenge (InkDrop) Write-up — Stored XSS via Preview + JSONP Callback](https://medium.com/@cod3rjava/intigriti-xss-challenge-inkdrop-write-up-stored-xss-via-preview-jsonp-callback-e4db4ff49701?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 March 2026
+
 - **[Breaking Down cross-site scripting (XSS) part 4| Walkthrough via PortSwigger](https://medium.com/@hammamawis/breaking-down-cross-site-scripting-xss-part-4-walkthrough-via-portswigger-850d51d92ad8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 11 March 2026
 
