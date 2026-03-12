@@ -1,5 +1,8 @@
 ## 📅 12 March 2026
 
+- **[Discovering OTP Validation Bypass and IDOR in a Data Export Function](https://medium.com/@nyany032/discovering-otp-validation-bypass-and-idor-in-a-data-export-function-83235fe7ba82?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 March 2026
+
 - **[The Web3 IDOR: Leaving the Bank Vault Wide Open](https://hunterx461.medium.com/the-web3-idor-leaving-the-bank-vault-wide-open-f13bbcdf7be6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 
