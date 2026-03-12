@@ -1,3 +1,9 @@
+## 📅 12 March 2026
+
+- **[Web Security Series #1 — Exploiting Authentication Using a Brute-Force Attack](https://medium.com/@laibakashif0011/web-security-series-1-exploiting-authentication-using-a-brute-force-attack-ff4fa1bd3203?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 March 2026
+
+- **[Web Security Series #1 — Exploiting Authentication Using a Brute-Force Attack](https://medium.com/@laibakashif0011/web-security-series-1-exploiting-authentication-using-a-brute-force-attack-ff4fa1bd3203?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 
 - **[AI, Cloud, and the 2030 Workforce: Why This Is the Moment (Especially for Women)](https://medium.com/@keshow1/ai-cloud-and-the-2030-workforce-why-this-is-the-moment-especially-for-women-b4c941f2bb6d?source=rss------security-5)** _(Medium Security)_
