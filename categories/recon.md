@@ -1,3 +1,6 @@
+## 📅 11 March 2026
+
+- **[From Recon to Jackpot: IDOR That Exposed Billing Data and CHAINED method.](https://medium.com/@wanqais007/from-recon-to-jackpot-idor-that-exposed-billing-data-and-chained-method-5b1949f740eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 March 2026
 
 - **[Five Flags, Zero Exploits: A Web Reconnaissance Walkthrough | eJPT Part 1.1](https://medium.com/@shoaibbinrashid11/five-flags-zero-exploits-a-web-reconnaissance-walkthrough-ejpt-part-1-1-a4550f297703?source=rss------pentesting-5)** _(Medium Pentesting)_

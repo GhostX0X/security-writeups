@@ -1,5 +1,8 @@
 ## 📅 11 March 2026
 
+- **[AI, Cloud, and the 2030 Workforce: Why This Is the Moment (Especially for Women)](https://medium.com/@keshow1/ai-cloud-and-the-2030-workforce-why-this-is-the-moment-especially-for-women-b4c941f2bb6d?source=rss------security-5)** _(Medium Security)_
+## 📅 11 March 2026
+
 - **[No Token. No Session. No Problem. How a Default GraphQL Endpoint Led Me to Unauthenticated RCE](https://medium.com/@youssefmohamedsaadhelal1214/no-token-no-session-no-problem-how-a-default-graphql-endpoint-led-me-to-unauthenticated-rce-494932f1a4f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 

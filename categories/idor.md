@@ -1,3 +1,6 @@
+## 📅 11 March 2026
+
+- **[From Recon to Jackpot: IDOR That Exposed Billing Data and CHAINED method.](https://medium.com/@wanqais007/from-recon-to-jackpot-idor-that-exposed-billing-data-and-chained-method-5b1949f740eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 March 2026
 
 - **[IDOR Mastery: From Basic ID Changes to Advanced Techniques That Pay $10K+ Bounties](https://medium.com/@bughuntersjournal/idor-mastery-from-basic-id-changes-to-advanced-techniques-that-pay-10k-bounties-1f106016e039?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
