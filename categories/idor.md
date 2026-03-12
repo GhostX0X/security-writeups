@@ -1,3 +1,6 @@
+## 📅 12 March 2026
+
+- **[The Web3 IDOR: Leaving the Bank Vault Wide Open](https://hunterx461.medium.com/the-web3-idor-leaving-the-bank-vault-wide-open-f13bbcdf7be6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 
 - **[From Recon to Jackpot: IDOR That Exposed Billing Data and CHAINED method.](https://medium.com/@wanqais007/from-recon-to-jackpot-idor-that-exposed-billing-data-and-chained-method-5b1949f740eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
