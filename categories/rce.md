@@ -1,5 +1,8 @@
 ## 📅 13 March 2026
 
+- **[Intercepting Flutter iOS App Traffic with Frida-No VPN, No Iptables](https://pritessh.medium.com/intercepting-flutter-ios-app-traffic-with-frida-no-vpn-no-iptables-d91339cefe6a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 March 2026
+
 - **[Chaining SQLi into RCE — A Lab Case Study](https://medium.com/@Shatha511/chaining-sqli-into-rce-a-lab-case-study-23590bb23a3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 

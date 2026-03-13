@@ -1,5 +1,11 @@
 ## 📅 13 March 2026
 
+- **[SQL Injection UNION Attack Tutorial: Finding the Number of Columns Step-by-Step](https://medium.com/@eh30304012704007/sql-injection-union-attack-tutorial-finding-the-number-of-columns-step-by-step-e8e98aca36e8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 13 March 2026
+
+- **[SQL Injection UNION Attack Tutorial: Finding the Number of Columns Step-by-Step](https://medium.com/@eh30304012704007/sql-injection-union-attack-tutorial-finding-the-number-of-columns-step-by-step-e8e98aca36e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 March 2026
+
 - **[Chaining SQLi into RCE — A Lab Case Study](https://medium.com/@Shatha511/chaining-sqli-into-rce-a-lab-case-study-23590bb23a3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 
