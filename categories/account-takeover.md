@@ -1,5 +1,8 @@
 ## 📅 12 March 2026
 
+- **[Why I Stopped Ignoring Open Redirects (A Zero-Click ATO Story)](https://medium.com/@hotisha/why-i-stopped-ignoring-open-redirects-a-zero-click-ato-story-babe76f3f1c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 March 2026
+
 - **[MSFVenom — The Ultimate Payload Generator for Security Testing](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/msfvenom-the-ultimate-payload-generator-for-security-testing-8ed44985cf37?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 March 2026
 

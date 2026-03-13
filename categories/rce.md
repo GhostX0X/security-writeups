@@ -1,5 +1,11 @@
 ## 📅 12 March 2026
 
+- **[CORS End-to-End: How Browsers Enforce It, How Attackers Break It, How Devs Fix It](https://vikash-vishnoi.medium.com/cors-end-to-end-how-browsers-enforce-it-how-attackers-break-it-how-devs-fix-it-cea4b77e6028?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 March 2026
+
+- **[Hidden Backdoors in Open-Source AI Models: The Hidden Threat in the AI Supply Chain](https://medium.com/@rajaalitabish8900/hidden-backdoors-in-open-source-ai-models-the-hidden-threat-in-the-ai-supply-chain-ebd522bc589f?source=rss------security-5)** _(Medium Security)_
+## 📅 12 March 2026
+
 - **[Web Security Series #1 — Exploiting Authentication Using a Brute-Force Attack](https://medium.com/@laibakashif0011/web-security-series-1-exploiting-authentication-using-a-brute-force-attack-ff4fa1bd3203?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 March 2026
 

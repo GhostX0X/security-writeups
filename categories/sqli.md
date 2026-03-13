@@ -1,3 +1,6 @@
+## 📅 13 March 2026
+
+- **[Guía Maestra de SQL Injection (SQLi): Tipos, Payloads y Técnicas de Evasión](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-sql-injection-sqli-tipos-payloads-y-t%C3%A9cnicas-de-evasi%C3%B3n-f1640ccdeac4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 
 - **[Lab: SQL injection UNION attack, retrieving multiple values in a single column](https://songulkizilay.medium.com/lab-sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-5b54fabcbbbc?source=rss------pentesting-5)** _(Medium Pentesting)_
