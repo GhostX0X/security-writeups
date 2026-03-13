@@ -1,3 +1,6 @@
+## 📅 13 March 2026
+
+- **[Lab: Reflected XSS into HTML context with all tags blocked except custom ones](https://medium.com/@may.hack/lab-reflected-xss-into-html-context-with-all-tags-blocked-except-custom-ones-c6be6f71b741?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 
 - **[Intigriti XSS Challenge (InkDrop) Write-up — Stored XSS via Preview + JSONP Callback](https://medium.com/@cod3rjava/intigriti-xss-challenge-inkdrop-write-up-stored-xss-via-preview-jsonp-callback-e4db4ff49701?source=rss------pentesting-5)** _(Medium Pentesting)_
