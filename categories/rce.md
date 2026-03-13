@@ -1,3 +1,9 @@
+## 📅 13 March 2026
+
+- **[Chaining SQLi into RCE — A Lab Case Study](https://medium.com/@Shatha511/chaining-sqli-into-rce-a-lab-case-study-23590bb23a3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 March 2026
+
+- **[Critical Splunk RCE Vulnerability (CVE-2026–20163) Lets Attackers Run Shell Commands on Your Server](https://medium.com/@EternalSec/critical-splunk-rce-vulnerability-cve-2026-20163-lets-attackers-run-shell-commands-on-your-server-244fcbe3497d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 March 2026
 
 - **[CORS End-to-End: How Browsers Enforce It, How Attackers Break It, How Devs Fix It](https://vikash-vishnoi.medium.com/cors-end-to-end-how-browsers-enforce-it-how-attackers-break-it-how-devs-fix-it-cea4b77e6028?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

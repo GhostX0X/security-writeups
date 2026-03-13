@@ -1,5 +1,11 @@
 ## 📅 13 March 2026
 
+- **[Chaining SQLi into RCE — A Lab Case Study](https://medium.com/@Shatha511/chaining-sqli-into-rce-a-lab-case-study-23590bb23a3a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 March 2026
+
+- **[SQL Injection: The Bug Born From Deadline Pressure](https://medium.com/@bmrajeswari123/sql-injection-the-bug-born-from-deadline-pressure-6ede9d18d5ab?source=rss------security-5)** _(Medium Security)_
+## 📅 13 March 2026
+
 - **[Guía Maestra de SQL Injection (SQLi): Tipos, Payloads y Técnicas de Evasión](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-sql-injection-sqli-tipos-payloads-y-t%C3%A9cnicas-de-evasi%C3%B3n-f1640ccdeac4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 

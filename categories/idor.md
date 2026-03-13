@@ -1,3 +1,9 @@
+## 📅 13 March 2026
+
+- **[Advanced IDOR Exploitation: Beyond the Basics](https://rot-ig.medium.com/advanced-idor-exploitation-beyond-the-basics-c8a62e7885ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 March 2026
+
+- **[How I got: GraphQL IDOR — Unauthorised Access of PII via Missing Authorisation Controls](https://mrtom001.medium.com/graphql-idor-unauthorised-access-of-pii-via-missing-authorisation-controls-c7bd7512a6a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 March 2026
 
 - **[Discovering OTP Validation Bypass and IDOR in a Data Export Function](https://medium.com/@nyany032/discovering-otp-validation-bypass-and-idor-in-a-data-export-function-83235fe7ba82?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
