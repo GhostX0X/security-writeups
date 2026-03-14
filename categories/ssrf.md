@@ -1,3 +1,6 @@
+## 📅 14 March 2026
+
+- **[Discovering a Blind SSRF Vulnerability in a PHP RSS Feed Parser](https://medium.com/@hemantrajbhati5555/discovering-a-blind-ssrf-vulnerability-in-a-php-rss-feed-parser-243f3ccbdafb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 February 2026
 
 - **[From SSRF to AWS Pwnage: A Hacker’s Guide to Cloud-Native Exploits](https://xalgord.medium.com/from-ssrf-to-aws-pwnage-a-hackers-guide-to-cloud-native-exploits-bc4621ebb048?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 14 March 2026
+
+- **[Exploiting a SQL Injection Vulnerability in a WHERE Clause | PortSwigger Lab Write-up](https://medium.com/@shrmashivam2005/exploiting-a-sql-injection-vulnerability-in-a-where-clause-portswigger-lab-write-up-456126f56ba4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 
 - **[How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of…](https://infosecwriteups.com/how-i-found-a-critical-sql-injection-in-an-abandoned-website-exploiting-a-rare-chain-of-10e5e5615b29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
