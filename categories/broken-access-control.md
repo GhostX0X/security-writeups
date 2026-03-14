@@ -1,3 +1,6 @@
+## 📅 14 March 2026
+
+- **[What Is an Access Control System? A Complete Beginner’s Guide](https://medium.com/@system.goldlinesec/what-is-an-access-control-system-a-complete-beginners-guide-cd5bc648be5c?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 March 2026
 
 - **[Security and Access Control Systems for Smart Buildings Explained](https://medium.com/@echo_null/security-and-access-control-systems-for-smart-buildings-explained-d60a4751a623?source=rss------security-5)** _(Medium Security)_

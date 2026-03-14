@@ -1,3 +1,6 @@
+## 📅 14 March 2026
+
+- **[Something Was Hidden in YouTube… Until I Checked the Page Source](https://medium.com/@vasanthgn/something-was-hidden-in-youtube-until-i-checked-the-page-source-9e8bf9b51401?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 
 - **[Intercepting Flutter iOS App Traffic with Frida-No VPN, No Iptables](https://pritessh.medium.com/intercepting-flutter-ios-app-traffic-with-frida-no-vpn-no-iptables-d91339cefe6a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
