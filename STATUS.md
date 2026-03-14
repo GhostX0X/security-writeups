@@ -1,6 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-03-14 01:10:17.225859 UTC
+Last updated: 2026-03-14 06:34:25.852253 UTC
 
-- sqli: 4
+- sqli: 3
 - rce: 1
