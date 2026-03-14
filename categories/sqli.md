@@ -1,5 +1,11 @@
 ## 📅 13 March 2026
 
+- **[How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of…](https://infosecwriteups.com/how-i-found-a-critical-sql-injection-in-an-abandoned-website-exploiting-a-rare-chain-of-10e5e5615b29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 March 2026
+
+- **[Master Guide to SQL Injection (SQLi): Types, Payloads, and Evasion Techniques](https://medium.com/@jpablo13/master-guide-to-sql-injection-sqli-types-payloads-and-evasion-techniques-ab3da4e8194f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 March 2026
+
 - **[SQL Injection UNION Attack Tutorial: Finding the Number of Columns Step-by-Step](https://medium.com/@eh30304012704007/sql-injection-union-attack-tutorial-finding-the-number-of-columns-step-by-step-e8e98aca36e8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 March 2026
 
