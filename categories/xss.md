@@ -1,3 +1,6 @@
+## 📅 14 March 2026
+
+- **[Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS (WAF Bypass)](https://medium.com/@housien.a.khalek19/escalating-an-out-of-scope-html-injection-to-a-critical-9-3-xss-waf-bypass-12b194d6a1df?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 
 - **[Lab: Reflected XSS into HTML context with all tags blocked except custom ones](https://medium.com/@may.hack/lab-reflected-xss-into-html-context-with-all-tags-blocked-except-custom-ones-c6be6f71b741?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

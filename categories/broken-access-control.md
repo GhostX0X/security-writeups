@@ -1,5 +1,8 @@
 ## 📅 14 March 2026
 
+- **[My $150 Bug Bounty: A Low-Severity Access Control Bug](https://medium.com/@Muhammad_Wageh/my-150-bug-bounty-a-low-severity-access-control-bug-ed3452dcbbec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 March 2026
+
 - **[What Is an Access Control System? A Complete Beginner’s Guide](https://medium.com/@system.goldlinesec/what-is-an-access-control-system-a-complete-beginners-guide-cd5bc648be5c?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 March 2026
 

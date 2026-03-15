@@ -1,3 +1,6 @@
+## 📅 14 March 2026
+
+- **[How Threat Actors Accidentally Documented My Recon Strategy ️](https://infosecwriteups.com/how-threat-actors-accidentally-documented-my-recon-strategy-%EF%B8%8F-f28307135c04?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 March 2026
 
 - **[From Recon to Jackpot: IDOR That Exposed Billing Data and CHAINED method.](https://medium.com/@wanqais007/from-recon-to-jackpot-idor-that-exposed-billing-data-and-chained-method-5b1949f740eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
