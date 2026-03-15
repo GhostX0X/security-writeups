@@ -1,3 +1,6 @@
+## 📅 15 March 2026
+
+- **[How to Build an AI Payload Generator with Python & Ollama](https://medium.com/linux-diary/how-to-build-an-ai-payload-generator-with-python-ollama-d31293c83d38?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 March 2026
 
 - **[Why I Stopped Ignoring Open Redirects (A Zero-Click ATO Story)](https://medium.com/@hotisha/why-i-stopped-ignoring-open-redirects-a-zero-click-ato-story-babe76f3f1c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

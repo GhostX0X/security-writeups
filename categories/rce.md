@@ -1,5 +1,11 @@
 ## 📅 15 March 2026
 
+- **[DNS Pentesting Guide: How Hackers Exploit Port 53 (Zone Transfers, Subdomain Bruteforce & More)](https://medium.com/@verylazytech/dns-pentesting-guide-how-hackers-exploit-port-53-zone-transfers-subdomain-bruteforce-more-c3580761cdef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 March 2026
+
+- **[Role Management Logic Bug Leads to Unlimited Resource Access](https://medium.com/@abdulrahmanreda660/role-management-logic-bug-leads-to-unlimited-resource-access-ddcb648534d2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 March 2026
+
 - **[I Investigated Public GitHub Repositories and Found AI Prompts Exposed in Source Code](https://medium.com/@paritoshblogs/i-investigated-public-github-repositories-and-found-ai-prompts-exposed-in-source-code-e18f013c2557?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 March 2026
 
