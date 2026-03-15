@@ -1,3 +1,6 @@
+## 📅 15 March 2026
+
+- **[I Investigated Public GitHub Repositories and Found AI Prompts Exposed in Source Code](https://medium.com/@paritoshblogs/i-investigated-public-github-repositories-and-found-ai-prompts-exposed-in-source-code-e18f013c2557?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 March 2026
 
 - **[Something Was Hidden in YouTube… Until I Checked the Page Source](https://medium.com/@vasanthgn/something-was-hidden-in-youtube-until-i-checked-the-page-source-9e8bf9b51401?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
