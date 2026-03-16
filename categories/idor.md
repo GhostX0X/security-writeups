@@ -1,3 +1,6 @@
+## 📅 16 March 2026
+
+- **[How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms](https://medium.com/@impyhacker/how-i-found-a-critical-idor-leading-to-account-takeover-in-two-edtech-platforms-44439a66ceb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 
 - **[Advanced IDOR Exploitation: Beyond the Basics](https://rot-ig.medium.com/advanced-idor-exploitation-beyond-the-basics-c8a62e7885ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

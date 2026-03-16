@@ -1,3 +1,6 @@
+## 📅 16 March 2026
+
+- **[How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms](https://medium.com/@impyhacker/how-i-found-a-critical-idor-leading-to-account-takeover-in-two-edtech-platforms-44439a66ceb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 March 2026
 
 - **[How to Build an AI Payload Generator with Python & Ollama](https://medium.com/linux-diary/how-to-build-an-ai-payload-generator-with-python-ollama-d31293c83d38?source=rss------pentesting-5)** _(Medium Pentesting)_
