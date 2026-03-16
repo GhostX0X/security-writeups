@@ -1,5 +1,8 @@
 ## 📅 16 March 2026
 
+- **[I Found an IDOR Worth $20,000 -Here’s What Happened](https://medium.com/@MohaseenK/i-found-an-idor-worth-20-000-heres-what-happened-62d6b8c4f17d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 March 2026
+
 - **[How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms](https://medium.com/@impyhacker/how-i-found-a-critical-idor-leading-to-account-takeover-in-two-edtech-platforms-44439a66ceb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 March 2026
 

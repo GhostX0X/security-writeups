@@ -1,5 +1,8 @@
 ## 📅 16 March 2026
 
+- **[$800 Bounty: How a Missing Email Verification Led to Account Takeover on Shopify Collabs](https://meetcyber.net/800-bounty-how-a-missing-email-verification-led-to-account-takeover-on-shopify-collabs-0c9ab8683bfd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 March 2026
+
 - **[How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms](https://medium.com/@impyhacker/how-i-found-a-critical-idor-leading-to-account-takeover-in-two-edtech-platforms-44439a66ceb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 March 2026
 
