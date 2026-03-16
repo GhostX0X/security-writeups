@@ -1,3 +1,6 @@
+## 📅 16 March 2026
+
+- **[How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab](https://medium.com/@C0deRevenant/how-i-discovered-a-700-csrf-vulnerability-and-recreated-it-as-a-security-lab-7a2e0a80eb92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 March 2026
 
 - **[DVWA : Cross Site Request Forgery (CSRF) Vulnerability (Low Security)](https://medium.com/@Kamal_S/dvwa-cross-site-request-forgery-csrf-vulnerability-low-security-b02dce2423b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
