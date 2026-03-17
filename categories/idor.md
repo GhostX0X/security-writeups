@@ -1,5 +1,8 @@
 ## 📅 17 March 2026
 
+- **[IDOR: The Simple Parameter Change That Can Expose Someone Else’s Data](https://meetcyber.net/idor-the-simple-parameter-change-that-can-expose-someone-elses-data-4248c634b952?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 March 2026
+
 - **[IDOR: The Bug That Still Breaks Modern Apps](https://medium.com/@red_shadow_11/idor-the-bug-that-still-breaks-modern-apps-39be2cf42e14?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 March 2026
 
