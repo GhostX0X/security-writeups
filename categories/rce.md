@@ -1,3 +1,6 @@
+## 📅 16 March 2026
+
+- **[Securing Event-Sourced Financial Systems: From Encryption to Observability](https://kisztof.medium.com/securing-event-sourced-financial-systems-from-encryption-to-observability-1994fd2466c5?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 March 2026
 
 - **[Bir CMS Kabusu: CVE-2023–27372 ile SPIP Üzerinde Uzaktan Kod Çalıştırma (RCE)](https://medium.com/@e.erdem.e25/bir-cms-kabusu-cve-2023-27372-ile-spip-%C3%BCzerinde-uzaktan-kod-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-rce-bf72c868d223?source=rss------security-5)** _(Medium Security)_
