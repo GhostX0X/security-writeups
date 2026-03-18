@@ -1,3 +1,6 @@
+## 📅 18 March 2026
+
+- **[BOLA (IDOR) Vulnerability in a Comment Approval System](https://medium.com/@m.yasinagzikuru/bola-idor-vulnerability-in-a-comment-approval-system-e65678b56546?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 March 2026
 
 - **[IDOR: The Simple Parameter Change That Can Expose Someone Else’s Data](https://meetcyber.net/idor-the-simple-parameter-change-that-can-expose-someone-elses-data-4248c634b952?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 18 March 2026
 
+- **[How I Found a CSRF Vulnerability That Could Take Over Student Accounts on an Educational Platform](https://medium.com/@s3clipt0r/how-i-found-a-csrf-vulnerability-that-could-take-over-student-accounts-on-an-educational-platform-6e65bc70816f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 March 2026
+
 - **[How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened…](https://infosecwriteups.com/how-i-discovered-a-complete-csrf-protection-bypass-on-a-major-crypto-exchange-and-what-happened-10c7fc794324?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 March 2026
 
