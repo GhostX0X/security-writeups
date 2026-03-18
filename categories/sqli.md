@@ -1,3 +1,6 @@
+## 📅 18 March 2026
+
+- **[When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed](https://medium.com/@Xp10it/when-sql-injection-hides-behind-encoding-a-blind-sqli-that-automation-missed-2b74f9bb64e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 March 2026
 
 - **[Learning SQL Injection Through PortSwigger Labs (Beginner to Blind SQLi)](https://fuzzyyduck.medium.com/learning-sql-injection-through-portswigger-labs-beginner-to-blind-sqli-7dd78070afd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

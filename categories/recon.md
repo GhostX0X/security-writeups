@@ -1,3 +1,9 @@
+## 📅 18 March 2026
+
+- **[10 IoT Devices Bug Bounty Hunters Should Look For During Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/10-iot-devices-bug-bounty-hunters-should-look-for-during-recon-fd852e2511b6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 March 2026
+
+- **[10 IoT Devices Bug Bounty Hunters Should Look For During Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/10-iot-devices-bug-bounty-hunters-should-look-for-during-recon-fd852e2511b6?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 March 2026
 
 - **[PwnedLabs: Azure Recon to Foothold and Profit](https://medium.com/@persecure/pwnedlabs-azure-recon-to-foothold-and-profit-7d3fd1daf4d5?source=rss------pentesting-5)** _(Medium Pentesting)_

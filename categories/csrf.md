@@ -1,3 +1,6 @@
+## 📅 18 March 2026
+
+- **[How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened…](https://infosecwriteups.com/how-i-discovered-a-complete-csrf-protection-bypass-on-a-major-crypto-exchange-and-what-happened-10c7fc794324?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 March 2026
 
 - **[How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab](https://medium.com/@C0deRevenant/how-i-discovered-a-700-csrf-vulnerability-and-recreated-it-as-a-security-lab-7a2e0a80eb92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
