@@ -1,3 +1,6 @@
+## 📅 18 March 2026
+
+- **[Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://audreyhal.medium.com/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-45c1878352cd?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 March 2026
 
 - **[Microsoft Graph API Attack Surface: OAuth Flows, Abused Endpoints, and What Defenders Miss](https://infosecwriteups.com/microsoft-graph-api-attack-surface-oauth-flows-abused-endpoints-and-what-defenders-miss-9c303ea2aa02?source=rss------pentesting-5)** _(Medium Pentesting)_

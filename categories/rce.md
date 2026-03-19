@@ -1,3 +1,6 @@
+## 📅 19 March 2026
+
+- **[Divorce Strategy for Women: Protect Your Assets When He Hides Everything](https://medium.com/@qunmo-lexus/divorce-strategy-for-women-protect-your-assets-when-he-hides-everything-ac8371d65db6?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 March 2026
 
 - **[Securing Event-Sourced Financial Systems: From Encryption to Observability](https://kisztof.medium.com/securing-event-sourced-financial-systems-from-encryption-to-observability-1994fd2466c5?source=rss------security-5)** _(Medium Security)_
