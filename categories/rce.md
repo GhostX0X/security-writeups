@@ -1,5 +1,8 @@
 ## 📅 19 March 2026
 
+- **[The Rise of AI-Driven Pentesting: 8 Open-Source Tools Security Teams Should Watch in 2026](https://osintteam.blog/the-rise-of-ai-driven-pentesting-8-open-source-tools-security-teams-should-watch-in-2026-e849c8171450?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 March 2026
+
 - **[Divorce Strategy for Women: Protect Your Assets When He Hides Everything](https://medium.com/@qunmo-lexus/divorce-strategy-for-women-protect-your-assets-when-he-hides-everything-ac8371d65db6?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 March 2026
 
