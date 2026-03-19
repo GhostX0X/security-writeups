@@ -1,3 +1,6 @@
+## 📅 19 March 2026
+
+- **[Mastering Access Control Vulnerabilities — Practical Exploitation Guide (PortSwigger Labs)](https://sharonchristin193.medium.com/mastering-access-control-vulnerabilities-practical-exploitation-guide-portswigger-labs-e40df380a510?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 March 2026
 
 - **[My $150 Bug Bounty: A Low-Severity Access Control Bug](https://medium.com/@Muhammad_Wageh/my-150-bug-bounty-a-low-severity-access-control-bug-ed3452dcbbec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
