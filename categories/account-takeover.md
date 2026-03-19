@@ -1,3 +1,6 @@
+## 📅 19 March 2026
+
+- **[OffSec Proving Grounds — Potato](https://infosecwriteups.com/offsec-proving-grounds-potato-b080d38b4bed?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 16 March 2026
 
 - **[$800 Bounty: How a Missing Email Verification Led to Account Takeover on Shopify Collabs](https://meetcyber.net/800-bounty-how-a-missing-email-verification-led-to-account-takeover-on-shopify-collabs-0c9ab8683bfd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

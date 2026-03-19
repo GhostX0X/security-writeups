@@ -1,3 +1,6 @@
+## 📅 19 March 2026
+
+- **[SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft](https://medium.com/@0xanubiis/ssrf-via-unvalidated-preflight-location-header-in-turborepo-leads-to-auth-token-theft-dc69445daee0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 March 2026
 
 - **[Discovering a Blind SSRF Vulnerability in a PHP RSS Feed Parser](https://medium.com/@hemantrajbhati5555/discovering-a-blind-ssrf-vulnerability-in-a-php-rss-feed-parser-243f3ccbdafb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
