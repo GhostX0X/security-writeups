@@ -1,3 +1,6 @@
+## 📅 20 March 2026
+
+- **[Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools & Smart Workflows](https://meetcyber.net/automation-bug-bounty-from-recon-to-real-bugs-using-powerful-tools-smart-workflows-ad6913949125?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 March 2026
 
 - **[10 IoT Devices Bug Bounty Hunters Should Look For During Recon](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/10-iot-devices-bug-bounty-hunters-should-look-for-during-recon-fd852e2511b6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

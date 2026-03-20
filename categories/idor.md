@@ -1,3 +1,6 @@
+## 📅 20 March 2026
+
+- **[IDOR in a JWT-Protected Card Viewer API | CodeReviewLab Writeup](https://medium.com/@zaid.zrf/dor-in-a-jwt-protected-card-viewer-api-codereviewlab-writeup-57d437a5d481?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 March 2026
 
 - **[The Developer Called Me: How an IDOR Leaked 403 Users and Led to Account Takeover](https://medium.com/@gjethva10/the-developer-called-me-how-an-idor-leaked-403-users-and-led-to-account-takeover-1a2fd1d4a069?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

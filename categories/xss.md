@@ -1,3 +1,6 @@
+## 📅 20 March 2026
+
+- **[Cloudflare WAF Bypass Leading to Reflected XSS via SVG Injection](https://0xh7ml.medium.com/cloudflare-waf-bypass-leading-to-reflected-xss-via-svg-injection-8712de3830ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 March 2026
 
 - **[Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS (WAF Bypass)](https://medium.com/@housien.a.khalek19/escalating-an-out-of-scope-html-injection-to-a-critical-9-3-xss-waf-bypass-12b194d6a1df?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
