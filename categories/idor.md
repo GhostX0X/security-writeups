@@ -1,3 +1,9 @@
+## 📅 19 March 2026
+
+- **[The Developer Called Me: How an IDOR Leaked 403 Users and Led to Account Takeover](https://medium.com/@gjethva10/the-developer-called-me-how-an-idor-leaked-403-users-and-led-to-account-takeover-1a2fd1d4a069?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 March 2026
+
+- **[Hacking the “Republic of Valdoria”: Chaining IDOR, Cryptography Cracking, and JWT Bypass in a…](https://medium.com/@0xpedrop/hacking-the-republic-of-valdoria-chaining-idor-cryptography-cracking-and-jwt-bypass-in-a-738cae64f572?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 March 2026
 
 - **[BOLA (IDOR) Vulnerability in a Comment Approval System](https://medium.com/@m.yasinagzikuru/bola-idor-vulnerability-in-a-comment-approval-system-e65678b56546?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
