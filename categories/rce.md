@@ -1,3 +1,6 @@
+## 📅 20 March 2026
+
+- **[Hacking the Source: The Invisible Threat of Supply Chain Attacks](https://medium.com/h7w/hacking-the-source-the-invisible-threat-of-supply-chain-attacks-277cc136a8f0?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 March 2026
 
 - **[The Rise of AI-Driven Pentesting: 8 Open-Source Tools Security Teams Should Watch in 2026](https://osintteam.blog/the-rise-of-ai-driven-pentesting-8-open-source-tools-security-teams-should-watch-in-2026-e849c8171450?source=rss------pentesting-5)** _(Medium Pentesting)_

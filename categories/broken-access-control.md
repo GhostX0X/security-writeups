@@ -1,3 +1,6 @@
+## 📅 20 March 2026
+
+- **[Is Wireless Access Control Secure? Addressing Common Security Concerns](https://medium.com/@joven.a.rodrigues/is-wireless-access-control-secure-addressing-common-security-concerns-3dda553d8bf6?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 March 2026
 
 - **[Mastering Access Control Vulnerabilities — Practical Exploitation Guide (PortSwigger Labs)](https://sharonchristin193.medium.com/mastering-access-control-vulnerabilities-practical-exploitation-guide-portswigger-labs-e40df380a510?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
