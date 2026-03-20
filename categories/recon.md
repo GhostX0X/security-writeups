@@ -1,5 +1,8 @@
 ## 📅 20 March 2026
 
+- **[Top Recon Techniques That Still Work in 2026 (Bug Bounty)](https://medium.com/@thenewdate24/top-recon-techniques-that-still-work-in-2026-bug-bounty-27ee19c108ca?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 March 2026
+
 - **[Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools & Smart Workflows](https://meetcyber.net/automation-bug-bounty-from-recon-to-real-bugs-using-powerful-tools-smart-workflows-ad6913949125?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 March 2026
 
