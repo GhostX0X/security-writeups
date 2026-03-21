@@ -1,5 +1,8 @@
 ## 📅 20 March 2026
 
+- **[How I Built an Offline Cryptographic Evidence Vault (Open Source)](https://chethanvasthaw.medium.com/how-i-built-an-offline-cryptographic-evidence-vault-open-source-781342829021?source=rss------security-5)** _(Medium Security)_
+## 📅 20 March 2026
+
 - **[Hacking the Source: The Invisible Threat of Supply Chain Attacks](https://medium.com/h7w/hacking-the-source-the-invisible-threat-of-supply-chain-attacks-277cc136a8f0?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 March 2026
 

@@ -1,5 +1,8 @@
 ## 📅 20 March 2026
 
+- **[$500 in just a single IDOR](https://medium.com/@Muhammad_Wageh/500-in-just-a-single-idor-b13e9df22f4a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 March 2026
+
 - **[IDOR in a JWT-Protected Card Viewer API | CodeReviewLab Writeup](https://medium.com/@zaid.zrf/dor-in-a-jwt-protected-card-viewer-api-codereviewlab-writeup-57d437a5d481?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 March 2026
 

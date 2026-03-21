@@ -1,3 +1,6 @@
+## 📅 20 March 2026
+
+- **[Blind SQL Injection in Yahoo!](https://medium.com/@ahmedbelahcen2018/blind-sql-injection-in-yahoo-93c40b43a8af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 March 2026
 
 - **[Food Store — SQL Injection Challenge](https://medium.com/@anwer0x11/food-store-sql-injection-challenge-7bec9951a3a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
