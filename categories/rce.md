@@ -1,3 +1,9 @@
+## 📅 21 March 2026
+
+- **[CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication](https://medium.com/@dhxrxx/cve-2026-22812-how-i-got-rce-on-a-71k-star-ai-coding-tool-with-zero-authentication-7524fbc3317f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 March 2026
+
+- **[OCI Bastion Service: Secure Access to Private Resources Without a Jump Box](https://medium.com/@pavan4devops/oci-bastion-service-secure-access-to-private-resources-without-a-jump-box-06cb7233b6d0?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 March 2026
 
 - **[How I Built an Offline Cryptographic Evidence Vault (Open Source)](https://chethanvasthaw.medium.com/how-i-built-an-offline-cryptographic-evidence-vault-open-source-781342829021?source=rss------security-5)** _(Medium Security)_
