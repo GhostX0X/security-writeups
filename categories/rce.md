@@ -1,5 +1,8 @@
 ## 📅 21 March 2026
 
+- **[Krylov Complexity as a Cryptographic Resource: Eavesdropper Detection in QKD via Operator-Growth…](https://medium.com/@quantumspirit.research/krylov-complexity-as-a-cryptographic-resource-eavesdropper-detection-in-qkd-via-operator-growth-038361b66a9c?source=rss------security-5)** _(Medium Security)_
+## 📅 21 March 2026
+
 - **[CVE-2026–22812: How I Got RCE on a 71k-Star AI Coding Tool With Zero Authentication](https://medium.com/@dhxrxx/cve-2026-22812-how-i-got-rce-on-a-71k-star-ai-coding-tool-with-zero-authentication-7524fbc3317f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 March 2026
 

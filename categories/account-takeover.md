@@ -1,3 +1,6 @@
+## 📅 21 March 2026
+
+- **[Krylov Complexity as a Cryptographic Resource: Eavesdropper Detection in QKD via Operator-Growth…](https://medium.com/@quantumspirit.research/krylov-complexity-as-a-cryptographic-resource-eavesdropper-detection-in-qkd-via-operator-growth-038361b66a9c?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 March 2026
 
 - **[(Cybersecurity Lab) Authenticator Apps: How They Work and What Students Need to Know for Security+.](https://medium.com/@josh.beck2006/cybersecurity-lab-authenticator-apps-how-they-work-and-what-students-need-to-know-for-security-ee30277b5495?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
