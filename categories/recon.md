@@ -1,5 +1,8 @@
 ## 📅 22 March 2026
 
+- **[APT Recon - Bug Hunter’s Guide](https://medium.com/@ImLegendAdi/apt-recon-bug-hunters-guide-5ba269bce538?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 March 2026
+
 - **[HackerMD Elite Bug Bounty Recon Toolkit The Only Tool You Need in 2026](https://medium.com/@HackerMD/hackermd-elite-bug-bounty-recon-toolkit-the-only-tool-you-need-in-2026-63a8945318f4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 March 2026
 
