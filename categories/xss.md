@@ -1,3 +1,6 @@
+## 📅 23 March 2026
+
+- **[XSS Attacks Explained Simply (And How to Stop Them)](https://medium.com/data-and-beyond/xss-attacks-explained-simply-and-how-to-stop-them-053a1ed0aa33?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 March 2026
 
 - **[Cloudflare WAF Bypass Leading to Reflected XSS via SVG Injection](https://0xh7ml.medium.com/cloudflare-waf-bypass-leading-to-reflected-xss-via-svg-injection-8712de3830ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 23 March 2026
+
+- **[Web Security Series #8 — Exploiting UNION-Based SQL Injection (SQLi) to Extract User Credentials |…](https://medium.com/@laibakashif0011/web-security-series-8-exploiting-union-based-sql-injection-sqli-to-extract-user-credentials-99bb79cdd2c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 March 2026
 
 - **[SQL Injection Explained Simply](https://medium.com/@vedanthore/sql-injection-explained-simply-4a244bb05bfb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

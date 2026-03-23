@@ -1,5 +1,11 @@
 ## 📅 23 March 2026
 
+- **[How I Found a Critical Account Takeover Vulnerability in a Password Reset Flow](https://medium.com/@ferdusalam0/how-i-found-a-critical-account-takeover-vulnerability-in-a-password-reset-flow-a48d7079fdd7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 March 2026
+
+- **[​Broken Authentication ability to ATO via JWT Algorithm Manipulation](https://skysenz.medium.com/broken-authentication-ability-to-ato-via-jwt-algorithm-manipulation-bfc2ba500787?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 March 2026
+
 - **[From iframe Injection to Account Takeover (Full Exploit Chain)](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 March 2026
 
