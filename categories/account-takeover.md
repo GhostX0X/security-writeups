@@ -1,3 +1,9 @@
+## 📅 23 March 2026
+
+- **[From iframe Injection to Account Takeover (Full Exploit Chain)](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 March 2026
+
+- **[0 click Account Takeover (ATO) via Cross-Event Identity Confusion](https://medium.com/@0xmannaf/0-click-account-takeover-ato-via-cross-event-identity-confusion-12a42a84f027?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 March 2026
 
 - **[Krylov Complexity as a Cryptographic Resource: Eavesdropper Detection in QKD via Operator-Growth…](https://medium.com/@quantumspirit.research/krylov-complexity-as-a-cryptographic-resource-eavesdropper-detection-in-qkd-via-operator-growth-038361b66a9c?source=rss------security-5)** _(Medium Security)_
