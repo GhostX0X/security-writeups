@@ -1,7 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-03-24 06:52:46.259155 UTC
+Last updated: 2026-03-24 12:46:18.614589 UTC
 
-- csrf: 1
+- sqli: 2
+- csrf: 2
 - broken-access-control: 1
 - xss: 1

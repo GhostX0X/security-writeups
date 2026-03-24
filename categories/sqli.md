@@ -1,3 +1,9 @@
+## 📅 24 March 2026
+
+- **[️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 March 2026
+
+- **[Building a Lightweight File Integrity Monitor: A Security Journey with Bash, SQLite, and Docker](https://medium.com/@thealanvarghese/building-a-lightweight-file-integrity-monitor-a-security-journey-with-bash-sqlite-and-docker-80d9889208e6?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 March 2026
 
 - **[Web Security Series #8 — Exploiting UNION-Based SQL Injection (SQLi) to Extract User Credentials |…](https://medium.com/@laibakashif0011/web-security-series-8-exploiting-union-based-sql-injection-sqli-to-extract-user-credentials-99bb79cdd2c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

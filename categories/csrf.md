@@ -1,5 +1,8 @@
 ## 📅 24 March 2026
 
+- **[Exploiting CSRF in Account Settings for Profile Manipulation](https://medium.com/@OSAMA_OS/introduction-de71b6ba7adf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 March 2026
+
 - **[CSRF EXPLOITATION: Make Victims Hack Themselves](https://medium.com/@cyberb354/csrf-exploitation-make-victims-hack-themselves-7d0e487e4a95?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 March 2026
 
