@@ -1,3 +1,6 @@
+## 📅 24 March 2026
+
+- **[The orWhere Trap: How SQL Operator Precedence Breaks Multi-Tenant Data Isolation in Laravel](https://hafiqiqmal93.medium.com/the-orwhere-trap-how-sql-operator-precedence-breaks-multi-tenant-data-isolation-in-laravel-ec598f5a0f27?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 March 2026
 
 - **[How I Found a Critical Account Takeover Vulnerability in a Password Reset Flow](https://medium.com/@ferdusalam0/how-i-found-a-critical-account-takeover-vulnerability-in-a-password-reset-flow-a48d7079fdd7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
