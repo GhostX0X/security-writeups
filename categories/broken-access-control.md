@@ -1,3 +1,6 @@
+## 📅 24 March 2026
+
+- **[Broken Access Control — The #1 Vulnerability on the Web](https://medium.com/@vedanthore/broken-access-control-the-1-vulnerability-on-the-web-e54b306c546b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 March 2026
 
 - **[Is Wireless Access Control Secure? Addressing Common Security Concerns](https://medium.com/@joven.a.rodrigues/is-wireless-access-control-secure-addressing-common-security-concerns-3dda553d8bf6?source=rss------security-5)** _(Medium Security)_

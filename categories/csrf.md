@@ -1,3 +1,6 @@
+## 📅 24 March 2026
+
+- **[CSRF EXPLOITATION: Make Victims Hack Themselves](https://medium.com/@cyberb354/csrf-exploitation-make-victims-hack-themselves-7d0e487e4a95?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 March 2026
 
 - **[How I Found a CSRF Vulnerability That Could Take Over Student Accounts on an Educational Platform](https://medium.com/@s3clipt0r/how-i-found-a-csrf-vulnerability-that-could-take-over-student-accounts-on-an-educational-platform-6e65bc70816f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

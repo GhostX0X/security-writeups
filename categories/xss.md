@@ -1,3 +1,6 @@
+## 📅 24 March 2026
+
+- **[From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 March 2026
 
 - **[XSS Attacks Explained Simply (And How to Stop Them)](https://medium.com/data-and-beyond/xss-attacks-explained-simply-and-how-to-stop-them-053a1ed0aa33?source=rss------security-5)** _(Medium Security)_
