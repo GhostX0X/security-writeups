@@ -1,3 +1,6 @@
+## 📅 24 March 2026
+
+- **[Ghizer — LimeSurvey RCE, JDWP on Ghidra, and a Python Import Hijack to Root | TryHackMe](https://meetcyber.net/ghizer-limesurvey-rce-jdwp-on-ghidra-and-a-python-import-hijack-to-root-tryhackme-0dc31bbcfcac?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 23 March 2026
 
 - **[I Thought It Was a Container… It Was a Whole Azure VM (RCE Story)](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

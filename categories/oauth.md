@@ -1,3 +1,6 @@
+## 📅 24 March 2026
+
+- **[OAuth2 Login with Spring Boot: Google & GitHub Integration (Complete Guide)](https://medium.com/@deepakrajs1103/oauth2-login-with-spring-boot-google-github-integration-complete-guide-66f1116f7326?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 March 2026
 
 - **[Why Your Iframe Fails (OAuth, Sandbox & Cross-Origin Security Explained)](https://audreyhal.medium.com/why-your-iframe-fails-oauth-sandbox-cross-origin-security-explained-45c1878352cd?source=rss------security-5)** _(Medium Security)_
