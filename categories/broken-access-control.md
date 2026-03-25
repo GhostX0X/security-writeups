@@ -1,3 +1,6 @@
+## 📅 25 March 2026
+
+- **[Autorize: The Burp Suite Extension That Finds Broken Access Control While You Browse](https://yadav-ajay.medium.com/autorize-the-burp-suite-extension-that-finds-broken-access-control-while-you-browse-4d9064b47baf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 March 2026
 
 - **[Broken Access Control — The #1 Vulnerability on the Web](https://medium.com/@vedanthore/broken-access-control-the-1-vulnerability-on-the-web-e54b306c546b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
