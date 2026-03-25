@@ -1,3 +1,6 @@
+## 📅 25 March 2026
+
+- **[Why QSR Operators Who Trust Their Drive-Thru Timers Are Managing Symptoms, Not Problems](https://medium.com/@tectel/why-qsr-operators-who-trust-their-drive-thru-timers-are-managing-symptoms-not-problems-1b40918d4ae1?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 March 2026
 
 - **[From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

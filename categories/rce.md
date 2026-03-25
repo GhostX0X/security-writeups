@@ -1,5 +1,11 @@
 ## 📅 25 March 2026
 
+- **[Don’t Use Source IP Addresses As The Primary Authentication Mechanism](https://medium.com/@robert.broeckelmann/dont-use-source-ip-addresses-as-the-primary-authentication-mechanism-a6112a1033f7?source=rss------security-5)** _(Medium Security)_
+## 📅 25 March 2026
+
+- **[Salesforce Security: Targets, Opportunities & Practical Risk Mitigation](https://medium.com/capgemini-salesforce-architects/salesforce-security-targets-opportunities-practical-risk-mitigation-91d4e282d951?source=rss------security-5)** _(Medium Security)_
+## 📅 25 March 2026
+
 - **[Kinetic FinOps: Intercepting the Token-Burn at the Speed of Inference](https://medium.com/@thiagonazariosl/kinetic-finops-intercepting-the-token-burn-at-the-speed-of-inference-6f2f9f7d1baf?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 March 2026
 

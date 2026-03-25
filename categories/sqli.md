@@ -1,3 +1,9 @@
+## 📅 25 March 2026
+
+- **[SQL Injection labs — PortSwigger (with Burp Suite)](https://medium.com/@prachibhingardive/sql-injection-labs-portswigger-with-burp-suite-6acb91625156?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 25 March 2026
+
+- **[Web Security Series #9 — Exploiting Second-Order SQL Injection via Stored User Input](https://medium.com/@laibakashif0011/web-security-series-9-exploiting-second-order-sql-injection-via-stored-user-input-32b89387e86b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 March 2026
 
 - **[️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
