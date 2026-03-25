@@ -1,5 +1,8 @@
 ## 📅 24 March 2026
 
+- **[From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 March 2026
+
 - **[The orWhere Trap: How SQL Operator Precedence Breaks Multi-Tenant Data Isolation in Laravel](https://hafiqiqmal93.medium.com/the-orwhere-trap-how-sql-operator-precedence-breaks-multi-tenant-data-isolation-in-laravel-ec598f5a0f27?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 March 2026
 

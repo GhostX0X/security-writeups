@@ -1,3 +1,12 @@
+## 📅 24 March 2026
+
+- **[how a single JSON parameter allowed unauthorized manipulation(IDOR)](https://medium.com/@georgezakary60/how-a-single-json-parameter-allowed-unauthorized-manipulation-idor-842c5ef30110?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 March 2026
+
+- **[From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 March 2026
+
+- **[how a single JSON parameter allowed unauthorized manipulation(IDOR)](https://medium.com/@georgezakary60/how-a-single-json-parameter-allowed-unauthorized-manipulation-idor-842c5ef30110?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 March 2026
 
 - **[$500 in just a single IDOR](https://medium.com/@Muhammad_Wageh/500-in-just-a-single-idor-b13e9df22f4a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

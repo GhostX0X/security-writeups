@@ -1,3 +1,6 @@
+## 📅 25 March 2026
+
+- **[Beyond Cognitive Warfare: Why the Real Battle Is Over the Structure of Perception](https://medium.com/@shir75532/beyond-cognitive-warfare-why-the-real-battle-is-over-the-structure-of-perception-0e143df059ba?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 March 2026
 
 - **[Ghizer — LimeSurvey RCE, JDWP on Ghidra, and a Python Import Hijack to Root | TryHackMe](https://meetcyber.net/ghizer-limesurvey-rce-jdwp-on-ghidra-and-a-python-import-hijack-to-root-tryhackme-0dc31bbcfcac?source=rss------pentesting-5)** _(Medium Pentesting)_
