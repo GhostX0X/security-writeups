@@ -1,5 +1,11 @@
 ## 📅 25 March 2026
 
+- **[Kinetic FinOps: Intercepting the Token-Burn at the Speed of Inference](https://medium.com/@thiagonazariosl/kinetic-finops-intercepting-the-token-burn-at-the-speed-of-inference-6f2f9f7d1baf?source=rss------security-5)** _(Medium Security)_
+## 📅 25 March 2026
+
+- **[The SharePoint RCE Patch Race of March 2026](https://medium.com/@sanjaya102/the-sharepoint-rce-patch-race-of-march-2026-8f2b75d9ef75?source=rss------security-5)** _(Medium Security)_
+## 📅 25 March 2026
+
 - **[Beyond Cognitive Warfare: Why the Real Battle Is Over the Structure of Perception](https://medium.com/@shir75532/beyond-cognitive-warfare-why-the-real-battle-is-over-the-structure-of-perception-0e143df059ba?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 March 2026
 
