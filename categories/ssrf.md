@@ -1,5 +1,8 @@
 ## 📅 26 March 2026
 
+- **[CVE-2025–4123 Grafana Open Redirect & SSRF — Full PoC — CVSS 7.6 HIGH](https://medium.com/@dhxrxx/cve-2025-4123-grafana-open-redirect-ssrf-full-poc-cvss-7-6-high-8a61c7fd675c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 March 2026
+
 - **[Modern SSRF — Part 4 (Expert Edition): How to Write High-Impact SSRF Reports ThWWW at Earn 5×…](https://bughunteryash2511.medium.com/modern-ssrf-part-4-expert-edition-how-to-write-high-impact-ssrf-reports-thwww-at-earn-5-d4c3527ff865?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 March 2026
 

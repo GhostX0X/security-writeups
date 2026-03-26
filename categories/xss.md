@@ -1,3 +1,6 @@
+## 📅 26 March 2026
+
+- **[Web Security Series #10 — Exploiting DOM-Based Cross-Site Scripting (XSS)](https://medium.com/@laibakashif0011/web-security-series-10-exploiting-dom-based-cross-site-scripting-xss-adecb5097cac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 March 2026
 
 - **[From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

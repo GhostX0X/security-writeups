@@ -1,5 +1,8 @@
 ## 📅 26 March 2026
 
+- **[Stop Storing MQTT Passwords — Use OAuth 2.0 With Keycloak Instead](https://medium.com/@vgzxkgmrpn/stop-storing-mqtt-passwords-use-oauth-2-0-with-keycloak-instead-fa7b11e618b9?source=rss------security-5)** _(Medium Security)_
+## 📅 26 March 2026
+
 - **[ASP.NET Core + JWT + OAuth 2.0 — Authentication Done Right in 2026](https://medium.com/@123ajaybisht/asp-net-core-jwt-oauth-2-0-authentication-done-right-in-2026-59ba0be1397f?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 March 2026
 

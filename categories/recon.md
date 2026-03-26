@@ -1,3 +1,9 @@
+## 📅 26 March 2026
+
+- **[From Recon to Critical: Finding an Unauthenticated Security Dashboard ($1895 Bug Bounty)](https://codewithvamp.medium.com/from-recon-to-critical-finding-an-unauthenticated-security-dashboard-1895-bug-bounty-247cb07c5568?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 March 2026
+
+- **[From Recon to Critical: Finding an Unauthenticated Security Dashboard ($1895 Bug Bounty)](https://codewithvamp.medium.com/from-recon-to-critical-finding-an-unauthenticated-security-dashboard-1895-bug-bounty-247cb07c5568?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 March 2026
 
 - **[Ursnif Malware — Reconstructing a 6-Stage Infection Chain from a PCAP](https://medium.com/@himanshukumar.modi2021/ursnif-malware-reconstructing-a-6-stage-infection-chain-from-a-pcap-46b6486c9622?source=rss------security-5)** _(Medium Security)_
