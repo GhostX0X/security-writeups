@@ -1,5 +1,11 @@
 ## 📅 25 March 2026
 
+- **[How I Found Pre-Account Takeover Vulnerabilities](https://medium.com/@montaser_mohsen/how-i-found-pre-account-takeover-vulnerabilities-6b81aef6e2ca?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 March 2026
+
+- **[Microsoft Authenticator’s Unclaimed Deep Link: A Full Account Takeover Story (CVE-2026–26123)](https://infosecwriteups.com/microsoft-authenticators-unclaimed-deep-link-a-full-account-takeover-story-cve-2026-26123-e0409a920a02?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 March 2026
+
 - **[Why QSR Operators Who Trust Their Drive-Thru Timers Are Managing Symptoms, Not Problems](https://medium.com/@tectel/why-qsr-operators-who-trust-their-drive-thru-timers-are-managing-symptoms-not-problems-1b40918d4ae1?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 March 2026
 
