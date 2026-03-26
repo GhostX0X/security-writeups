@@ -1,3 +1,6 @@
+## 📅 26 March 2026
+
+- **[Automatic Boom Barrier by Etradefia: Smart Access Control for Modern Facilities](https://medium.com/@etradefia1/automatic-boom-barrier-by-etradefia-smart-access-control-for-modern-facilities-77d400241d32?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 March 2026
 
 - **[Autorize: The Burp Suite Extension That Finds Broken Access Control While You Browse](https://yadav-ajay.medium.com/autorize-the-burp-suite-extension-that-finds-broken-access-control-while-you-browse-4d9064b47baf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
