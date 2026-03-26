@@ -1,3 +1,6 @@
+## 📅 26 March 2026
+
+- **[ASP.NET Core + JWT + OAuth 2.0 — Authentication Done Right in 2026](https://medium.com/@123ajaybisht/asp-net-core-jwt-oauth-2-0-authentication-done-right-in-2026-59ba0be1397f?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 March 2026
 
 - **[OAuth2 Login with Spring Boot: Google & GitHub Integration (Complete Guide)](https://medium.com/@deepakrajs1103/oauth2-login-with-spring-boot-google-github-integration-complete-guide-66f1116f7326?source=rss------security-5)** _(Medium Security)_

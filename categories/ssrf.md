@@ -1,3 +1,6 @@
+## 📅 26 March 2026
+
+- **[How i Found My First SSRF on Sony](https://medium.com/@pawanparmar/how-i-found-my-first-ssrf-on-sony-1416ab0c221b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 March 2026
 
 - **[Who Needs VPN?? SSRF Already inside](https://medium.com/@youssefmohamedsaadhelal1214/who-needs-vpn-ssrf-already-inside-fae7c6f8844b?source=rss------pentesting-5)** _(Medium Pentesting)_
