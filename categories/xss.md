@@ -1,5 +1,8 @@
 ## 📅 27 March 2026
 
+- **[Finding XSS Through HTML Injection — Without Fuzzing Tools](https://infosecwriteups.com/finding-xss-through-html-injection-without-fuzzing-tools-56e12143aff7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 March 2026
+
 - **[How a $62,500 Self-XSS Became a Full Facebook and Instagram Account Takeover — A Review of Youssef…](https://medium.com/@vivekps143/how-a-62-500-self-xss-became-a-full-facebook-and-instagram-account-takeover-a-review-of-youssef-2d574854a3ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 March 2026
 
