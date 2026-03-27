@@ -1,5 +1,8 @@
 ## 📅 27 March 2026
 
+- **[Cross-Site Scripting (XSS) Explained: How a “Low Severity” Vulnerability Leads to Enterprise…](https://medium.com/@Err0rr0rre./cross-site-scripting-xss-explained-how-a-low-severity-vulnerability-leads-to-enterprise-0912288727aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 March 2026
+
 - **[Finding XSS Through HTML Injection — Without Fuzzing Tools](https://infosecwriteups.com/finding-xss-through-html-injection-without-fuzzing-tools-56e12143aff7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 March 2026
 

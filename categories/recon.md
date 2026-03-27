@@ -1,3 +1,6 @@
+## 📅 27 March 2026
+
+- **[10 Recon Wordlists Every Pentester Must Know](https://medium.com/@candywong_coffsec/10-recon-wordlists-every-pentester-must-know-484499d2ce9c?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 March 2026
 
 - **[From Recon to Critical: Finding an Unauthenticated Security Dashboard ($1895 Bug Bounty)](https://codewithvamp.medium.com/from-recon-to-critical-finding-an-unauthenticated-security-dashboard-1895-bug-bounty-247cb07c5568?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

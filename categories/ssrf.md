@@ -1,3 +1,6 @@
+## 📅 27 March 2026
+
+- **[WIZ Bug Bounty Master Class: SSRF Vulnerability on Major Gaming Company](https://jareddouville.medium.com/wiz-bug-bounty-master-class-ssrf-vulnerability-on-major-gaming-company-abd846fcf291?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 March 2026
 
 - **[CVE-2025–4123 Grafana Open Redirect & SSRF — Full PoC — CVSS 7.6 HIGH](https://medium.com/@dhxrxx/cve-2025-4123-grafana-open-redirect-ssrf-full-poc-cvss-7-6-high-8a61c7fd675c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 27 March 2026
+
+- **[Local File Inclusion in a PHP Reservation System — From Parameter Abuse to Source Code Disclosure](https://cybertamarin.medium.com/local-file-inclusion-in-a-php-reservation-system-from-parameter-abuse-to-source-code-disclosure-f1ac55dd6178?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 March 2026
 
 - **[File Upload Bypass to Remote Code Execution (RCE) HEXAPHP](https://hexaphp.medium.com/file-upload-bypass-to-remote-code-execution-rce-hexaphp-cbb7e5f09175?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
