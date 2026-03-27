@@ -1,3 +1,6 @@
+## 📅 26 March 2026
+
+- **[File Upload Bypass to Remote Code Execution (RCE) HEXAPHP](https://hexaphp.medium.com/file-upload-bypass-to-remote-code-execution-rce-hexaphp-cbb7e5f09175?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 March 2026
 
 - **[Don’t Use Source IP Addresses As The Primary Authentication Mechanism](https://medium.com/@robert.broeckelmann/dont-use-source-ip-addresses-as-the-primary-authentication-mechanism-a6112a1033f7?source=rss------security-5)** _(Medium Security)_
