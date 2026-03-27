@@ -1,3 +1,6 @@
+## 📅 27 March 2026
+
+- **[FastAPI Security Made Easy: JWT, OAuth2, CORS, Rate-Limiting, and HTTPS](https://medium.com/@pravinkunnure9/fastapi-security-made-easy-jwt-oauth2-cors-rate-limiting-and-https-4c1130ee5a9f?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 March 2026
 
 - **[Stop Storing MQTT Passwords — Use OAuth 2.0 With Keycloak Instead](https://medium.com/@vgzxkgmrpn/stop-storing-mqtt-passwords-use-oauth-2-0-with-keycloak-instead-fa7b11e618b9?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 27 March 2026
+
+- **[How a $62,500 Self-XSS Became a Full Facebook and Instagram Account Takeover — A Review of Youssef…](https://medium.com/@vivekps143/how-a-62-500-self-xss-became-a-full-facebook-and-instagram-account-takeover-a-review-of-youssef-2d574854a3ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 March 2026
 
 - **[Web Security Series #10 — Exploiting DOM-Based Cross-Site Scripting (XSS)](https://medium.com/@laibakashif0011/web-security-series-10-exploiting-dom-based-cross-site-scripting-xss-adecb5097cac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
