@@ -1,3 +1,6 @@
+## 📅 28 March 2026
+
+- **[Web Security Series #11 — Exploiting Stored Cross-Site Scripting (Stored XSS)](https://medium.com/@laibakashif0011/web-security-series-11-exploiting-stored-cross-site-scripting-stored-xss-739aa3b1ad95?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 March 2026
 
 - **[Cross-Site Scripting (XSS) Explained: How a “Low Severity” Vulnerability Leads to Enterprise…](https://medium.com/@Err0rr0rre./cross-site-scripting-xss-explained-how-a-low-severity-vulnerability-leads-to-enterprise-0912288727aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
