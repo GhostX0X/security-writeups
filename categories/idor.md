@@ -1,3 +1,6 @@
+## 📅 28 March 2026
+
+- **[Finding an IDOR in User Profile API: A $15,000 Journey to Critical](https://infosecwriteups.com/finding-an-idor-in-user-profile-api-a-15-000-journey-to-critical-0f05e583c00b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 March 2026
 
 - **[how a single JSON parameter allowed unauthorized manipulation(IDOR)](https://medium.com/@georgezakary60/how-a-single-json-parameter-allowed-unauthorized-manipulation-idor-842c5ef30110?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
