@@ -1,7 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-03-28 01:14:43.830733 UTC
+Last updated: 2026-03-28 06:45:32.118019 UTC
 
+- broken-access-control: 1
 - xss: 1
-- ssrf: 1
 - recon: 1

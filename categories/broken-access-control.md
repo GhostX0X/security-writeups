@@ -1,3 +1,6 @@
+## 📅 28 March 2026
+
+- **[How I Bypassed SSO to Access Sony’s Internal AI Chat Assistant (Broken Access Control)](https://medium.com/@dev_fr_/how-i-bypassed-sso-to-access-sonys-internal-ai-chat-assistant-broken-access-control-6f0c62426d9b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 March 2026
 
 - **[Automatic Boom Barrier by Etradefia: Smart Access Control for Modern Facilities](https://medium.com/@etradefia1/automatic-boom-barrier-by-etradefia-smart-access-control-for-modern-facilities-77d400241d32?source=rss------security-5)** _(Medium Security)_
