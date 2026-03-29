@@ -1,3 +1,6 @@
+## 📅 29 March 2026
+
+- **[How DNS Rebinding Turns SSRF Into a Cloud Takeover](https://medium.com/@zeeshan1337/how-dns-rebinding-turns-ssrf-into-a-cloud-takeover-c14015d17468?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 March 2026
 
 - **[WIZ Bug Bounty Master Class: SSRF Vulnerability on Major Gaming Company](https://jareddouville.medium.com/wiz-bug-bounty-master-class-ssrf-vulnerability-on-major-gaming-company-abd846fcf291?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

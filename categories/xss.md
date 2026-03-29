@@ -1,3 +1,9 @@
+## 📅 29 March 2026
+
+- **[What Is XSS (Cross-Site Scripting)? A Beginner-Friendly Guide for Developers & Hackers](https://medium.com/@bugitrix/what-is-xss-cross-site-scripting-a-beginner-friendly-guide-for-developers-hackers-934e65e3b9c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 March 2026
+
+- **[How I Made $1,200 by Finding a Hidden XSS in a “Secure” Web App (Full Walkthrough)](https://sukhveersingh97997.medium.com/how-i-made-1-200-by-finding-a-hidden-xss-in-a-secure-web-app-full-walkthrough-77fa787d06b2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 March 2026
 
 - **[Web Security Series #11 — Exploiting Stored Cross-Site Scripting (Stored XSS)](https://medium.com/@laibakashif0011/web-security-series-11-exploiting-stored-cross-site-scripting-stored-xss-739aa3b1ad95?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

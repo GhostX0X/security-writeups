@@ -1,3 +1,6 @@
+## 📅 29 March 2026
+
+- **[How Changing 401 to 200 Lead to Full Account Takeover](https://medium.com/@KhaledAhmed107/how-changing-401-to-200-lead-to-full-account-takeover-f264fdc51044?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 March 2026
 
 - **[How a $62,500 Self-XSS Became a Full Facebook and Instagram Account Takeover — A Review of Youssef…](https://medium.com/@vivekps143/how-a-62-500-self-xss-became-a-full-facebook-and-instagram-account-takeover-a-review-of-youssef-2d574854a3ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
