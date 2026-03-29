@@ -1,5 +1,8 @@
 ## 📅 29 March 2026
 
+- **[Beyond Recon: Using AI for Real Exploitation in Pentesting](https://infosecwriteups.com/beyond-recon-using-ai-for-real-exploitation-in-pentesting-2791416e4ebd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 March 2026
+
 - **[How I Turn Recon Into Real Bug Bounty Reports](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-turn-recon-into-real-bug-bounty-reports-daa77e9cbedc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 

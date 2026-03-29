@@ -1,5 +1,8 @@
 ## 📅 29 March 2026
 
+- **[From a Tiny Parameter to XSS — Hunting CVE-2020–17453 in a Public VDP | Cyber Tamarin](https://cybertamarin.medium.com/from-a-tiny-parameter-to-xss-hunting-cve-2020-17453-in-a-public-vdp-cyber-tamarin-f6de9b690c3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 March 2026
+
 - **[What Is XSS (Cross-Site Scripting)? A Beginner-Friendly Guide for Developers & Hackers](https://medium.com/@bugitrix/what-is-xss-cross-site-scripting-a-beginner-friendly-guide-for-developers-hackers-934e65e3b9c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 
