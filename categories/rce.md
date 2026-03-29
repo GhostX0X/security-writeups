@@ -1,3 +1,12 @@
+## 📅 28 March 2026
+
+- **[PortSwigger Lab Write-up: Bypassing Brute-Force Protection via JSON Arrays](https://medium.com/@marwan20hisham05/portswigger-lab-write-up-bypassing-brute-force-protection-via-json-arrays-e23b1dc4abee?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 March 2026
+
+- **[PortSwigger Lab Write-up: Bypassing Brute-Force Protection via JSON Arrays](https://medium.com/@marwan20hisham05/portswigger-lab-write-up-bypassing-brute-force-protection-via-json-arrays-e23b1dc4abee?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 March 2026
+
+- **[Add Pre-Signature Policy Enforcement to AWS KMS Signing in 10 Minutes](https://medium.com/blockintel/add-pre-signature-policy-enforcement-to-aws-kms-signing-in-10-minutes-275a04efc642?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 March 2026
 
 - **[Local File Inclusion in a PHP Reservation System — From Parameter Abuse to Source Code Disclosure](https://cybertamarin.medium.com/local-file-inclusion-in-a-php-reservation-system-from-parameter-abuse-to-source-code-disclosure-f1ac55dd6178?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
