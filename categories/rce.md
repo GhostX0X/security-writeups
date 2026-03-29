@@ -1,3 +1,6 @@
+## 📅 29 March 2026
+
+- **[I Started Taking Security Seriously This Year. These 7 Open Source Tools Actually Helped.](https://meetcyber.net/i-started-taking-security-seriously-this-year-these-7-open-source-tools-actually-helped-6ae2dbb51d69?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 March 2026
 
 - **[PortSwigger Lab Write-up: Bypassing Brute-Force Protection via JSON Arrays](https://medium.com/@marwan20hisham05/portswigger-lab-write-up-bypassing-brute-force-protection-via-json-arrays-e23b1dc4abee?source=rss------pentesting-5)** _(Medium Pentesting)_

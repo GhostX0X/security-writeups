@@ -1,3 +1,9 @@
+## 📅 29 March 2026
+
+- **[How I Turn Recon Into Real Bug Bounty Reports](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-turn-recon-into-real-bug-bounty-reports-daa77e9cbedc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 March 2026
+
+- **[Volume 2, Post 9: Automating Recon with Bash Scripting (Building Your Recon Engine)](https://medium.com/@dasielramirezhernandez/volume-2-post-9-automating-recon-with-bash-scripting-building-your-recon-engine-9aa5ac5e34e5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 March 2026
 
 - **[10 Recon Wordlists Every Pentester Must Know](https://medium.com/@candywong_coffsec/10-recon-wordlists-every-pentester-must-know-484499d2ce9c?source=rss------pentesting-5)** _(Medium Pentesting)_
