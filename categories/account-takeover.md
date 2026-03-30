@@ -1,5 +1,8 @@
 ## 📅 29 March 2026
 
+- **[Account Takeover via Old Password Reset Link (A Critical Security Flaw)](https://medium.com/@umeryousuf26/account-takeover-via-old-password-reset-link-a-critical-security-flaw-1e00072f7a80?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 March 2026
+
 - **[How Changing 401 to 200 Lead to Full Account Takeover](https://medium.com/@KhaledAhmed107/how-changing-401-to-200-lead-to-full-account-takeover-f264fdc51044?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 March 2026
 
