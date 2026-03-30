@@ -1,3 +1,6 @@
+## 📅 30 March 2026
+
+- **[My Bug Bounty Journey #2: The First Valid RCE Report](https://medium.com/@awchjimmy/my-bug-bounty-journey-2-the-first-valid-rce-report-7cf1cb402b3e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 
 - **[I Started Taking Security Seriously This Year. These 7 Open Source Tools Actually Helped.](https://meetcyber.net/i-started-taking-security-seriously-this-year-these-7-open-source-tools-actually-helped-6ae2dbb51d69?source=rss------security-5)** _(Medium Security)_
