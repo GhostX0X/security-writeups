@@ -1,3 +1,9 @@
+## 📅 30 March 2026
+
+- **[The Ultimate Pentester’s Cheat Sheet: From Recon to Active Directory](https://medium.com/@soft_sec/the-ultimate-pentesters-cheat-sheet-from-recon-to-active-directory-106534d4fc67?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 March 2026
+
+- **[The Ultimate Pentester’s Cheat Sheet: From Recon to Active Directory](https://medium.com/@soft_sec/the-ultimate-pentesters-cheat-sheet-from-recon-to-active-directory-106534d4fc67?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 
 - **[Beyond Recon: Using AI for Real Exploitation in Pentesting](https://infosecwriteups.com/beyond-recon-using-ai-for-real-exploitation-in-pentesting-2791416e4ebd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

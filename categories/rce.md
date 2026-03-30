@@ -1,5 +1,8 @@
 ## 📅 30 March 2026
 
+- **[Top SSHD Hardening Tricks I Use to Keep My Server Safe from Brute Force Attacks](https://nirzak.medium.com/top-sshd-hardening-tricks-i-use-to-keep-my-server-safe-from-brute-force-attacks-73a7bbff0542?source=rss------security-5)** _(Medium Security)_
+## 📅 30 March 2026
+
 - **[My Bug Bounty Journey #2: The First Valid RCE Report](https://medium.com/@awchjimmy/my-bug-bounty-journey-2-the-first-valid-rce-report-7cf1cb402b3e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 

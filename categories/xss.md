@@ -1,3 +1,6 @@
+## 📅 30 March 2026
+
+- **[5 XSS at xyz.com lead to 5000€ — Shivang Maurya](https://shivangmauryaa.medium.com/5-xss-at-xyz-com-lead-to-5000-shivang-maurya-05e55fba7536?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 
 - **[From a Tiny Parameter to XSS — Hunting CVE-2020–17453 in a Public VDP | Cyber Tamarin](https://cybertamarin.medium.com/from-a-tiny-parameter-to-xss-hunting-cve-2020-17453-in-a-public-vdp-cyber-tamarin-f6de9b690c3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
