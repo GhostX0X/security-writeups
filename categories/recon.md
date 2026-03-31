@@ -1,5 +1,8 @@
 ## 📅 31 March 2026
 
+- **[Top 5 Recon Techniques for Bug Bounty](https://medium.com/@riyalimba/top-5-recon-techniques-for-bug-bounty-21b7b9497a65?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 March 2026
+
 - **[️‍♂️ Cybersecurity & Bug Bounty Cheat Sheet — Recon, Enumeration & Initial Access](https://medium.com/@soft_sec/%EF%B8%8F-%EF%B8%8F-cybersecurity-bug-bounty-cheat-sheet-recon-enumeration-initial-access-55218034f804?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 31 March 2026
 

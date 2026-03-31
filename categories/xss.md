@@ -1,3 +1,6 @@
+## 📅 31 March 2026
+
+- **[When File Uploads Go Wrong: Stored XSS Through Public Cloud Storage](https://medium.com/@gjethva10/when-file-uploads-go-wrong-stored-xss-through-public-cloud-storage-5f0846275c48?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 March 2026
 
 - **[5 XSS at xyz.com lead to 5000€ — Shivang Maurya](https://shivangmauryaa.medium.com/5-xss-at-xyz-com-lead-to-5000-shivang-maurya-05e55fba7536?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
