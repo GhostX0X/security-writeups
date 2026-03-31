@@ -1,3 +1,6 @@
+## 📅 31 March 2026
+
+- **[Critical ATO to P5 ‘Informational’: A Lesson in Threat Models & Bug Bounty Reality](https://infosecwriteups.com/critical-ato-to-p5-informational-a-lesson-in-threat-models-bug-bounty-reality-ef1dffd827b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 
 - **[Account Takeover via Old Password Reset Link (A Critical Security Flaw)](https://medium.com/@umeryousuf26/account-takeover-via-old-password-reset-link-a-critical-security-flaw-1e00072f7a80?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

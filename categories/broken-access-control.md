@@ -1,3 +1,6 @@
+## 📅 31 March 2026
+
+- **[Camunda 8 Identity & User Management: Authentication, Authorization & Access Control Explained…](https://medium.com/@shikha.nirankari/camunda-8-identity-user-management-authentication-authorization-access-control-explained-481ea9e6b392?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 March 2026
 
 - **[How I Bypassed SSO to Access Sony’s Internal AI Chat Assistant (Broken Access Control)](https://medium.com/@dev_fr_/how-i-bypassed-sso-to-access-sonys-internal-ai-chat-assistant-broken-access-control-6f0c62426d9b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 31 March 2026
+
+- **[️‍♂️ Cybersecurity & Bug Bounty Cheat Sheet — Recon, Enumeration & Initial Access](https://medium.com/@soft_sec/%EF%B8%8F-%EF%B8%8F-cybersecurity-bug-bounty-cheat-sheet-recon-enumeration-initial-access-55218034f804?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 31 March 2026
+
+- **[️‍♂️ Cybersecurity & Bug Bounty Cheat Sheet — Recon, Enumeration & Initial Access](https://medium.com/@soft_sec/%EF%B8%8F-%EF%B8%8F-cybersecurity-bug-bounty-cheat-sheet-recon-enumeration-initial-access-55218034f804?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 March 2026
 
 - **[The Ultimate Pentester’s Cheat Sheet: From Recon to Active Directory](https://medium.com/@soft_sec/the-ultimate-pentesters-cheat-sheet-from-recon-to-active-directory-106534d4fc67?source=rss------pentesting-5)** _(Medium Pentesting)_
