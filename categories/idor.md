@@ -1,3 +1,6 @@
+## 📅 01 April 2026
+
+- **[How I Found an IDOR That Exposed Cancer Patient Identities on a Government Healthcare Portal](https://medium.com/@abo3jram389/how-i-found-an-idor-that-exposed-cancer-patient-identities-on-a-government-healthcare-portal-d109fc6ffe08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 March 2026
 
 - **[Finding an IDOR in User Profile API: A $15,000 Journey to Critical](https://infosecwriteups.com/finding-an-idor-in-user-profile-api-a-15-000-journey-to-critical-0f05e583c00b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

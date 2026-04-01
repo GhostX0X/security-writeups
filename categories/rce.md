@@ -1,3 +1,9 @@
+## 📅 01 April 2026
+
+- **[Debug —PHP Deserialization RCE and a Root-Owned MOTD Script I Could Rewrite | TryHackMe](https://medium.com/h7w/debug-php-deserialization-rce-and-a-root-owned-motd-script-i-could-rewrite-tryhackme-cafdea4ae55e?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 April 2026
+
+- **[SPARK Matrix™: Workforce IAM](https://medium.com/@umangp5029/spark-matrix-workforce-iam-1236722a7b70?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 March 2026
 
 - **[Solución CTF — Anonforce](https://medium.com/@SatoBlack/soluci%C3%B3n-ctf-anonforce-ac582e52242c?source=rss------pentesting-5)** _(Medium Pentesting)_
