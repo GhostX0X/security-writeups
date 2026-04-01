@@ -1,3 +1,9 @@
+## 📅 01 April 2026
+
+- **[Volume 3, Post 10: Demystifying Cross-Site Scripting (XSS)](https://medium.com/@dasielramirezhernandez/volume-3-post-10-demystifying-cross-site-scripting-xss-f585228b55b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 April 2026
+
+- **[Content Security Policy (CSP) in Modern Web Apps: The Practical Guide to Preventing XSS](https://medium.com/@gregorisbachtsevanos/content-security-policy-csp-in-modern-web-apps-the-practical-guide-to-preventing-xss-5111a963670b?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 March 2026
 
 - **[When File Uploads Go Wrong: Stored XSS Through Public Cloud Storage](https://medium.com/@gjethva10/when-file-uploads-go-wrong-stored-xss-through-public-cloud-storage-5f0846275c48?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

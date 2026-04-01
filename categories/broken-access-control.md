@@ -1,3 +1,6 @@
+## 📅 01 April 2026
+
+- **[AWS— Security Groups vs Network Access Control List (NACL)](https://medium.com/devops-articles-bytebyteboot/aws-security-groups-vs-network-access-control-list-nacl-a8a4d8d13a33?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 March 2026
 
 - **[Camunda 8 Identity & User Management: Authentication, Authorization & Access Control Explained…](https://medium.com/@shikha.nirankari/camunda-8-identity-user-management-authentication-authorization-access-control-explained-481ea9e6b392?source=rss------security-5)** _(Medium Security)_

@@ -1,5 +1,11 @@
 ## 📅 01 April 2026
 
+- **[Anthroic’s Claude Code leaked: the accidental source-code exposure that revealed how fragile AI…](https://medium.com/data-and-beyond/anthroics-claude-code-leaked-the-accidental-source-code-exposure-that-revealed-how-fragile-ai-55dc38a059e2?source=rss------security-5)** _(Medium Security)_
+## 📅 01 April 2026
+
+- **[The Day Anthropic Accidentally Open-Sourced Their Crown Jewel](https://devsecopsai.today/the-day-anthropic-accidentally-open-sourced-their-crown-jewel-01a50f03a390?source=rss------security-5)** _(Medium Security)_
+## 📅 01 April 2026
+
 - **[Debug —PHP Deserialization RCE and a Root-Owned MOTD Script I Could Rewrite | TryHackMe](https://medium.com/h7w/debug-php-deserialization-rce-and-a-root-owned-motd-script-i-could-rewrite-tryhackme-cafdea4ae55e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 April 2026
 

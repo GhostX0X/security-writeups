@@ -1,3 +1,6 @@
+## 📅 01 April 2026
+
+- **[️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-the-complete-beginners-guide-to-bug-bounty-reconnaissance-live-hunting-on-paypal-ddb2b0abecd3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 March 2026
 
 - **[Top 5 Recon Techniques for Bug Bounty](https://medium.com/@riyalimba/top-5-recon-techniques-for-bug-bounty-21b7b9497a65?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
