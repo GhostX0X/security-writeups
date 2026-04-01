@@ -1,3 +1,6 @@
+## 📅 01 April 2026
+
+- **[“Bug Bounty Bootcamp #29: Boolean Blind SQL Injection Part 2 — Extracting Usernames and Passwords…](https://infosecwriteups.com/bug-bounty-bootcamp-29-boolean-blind-sql-injection-part-2-extracting-usernames-and-passwords-13447abeb6d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 March 2026
 
 - **[Lab: SQL injection attack, listing the database contents on non-Oracle databases](https://songulkizilay.medium.com/lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-e4141d7ffe2a?source=rss------pentesting-5)** _(Medium Pentesting)_

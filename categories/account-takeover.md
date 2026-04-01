@@ -1,3 +1,6 @@
+## 📅 01 April 2026
+
+- **[Pre-Account Takeover + Account Lockout](https://medium.com/@Mohamed_Farghly/pre-account-takeover-account-lockout-6f917b6c4ad0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 March 2026
 
 - **[Anatomy of the Axios Supply Chain Attack: A Full Technical Breakdown](https://medium.com/@easinxarafat/anatomy-of-the-axios-supply-chain-attack-a-full-technical-breakdown-650ad88e7865?source=rss------security-5)** _(Medium Security)_
