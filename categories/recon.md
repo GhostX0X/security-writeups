@@ -1,3 +1,6 @@
+## 📅 02 April 2026
+
+- **[AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein)](https://medium.com/@HackerMD/amassadvanced-recon-mastery-attack-surface-ko-poora-expose-karo-7469d748a990?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 April 2026
 
 - **[️‍♂️ The Complete Beginner’s Guide to Bug Bounty Reconnaissance: Live Hunting on PayPal](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-the-complete-beginners-guide-to-bug-bounty-reconnaissance-live-hunting-on-paypal-ddb2b0abecd3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
