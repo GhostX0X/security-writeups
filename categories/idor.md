@@ -1,3 +1,9 @@
+## 📅 02 April 2026
+
+- **[Hunting for IDORs: How I Accessed PII on a Popular Ticketing Site!](https://medium.com/@vanshrathore64/hunting-for-idors-how-i-accessed-pii-on-a-popular-ticketing-site-d7aa5f9542f2?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 April 2026
+
+- **[Hunting for IDORs: How I Accessed PII on a Popular Ticketing Site!](https://medium.com/@vanshrathore64/hunting-for-idors-how-i-accessed-pii-on-a-popular-ticketing-site-d7aa5f9542f2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 April 2026
 
 - **[Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/burp-only-idor-hunting-find-broken-authorization-without-fancy-tools-efc9f9f4cc52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

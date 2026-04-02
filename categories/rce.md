@@ -1,3 +1,6 @@
+## 📅 02 April 2026
+
+- **[Anthropic Accidentally Leaked All of Claude Code’s Source Code](https://generativeai.pub/anthropic-accidentally-leaked-all-of-claude-codes-source-code-c875ef9d2ced?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 April 2026
 
 - **[Claude Code’s Source Didn’t Leak. It Was Already Public for Years.](https://nikitaeverywhere.medium.com/claude-codes-source-didn-t-leak-it-was-already-public-for-years-5b6276c44d75?source=rss------security-5)** _(Medium Security)_
