@@ -1,5 +1,8 @@
 ## 📅 02 April 2026
 
+- **[When One Compromised NPM Library Forced Us to Rotate Every Secret](https://medium.com/@deepasingh.singh3/when-one-compromised-npm-library-forced-us-to-rotate-every-secret-41b7d2738a0f?source=rss------security-5)** _(Medium Security)_
+## 📅 02 April 2026
+
 - **[Anthropic Accidentally Leaked All of Claude Code’s Source Code](https://generativeai.pub/anthropic-accidentally-leaked-all-of-claude-codes-source-code-c875ef9d2ced?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 April 2026
 

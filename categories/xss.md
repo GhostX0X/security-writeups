@@ -1,3 +1,6 @@
+## 📅 02 April 2026
+
+- **[Cross-Site Scripting (XSS) Deep Dive: Türleri, Senaryoları ve Etkileri](https://medium.com/@mevlutkamalii/cross-site-scripting-xss-deep-dive-t%C3%BCrleri-senaryolar%C4%B1-ve-etkileri-1c73d455e11a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 April 2026
 
 - **[Volume 3, Post 10: Demystifying Cross-Site Scripting (XSS)](https://medium.com/@dasielramirezhernandez/volume-3-post-10-demystifying-cross-site-scripting-xss-f585228b55b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

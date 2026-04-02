@@ -1,3 +1,6 @@
+## 📅 02 April 2026
+
+- **[Tripod Turnstile by eTradeFia: The Smart Choice for Reliable Access Control](https://medium.com/@etradefia1/tripod-turnstile-by-etradefia-the-smart-choice-for-reliable-access-control-7b681e05b607?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 April 2026
 
 - **[AWS— Security Groups vs Network Access Control List (NACL)](https://medium.com/devops-articles-bytebyteboot/aws-security-groups-vs-network-access-control-list-nacl-a8a4d8d13a33?source=rss------security-5)** _(Medium Security)_
