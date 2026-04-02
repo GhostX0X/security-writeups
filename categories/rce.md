@@ -1,5 +1,8 @@
 ## 📅 01 April 2026
 
+- **[Claude Code’s Source Didn’t Leak. It Was Already Public for Years.](https://nikitaeverywhere.medium.com/claude-codes-source-didn-t-leak-it-was-already-public-for-years-5b6276c44d75?source=rss------security-5)** _(Medium Security)_
+## 📅 01 April 2026
+
 - **[Anthroic’s Claude Code leaked: the accidental source-code exposure that revealed how fragile AI…](https://medium.com/data-and-beyond/anthroics-claude-code-leaked-the-accidental-source-code-exposure-that-revealed-how-fragile-ai-55dc38a059e2?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 April 2026
 

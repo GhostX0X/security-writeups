@@ -1,5 +1,11 @@
 ## 📅 01 April 2026
 
+- **[Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/burp-only-idor-hunting-find-broken-authorization-without-fancy-tools-efc9f9f4cc52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 April 2026
+
+- **[Burp-Only IDOR Hunting — Find Broken Authorization Without Fancy Tools](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/burp-only-idor-hunting-find-broken-authorization-without-fancy-tools-efc9f9f4cc52?source=rss------security-5)** _(Medium Security)_
+## 📅 01 April 2026
+
 - **[How I Found an IDOR That Exposed Cancer Patient Identities on a Government Healthcare Portal](https://medium.com/@abo3jram389/how-i-found-an-idor-that-exposed-cancer-patient-identities-on-a-government-healthcare-portal-d109fc6ffe08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 March 2026
 
