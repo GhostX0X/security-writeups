@@ -1,5 +1,8 @@
 ## 📅 03 April 2026
 
+- **[I Built a Free Curated Library of 2,600+ Application Security Resources](https://sampsonc.medium.com/i-built-a-free-curated-library-of-2-600-application-security-resources-eccf49443f6f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 April 2026
+
 - **[Gaara — SSH Brute Force + SUID gdb Shell Escape | OffSec PG Play](https://infosecwriteups.com/gaara-ssh-brute-force-suid-gdb-shell-escape-offsec-pg-play-c760afb66e6d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 02 April 2026
 

@@ -1,3 +1,9 @@
+## 📅 03 April 2026
+
+- **[XSS Is Not Just <script>alert(1)</script> — Here's What Actually Makes It Fire](https://wolfsec1337.medium.com/xss-is-not-just-script-alert-1-script-heres-what-actually-makes-it-fire-b599a0cb4578?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 April 2026
+
+- **[XSS Is Not Just <script>alert(1)</script> — Here's What Actually Makes It Fire](https://wolfsec1337.medium.com/xss-is-not-just-script-alert-1-script-heres-what-actually-makes-it-fire-b599a0cb4578?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 April 2026
 
 - **[Cross-Site Scripting (XSS) Deep Dive: Türleri, Senaryoları ve Etkileri](https://medium.com/@mevlutkamalii/cross-site-scripting-xss-deep-dive-t%C3%BCrleri-senaryolar%C4%B1-ve-etkileri-1c73d455e11a?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 03 April 2026
+
+- **[GraphQL Security: How I Found and Exploited Critical IDOR and Authorization Bypass in a…](https://infosecwriteups.com/graphql-security-how-i-found-and-exploited-critical-idor-and-authorization-bypass-in-a-42ab78e13642?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 April 2026
 
 - **[Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs](https://medium.com/@ExploitX/beyond-idor-the-ultimate-guide-to-advanced-broken-access-control-in-modern-applications-47bdd952fbd2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
