@@ -1,5 +1,8 @@
 ## 📅 02 April 2026
 
+- **[Undercover mode, decoy tools, and a 3,167-line function: inside Claude Code’s leaked source](https://medium.com/@kent.rage/undercover-mode-decoy-tools-and-a-3-167-line-function-inside-claude-codes-leaked-source-26573fec2c12?source=rss------security-5)** _(Medium Security)_
+## 📅 02 April 2026
+
 - **[When One Compromised NPM Library Forced Us to Rotate Every Secret](https://medium.com/@deepasingh.singh3/when-one-compromised-npm-library-forced-us-to-rotate-every-secret-41b7d2738a0f?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 April 2026
 

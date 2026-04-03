@@ -1,5 +1,8 @@
 ## 📅 02 April 2026
 
+- **[Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs](https://medium.com/@ExploitX/beyond-idor-the-ultimate-guide-to-advanced-broken-access-control-in-modern-applications-47bdd952fbd2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 April 2026
+
 - **[Tripod Turnstile by eTradeFia: The Smart Choice for Reliable Access Control](https://medium.com/@etradefia1/tripod-turnstile-by-etradefia-the-smart-choice-for-reliable-access-control-7b681e05b607?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 April 2026
 

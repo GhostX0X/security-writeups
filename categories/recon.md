@@ -1,5 +1,8 @@
 ## 📅 02 April 2026
 
+- **[AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein)](https://medium.com/@HackerMD/amassadvanced-recon-mastery-attack-surface-ko-poora-expose-karo-7469d748a990?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 April 2026
+
 - **[AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein)](https://medium.com/@HackerMD/amassadvanced-recon-mastery-attack-surface-ko-poora-expose-karo-7469d748a990?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 April 2026
 

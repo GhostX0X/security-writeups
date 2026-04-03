@@ -1,5 +1,8 @@
 ## 📅 02 April 2026
 
+- **[Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs](https://medium.com/@ExploitX/beyond-idor-the-ultimate-guide-to-advanced-broken-access-control-in-modern-applications-47bdd952fbd2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 April 2026
+
 - **[Hunting for IDORs: How I Accessed PII on a Popular Ticketing Site!](https://medium.com/@vanshrathore64/hunting-for-idors-how-i-accessed-pii-on-a-popular-ticketing-site-d7aa5f9542f2?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 02 April 2026
 
