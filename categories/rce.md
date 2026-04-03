@@ -1,3 +1,6 @@
+## 📅 03 April 2026
+
+- **[Gaara — SSH Brute Force + SUID gdb Shell Escape | OffSec PG Play](https://infosecwriteups.com/gaara-ssh-brute-force-suid-gdb-shell-escape-offsec-pg-play-c760afb66e6d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 02 April 2026
 
 - **[Undercover mode, decoy tools, and a 3,167-line function: inside Claude Code’s leaked source](https://medium.com/@kent.rage/undercover-mode-decoy-tools-and-a-3-167-line-function-inside-claude-codes-leaked-source-26573fec2c12?source=rss------security-5)** _(Medium Security)_
