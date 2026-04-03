@@ -1,3 +1,9 @@
+## 📅 03 April 2026
+
+- **[The Ultimate Bug Bounty Recon Guide: From Zero to Finding Critical Vulnerabilities](https://wolfsec1337.medium.com/the-ultimate-bug-bounty-recon-guide-from-zero-to-finding-critical-vulnerabilities-6f8e9a264fc6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 April 2026
+
+- **[Beginner Recon Checklist (Step-by-Step Guide for Bug Bounty & Pentesting)](https://medium.com/@riyalimba/beginner-recon-checklist-step-by-step-guide-for-bug-bounty-pentesting-212fa880cb0a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 April 2026
 
 - **[AmassAdvanced Recon Mastery: Attack Surface Ko Poora Expose Karo! (Hinglish Mein)](https://medium.com/@HackerMD/amassadvanced-recon-mastery-attack-surface-ko-poora-expose-karo-7469d748a990?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 03 April 2026
+
+- **[I Bypassed a Company Login Without Knowing Any Password — My First SQL Injection Story](https://medium.com/@Blessing_/i-bypassed-a-company-login-without-knowing-any-password-my-first-sql-injection-story-a33fec18e480?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 April 2026
 
 - **[Lab: SQL injection attack, listing the database contents on Oracle](https://songulkizilay.medium.com/lab-sql-injection-attack-listing-the-database-contents-on-oracle-f16cac8cdeef?source=rss------pentesting-5)** _(Medium Pentesting)_
