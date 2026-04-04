@@ -1,3 +1,6 @@
+## 📅 04 April 2026
+
+- **[Stored XSS via iframe Injection Leads to $505 Bounty](https://medium.com/@sachinaneja/stored-xss-via-iframe-injection-leads-to-505-bounty-07580e9489fb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 April 2026
 
 - **[XSS Is Not Just <script>alert(1)</script> — Here's What Actually Makes It Fire](https://wolfsec1337.medium.com/xss-is-not-just-script-alert-1-script-heres-what-actually-makes-it-fire-b599a0cb4578?source=rss------pentesting-5)** _(Medium Pentesting)_

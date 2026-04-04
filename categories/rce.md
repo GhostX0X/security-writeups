@@ -1,5 +1,11 @@
 ## 📅 04 April 2026
 
+- **[Xalgorix: The Most Powerful Open-Source AI Pentesting Agent You Need to Know About](https://infosecwriteups.com/xalgorix-the-most-powerful-open-source-ai-pentesting-agent-you-need-to-know-about-35ccd23c6407?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 April 2026
+
+- **[How to Find Security Bugs in Source Code: A Complete Code Review Guide](https://wolfsec1337.medium.com/how-to-find-security-bugs-in-source-code-a-complete-code-review-guide-c858645f70ba?source=rss------security-5)** _(Medium Security)_
+## 📅 04 April 2026
+
 - **[The Illusion of Accuracy: Risks Lurking in Salesforce Pipelines](https://ybkalra.medium.com/the-illusion-of-accuracy-risks-lurking-in-salesforce-pipelines-f286da071bbd?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 April 2026
 
