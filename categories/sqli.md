@@ -1,3 +1,6 @@
+## 📅 04 April 2026
+
+- **[SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column](https://medium.com/@mohamed1245/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-fb67cebc9e68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 April 2026
 
 - **[I Bypassed a Company Login Without Knowing Any Password — My First SQL Injection Story](https://medium.com/@Blessing_/i-bypassed-a-company-login-without-knowing-any-password-my-first-sql-injection-story-a33fec18e480?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
