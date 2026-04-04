@@ -1,5 +1,8 @@
 ## 📅 04 April 2026
 
+- **[The Illusion of Accuracy: Risks Lurking in Salesforce Pipelines](https://ybkalra.medium.com/the-illusion-of-accuracy-risks-lurking-in-salesforce-pipelines-f286da071bbd?source=rss------security-5)** _(Medium Security)_
+## 📅 04 April 2026
+
 - **[SSH Brute-Force Attacks Explained (Hydra & Patator) — What to Test & How to Defend](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ssh-brute-force-attacks-explained-hydra-patator-what-to-test-how-to-defend-294f4c71a4de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 April 2026
 

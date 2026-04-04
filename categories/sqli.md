@@ -1,5 +1,8 @@
 ## 📅 04 April 2026
 
+- **[Analyzing a High-Severity SQL Injection Vulnerability in a Production Environment (Silently…](https://medium.com/@vanshrathore64/analyzing-a-high-severity-sql-injection-vulnerability-in-a-production-environment-silently-7533210c7125?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 April 2026
+
 - **[SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column](https://medium.com/@mohamed1245/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-fb67cebc9e68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 April 2026
 

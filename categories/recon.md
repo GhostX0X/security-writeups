@@ -1,3 +1,6 @@
+## 📅 04 April 2026
+
+- **[WHY MOST RECON IS USELESS](https://medium.com/@lazyhackerbd/why-most-recon-is-useless-44365c4ad6e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 April 2026
 
 - **[The Ultimate Bug Bounty Recon Guide: From Zero to Finding Critical Vulnerabilities](https://wolfsec1337.medium.com/the-ultimate-bug-bounty-recon-guide-from-zero-to-finding-critical-vulnerabilities-6f8e9a264fc6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
