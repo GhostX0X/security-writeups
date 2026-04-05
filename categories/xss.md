@@ -1,3 +1,6 @@
+## 📅 05 April 2026
+
+- **[Lab: Reflected XSS into HTML context with nothing encoded](https://medium.com/@mohamedjmr/lab-reflected-xss-into-html-context-with-nothing-encoded-16ca81ea3f52?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 04 April 2026
 
 - **[Stored XSS via iframe Injection Leads to $505 Bounty](https://medium.com/@sachinaneja/stored-xss-via-iframe-injection-leads-to-505-bounty-07580e9489fb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 05 April 2026
 
+- **[Broken Authentication — How Simple Login Flaws Lead to Account Takeover (P1 Guide)](https://medium.com/@pradeeptadi03/broken-authentication-how-simple-login-flaws-lead-to-account-takeover-p1-guide-e141106493e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 April 2026
+
 - **[ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 April 2026
 

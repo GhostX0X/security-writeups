@@ -1,3 +1,6 @@
+## 📅 05 April 2026
+
+- **[Redis ACL enforcement without downtime](https://nklya.medium.com/redis-acl-enforcement-without-downtime-1f2343c3ed6c?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 April 2026
 
 - **[Xalgorix: The Most Powerful Open-Source AI Pentesting Agent You Need to Know About](https://infosecwriteups.com/xalgorix-the-most-powerful-open-source-ai-pentesting-agent-you-need-to-know-about-35ccd23c6407?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
