@@ -1,3 +1,9 @@
+## 📅 05 April 2026
+
+- **[ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 April 2026
+
+- **[ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 April 2026
 
 - **[SSH Brute-Force Attacks Explained (Hydra & Patator) — What to Test & How to Defend](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ssh-brute-force-attacks-explained-hydra-patator-what-to-test-how-to-defend-294f4c71a4de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

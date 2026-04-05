@@ -1,3 +1,9 @@
+## 📅 05 April 2026
+
+- **[ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 April 2026
+
+- **[ATO in Bug Bounty: From Passive Recon to an ATO and a Reward](https://medium.com/@vanshrathore64/ato-in-bug-bounty-from-passive-recon-to-an-ato-and-a-reward-8ab9cae4e90f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 April 2026
 
 - **[WHY MOST RECON IS USELESS](https://medium.com/@lazyhackerbd/why-most-recon-is-useless-44365c4ad6e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

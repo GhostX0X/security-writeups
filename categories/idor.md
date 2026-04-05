@@ -1,3 +1,6 @@
+## 📅 05 April 2026
+
+- **[IDOR: Unauthorized Invoice Access on a Major Job Portal](https://medium.com/@robisubagja158/idor-unauthorized-invoice-access-on-a-major-job-portal-6509f0a3be07?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 April 2026
 
 - **[GraphQL Security: How I Found and Exploited Critical IDOR and Authorization Bypass in a…](https://infosecwriteups.com/graphql-security-how-i-found-and-exploited-critical-idor-and-authorization-bypass-in-a-42ab78e13642?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
