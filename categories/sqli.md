@@ -1,5 +1,8 @@
 ## 📅 04 April 2026
 
+- **[Blind SQL Injection in Private Program Leads to $2,100 Bounty](https://medium.com/@sachinaneja/blind-sql-injection-in-private-program-leads-to-2-100-bounty-a7e11e775919?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 April 2026
+
 - **[Analyzing a High-Severity SQL Injection Vulnerability in a Production Environment (Silently…](https://medium.com/@vanshrathore64/analyzing-a-high-severity-sql-injection-vulnerability-in-a-production-environment-silently-7533210c7125?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 April 2026
 
