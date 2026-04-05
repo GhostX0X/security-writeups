@@ -1,3 +1,6 @@
+## 📅 05 April 2026
+
+- **[CSRF (Cross-Site Request Forgery) Writeup](https://medium.com/@rimx/csrf-cross-site-request-forgery-writeup-926b0908d05c?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 24 March 2026
 
 - **[Exploiting CSRF in Account Settings for Profile Manipulation](https://medium.com/@OSAMA_OS/introduction-de71b6ba7adf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
