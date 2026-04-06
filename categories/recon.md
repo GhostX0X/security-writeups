@@ -1,3 +1,6 @@
+## 📅 06 April 2026
+
+- **[Hunting an Exposed ClickHouse Database — From Recon to Data Exfiltration](https://medium.com/@yadveshyadav2018/hunting-an-exposed-clickhouse-database-from-recon-to-data-exfiltration-8ec922e64b33?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 April 2026
 
 - **[How I Built an Automated Recon Pipeline for Bug Bounty Hunting](https://medium.com/@atnoforcybersecurity/how-i-built-an-automated-recon-pipeline-for-bug-bounty-hunting-bed3cb545317?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

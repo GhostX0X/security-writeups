@@ -1,3 +1,6 @@
+## 📅 06 April 2026
+
+- **[Bug Bounty / Web Application Security Hunting Checklist - 2026 XSS Rat version](https://thexssrat.medium.com/bug-bounty-web-application-security-hunting-checklist-2026-xss-rat-version-1886138a8200?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 April 2026
 
 - **[Lab: Reflected XSS into HTML context with nothing encoded](https://medium.com/@mohamedjmr/lab-reflected-xss-into-html-context-with-nothing-encoded-16ca81ea3f52?source=rss------pentesting-5)** _(Medium Pentesting)_
