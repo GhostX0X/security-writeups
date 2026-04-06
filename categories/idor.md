@@ -1,3 +1,6 @@
+## 📅 06 April 2026
+
+- **[What is IDOR? (Insecure Direct Object Reference) — With Simple Examples](https://medium.com/@riyalimba/what-is-idor-insecure-direct-object-reference-with-simple-examples-0ca518b723bf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 April 2026
 
 - **[IDOR: Unauthorized Invoice Access on a Major Job Portal](https://medium.com/@robisubagja158/idor-unauthorized-invoice-access-on-a-major-job-portal-6509f0a3be07?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
