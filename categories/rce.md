@@ -1,3 +1,6 @@
+## 📅 06 April 2026
+
+- **[[CMSpit] — Cockpit CMS RCE, MongoDB Exposure and Privilege Escalation via Vulnerable ExifTool](https://osintteam.blog/cmspit-cockpit-cms-rce-mongodb-exposure-and-privilege-escalation-via-vulnerable-exiftool-d4838c44c2a7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 April 2026
 
 - **[Redis ACL enforcement without downtime](https://nklya.medium.com/redis-acl-enforcement-without-downtime-1f2343c3ed6c?source=rss------security-5)** _(Medium Security)_
