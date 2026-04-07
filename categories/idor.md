@@ -1,3 +1,6 @@
+## 📅 07 April 2026
+
+- **[Idor in “track your order” page](https://medium.com/@faizulurrosyad433/idor-in-track-your-order-page-a42b6d58c1bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 April 2026
 
 - **[What is IDOR? (Insecure Direct Object Reference) — With Simple Examples](https://medium.com/@riyalimba/what-is-idor-insecure-direct-object-reference-with-simple-examples-0ca518b723bf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

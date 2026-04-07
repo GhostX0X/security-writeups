@@ -1,3 +1,6 @@
+## 📅 07 April 2026
+
+- **[Why strip_tags() Does Not Protect You From XSS in PHP/Laravel](https://infosecwriteups.com/why-strip-tags-does-not-protect-you-from-xss-in-php-laravel-c97d0e805213?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 April 2026
 
 - **[Bug Bounty / Web Application Security Hunting Checklist - 2026 XSS Rat version](https://thexssrat.medium.com/bug-bounty-web-application-security-hunting-checklist-2026-xss-rat-version-1886138a8200?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

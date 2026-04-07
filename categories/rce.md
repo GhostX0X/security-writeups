@@ -1,3 +1,12 @@
+## 📅 07 April 2026
+
+- **[⚙️ 12. — Password Brute-Force via Password Change](https://medium.com/@The4v1/%EF%B8%8F-12-password-brute-force-via-password-change-e50deafee78a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 April 2026
+
+- **[⚙️ 13. — Broken Brute-Force Protection, Multiple Credentials per Request](https://medium.com/@The4v1/%EF%B8%8F-13-broken-brute-force-protection-multiple-credentials-per-request-ee6045d2f66a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 April 2026
+
+- **[⚙️ 14. — 2FA Bypass Using a Brute-Force Attack](https://medium.com/@The4v1/%EF%B8%8F-14-2fa-bypass-using-a-brute-force-attack-527a65b0f349?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 April 2026
 
 - **[Exploiting Remote Inference Microservices and Programmable Guardrails for Open-Source AI](https://medium.com/@sohamjani007/exploiting-remote-inference-microservices-and-programmable-guardrails-for-open-source-ai-9762d2674eaf?source=rss------security-5)** _(Medium Security)_
