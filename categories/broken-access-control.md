@@ -1,3 +1,6 @@
+## 📅 08 April 2026
+
+- **[When Favoriting Goes Rogue: Broken Access Control Flaw. ️](https://cybersecuritywriteups.com/when-favoriting-goes-rogue-broken-access-control-flaw-%EF%B8%8F-088c224ea2fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 April 2026
 
 - **[Advanced IDOR Guide: How to Find and Exploit Broken Access Control in Modern APIs](https://medium.com/@ExploitX/beyond-idor-the-ultimate-guide-to-advanced-broken-access-control-in-modern-applications-47bdd952fbd2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

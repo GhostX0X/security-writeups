@@ -1,5 +1,8 @@
 ## 📅 08 April 2026
 
+- **[Shodan Recon Important Stuff](https://d0natel00.medium.com/shodan-recon-important-stuff-de6aba58e445?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 April 2026
+
 - **[Practical JavaScript Recon for Bug Bounty: A Real-World Passive-First Workflow](https://wolfsec1337.medium.com/practical-javascript-recon-for-bug-bounty-a-real-world-passive-first-workflow-6559a5f4a93d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 

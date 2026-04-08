@@ -1,3 +1,6 @@
+## 📅 08 April 2026
+
+- **[SQL INJECTION PART 1](https://medium.com/@anubhavbora40/sql-injection-part-1-5fef79e73ee4?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 April 2026
 
 - **[SQL Injection in GraphQL WebSocket Escalated to PII & Document Leak](https://medium.com/@DarkyOS/sql-injection-in-graphql-websocket-escalated-to-pii-document-leak-09ba7ad2800a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
