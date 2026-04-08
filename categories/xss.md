@@ -1,5 +1,8 @@
 ## 📅 07 April 2026
 
+- **[Web Uygulamalarında Veri Giriş Güvenliği: HTML Injection ve XSS Analizi](https://medium.com/@adaraydinoglu/html-injection-ve-xss-temelden-ger%C3%A7ek-senaryolara-42af09d17e1a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 April 2026
+
 - **[Why strip_tags() Does Not Protect You From XSS in PHP/Laravel](https://infosecwriteups.com/why-strip-tags-does-not-protect-you-from-xss-in-php-laravel-c97d0e805213?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 April 2026
 

@@ -1,3 +1,9 @@
+## 📅 07 April 2026
+
+- **[Fingerprint First: A Structured Web App Recon-to-Exploit Framework](https://wolfsec1337.medium.com/fingerprint-first-a-structured-web-app-recon-to-exploit-framework-434487602ff2?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 April 2026
+
+- **[Fingerprint First: A Structured Web App Recon-to-Exploit Framework](https://wolfsec1337.medium.com/fingerprint-first-a-structured-web-app-recon-to-exploit-framework-434487602ff2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 April 2026
 
 - **[Hunting an Exposed ClickHouse Database — From Recon to Data Exfiltration](https://medium.com/@yadveshyadav2018/hunting-an-exposed-clickhouse-database-from-recon-to-data-exfiltration-8ec922e64b33?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
