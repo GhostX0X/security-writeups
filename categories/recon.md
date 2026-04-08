@@ -1,3 +1,9 @@
+## 📅 08 April 2026
+
+- **[Practical JavaScript Recon for Bug Bounty: A Real-World Passive-First Workflow](https://wolfsec1337.medium.com/practical-javascript-recon-for-bug-bounty-a-real-world-passive-first-workflow-6559a5f4a93d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 April 2026
+
+- **[Full Kill Chain — From Recon → Root → Lateral → Real Impact](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/full-kill-chain-from-recon-root-lateral-real-impact-444553e01c08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 April 2026
 
 - **[Fingerprint First: A Structured Web App Recon-to-Exploit Framework](https://wolfsec1337.medium.com/fingerprint-first-a-structured-web-app-recon-to-exploit-framework-434487602ff2?source=rss------pentesting-5)** _(Medium Pentesting)_

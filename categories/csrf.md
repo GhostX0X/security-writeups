@@ -1,3 +1,6 @@
+## 📅 08 April 2026
+
+- **[Post 11: CSRF, CORS & Open Redirects (Manipulating User Actions)](https://medium.com/@dasielramirezhernandez/post-11-csrf-cors-open-redirects-manipulating-user-actions-7ac8a5378d5d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 April 2026
 
 - **[CSRF (Cross-Site Request Forgery) Writeup](https://medium.com/@rimx/csrf-cross-site-request-forgery-writeup-926b0908d05c?source=rss------pentesting-5)** _(Medium Pentesting)_
