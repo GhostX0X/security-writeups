@@ -1,3 +1,9 @@
+## 📅 09 April 2026
+
+- **[Part 2/3: Finding Exposed phpinfo() Files — Reconnaissance Techniques](https://medium.com/@cybersecplayground/part-2-3-finding-exposed-phpinfo-files-reconnaissance-techniques-2c71fec63728?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 April 2026
+
+- **[How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
 - **[Pentester Labs Recon 00 write up](https://robertnyinge.medium.com/pentester-labs-recon-00-write-up-040db669a4e6?source=rss------pentesting-5)** _(Medium Pentesting)_

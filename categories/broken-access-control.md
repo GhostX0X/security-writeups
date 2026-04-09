@@ -1,3 +1,9 @@
+## 📅 09 April 2026
+
+- **[Lab 11: Method-Based Access Control Bypass — How It Works, Real Bounties, and How to Test It](https://medium.com/@guyani/lab-11-method-based-access-control-bypass-how-it-works-real-bounties-and-how-to-test-it-5cd3dcd488e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 April 2026
+
+- **[The “Select-Your-User” Flaw: A Tale of Broken Access Control](https://medium.com/@omkapri/the-select-your-user-flaw-a-tale-of-broken-access-control-ae1bd57bf733?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
 - **[When Favoriting Goes Rogue: Broken Access Control Flaw. ️](https://cybersecuritywriteups.com/when-favoriting-goes-rogue-broken-access-control-flaw-%EF%B8%8F-088c224ea2fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
