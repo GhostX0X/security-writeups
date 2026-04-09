@@ -1,5 +1,8 @@
 ## 📅 09 April 2026
 
+- **[From Learning to Building: My First Automated Reconnaissance Tool](https://offseckalki.medium.com/from-learning-to-building-my-first-automated-reconnaissance-tool-2ec5e025ad95?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 April 2026
+
 - **[Part 2/3: Finding Exposed phpinfo() Files — Reconnaissance Techniques](https://medium.com/@cybersecplayground/part-2-3-finding-exposed-phpinfo-files-reconnaissance-techniques-2c71fec63728?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 April 2026
 

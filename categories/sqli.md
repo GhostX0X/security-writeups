@@ -1,3 +1,6 @@
+## 📅 09 April 2026
+
+- **[Visible Error-Based SQL Injection: Leaking Data Through PostgreSQL Errors](https://medium.com/@mohamed1245/visible-error-based-sql-injection-leaking-data-through-postgresql-errors-8aab6f6039d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
 - **[How I Discovered a Blind SQL Injection in a Private program](https://medium.com/@mrx_w_/how-i-discovered-a-blind-sql-injection-in-a-private-program-7eebd77ad286?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
