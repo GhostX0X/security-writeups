@@ -1,5 +1,8 @@
 ## 📅 08 April 2026
 
+- **[How I Discovered a Blind SQL Injection in a Private program](https://medium.com/@mrx_w_/how-i-discovered-a-blind-sql-injection-in-a-private-program-7eebd77ad286?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 April 2026
+
 - **[SQL INJECTION PART 1](https://medium.com/@anubhavbora40/sql-injection-part-1-5fef79e73ee4?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 April 2026
 

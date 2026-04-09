@@ -1,3 +1,6 @@
+## 📅 08 April 2026
+
+- **[Stop Guessing XSS Payloads](https://medium.com/@marduk.i.am/stop-guessing-xss-payloads-881cad409624?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 April 2026
 
 - **[Web Uygulamalarında Veri Giriş Güvenliği: HTML Injection ve XSS Analizi](https://medium.com/@adaraydinoglu/html-injection-ve-xss-temelden-ger%C3%A7ek-senaryolara-42af09d17e1a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 08 April 2026
 
+- **[Pentester Labs Recon 00 write up](https://robertnyinge.medium.com/pentester-labs-recon-00-write-up-040db669a4e6?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 April 2026
+
 - **[Shodan Recon Important Stuff](https://d0natel00.medium.com/shodan-recon-important-stuff-de6aba58e445?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
