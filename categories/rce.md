@@ -1,5 +1,8 @@
 ## 📅 10 April 2026
 
+- **[The “Drop Everything” Bypass: Uncovering an Access Control Flaw in Salesforce Aura](https://medium.com/@belalshohaip222/the-drop-everything-bypass-uncovering-an-access-control-flaw-in-salesforce-aura-691de0c9ab76?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
 - **[RSS Feed Validator to RCE](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 April 2026
 

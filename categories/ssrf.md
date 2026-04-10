@@ -1,3 +1,6 @@
+## 📅 10 April 2026
+
+- **[Mastering Server-Side Request Forgery (SSRF) — From Basic Exploitation to Advanced Bypasses](https://sharonchristin193.medium.com/mastering-server-side-request-forgery-ssrf-from-basic-exploitation-to-advanced-bypasses-81cf2ebb9d88?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 March 2026
 
 - **[SSRF to Admin Access: When a “Harmless URL” Took Me Straight to the Kingdom](https://infosecwriteups.com/ssrf-to-admin-access-when-a-harmless-url-took-me-straight-to-the-kingdom-000815d0725d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

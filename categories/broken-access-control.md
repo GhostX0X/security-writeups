@@ -1,5 +1,8 @@
 ## 📅 10 April 2026
 
+- **[The “Drop Everything” Bypass: Uncovering an Access Control Flaw in Salesforce Aura](https://medium.com/@belalshohaip222/the-drop-everything-bypass-uncovering-an-access-control-flaw-in-salesforce-aura-691de0c9ab76?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
 - **[Lab 12: Multi-Step Process With No Access Control on One Step — How I Promoted Myself to Admin](https://medium.com/@guyani/lab-12-multi-step-process-with-no-access-control-on-one-step-how-i-promoted-myself-to-admin-4eb14492ad6c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 April 2026
 
