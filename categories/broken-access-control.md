@@ -1,3 +1,6 @@
+## 📅 10 April 2026
+
+- **[Flap Barrier: The Intelligent Access Control Solution for High-Traffic Environments](https://medium.com/@etradefia1/flap-barrier-the-intelligent-access-control-solution-for-high-traffic-environments-6a36eda79eac?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 April 2026
 
 - **[Lab 11: Method-Based Access Control Bypass — How It Works, Real Bounties, and How to Test It](https://medium.com/@guyani/lab-11-method-based-access-control-bypass-how-it-works-real-bounties-and-how-to-test-it-5cd3dcd488e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

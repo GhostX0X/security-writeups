@@ -1,5 +1,8 @@
 ## 📅 10 April 2026
 
+- **[RSS Feed Validator to RCE](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
 - **[Guía de Vulnerabilidades de File Upload: Técnicas de Pentesting y RCE](https://medium.com/@jpablo13/gu%C3%ADa-de-vulnerabilidades-de-file-upload-t%C3%A9cnicas-de-pentesting-y-rce-7ae2621a4944?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 April 2026
 

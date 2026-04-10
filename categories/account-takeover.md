@@ -1,3 +1,9 @@
+## 📅 10 April 2026
+
+- **[My Bug Bounty Journey #9: Account Takeover via JWT Misconfiguration](https://medium.com/@awchjimmy/my-bug-bounty-journey-9-account-takeover-via-jwt-misconfiguration-4f4b4ed47360?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
+- **[RSS Feed Validator to RCE](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 April 2026
 
 - **[Mastering Metasploit Framework — From Zero to Controlled Exploitation (Beginner → Operator)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mastering-metasploit-framework-from-zero-to-controlled-exploitation-beginner-operator-17fee810ac10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
