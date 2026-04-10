@@ -1,3 +1,6 @@
+## 📅 09 April 2026
+
+- **[Mastering Metasploit Framework — From Zero to Controlled Exploitation (Beginner → Operator)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mastering-metasploit-framework-from-zero-to-controlled-exploitation-beginner-operator-17fee810ac10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
 - **[securemix: A Cryptographically Secure Password Generator for Node.js Built for Production](https://medium.com/@innoartivelabs/securemix-a-cryptographically-secure-password-generator-for-node-js-built-for-production-7bdef0e9b1ed?source=rss------security-5)** _(Medium Security)_

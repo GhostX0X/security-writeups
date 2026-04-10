@@ -1,3 +1,6 @@
+## 📅 10 April 2026
+
+- **[Guía de Vulnerabilidades de File Upload: Técnicas de Pentesting y RCE](https://medium.com/@jpablo13/gu%C3%ADa-de-vulnerabilidades-de-file-upload-t%C3%A9cnicas-de-pentesting-y-rce-7ae2621a4944?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 April 2026
 
 - **[[Thompson] — Exploitation of Apache Tomcat Default Credentials Leading to RCE and Cron-Based…](https://meetcyber.net/thompson-exploitation-of-apache-tomcat-default-credentials-leading-to-rce-and-cron-based-d231bf1c2365?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
