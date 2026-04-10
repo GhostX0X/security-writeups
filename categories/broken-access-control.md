@@ -1,5 +1,11 @@
 ## 📅 10 April 2026
 
+- **[Lab 12: Multi-Step Process With No Access Control on One Step — How I Promoted Myself to Admin](https://medium.com/@guyani/lab-12-multi-step-process-with-no-access-control-on-one-step-how-i-promoted-myself-to-admin-4eb14492ad6c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
+- **[Referer-Based Access Control — The Last Access Control Lab Before I Move On to Authentication](https://medium.com/@guyani/referer-based-access-control-the-last-access-control-lab-before-i-move-on-to-authentication-55ad0fd924df?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
 - **[Flap Barrier: The Intelligent Access Control Solution for High-Traffic Environments](https://medium.com/@etradefia1/flap-barrier-the-intelligent-access-control-solution-for-high-traffic-environments-6a36eda79eac?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 April 2026
 

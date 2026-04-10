@@ -1,5 +1,8 @@
 ## 📅 10 April 2026
 
+- **[NoSQL Injection: How I Turned ?search= Into an Admin Oracle](https://medium.com/@thomasyoussef/nosql-injection-how-i-turned-search-into-an-admin-oracle-3e255ee82f18?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 April 2026
+
 - **[Blind SQL Injection with Conditional Responses](https://medium.com/@mohamed1245/blind-sql-injection-with-conditional-responses-a4afc4ff0e31?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 April 2026
 

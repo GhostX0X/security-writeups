@@ -1,3 +1,6 @@
+## 📅 10 April 2026
+
+- **[Stored XSS via Image Upload and MIME-Type Confusion](https://medium.com/@kemzx/stored-xss-via-image-upload-and-mime-type-confusion-1981ec0b82fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
 - **[Stop Guessing XSS Payloads](https://medium.com/@marduk.i.am/stop-guessing-xss-payloads-881cad409624?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
