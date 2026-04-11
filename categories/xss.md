@@ -1,3 +1,6 @@
+## 📅 11 April 2026
+
+- **[Day-1 Solving XSS lab](https://smartpicks4u.medium.com/day-1-solving-xss-lab-c778d934dc6a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 April 2026
 
 - **[Stored XSS via Image Upload and MIME-Type Confusion](https://medium.com/@kemzx/stored-xss-via-image-upload-and-mime-type-confusion-1981ec0b82fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

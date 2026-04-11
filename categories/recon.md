@@ -1,5 +1,17 @@
 ## 📅 11 April 2026
 
+- **[Cyber Leelawat|Tryhackme|Active Reconnaissance](https://medium.com/@amalemahesh41/cyber-leelawat-active-reconnaissance-aa7e555e455e?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 April 2026
+
+- **[The Symmetry of Recon: Active vs. Passive Discovery in Bug Bounty](https://medium.com/@soft_sec/the-symmetry-of-recon-active-vs-passive-discovery-in-bug-bounty-b0fef136783d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 April 2026
+
+- **[Recon Pro: Building an Enterprise-Grade Web Reconnaissance Platform From Scratch](https://medium.com/@novusaegis.ai/reconpro-c189025da790?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 April 2026
+
+- **[Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@novusaegis.ai/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-baf932cc56e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 April 2026
+
 - **[Pentester Labs Recon 02 Writeup](https://robertnyinge.medium.com/pentester-labs-recon-02-writeup-45bd506cd5e8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 09 April 2026
 
