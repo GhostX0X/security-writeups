@@ -1,3 +1,6 @@
+## 📅 11 April 2026
+
+- **[Guide to File Upload Vulnerabilities: Penetration Testing and RCE Techniques](https://medium.com/@jpablo13/guide-to-file-upload-vulnerabilities-penetration-testing-and-rce-techniques-1cc5f2ffc292?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 April 2026
 
 - **[The “Drop Everything” Bypass: Uncovering an Access Control Flaw in Salesforce Aura](https://medium.com/@belalshohaip222/the-drop-everything-bypass-uncovering-an-access-control-flaw-in-salesforce-aura-691de0c9ab76?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
