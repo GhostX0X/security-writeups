@@ -1,3 +1,6 @@
+## 📅 11 April 2026
+
+- **[How login with google actually works ? – Beginner guide to Google OAuth 2.0](https://medium.com/@thperera2000/how-login-with-google-actually-works-beginner-guide-to-google-oauth-2-0-a9e9c44613b0?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 March 2026
 
 - **[FastAPI Security Made Easy: JWT, OAuth2, CORS, Rate-Limiting, and HTTPS](https://medium.com/@pravinkunnure9/fastapi-security-made-easy-jwt-oauth2-cors-rate-limiting-and-https-4c1130ee5a9f?source=rss------security-5)** _(Medium Security)_

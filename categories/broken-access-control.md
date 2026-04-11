@@ -1,3 +1,9 @@
+## 📅 11 April 2026
+
+- **[Access Control Vulnerabilities](https://medium.com/@The4v1/access-control-vulnerabilities-cbbddddbe834?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 April 2026
+
+- **[The GraphQL Goldmine: Why You Should Test Every Single Query for Broken Access Control](https://medium.com/@belalshohaip222/the-graphql-goldmine-why-you-should-test-every-single-query-for-broken-access-control-44253dbc3b28?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 April 2026
 
 - **[The “Drop Everything” Bypass: Uncovering an Access Control Flaw in Salesforce Aura](https://medium.com/@belalshohaip222/the-drop-everything-bypass-uncovering-an-access-control-flaw-in-salesforce-aura-691de0c9ab76?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
