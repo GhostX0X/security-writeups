@@ -1,3 +1,6 @@
+## 📅 11 April 2026
+
+- **[How SQL Injection Works — And Why It’s Still Everywhere](https://medium.com/@qymmore/how-sql-injection-works-and-why-its-still-everywhere-11f04b322257?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 April 2026
 
 - **[NoSQL Injection: How I Turned ?search= Into an Admin Oracle](https://medium.com/@thomasyoussef/nosql-injection-how-i-turned-search-into-an-admin-oracle-3e255ee82f18?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 11 April 2026
+
+- **[Pentester Labs Recon 02 Writeup](https://robertnyinge.medium.com/pentester-labs-recon-02-writeup-45bd506cd5e8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 09 April 2026
 
 - **[From Learning to Building: My First Automated Reconnaissance Tool](https://offseckalki.medium.com/from-learning-to-building-my-first-automated-reconnaissance-tool-2ec5e025ad95?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
