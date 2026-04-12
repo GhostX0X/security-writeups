@@ -1,3 +1,6 @@
+## 📅 12 April 2026
+
+- **[Beginner Guide to XSS (Cross-Site Scripting)](https://medium.com/@lavibuddin.ashik/beginner-guide-to-xss-cross-site-scripting-be98127adac0?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 April 2026
 
 - **[Day-1 Solving XSS lab](https://smartpicks4u.medium.com/day-1-solving-xss-lab-c778d934dc6a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

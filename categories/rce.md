@@ -1,5 +1,11 @@
 ## 📅 12 April 2026
 
+- **[Top 10 Critical  vulnerabilities CVEs from March 2026 — With Learning Resources & Practical Analysis](https://medium.com/@pradeeptadi03/top-10-critical-cves-from-march-2026-with-learning-resources-practical-analysis-3b8077fc1647?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
+- **[Secrets in Source Code: 10 Ways to Find Them (Step-by-Step Master Guide)](https://medium.com/@verylazytech/secrets-in-source-code-10-ways-to-find-them-step-by-step-master-guide-f071a796a653?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
 - **[Top 10 Critical CVEs from March 2026 — With Learning Resources & Practical Analysis](https://medium.com/@pradeeptadi03/top-10-critical-cves-from-march-2026-with-learning-resources-practical-analysis-3b8077fc1647?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 April 2026
 
