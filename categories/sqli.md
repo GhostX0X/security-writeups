@@ -1,5 +1,8 @@
 ## 📅 11 April 2026
 
+- **[Blind SQL Injection: From Conditional Responses to Out-of-Band Exfiltration](https://medium.com/@ahmedrais.pro/blind-sql-injection-from-conditional-responses-to-out-of-band-exfiltration-67c00e463efa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 April 2026
+
 - **[How SQL Injection Works — And Why It’s Still Everywhere](https://medium.com/@qymmore/how-sql-injection-works-and-why-its-still-everywhere-11f04b322257?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 April 2026
 
