@@ -1,5 +1,8 @@
 ## 📅 12 April 2026
 
+- **[Broken Access Control via Replay Attack](https://medium.com/@0xJad/broken-access-control-via-replay-attack-78bd960cdc9f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
 - **[Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 April 2026
 
