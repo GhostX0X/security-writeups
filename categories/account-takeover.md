@@ -1,3 +1,6 @@
+## 📅 12 April 2026
+
+- **[I got tired of “private” key generators that require a server upload, so I built my own.](https://medium.com/@t000lz.com/i-got-tired-of-private-key-generators-that-require-a-server-upload-so-i-built-my-own-78d54c4dd36d?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 April 2026
 
 - **[OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

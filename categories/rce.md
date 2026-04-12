@@ -1,3 +1,9 @@
+## 📅 12 April 2026
+
+- **[Top 10 Critical CVEs from March 2026 — With Learning Resources & Practical Analysis](https://medium.com/@pradeeptadi03/top-10-critical-cves-from-march-2026-with-learning-resources-practical-analysis-3b8077fc1647?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
+- **[Salesforce Security Model: A Layered Architecture for Precise Data Access Control](https://medium.com/@keshavsahaniapple/salesforce-security-model-a-layered-architecture-for-precise-data-access-control-fc2ba5996ae6?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 April 2026
 
 - **[Guide to File Upload Vulnerabilities: Penetration Testing and RCE Techniques](https://medium.com/@jpablo13/guide-to-file-upload-vulnerabilities-penetration-testing-and-rce-techniques-1cc5f2ffc292?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

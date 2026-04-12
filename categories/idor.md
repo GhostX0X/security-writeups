@@ -1,3 +1,9 @@
+## 📅 12 April 2026
+
+- **[Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
+- **[Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 April 2026
 
 - **[Idor in “track your order” page](https://medium.com/@faizulurrosyad433/idor-in-track-your-order-page-a42b6d58c1bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

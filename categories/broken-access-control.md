@@ -1,3 +1,12 @@
+## 📅 12 April 2026
+
+- **[Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
+- **[Salesforce Security Model: A Layered Architecture for Precise Data Access Control](https://medium.com/@keshavsahaniapple/salesforce-security-model-a-layered-architecture-for-precise-data-access-control-fc2ba5996ae6?source=rss------security-5)** _(Medium Security)_
+## 📅 12 April 2026
+
+- **[Broken Access Control (IDOR) — Where Most Bug Bounty Money Is Made](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/broken-access-control-idor-where-most-bug-bounty-money-is-made-636f2926bc41?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 April 2026
 
 - **[Access Control Vulnerabilities](https://medium.com/@The4v1/access-control-vulnerabilities-cbbddddbe834?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
