@@ -1,3 +1,9 @@
+## 📅 13 April 2026
+
+- **[⚙️ 09. — Insecure Direct Object References (IDOR)](https://medium.com/@The4v1/%EF%B8%8F-09-insecure-direct-object-references-idor-c1e63fc23a3b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 April 2026
+
+- **[IDOR via Base64-Encoded ID Allows Unauthorized Deletion of Other Users’ Spaces](https://medium.com/@o.mohmed.ascii/idor-via-base64-encoded-id-allows-unauthorized-deletion-of-other-users-spaces-291be45925b0?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 April 2026
 
 - **[How a Simple IDOR Earned Me a $10000+ Bounty](https://medium.com/@sachinaneja/how-a-simple-idor-earned-me-a-10000-bounty-fa6fb9b53263?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
