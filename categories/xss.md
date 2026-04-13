@@ -1,3 +1,6 @@
+## 📅 13 April 2026
+
+- **[Double Trouble: Finding Both XSS and HTML Injection in an AI Chatbot](https://vanshrathorebughunter.medium.com/double-trouble-finding-both-xss-and-html-injection-in-an-ai-chatbot-9011a9c0bbd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 April 2026
 
 - **[Beginner Guide to XSS (Cross-Site Scripting)](https://medium.com/@lavibuddin.ashik/beginner-guide-to-xss-cross-site-scripting-be98127adac0?source=rss------security-5)** _(Medium Security)_

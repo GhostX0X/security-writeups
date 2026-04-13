@@ -1,3 +1,6 @@
+## 📅 13 April 2026
+
+- **[LLM Injection + Unlimited Approval + RCE: The Coinbase AgentKit Attack Chain](https://medium.com/@stevenleath/llm-injection-unlimited-approval-rce-the-coinbase-agentkit-attack-chain-f210226c12b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 April 2026
 
 - **[Top 10 Critical  vulnerabilities CVEs from March 2026 — With Learning Resources & Practical Analysis](https://medium.com/@pradeeptadi03/top-10-critical-cves-from-march-2026-with-learning-resources-practical-analysis-3b8077fc1647?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
