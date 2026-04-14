@@ -1,5 +1,8 @@
 ## 📅 14 April 2026
 
+- **[Mastering Broken Access Control: A Technical Deep Dive into 13 PortSwigger Labs](https://medium.com/@adelekeismailifeoluwa/mastering-broken-access-control-a-technical-deep-dive-into-13-portswigger-labs-6149b9084a4b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 April 2026
+
 - **[⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL](https://medium.com/@The4v1/%EF%B8%8F-10-url-based-access-control-can-be-circumvented-x-original-url-06e4ef198dba?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 April 2026
 

@@ -1,5 +1,11 @@
 ## 📅 14 April 2026
 
+- **[GraphQL RCE: The Kill Chain to Cloud Identity…!](https://infosecwriteups.com/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 April 2026
+
+- **[The 2026 AI Data Wall: Why Human Input is the Most Valuable Resource in Tech](https://medium.com/ai-analytics-diaries/the-2026-ai-data-wall-why-human-input-is-the-most-valuable-resource-in-tech-75fac101707e?source=rss------security-5)** _(Medium Security)_
+## 📅 14 April 2026
+
 - **[GraphQL RCE: The Kill Chain to Cloud Identity…!](https://medium.com/@mpjani294/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 14 April 2026
 
