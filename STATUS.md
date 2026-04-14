@@ -1,9 +1,10 @@
 # 📊 Status
 
-Last updated: 2026-04-14 01:28:20.512337 UTC
+Last updated: 2026-04-14 07:17:39.025125 UTC
 
-- account-takeover: 2
-- broken-access-control: 2
-- oauth: 1
+- rce: 2
+- account-takeover: 1
 - xss: 1
+- oauth: 2
+- broken-access-control: 2
 - sqli: 1

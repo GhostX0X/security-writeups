@@ -1,3 +1,6 @@
+## 📅 14 April 2026
+
+- **[From Forgot Password to Account Takeover: A Simple API Mistake](https://medium.com/@fazriansyahmuhammad22/from-forgot-password-to-account-takeover-a-simple-api-mistake-478e402446a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 April 2026
 
 - **[Account Takeover (ATO) — How Attackers Gain Full Control of Accounts](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/account-takeover-ato-how-attackers-gain-full-control-of-accounts-72dbc07335e1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

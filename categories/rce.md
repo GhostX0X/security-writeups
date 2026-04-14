@@ -1,3 +1,9 @@
+## 📅 14 April 2026
+
+- **[Google Just Open-Sourced Magika: The Tool That Protects 2 Billion Gmail Users.](https://pub.towardsai.net/google-just-open-sourced-magika-the-tool-that-protects-2-billion-gmail-users-ad85a5f8b7ea?source=rss------security-5)** _(Medium Security)_
+## 📅 14 April 2026
+
+- **[A Simple Guide to Salesforce Record Sharing: Who Sees What?](https://medium.com/@pardetanvi25/a-simple-guide-to-salesforce-record-sharing-who-sees-what-e793846c7495?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 April 2026
 
 - **[LLM Injection + Unlimited Approval + RCE: The Coinbase AgentKit Attack Chain](https://medium.com/@stevenleath/llm-injection-unlimited-approval-rce-the-coinbase-agentkit-attack-chain-f210226c12b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

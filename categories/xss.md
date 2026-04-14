@@ -1,3 +1,6 @@
+## 📅 14 April 2026
+
+- **[XSS Cross-Site Scripting Zero Se Hero: Browser Ko Apna Weapon Banao! (Hinglish Mein)](https://medium.com/@HackerMD/xss-cross-site-scripting-zero-se-hero-browser-ko-apna-weapon-banao-hinglish-mein-f4333ef50a09?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 April 2026
 
 - **[Day-2 Bypassing No Brackets XSS Filter](https://smartpicks4u.medium.com/day-2-bypassing-no-brackets-xss-filter-ffeed8adb8ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

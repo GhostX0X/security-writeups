@@ -1,5 +1,8 @@
 ## 📅 14 April 2026
 
+- **[When OAuth Bypasses Email Restrictions — A Simple Signup Logic Flaw](https://strangerwhite.medium.com/when-oauth-bypasses-email-restrictions-a-simple-signup-logic-flaw-6aaabc22766f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 April 2026
+
 - **[Guía de OAuth: Vulnerabilidades, Vectores de Ataque y Seguridad](https://medium.com/@jpablo13/gu%C3%ADa-de-oauth-vulnerabilidades-vectores-de-ataque-y-seguridad-79a83b7ea4b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 April 2026
 
