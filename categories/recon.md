@@ -1,3 +1,6 @@
+## 📅 14 April 2026
+
+- **[Pentester Lab Recon 07 Writeup](https://robertnyinge.medium.com/pentester-lab-recon-07-writeup-cf58b9ee59f8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 April 2026
 
 - **[Cyber Leelawat | Tryhackme | Passive Reconnaissance](https://medium.com/@amalemahesh41/cyber-leelawat-tryhackme-passive-reconnaissance-ae92ac63a66c?source=rss------pentesting-5)** _(Medium Pentesting)_

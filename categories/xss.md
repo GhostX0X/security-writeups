@@ -1,5 +1,8 @@
 ## 📅 14 April 2026
 
+- **[How I Bypassed CORS Using XSS and Stole API Data](https://medium.com/@TsunadeX106/how-i-bypassed-cors-using-xss-and-stole-api-data-3ac9a6744b33?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 April 2026
+
 - **[XSS Cross-Site Scripting Zero Se Hero: Browser Ko Apna Weapon Banao! (Hinglish Mein)](https://medium.com/@HackerMD/xss-cross-site-scripting-zero-se-hero-browser-ko-apna-weapon-banao-hinglish-mein-f4333ef50a09?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 April 2026
 

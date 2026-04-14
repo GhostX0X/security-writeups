@@ -1,5 +1,11 @@
 ## 📅 14 April 2026
 
+- **[GraphQL RCE: The Kill Chain to Cloud Identity…!](https://medium.com/@mpjani294/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 April 2026
+
+- **[GraphQL RCE: The Kill Chain to Cloud Identity…!](https://medium.com/@mpjani294/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 April 2026
+
 - **[Google Just Open-Sourced Magika: The Tool That Protects 2 Billion Gmail Users.](https://pub.towardsai.net/google-just-open-sourced-magika-the-tool-that-protects-2-billion-gmail-users-ad85a5f8b7ea?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 April 2026
 
