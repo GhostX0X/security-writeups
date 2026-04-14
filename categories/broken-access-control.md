@@ -1,3 +1,9 @@
+## 📅 14 April 2026
+
+- **[⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL](https://medium.com/@The4v1/%EF%B8%8F-10-url-based-access-control-can-be-circumvented-x-original-url-06e4ef198dba?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 April 2026
+
+- **[⚙️ 11. — Method-based Access Control Can Be Circumvented](https://medium.com/@The4v1/%EF%B8%8F-11-method-based-access-control-can-be-circumvented-c3e03b880fe5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 April 2026
 
 - **[Broken Access Control via Replay Attack](https://medium.com/@0xJad/broken-access-control-via-replay-attack-78bd960cdc9f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

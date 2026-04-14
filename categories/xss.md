@@ -1,5 +1,8 @@
 ## 📅 13 April 2026
 
+- **[Day-2 Bypassing No Brackets XSS Filter](https://smartpicks4u.medium.com/day-2-bypassing-no-brackets-xss-filter-ffeed8adb8ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 April 2026
+
 - **[Double Trouble: Finding Both XSS and HTML Injection in an AI Chatbot](https://vanshrathorebughunter.medium.com/double-trouble-finding-both-xss-and-html-injection-in-an-ai-chatbot-9011a9c0bbd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 April 2026
 

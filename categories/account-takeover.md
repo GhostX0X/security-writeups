@@ -1,3 +1,9 @@
+## 📅 13 April 2026
+
+- **[Account Takeover (ATO) — How Attackers Gain Full Control of Accounts](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/account-takeover-ato-how-attackers-gain-full-control-of-accounts-72dbc07335e1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 April 2026
+
+- **[Account Takeover (ATO) — How Attackers Gain Full Control of Accounts](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/account-takeover-ato-how-attackers-gain-full-control-of-accounts-72dbc07335e1?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 April 2026
 
 - **[I got tired of “private” key generators that require a server upload, so I built my own.](https://medium.com/@t000lz.com/i-got-tired-of-private-key-generators-that-require-a-server-upload-so-i-built-my-own-78d54c4dd36d?source=rss------security-5)** _(Medium Security)_

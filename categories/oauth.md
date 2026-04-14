@@ -1,3 +1,6 @@
+## 📅 14 April 2026
+
+- **[Guía de OAuth: Vulnerabilidades, Vectores de Ataque y Seguridad](https://medium.com/@jpablo13/gu%C3%ADa-de-oauth-vulnerabilidades-vectores-de-ataque-y-seguridad-79a83b7ea4b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 April 2026
 
 - **[How login with google actually works ? – Beginner guide to Google OAuth 2.0](https://medium.com/@thperera2000/how-login-with-google-actually-works-beginner-guide-to-google-oauth-2-0-a9e9c44613b0?source=rss------security-5)** _(Medium Security)_
