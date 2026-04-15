@@ -1,3 +1,9 @@
+## 📅 15 April 2026
+
+- **[⚙️ 12. — Multi-step process with no access control on one step](https://medium.com/@The4v1/%EF%B8%8F-12-multi-step-process-with-no-access-control-on-one-step-a3471653a346?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 April 2026
+
+- **[⚙️ 13. — Referer — Based Access Control](https://medium.com/@The4v1/%EF%B8%8F-13-referer-based-access-control-2d36f4a5c699?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 April 2026
 
 - **[Mastering Broken Access Control: A Technical Deep Dive into 13 PortSwigger Labs](https://medium.com/@adelekeismailifeoluwa/mastering-broken-access-control-a-technical-deep-dive-into-13-portswigger-labs-6149b9084a4b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
