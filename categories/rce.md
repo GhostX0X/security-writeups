@@ -1,5 +1,11 @@
 ## 📅 15 April 2026
 
+- **[Remote Code Execution (RCE) — The Ultimate Critical Vulnerability](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/remote-code-execution-rce-the-ultimate-critical-vulnerability-eebbad67a5a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 April 2026
+
+- **[Why DNS Traffic Is Still an Underrated Detection Source](https://medium.com/@jsocitblog/why-dns-traffic-is-still-an-underrated-detection-source-7ff66bbd698a?source=rss------security-5)** _(Medium Security)_
+## 📅 15 April 2026
+
 - **[Arbitrary File Upload via “External Files” feature allows client-side Remote Code Execution (RCE)](https://medium.com/@venomnis/arbitrary-file-upload-via-external-files-feature-allows-client-side-remote-code-execution-rce-573efab60f51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 

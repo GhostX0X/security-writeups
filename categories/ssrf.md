@@ -1,3 +1,6 @@
+## 📅 15 April 2026
+
+- **[A Real SSRF Story from HackerOne (Featuring IPv6 + Redirects)](https://medium.com/@red_darkin/a-real-ssrf-story-from-hackerone-featuring-ipv6-redirects-9aa5e2ad8c2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 April 2026
 
 - **[Mastering Server-Side Request Forgery (SSRF) — From Basic Exploitation to Advanced Bypasses](https://sharonchristin193.medium.com/mastering-server-side-request-forgery-ssrf-from-basic-exploitation-to-advanced-bypasses-81cf2ebb9d88?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

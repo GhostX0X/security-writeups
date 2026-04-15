@@ -1,3 +1,9 @@
+## 📅 15 April 2026
+
+- **[From IDOR to Bypass: How a “Fixed” Bug Still Exposed 6.4 Million Users’ Data [Part 2]](https://medium.com/@Dedrknex/from-idor-to-bypass-how-a-fixed-bug-still-exposed-6-4-million-users-data-part-2-21f9dde7cc79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 April 2026
+
+- **[Critical IDOR Vulnerability Leads to User Information Disclosure on Chat Box](https://medium.com/@guptasameer756/critical-idor-vulnerability-leads-to-user-information-disclosure-on-chat-box-ffed210f3ddb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 April 2026
 
 - **[⚙️ 09. — Insecure Direct Object References (IDOR)](https://medium.com/@The4v1/%EF%B8%8F-09-insecure-direct-object-references-idor-c1e63fc23a3b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 15 April 2026
+
+- **[AI Secret Scanner That Understands Code | ReconFusionAI](https://medium.com/@pentesterclubpvtltd/ai-secret-scanner-that-understands-code-reconfusionai-47a53cd24070?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 April 2026
 
 - **[Bug Bounty 101.1 — Building a Basic Recon Logger in Python](https://medium.com/@johnnymeintel/bug-bounty-101-1-building-a-basic-recon-logger-in-python-7aa6f3ce2d2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
