@@ -1,3 +1,9 @@
+## 📅 15 April 2026
+
+- **[Arbitrary File Upload via “External Files” feature allows client-side Remote Code Execution (RCE)](https://medium.com/@venomnis/arbitrary-file-upload-via-external-files-feature-allows-client-side-remote-code-execution-rce-573efab60f51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 April 2026
+
+- **[The 50 Percent Delusion: Why Your Quest for the Big Move is Making You Exit Liquidity](https://medium.com/@wernerotto/the-50-percent-delusion-why-your-quest-for-the-big-move-is-making-you-exit-liquidity-8afb46c1ff98?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 April 2026
 
 - **[GraphQL RCE: The Kill Chain to Cloud Identity…!](https://infosecwriteups.com/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss------pentesting-5)** _(Medium Pentesting)_
