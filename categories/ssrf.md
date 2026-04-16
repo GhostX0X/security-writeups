@@ -1,3 +1,9 @@
+## 📅 16 April 2026
+
+- **[Server-Side Request Forgery (SSRF) — Accessing Internal Systems Like an Insider](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/server-side-request-forgery-ssrf-accessing-internal-systems-like-an-insider-91dd556971ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 April 2026
+
+- **[Server-Side Request Forgery (SSRF) — Accessing Internal Systems Like an Insider](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/server-side-request-forgery-ssrf-accessing-internal-systems-like-an-insider-91dd556971ae?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 April 2026
 
 - **[A Real SSRF Story from HackerOne (Featuring IPv6 + Redirects)](https://medium.com/@red_darkin/a-real-ssrf-story-from-hackerone-featuring-ipv6-redirects-9aa5e2ad8c2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

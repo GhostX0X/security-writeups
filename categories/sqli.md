@@ -1,3 +1,6 @@
+## 📅 16 April 2026
+
+- **[Stop SQL Injection Attacks Before They Start (A Practical Guide for Developers)](https://pappurajbtc.medium.com/stop-sql-injection-attacks-before-they-start-a-practical-guide-for-developers-df498f4ddf2e?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 April 2026
 
 - **[Blind SQL injection with time delays and information retrieval](https://medium.com/@mohamed1245/blind-sql-injection-with-time-delays-and-information-retrieval-0b2e75895a97?source=rss------pentesting-5)** _(Medium Pentesting)_

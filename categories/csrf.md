@@ -1,3 +1,6 @@
+## 📅 16 April 2026
+
+- **[day -4 Cross-site request forgery (CSRF)](https://smartpicks4u.medium.com/day-4-cross-site-request-forgery-csrf-e82267229670?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 April 2026
 
 - **[Post 11: CSRF, CORS & Open Redirects (Manipulating User Actions)](https://medium.com/@dasielramirezhernandez/post-11-csrf-cors-open-redirects-manipulating-user-actions-7ac8a5378d5d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
