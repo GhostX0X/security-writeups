@@ -1,3 +1,6 @@
+## 📅 16 April 2026
+
+- **[Auto-Activated Guardrails for Chain-of-Thought Interception & detecting distillation, fraud, and…](https://moelkholy1995.medium.com/auto-activated-guardrails-for-chain-of-thought-interception-detecting-distillation-fraud-and-852a291486c6?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 April 2026
 
 - **[Remote Code Execution (RCE) — The Ultimate Critical Vulnerability](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/remote-code-execution-rce-the-ultimate-critical-vulnerability-eebbad67a5a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
