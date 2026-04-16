@@ -1,3 +1,6 @@
+## 📅 16 April 2026
+
+- **[From Debug Warnings to XSS: Exploiting a Drupal CMS Endpoint](https://medium.com/@_marwankhodair_/from-debug-warnings-to-xss-exploiting-a-drupal-cms-endpoint-b84948b9a9ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 April 2026
 
 - **[Day-3 Bypassing XSS with Hash Parameter](https://smartpicks4u.medium.com/day-3-bypassing-xss-with-hash-parameter-d654e7e4548c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

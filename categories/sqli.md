@@ -1,5 +1,8 @@
 ## 📅 16 April 2026
 
+- **[Write-Up: BugForge Weekly Challenge — FurHire with SQLi](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-furhire-with-sqli-b9bdfd7db351?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 16 April 2026
+
 - **[Stop SQL Injection Attacks Before They Start (A Practical Guide for Developers)](https://pappurajbtc.medium.com/stop-sql-injection-attacks-before-they-start-a-practical-guide-for-developers-df498f4ddf2e?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 April 2026
 

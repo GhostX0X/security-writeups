@@ -1,5 +1,8 @@
 ## 📅 16 April 2026
 
+- **[The Complete Guide to Setting Up Xalgorix — The Most Powerful Open-Source AI Pentesting Agent](https://infosecwriteups.com/the-complete-guide-to-setting-up-xalgorix-the-most-powerful-open-source-ai-pentesting-agent-befc9b721b9e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 April 2026
+
 - **[Auto-Activated Guardrails for Chain-of-Thought Interception & detecting distillation, fraud, and…](https://moelkholy1995.medium.com/auto-activated-guardrails-for-chain-of-thought-interception-detecting-distillation-fraud-and-852a291486c6?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 April 2026
 
