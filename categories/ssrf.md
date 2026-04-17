@@ -1,3 +1,6 @@
+## 📅 17 April 2026
+
+- **[From Image Upload to Admin Panel: How a Simple SSRF Led to Massive PII Disclosure and earned $$$$](https://medium.com/@sagardhoot56/from-image-upload-to-admin-panel-how-a-simple-ssrf-led-to-massive-pii-disclosure-and-earned-738e3be3708c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 April 2026
 
 - **[Server-Side Request Forgery (SSRF) — Accessing Internal Systems Like an Insider](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/server-side-request-forgery-ssrf-accessing-internal-systems-like-an-insider-91dd556971ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

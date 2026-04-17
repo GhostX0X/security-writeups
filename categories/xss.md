@@ -1,5 +1,8 @@
 ## 📅 17 April 2026
 
+- **[⚡ Cross-Site Scripting (XSS) — From Input to Browser Control](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/cross-site-scripting-xss-from-input-to-browser-control-b39a8de952b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 April 2026
+
 - **[Never thought I’d hack it. How I found two XSS on a daily used web app?](https://medium.com/@Oiluminado_x86/never-thought-id-hack-it-how-i-found-two-xss-on-a-daily-used-web-app-6037d3586b39?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 April 2026
 

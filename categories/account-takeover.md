@@ -1,3 +1,6 @@
+## 📅 17 April 2026
+
+- **[Account Takeover via OAuth Redirect Uri Manipulation](https://skysenz.medium.com/account-takeover-via-oauth-redirect-uri-manipulation-5ae02c165fef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 April 2026
 
 - **[Password Reset Token Remains Valid After Email Change Leading to Account Takeover .](https://medium.com/@alimostafa.alihackerone1/password-reset-token-remains-valid-after-email-change-leading-to-account-takeover-7d84076b87b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

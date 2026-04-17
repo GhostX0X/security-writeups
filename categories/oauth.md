@@ -1,3 +1,6 @@
+## 📅 17 April 2026
+
+- **[Account Takeover via OAuth Redirect Uri Manipulation](https://skysenz.medium.com/account-takeover-via-oauth-redirect-uri-manipulation-5ae02c165fef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 
 - **[OAuth Guide: Vulnerabilities, Attack Vectors, and Security](https://medium.com/@jpablo13/oauth-guide-vulnerabilities-attack-vectors-and-security-ac3e078147ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
