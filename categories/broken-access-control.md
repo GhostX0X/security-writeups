@@ -1,3 +1,15 @@
+## 📅 17 April 2026
+
+- **[⚙️ 10. — URL-based Access Control Can Be Circumvented — X -Original-URL](https://medium.com/@The4v1/%EF%B8%8F-10-url-based-access-control-can-be-circumvented-x-original-url-fc4aaf569b55?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 April 2026
+
+- **[⚙️ 11. — Method-based Access Control Can Be Circumvented](https://medium.com/@The4v1/%EF%B8%8F-11-method-based-access-control-can-be-circumvented-d836d99578b0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 April 2026
+
+- **[⚙️ 12. — Multi-step process with no access control on one step](https://medium.com/@The4v1/%EF%B8%8F-12-multi-step-process-with-no-access-control-on-one-step-fad63523cf3e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 April 2026
+
+- **[⚙️ 13. — Referer — Based Access Control](https://medium.com/@The4v1/%EF%B8%8F-13-referer-based-access-control-953f079e07de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 
 - **[⚙️ 12. — Multi-step process with no access control on one step](https://medium.com/@The4v1/%EF%B8%8F-12-multi-step-process-with-no-access-control-on-one-step-a3471653a346?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

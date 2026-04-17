@@ -1,3 +1,6 @@
+## 📅 17 April 2026
+
+- **[Never thought I’d hack it. How I found two XSS on a daily used web app?](https://medium.com/@Oiluminado_x86/never-thought-id-hack-it-how-i-found-two-xss-on-a-daily-used-web-app-6037d3586b39?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 April 2026
 
 - **[From Debug Warnings to XSS: Exploiting a Drupal CMS Endpoint](https://medium.com/@_marwankhodair_/from-debug-warnings-to-xss-exploiting-a-drupal-cms-endpoint-b84948b9a9ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

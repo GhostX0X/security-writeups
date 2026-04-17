@@ -1,3 +1,9 @@
+## 📅 17 April 2026
+
+- **[You Can’t Hack What You Don’t See: Reconnaissance and Nmap Explained](https://medium.com/@maharshipatel012/you-cant-hack-what-you-don-t-see-reconnaissance-and-nmap-explained-4773900d67e6?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 April 2026
+
+- **[Beginner Mistakes in Recon — And How Professionals Avoid Them](https://meetcyber.net/beginner-mistakes-in-recon-and-how-professionals-avoid-them-21c3815d0bda?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 
 - **[AI Secret Scanner That Understands Code | ReconFusionAI](https://medium.com/@pentesterclubpvtltd/ai-secret-scanner-that-understands-code-reconfusionai-47a53cd24070?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

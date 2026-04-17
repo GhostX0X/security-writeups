@@ -1,3 +1,6 @@
+## 📅 17 April 2026
+
+- **[SQL Injection Database Ko Hack Karo: Data Nikalo, Admin Bano, Server Takeover Karo! (Hinglish Mein)](https://medium.com/@HackerMD/sql-injection-database-ko-hack-karo-data-nikalo-admin-bano-server-takeover-karo-hinglish-mein-95dc4bcd4569?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 April 2026
 
 - **[Write-Up: BugForge Weekly Challenge — FurHire with SQLi](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-furhire-with-sqli-b9bdfd7db351?source=rss------pentesting-5)** _(Medium Pentesting)_
