@@ -1,5 +1,8 @@
 ## 📅 16 April 2026
 
+- **[Password Reset Token Remains Valid After Email Change Leading to Account Takeover .](https://medium.com/@alimostafa.alihackerone1/password-reset-token-remains-valid-after-email-change-leading-to-account-takeover-7d84076b87b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 April 2026
+
 - **[Bypassing 2FA: How a Flawed SSO Architecture Led to Complete Account Takeover](https://medium.com/@pandag0tbann3d/bypassing-2fa-how-a-flawed-sso-architecture-led-to-complete-account-takeover-2518377022e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 
