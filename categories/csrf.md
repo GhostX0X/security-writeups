@@ -1,3 +1,6 @@
+## 📅 17 April 2026
+
+- **[Day 5 — CSRF Token Bypass using GET Request](https://smartpicks4u.medium.com/day-5-csrf-token-bypass-using-get-request-791cba29812d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 April 2026
 
 - **[day -4 Cross-site request forgery (CSRF)](https://smartpicks4u.medium.com/day-4-cross-site-request-forgery-csrf-e82267229670?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
