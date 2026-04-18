@@ -1,3 +1,6 @@
+## 📅 18 April 2026
+
+- **[Everyone Is Doing Recon Wrong — And They Don’t Even Know It](https://medium.com/@clipp3r/everyone-is-doing-recon-wrong-and-they-dont-even-know-it-a2ca85b0d0cb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 April 2026
 
 - **[You Can’t Hack What You Don’t See: Reconnaissance and Nmap Explained](https://medium.com/@maharshipatel012/you-cant-hack-what-you-don-t-see-reconnaissance-and-nmap-explained-4773900d67e6?source=rss------pentesting-5)** _(Medium Pentesting)_

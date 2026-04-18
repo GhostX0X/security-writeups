@@ -1,3 +1,6 @@
+## 📅 18 April 2026
+
+- **[IDOR Insecure Direct Object Reference: ID Badlo, Data Dekho, Bounty Lo! (Hinglish Mein)](https://medium.com/@HackerMD/idor-insecure-direct-object-reference-id-badlo-data-dekho-bounty-lo-hinglish-mein-7abd7518d7b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 
 - **[From IDOR to Bypass: How a “Fixed” Bug Still Exposed 6.4 Million Users’ Data [Part 2]](https://medium.com/@Dedrknex/from-idor-to-bypass-how-a-fixed-bug-still-exposed-6-4-million-users-data-part-2-21f9dde7cc79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
