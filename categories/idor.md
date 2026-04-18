@@ -1,5 +1,8 @@
 ## 📅 18 April 2026
 
+- **[️‍♂️ Dari Sekadar Ganti Angka, Jadi Celah Besar: Cerita IDOR di Fitur Job Applications](https://medium.com/@dianahmad929/%EF%B8%8F-%EF%B8%8F-dari-sekadar-ganti-angka-jadi-celah-besar-cerita-idor-di-fitur-job-applications-20fa0863216f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 April 2026
+
 - **[IDOR Insecure Direct Object Reference: ID Badlo, Data Dekho, Bounty Lo! (Hinglish Mein)](https://medium.com/@HackerMD/idor-insecure-direct-object-reference-id-badlo-data-dekho-bounty-lo-hinglish-mein-7abd7518d7b9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 April 2026
 
