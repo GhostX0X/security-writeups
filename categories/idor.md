@@ -1,3 +1,6 @@
+## 📅 19 April 2026
+
+- **[500$ IDOR on a Public Program](https://medium.com/@sari.mmusab/500-idor-on-a-public-program-553858933e42?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 April 2026
 
 - **[️‍♂️ Dari Sekadar Ganti Angka, Jadi Celah Besar: Cerita IDOR di Fitur Job Applications](https://medium.com/@dianahmad929/%EF%B8%8F-%EF%B8%8F-dari-sekadar-ganti-angka-jadi-celah-besar-cerita-idor-di-fitur-job-applications-20fa0863216f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
