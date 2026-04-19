@@ -1,3 +1,6 @@
+## 📅 19 April 2026
+
+- **[Hidden Entry Points: robots.txt + .well-known URIs in Web Recon](https://medium.com/@mertbaykal/hidden-entry-points-robots-txt-well-known-uris-in-web-recon-e2b3d56c477d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 April 2026
 
 - **[Everyone Is Doing Recon Wrong — And They Don’t Even Know It](https://medium.com/@clipp3r/everyone-is-doing-recon-wrong-and-they-dont-even-know-it-a2ca85b0d0cb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

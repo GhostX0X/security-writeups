@@ -1,3 +1,6 @@
+## 📅 19 April 2026
+
+- **[From Nothing to Full Admin Access: Chaining Broken Access Controls](https://infosecwriteups.com/from-nothing-to-full-admin-access-chaining-broken-access-controls-f0d5aa76a4c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 April 2026
 
 - **[How I Set Up Role-Based Access Control on Linux (RBAC Lab Walkthrough)](https://medium.com/@dipsongurung/how-i-set-up-role-based-access-control-on-linux-rbac-lab-walkthrough-26f8d0b7f140?source=rss------security-5)** _(Medium Security)_

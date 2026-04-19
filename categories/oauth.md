@@ -1,3 +1,12 @@
+## 📅 19 April 2026
+
+- **[OAuth 2.0 Authetication Vulnerabilities](https://medium.com/@The4v1/oauth-2-0-authetication-vulnerabilities-f810876c21eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 April 2026
+
+- **[⚙️ 01. — Authentication bypass via OAuth implicit flow](https://medium.com/@The4v1/%EF%B8%8F-01-authentication-bypass-via-oauth-implicit-flow-13e26b67e697?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 April 2026
+
+- **[⚙️ 03. — Forced OAuth profile linking](https://medium.com/@The4v1/%EF%B8%8F-03-forced-oauth-profile-linking-041e7e28ed99?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 April 2026
 
 - **[Account Takeover via OAuth Redirect Uri Manipulation](https://skysenz.medium.com/account-takeover-via-oauth-redirect-uri-manipulation-5ae02c165fef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

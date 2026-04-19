@@ -1,5 +1,8 @@
 ## 📅 19 April 2026
 
+- **[⚙️ 02. — SSRF via OpenID dynamic client registration](https://medium.com/@The4v1/%EF%B8%8F-02-ssrf-via-openid-dynamic-client-registration-25d0ae1234c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 April 2026
+
 - **[SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://medium.com/@HackerMD/ssrf-server-side-request-forgery-server-ko-apna-agent-banao-internal-network-explore-karo-4b48abb86e34?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 April 2026
 
