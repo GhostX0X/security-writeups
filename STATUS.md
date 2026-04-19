@@ -1,7 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-04-19 01:44:06.331499 UTC
+Last updated: 2026-04-19 07:06:45.808596 UTC
 
-- rce: 1
+- ssrf: 1
 - csrf: 1
-- idor: 1

@@ -1,3 +1,6 @@
+## 📅 19 April 2026
+
+- **[SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://medium.com/@HackerMD/ssrf-server-side-request-forgery-server-ko-apna-agent-banao-internal-network-explore-karo-4b48abb86e34?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 April 2026
 
 - **[From Image Upload to Admin Panel: How a Simple SSRF Led to Massive PII Disclosure and earned $$$$](https://medium.com/@sagardhoot56/from-image-upload-to-admin-panel-how-a-simple-ssrf-led-to-massive-pii-disclosure-and-earned-738e3be3708c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
