@@ -1,3 +1,6 @@
+## 📅 20 April 2026
+
+- **[How a Simple OTP Flaw Could Lead to Full Account Takeover](https://blackmambaa.medium.com/how-a-simple-otp-flaw-could-lead-to-full-account-takeover-12220a10a63b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 April 2026
 
 - **[h PAR: How a Simple CORS Misconfiguration Led to a Full Account Takeover](https://medium.com/@afaqpk1/h-par-how-a-simple-cors-misconfiguration-led-to-a-full-account-takeover-b56de0c0d574?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

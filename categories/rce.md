@@ -1,5 +1,8 @@
 ## 📅 20 April 2026
 
+- **[CORS Misconfiguration Cross-Origin Resource Sharing: Wrong Settings Se User Data Steal Karo!](https://infosecwriteups.com/cors-misconfiguration-cross-origin-resource-sharing-wrong-settings-se-user-data-steal-karo-ea1eb50ee132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 April 2026
+
 - **[CORS Misconfiguration Cross-Origin Resource Sharing: Wrong Settings Se User Data Steal Karo!](https://medium.com/@HackerMD/cors-misconfiguration-cross-origin-resource-sharing-wrong-settings-se-user-data-steal-karo-ea1eb50ee132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 April 2026
 

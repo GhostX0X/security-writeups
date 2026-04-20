@@ -1,3 +1,6 @@
+## 📅 20 April 2026
+
+- **[How Zone-Based Access Control Is Changing Event Security in Saudi Arabia](https://medium.com/@stampiqevent/how-zone-based-access-control-is-changing-event-security-in-saudi-arabia-63e46ab0c811?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 April 2026
 
 - **[From Nothing to Full Admin Access: Chaining Broken Access Controls](https://infosecwriteups.com/from-nothing-to-full-admin-access-chaining-broken-access-controls-f0d5aa76a4c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
