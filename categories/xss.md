@@ -1,3 +1,6 @@
+## 📅 19 April 2026
+
+- **[Stored XSS via Custom Template Injection — How I Bypassed Cloudflare WAF](https://medium.com/@mostafaabogoda8/stored-xss-via-custom-template-injection-how-i-bypassed-cloudflare-waf-5abdc0d1807b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 April 2026
 
 - **[⚡ Cross-Site Scripting (XSS) — From Input to Browser Control](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/cross-site-scripting-xss-from-input-to-browser-control-b39a8de952b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
