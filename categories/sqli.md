@@ -1,3 +1,6 @@
+## 📅 20 April 2026
+
+- **[Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection](https://guimury.medium.com/double-kill-authentication-bypass-in-suitecrm-via-ldap-and-sql-injection-cb62bffa70f6?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 April 2026
 
 - **[SQL Injection Database Ko Hack Karo: Data Nikalo, Admin Bano, Server Takeover Karo! (Hinglish Mein)](https://medium.com/@HackerMD/sql-injection-database-ko-hack-karo-data-nikalo-admin-bano-server-takeover-karo-hinglish-mein-95dc4bcd4569?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

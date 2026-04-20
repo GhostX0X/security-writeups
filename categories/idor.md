@@ -1,3 +1,6 @@
+## 📅 20 April 2026
+
+- **[IDOR: The $10,000 Bug Hiding in Plain Sight](https://infyra.medium.com/idor-the-10-000-bug-hiding-in-plain-sight-5566cbd9e9be?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 April 2026
 
 - **[500$ IDOR on a Public Program](https://medium.com/@sari.mmusab/500-idor-on-a-public-program-553858933e42?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

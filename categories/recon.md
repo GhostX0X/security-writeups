@@ -1,3 +1,6 @@
+## 📅 20 April 2026
+
+- **[Bug Bounty Methodology 2026: A Hunter’s Complete Workflow From Recon to Report](https://medium.com/@finofranklin/bug-bounty-methodology-2026-a-hunters-complete-workflow-from-recon-to-report-7e5c52b17696?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 April 2026
 
 - **[Hidden Entry Points: robots.txt + .well-known URIs in Web Recon](https://medium.com/@mertbaykal/hidden-entry-points-robots-txt-well-known-uris-in-web-recon-e2b3d56c477d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

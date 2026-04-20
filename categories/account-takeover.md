@@ -1,5 +1,8 @@
 ## 📅 20 April 2026
 
+- **[Price manipulation(How a Simple OTP Flaw Could Lead to Full Account Takeover part 2)](https://blackmambaa.medium.com/price-manipulation-how-a-simple-otp-flaw-could-lead-to-full-account-takeover-part-2-90e1fa6ee679?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 April 2026
+
 - **[How a Simple OTP Flaw Could Lead to Full Account Takeover](https://blackmambaa.medium.com/how-a-simple-otp-flaw-could-lead-to-full-account-takeover-12220a10a63b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 April 2026
 

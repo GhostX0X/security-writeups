@@ -1,5 +1,17 @@
 ## 📅 20 April 2026
 
+- **[PortSwigger Lab : Reflected XSS into HTML context with nothing encoded (PortSwigger Academy)](https://medium.com/@sedkya199/lab-write-up-reflected-xss-into-html-context-with-nothing-encoded-portswigger-academy-b57b3f934172?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 April 2026
+
+- **[PortSwigger Lab : Stored XSS into HTML context with nothing encoded (PortSwigger Academy)](https://medium.com/@sedkya199/portswigger-lab-stored-xss-into-html-context-with-nothing-encoded-portswigger-academy-1cca8e95e24e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 April 2026
+
+- **[PortSwigger Lab : Stored XSS into HTML context with nothing encoded (PortSwigger Academy)](https://medium.com/@sedkya199/portswigger-lab-stored-xss-into-html-context-with-nothing-encoded-portswigger-academy-1cca8e95e24e?source=rss------security-5)** _(Medium Security)_
+## 📅 20 April 2026
+
+- **[XSS Saldırısı Nedir?](https://medium.com/@yavuz2809/xss-sald%C4%B1r%C4%B1s%C4%B1-nedir-fd346e1621ae?source=rss------security-5)** _(Medium Security)_
+## 📅 20 April 2026
+
 - **[Write-Up: BugForge Weekly Challenge — Galaxy Dash with Stored-XSS](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-galaxy-dash-with-stored-xss-06d0f0a15042?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 April 2026
 

@@ -1,5 +1,14 @@
 ## 📅 20 April 2026
 
+- **[How Fail2Ban Can Safeguard Your Server from Brute Force Attacks](https://reddyaman.medium.com/how-fail2ban-can-safeguard-your-server-from-brute-force-attacks-aa0f1e948e97?source=rss------security-5)** _(Medium Security)_
+## 📅 20 April 2026
+
+- **[How Hackers Got Into Vercel — And Why This Keeps Happening](https://medium.com/@mayhemcode/how-hackers-got-into-vercel-and-why-this-keeps-happening-2b566a9d3787?source=rss------security-5)** _(Medium Security)_
+## 📅 20 April 2026
+
+- **[Vercel Got Breached. Here Is What Happened and What You Should Do Right Now.](https://yadav-ajay.medium.com/vercel-got-breached-here-is-what-happened-and-what-you-should-do-right-now-271b5984529f?source=rss------security-5)** _(Medium Security)_
+## 📅 20 April 2026
+
 - **[CORS Misconfiguration Cross-Origin Resource Sharing: Wrong Settings Se User Data Steal Karo!](https://infosecwriteups.com/cors-misconfiguration-cross-origin-resource-sharing-wrong-settings-se-user-data-steal-karo-ea1eb50ee132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 April 2026
 
