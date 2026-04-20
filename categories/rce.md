@@ -1,3 +1,12 @@
+## 📅 20 April 2026
+
+- **[CORS Misconfiguration Cross-Origin Resource Sharing: Wrong Settings Se User Data Steal Karo!](https://medium.com/@HackerMD/cors-misconfiguration-cross-origin-resource-sharing-wrong-settings-se-user-data-steal-karo-ea1eb50ee132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 April 2026
+
+- **[TryHackMe: Enumeration & Brute Force — Complete Walkthrough](https://medium.com/@5um1t0x/tryhackme-enumeration-brute-force-complete-walkthrough-a2ea39d380ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 April 2026
+
+- **[Vercel’s AI-Powered Nightmare: How One Compromised Tool Exposed Non-Sensitive Secrets Across…](https://tohju.medium.com/vercels-ai-powered-nightmare-how-one-compromised-tool-exposed-non-sensitive-secrets-across-5929ce4ecb43?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 April 2026
 
 - **[⚙️ 03. — Forced OAuth profile linking](https://medium.com/@The4v1/%EF%B8%8F-03-forced-oauth-profile-linking-041e7e28ed99?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 20 April 2026
+
+- **[Write-Up: BugForge Weekly Challenge — Galaxy Dash with Stored-XSS](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-galaxy-dash-with-stored-xss-06d0f0a15042?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 April 2026
 
 - **[Stored XSS via Custom Template Injection — How I Bypassed Cloudflare WAF](https://medium.com/@mostafaabogoda8/stored-xss-via-custom-template-injection-how-i-bypassed-cloudflare-waf-5abdc0d1807b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
