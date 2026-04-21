@@ -1,3 +1,9 @@
+## 📅 21 April 2026
+
+- **[⚙️ 04. — OAuth account hijacking via redirect_uri](https://medium.com/@The4v1/%EF%B8%8F-04-oauth-account-hijacking-via-redirect-uri-18df59cca233?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 April 2026
+
+- **[⚙️ 05. — Stealing OAuth access tokens via an open redirect](https://medium.com/@The4v1/%EF%B8%8F-05-stealing-oauth-access-tokens-via-an-open-redirect-ac88a309c840?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 April 2026
 
 - **[OAuth 2.0 Authetication Vulnerabilities](https://medium.com/@The4v1/oauth-2-0-authetication-vulnerabilities-f810876c21eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

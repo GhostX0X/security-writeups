@@ -1,3 +1,6 @@
+## 📅 21 April 2026
+
+- **[CSRF Cross-Site Request Forgery: Victim Ke Browser Se Unki Marzi Ke Bina Actions Karwao!](https://medium.com/@HackerMD/csrf-cross-site-request-forgery-victim-ke-browser-se-unki-marzi-ke-bina-actions-karwao-45f2a6611a34?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 April 2026
 
 - **[Day-6: Let’s do some labs on CSRF](https://smartpicks4u.medium.com/day-6-lets-do-some-labs-on-csrf-f22af85e2a32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

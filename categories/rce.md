@@ -1,3 +1,9 @@
+## 📅 21 April 2026
+
+- **[What I Learned from the Recent Vercel Security Incident](https://medium.com/@lavanyabandla8/what-i-learned-from-the-recent-vercel-security-incident-7e46c951c9ef?source=rss------security-5)** _(Medium Security)_
+## 📅 21 April 2026
+
+- **[I Read the Claude Code Source Analysis So You Don’t Have To](https://infosecwriteups.com/i-read-the-claude-code-source-analysis-so-you-dont-have-to-0a8af82956f4?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 April 2026
 
 - **[Open-Source AI SOC Analyst That Actually Works — Meet Talon](https://socfortress.medium.com/open-source-ai-soc-analyst-that-actually-works-meet-talon-c38fa082f741?source=rss------security-5)** _(Medium Security)_
