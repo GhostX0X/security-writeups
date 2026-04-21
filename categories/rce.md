@@ -1,5 +1,8 @@
 ## 📅 20 April 2026
 
+- **[Open-Source AI SOC Analyst That Actually Works — Meet Talon](https://socfortress.medium.com/open-source-ai-soc-analyst-that-actually-works-meet-talon-c38fa082f741?source=rss------security-5)** _(Medium Security)_
+## 📅 20 April 2026
+
 - **[How Fail2Ban Can Safeguard Your Server from Brute Force Attacks](https://reddyaman.medium.com/how-fail2ban-can-safeguard-your-server-from-brute-force-attacks-aa0f1e948e97?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 April 2026
 
