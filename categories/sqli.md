@@ -1,3 +1,6 @@
+## 📅 21 April 2026
+
+- **[Blind SQL Injection — Part 3 (Final Chapter)](https://medium.com/@aaftaba.k47/blind-sql-injection-part-3-final-chapter-ea56399a4286?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 April 2026
 
 - **[Double Kill: Authentication Bypass in SuiteCRM via LDAP and SQL Injection](https://guimury.medium.com/double-kill-authentication-bypass-in-suitecrm-via-ldap-and-sql-injection-cb62bffa70f6?source=rss------pentesting-5)** _(Medium Pentesting)_
