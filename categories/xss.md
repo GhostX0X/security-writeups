@@ -1,3 +1,6 @@
+## 📅 21 April 2026
+
+- **[CROSS-SITE SCRIPTING (XSS)](https://songulkizilay.medium.com/cross-site-scripting-xss-fd3d3ad347ed?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 20 April 2026
 
 - **[PortSwigger Lab : Reflected XSS into HTML context with nothing encoded (PortSwigger Academy)](https://medium.com/@sedkya199/lab-write-up-reflected-xss-into-html-context-with-nothing-encoded-portswigger-academy-b57b3f934172?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
