@@ -1,3 +1,6 @@
+## 📅 22 April 2026
+
+- **[Automating Recon Like an Operator — Running Wraith on Multiple Targets (Hands-Free)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/automating-recon-like-an-operator-running-wraith-on-multiple-targets-hands-free-5d94d8bc96c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 April 2026
 
 - **[Bug Bounty Methodology 2026: A Hunter’s Complete Workflow From Recon to Report](https://medium.com/@finofranklin/bug-bounty-methodology-2026-a-hunters-complete-workflow-from-recon-to-report-7e5c52b17696?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

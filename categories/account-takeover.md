@@ -1,3 +1,9 @@
+## 📅 22 April 2026
+
+- **[Offsec Proving Grounds “Potato” CTF Writeup](https://medium.com/@n.fola19/offsec-proving-grounds-potato-ctf-writeup-32d8a6984013?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 April 2026
+
+- **[Automating Recon Like an Operator — Running Wraith on Multiple Targets (Hands-Free)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/automating-recon-like-an-operator-running-wraith-on-multiple-targets-hands-free-5d94d8bc96c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 
 - **[What This Series Will Be About — From Bug Hunter to Operator](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/what-this-series-will-be-about-from-bug-hunter-to-operator-3fa6e4900f25?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
