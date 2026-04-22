@@ -1,3 +1,6 @@
+## 📅 22 April 2026
+
+- **[Uncovering the Hidden Attack Surface of Salesforce instances](https://d3sca.medium.com/uncovering-the-hidden-attack-surface-of-salesforce-instances-4a0f7d47eb70?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 
 - **[Storing OTP Securely in Salesforce Platform Cache — A Production-Grade Architecture Guide](https://medium.com/@mandeep_53569/storing-otp-securely-in-salesforce-platform-cache-a-production-grade-architecture-guide-818bbf6a5a6d?source=rss------security-5)** _(Medium Security)_

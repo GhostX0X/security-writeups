@@ -1,3 +1,6 @@
+## 📅 22 April 2026
+
+- **[Broken Access Control Leads to Unauthorized Account Deletion via API](https://medium.com/@seafeldeenwael/broken-access-control-leads-to-unauthorized-account-deletion-via-api-69bf1cf5b7dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 
 - **[Breaking Access Control: How a Low-Privilege User Accessed Workspace Members Data](https://medium.com/@montaser_mohsen/breaking-access-control-how-a-low-privilege-user-accessed-workspace-members-data-af2e72d64bb9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
