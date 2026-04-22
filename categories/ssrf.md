@@ -1,3 +1,9 @@
+## 📅 21 April 2026
+
+- **[Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts](https://0xm0r4d.medium.com/blind-ssrf-leads-to-internal-service-and-ip-discovery-with-multiple-security-impacts-795613317d44?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 21 April 2026
+
+- **[Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts](https://0xm0r4d.medium.com/blind-ssrf-leads-to-internal-service-and-ip-discovery-with-multiple-security-impacts-795613317d44?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 April 2026
 
 - **[⚙️ 02. — SSRF via OpenID dynamic client registration](https://medium.com/@The4v1/%EF%B8%8F-02-ssrf-via-openid-dynamic-client-registration-25d0ae1234c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

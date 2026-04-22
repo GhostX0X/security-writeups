@@ -1,5 +1,8 @@
 ## 📅 21 April 2026
 
+- **[Storing OTP Securely in Salesforce Platform Cache — A Production-Grade Architecture Guide](https://medium.com/@mandeep_53569/storing-otp-securely-in-salesforce-platform-cache-a-production-grade-architecture-guide-818bbf6a5a6d?source=rss------security-5)** _(Medium Security)_
+## 📅 21 April 2026
+
 - **[What I Learned from the Recent Vercel Security Incident](https://medium.com/@lavanyabandla8/what-i-learned-from-the-recent-vercel-security-incident-7e46c951c9ef?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 April 2026
 
