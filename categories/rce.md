@@ -1,5 +1,8 @@
 ## 📅 22 April 2026
 
+- **[Vercel Hacked: How One Infected Laptop Compromised a Billion Dollar Platform](https://medium.com/@suyogpatil1810/vercel-hacked-how-one-infected-laptop-compromised-a-billion-dollar-platform-bf353c01b9c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 April 2026
+
 - **[Uncovering the Hidden Attack Surface of Salesforce instances](https://d3sca.medium.com/uncovering-the-hidden-attack-surface-of-salesforce-instances-4a0f7d47eb70?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 

@@ -1,3 +1,12 @@
+## 📅 22 April 2026
+
+- **[PortSwigger XSS Lab Walkthrough: When Input Sanitization Fails](https://medium.com/@brain2bitss/portswigger-xss-lab-walkthrough-when-input-sanitization-fails-fc26bf01798d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 April 2026
+
+- **[How I Found and Reported My First XSS Vulnerability](https://medium.com/@narmadha484/how-i-found-and-reported-my-first-xss-vulnerability-85fc182ec260?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 April 2026
+
+- **[Your React App Has Two Silent Killers: XSS and CSRF](https://achrafh.medium.com/your-react-app-has-two-silent-killers-xss-and-csrf-ade4cd01ede0?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 April 2026
 
 - **[CROSS-SITE SCRIPTING (XSS)](https://songulkizilay.medium.com/cross-site-scripting-xss-fd3d3ad347ed?source=rss------pentesting-5)** _(Medium Pentesting)_
