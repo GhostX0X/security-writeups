@@ -1,3 +1,6 @@
+## 📅 23 April 2026
+
+- **[“Bug Bounty Bootcamp #35: SSRF — Turning the Server Into Your Personal Proxy to Hack Internal…](https://infosecwriteups.com/bug-bounty-bootcamp-35-ssrf-turning-the-server-into-your-personal-proxy-to-hack-internal-c9f74582cf0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 
 - **[Blind SSRF Leads to Internal Service and IP Discovery with Multiple Security Impacts](https://0xm0r4d.medium.com/blind-ssrf-leads-to-internal-service-and-ip-discovery-with-multiple-security-impacts-795613317d44?source=rss------pentesting-5)** _(Medium Pentesting)_
