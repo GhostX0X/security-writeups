@@ -1,5 +1,8 @@
 ## 📅 22 April 2026
 
+- **[URL-Based XSS](https://medium.com/@marduk.i.am/url-based-xss-c41d94090e6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 April 2026
+
 - **[PortSwigger XSS Lab Walkthrough: When Input Sanitization Fails](https://medium.com/@brain2bitss/portswigger-xss-lab-walkthrough-when-input-sanitization-fails-fc26bf01798d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 April 2026
 

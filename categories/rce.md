@@ -1,5 +1,8 @@
 ## 📅 22 April 2026
 
+- **[The Vercel Security Breach (April 2026): A Deep-Dive into OAuth Supply Chain Attacks, Infostealer…](https://medium.com/@cahalagarwalla333/the-vercel-security-breach-april-2026-a-deep-dive-into-oauth-supply-chain-attacks-infostealer-2563880caefe?source=rss------security-5)** _(Medium Security)_
+## 📅 22 April 2026
+
 - **[Vercel Hacked: How One Infected Laptop Compromised a Billion Dollar Platform](https://medium.com/@suyogpatil1810/vercel-hacked-how-one-infected-laptop-compromised-a-billion-dollar-platform-bf353c01b9c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 April 2026
 

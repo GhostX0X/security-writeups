@@ -1,5 +1,8 @@
 ## 📅 22 April 2026
 
+- **[The $10.22 Million Mistake: What Nobody Tells You About Access Control](https://medium.com/@allahverdiyev.tural/the-10-22-million-mistake-what-nobody-tells-you-about-access-control-478a8b2aa0b5?source=rss------security-5)** _(Medium Security)_
+## 📅 22 April 2026
+
 - **[Broken Access Control Leads to Unauthorized Account Deletion via API](https://medium.com/@seafeldeenwael/broken-access-control-leads-to-unauthorized-account-deletion-via-api-69bf1cf5b7dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 

@@ -1,3 +1,6 @@
+## 📅 22 April 2026
+
+- **[The Vercel Security Breach (April 2026): A Deep-Dive into OAuth Supply Chain Attacks, Infostealer…](https://medium.com/@cahalagarwalla333/the-vercel-security-breach-april-2026-a-deep-dive-into-oauth-supply-chain-attacks-infostealer-2563880caefe?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 April 2026
 
 - **[⚙️ 04. — OAuth account hijacking via redirect_uri](https://medium.com/@The4v1/%EF%B8%8F-04-oauth-account-hijacking-via-redirect-uri-18df59cca233?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

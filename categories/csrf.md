@@ -1,5 +1,8 @@
 ## 📅 22 April 2026
 
+- **[Day 9: How I Bypassed Double CSRF Token Validation Using Only an IMG Tag](https://smartpicks4u.medium.com/day-9-csrf-where-the-token-is-duplicated-in-the-cookie-5b78f8288183?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 April 2026
+
 - **[Your React App Has Two Silent Killers: XSS and CSRF](https://achrafh.medium.com/your-react-app-has-two-silent-killers-xss-and-csrf-ade4cd01ede0?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 April 2026
 
