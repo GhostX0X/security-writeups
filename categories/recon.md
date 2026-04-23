@@ -1,3 +1,6 @@
+## 📅 23 April 2026
+
+- **[From Recon to Critical — Turning Endpoints Into Real Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-recon-to-critical-turning-endpoints-into-real-bugs-9cd3e1cc5a16?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 April 2026
 
 - **[Automating Recon Like an Operator — Running Wraith on Multiple Targets (Hands-Free)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/automating-recon-like-an-operator-running-wraith-on-multiple-targets-hands-free-5d94d8bc96c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
