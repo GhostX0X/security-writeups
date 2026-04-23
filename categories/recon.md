@@ -1,5 +1,8 @@
 ## 📅 23 April 2026
 
+- **[From Recon to Critical — Turning Endpoints Into Real Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-recon-to-critical-turning-endpoints-into-real-bugs-9cd3e1cc5a16?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 April 2026
+
 - **[From Recon to Critical — Turning Endpoints Into Real Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-recon-to-critical-turning-endpoints-into-real-bugs-9cd3e1cc5a16?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 April 2026
 

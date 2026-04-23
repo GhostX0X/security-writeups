@@ -1,3 +1,9 @@
+## 📅 23 April 2026
+
+- **[IDOR → Account Takeover — A Real Bug Chain Walkthrough](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/idor-account-takeover-a-real-bug-chain-walkthrough-7512a41d5a32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 April 2026
+
+- **[IDOR → Account Takeover — A Real Bug Chain Walkthrough](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/idor-account-takeover-a-real-bug-chain-walkthrough-7512a41d5a32?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 April 2026
 
 - **[IDOR: The $10,000 Bug Hiding in Plain Sight](https://infyra.medium.com/idor-the-10-000-bug-hiding-in-plain-sight-5566cbd9e9be?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

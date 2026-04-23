@@ -1,3 +1,6 @@
+## 📅 23 April 2026
+
+- **[The Missing Link: How a Broken Access Control Led to a Full Account Takeover (ATO)](https://medium.com/@belalshohaip222/the-missing-link-how-a-broken-access-control-led-to-a-full-account-takeover-ato-607436c5b636?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 April 2026
 
 - **[The $10.22 Million Mistake: What Nobody Tells You About Access Control](https://medium.com/@allahverdiyev.tural/the-10-22-million-mistake-what-nobody-tells-you-about-access-control-478a8b2aa0b5?source=rss------security-5)** _(Medium Security)_
