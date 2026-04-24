@@ -1,5 +1,8 @@
 ## 📅 24 April 2026
 
+- **[SSRF → Cloud Compromise — From Internal Access to Credentials](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ssrf-cloud-compromise-from-internal-access-to-credentials-e1b9835edf37?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 April 2026
+
 - **[Guía Maestra de SSRF: Estrategias de Explotación y Mitigación](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-ssrf-estrategias-de-explotaci%C3%B3n-y-mitigaci%C3%B3n-ae3b7a4b2ce8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 

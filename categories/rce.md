@@ -1,3 +1,6 @@
+## 📅 24 April 2026
+
+- **[Intercepting iOS Traffic with Burp Suite](https://redfoxsecurity.medium.com/intercepting-ios-traffic-with-burp-suite-20538f3cc9e7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 April 2026
 
 - **[The Vercel Security Breach (April 2026): A Deep-Dive into OAuth Supply Chain Attacks, Infostealer…](https://medium.com/@cahalagarwalla333/the-vercel-security-breach-april-2026-a-deep-dive-into-oauth-supply-chain-attacks-infostealer-2563880caefe?source=rss------security-5)** _(Medium Security)_

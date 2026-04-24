@@ -1,3 +1,6 @@
+## 📅 24 April 2026
+
+- **[Open Redirect Simple Bug, Powerful Chains: Phishing Se OAuth Bypass Tak! (Hinglish Mein)](https://medium.com/@HackerMD/open-redirect-simple-bug-powerful-chains-phishing-se-oauth-bypass-tak-hinglish-mein-7d1b9adf8dcb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 April 2026
 
 - **[The Vercel Security Breach (April 2026): A Deep-Dive into OAuth Supply Chain Attacks, Infostealer…](https://medium.com/@cahalagarwalla333/the-vercel-security-breach-april-2026-a-deep-dive-into-oauth-supply-chain-attacks-infostealer-2563880caefe?source=rss------security-5)** _(Medium Security)_
