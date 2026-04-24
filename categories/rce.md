@@ -1,5 +1,8 @@
 ## 📅 24 April 2026
 
+- **[Spring — Spring Boot Actuator RCE + Symlink Arbitrary Write to Root | TryHackMe](https://infosecwriteups.com/spring-spring-boot-actuator-rce-symlink-arbitrary-write-to-root-tryhackme-ed5c7635ed3c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 24 April 2026
+
 - **[Intercepting iOS Traffic with Burp Suite](https://redfoxsecurity.medium.com/intercepting-ios-traffic-with-burp-suite-20538f3cc9e7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 April 2026
 

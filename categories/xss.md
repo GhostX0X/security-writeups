@@ -1,3 +1,9 @@
+## 📅 24 April 2026
+
+- **[Reflected XSS in Bali Government Search Endpoint](https://medium.com/@OSAMA_OS/reflected-xss-in-bali-government-search-endpoint-04f2843ba62f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 April 2026
+
+- **[dmi⚡ XSS → Admin Takeover — From Browser Control to Full Power](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/dmi-xss-admin-takeover-from-browser-control-to-full-power-0b0154812404?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 
 - **[XSS armazenado + HTTPOnly](https://medium.com/@epedra7/xss-armazenado-httponly-2ea59ec29d8b?source=rss------pentesting-5)** _(Medium Pentesting)_

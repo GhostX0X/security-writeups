@@ -1,3 +1,9 @@
+## 📅 24 April 2026
+
+- **[Spring — Spring Boot Actuator RCE + Symlink Arbitrary Write to Root | TryHackMe](https://infosecwriteups.com/spring-spring-boot-actuator-rce-symlink-arbitrary-write-to-root-tryhackme-ed5c7635ed3c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 24 April 2026
+
+- **[How to Build a Fully Rooted Android 14 (API 34) Emulator on Windows 11 Using rootAVD](https://meetcyber.net/how-to-build-a-fully-rooted-android-14-api-34-emulator-on-windows-11-using-rootavd-276075f8373d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 
 - **[IDOR → Account Takeover — A Real Bug Chain Walkthrough](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/idor-account-takeover-a-real-bug-chain-walkthrough-7512a41d5a32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
