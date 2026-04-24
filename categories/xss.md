@@ -1,3 +1,9 @@
+## 📅 23 April 2026
+
+- **[XSS armazenado + HTTPOnly](https://medium.com/@epedra7/xss-armazenado-httponly-2ea59ec29d8b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 April 2026
+
+- **[WebVersePro Labs — Challenge: Fermata Writeup (Reflected XSS)](https://zor0ark.medium.com/webversepro-labs-challenge-fermata-writeup-reflected-xss-2db9b3f162f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 April 2026
 
 - **[URL-Based XSS](https://medium.com/@marduk.i.am/url-based-xss-c41d94090e6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

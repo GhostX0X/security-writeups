@@ -1,3 +1,6 @@
+## 📅 24 April 2026
+
+- **[Guía Maestra de SSRF: Estrategias de Explotación y Mitigación](https://medium.com/@jpablo13/gu%C3%ADa-maestra-de-ssrf-estrategias-de-explotaci%C3%B3n-y-mitigaci%C3%B3n-ae3b7a4b2ce8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 
 - **[“Bug Bounty Bootcamp #35: SSRF — Turning the Server Into Your Personal Proxy to Hack Internal…](https://infosecwriteups.com/bug-bounty-bootcamp-35-ssrf-turning-the-server-into-your-personal-proxy-to-hack-internal-c9f74582cf0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
