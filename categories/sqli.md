@@ -1,3 +1,6 @@
+## 📅 25 April 2026
+
+- **[WebVersePro Labs — Challenge: Herbalist Remedies Writeup (NoSQL Injection)](https://zor0ark.medium.com/webversepro-labs-challenge-herbalist-remedies-writeup-nosql-injection-9a85a4f1c68c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 
 - **[Blind SQL Injection — Part 3 (Final Chapter)](https://medium.com/@aaftaba.k47/blind-sql-injection-part-3-final-chapter-ea56399a4286?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
