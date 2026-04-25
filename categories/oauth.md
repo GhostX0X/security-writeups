@@ -1,3 +1,6 @@
+## 📅 25 April 2026
+
+- **[How to Safely Store OAuth Access Tokens in Rails with Active Record Encryption](https://medium.com/@roonglit/how-to-safely-store-oauth-access-tokens-in-rails-with-active-record-encryption-56d1ca3bce6c?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 April 2026
 
 - **[Open Redirect Simple Bug, Powerful Chains: Phishing Se OAuth Bypass Tak! (Hinglish Mein)](https://medium.com/@HackerMD/open-redirect-simple-bug-powerful-chains-phishing-se-oauth-bypass-tak-hinglish-mein-7d1b9adf8dcb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
