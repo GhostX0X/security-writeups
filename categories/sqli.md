@@ -1,5 +1,8 @@
 ## 📅 25 April 2026
 
+- **[“' OR 1=1 --” Is Blocked? Good. You’re Finally Ready to Find Real SQL Injection](https://medium.com/@pradeeptadi03/or-1-1-is-blocked-good-youre-finally-ready-to-find-real-sql-injection-16919965043c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 April 2026
+
 - **[WebVersePro Labs — Challenge: Herbalist Remedies Writeup (NoSQL Injection)](https://zor0ark.medium.com/webversepro-labs-challenge-herbalist-remedies-writeup-nosql-injection-9a85a4f1c68c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 April 2026
 

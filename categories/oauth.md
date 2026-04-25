@@ -1,5 +1,8 @@
 ## 📅 25 April 2026
 
+- **[How Google OAuth Actually Works in the Browser](https://medium.com/@idreesdev2/how-google-oauth-actually-works-in-the-browser-82e91d0949ab?source=rss------security-5)** _(Medium Security)_
+## 📅 25 April 2026
+
 - **[How to Safely Store OAuth Access Tokens in Rails with Active Record Encryption](https://medium.com/@roonglit/how-to-safely-store-oauth-access-tokens-in-rails-with-active-record-encryption-56d1ca3bce6c?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 April 2026
 

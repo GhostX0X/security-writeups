@@ -1,3 +1,6 @@
+## 📅 25 April 2026
+
+- **[How a Small Validation Flaw Led to a 0-Click Account Takeover](https://medium.com/@ohmyleg_/how-a-small-validation-flaw-led-to-a-0-click-account-takeover-4fa944dce03e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 April 2026
 
 - **[Spring — Spring Boot Actuator RCE + Symlink Arbitrary Write to Root | TryHackMe](https://infosecwriteups.com/spring-spring-boot-actuator-rce-symlink-arbitrary-write-to-root-tryhackme-ed5c7635ed3c?source=rss------pentesting-5)** _(Medium Pentesting)_
