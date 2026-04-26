@@ -1,3 +1,9 @@
+## 📅 26 April 2026
+
+- **[How I Found a Simple Broken Access Control Bug in a Chat Application](https://medium.com/@obafemipelumi2003/how-i-found-a-simple-broken-access-control-bug-in-a-chat-application-508a69e966ba?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 April 2026
+
+- **[How I Found a Simple Broken Access Control Bug in a Chat Application](https://medium.com/@obafemipelumi2003/how-i-found-a-simple-broken-access-control-bug-in-a-chat-application-508a69e966ba?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 April 2026
 
 - **[The Missing Link: How a Broken Access Control Led to a Full Account Takeover (ATO)](https://medium.com/@belalshohaip222/the-missing-link-how-a-broken-access-control-led-to-a-full-account-takeover-ato-607436c5b636?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,12 @@
+## 📅 26 April 2026
+
+- **[How I Found a Reflected XSS in a Government Website](https://medium.com/@moamensamer/how-i-found-a-reflected-xss-in-a-government-website-1488dace0c81?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 April 2026
+
+- **[How I Turned a “Harmless” Self-XSS into a Full Account Takeover](https://medium.com/@sadananddevre/how-i-turned-a-harmless-self-xss-into-a-full-account-takeover-50ff10244377?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 April 2026
+
+- **[I Found a Stored XSS in an API Explorer — Here’s Exactly How I Did It](https://medium.com/@sadananddevre/i-found-a-stored-xss-in-an-api-explorer-heres-exactly-how-i-did-it-2096dfc94753?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 April 2026
 
 - **[Reflected XSS in Bali Government Search Endpoint](https://medium.com/@OSAMA_OS/reflected-xss-in-bali-government-search-endpoint-04f2843ba62f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

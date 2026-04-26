@@ -1,3 +1,6 @@
+## 📅 26 April 2026
+
+- **[BUG-BOUNTY SERIES 6: Google Dorking untuk Reconnaissance — Menggali Informasi Sensitif Secara…](https://medium.com/@krisnawhy300/bug-bounty-series-6-google-dorking-untuk-reconnaissance-menggali-informasi-sensitif-secara-611d1f390449?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 
 - **[From Recon to Critical — Turning Endpoints Into Real Bugs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-recon-to-critical-turning-endpoints-into-real-bugs-9cd3e1cc5a16?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

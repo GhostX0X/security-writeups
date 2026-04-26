@@ -1,3 +1,9 @@
+## 📅 26 April 2026
+
+- **[How I Turned a “Harmless” Self-XSS into a Full Account Takeover](https://medium.com/@sadananddevre/how-i-turned-a-harmless-self-xss-into-a-full-account-takeover-50ff10244377?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 April 2026
+
+- **[Override.exe 2026 Qualifiers — Akinator Writeup](https://medium.com/@ctfbbonly/override-exe-2026-qualifiers-akinator-writeup-d9e214318bdb?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 April 2026
 
 - **[How a Small Validation Flaw Led to a 0-Click Account Takeover](https://medium.com/@ohmyleg_/how-a-small-validation-flaw-led-to-a-0-click-account-takeover-4fa944dce03e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
