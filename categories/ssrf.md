@@ -1,3 +1,6 @@
+## 📅 26 April 2026
+
+- **[Wiz Cloud Security CTF — Perimeter Leak: Chaining SSRF with Credential Theft](https://adityamurali2.medium.com/wiz-cloud-security-ctf-perimeter-leak-chaining-ssrf-with-credential-theft-2472b76b3ba1?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 25 April 2026
 
 - **[SSRF Master Guide: Exploitation and Mitigation Strategies](https://medium.com/@jpablo13/ssrf-master-guide-exploitation-and-mitigation-strategies-e8b6a5d415bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
