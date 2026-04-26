@@ -1,3 +1,6 @@
+## 📅 25 April 2026
+
+- **[IDOR….will help you to get bounty](https://medium.com/@theairforcegraudcommando/idor-will-help-you-to-get-bounty-a17918661b7c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 
 - **[IDOR → Account Takeover — A Real Bug Chain Walkthrough](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/idor-account-takeover-a-real-bug-chain-walkthrough-7512a41d5a32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
