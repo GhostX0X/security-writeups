@@ -1,3 +1,6 @@
+## 📅 27 April 2026
+
+- **[Probus: The Open-Source AI Vulnerability Scanner Built for the Age of AI-Generated Code](https://medium.com/@etairl/probus-the-open-source-ai-vulnerability-scanner-built-for-the-age-of-ai-generated-code-6f88c7671381?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 April 2026
 
 - **[From Fake Flag to Full RCE — Clankers Market Writeup](https://medium.com/@S0n1c_404/from-fake-flag-to-full-rce-clankers-market-writeup-4e9532bcb551?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
