@@ -1,5 +1,8 @@
 ## 📅 26 April 2026
 
+- **[From Data Dumping to Bug Hunting: Building a Recon Pipeline That Actually Works](https://lex-is1.medium.com/from-data-dumping-to-bug-hunting-building-a-recon-pipeline-that-actually-works-88d795a8de8f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 April 2026
+
 - **[BUG-BOUNTY SERIES 6: Google Dorking untuk Reconnaissance — Menggali Informasi Sensitif Secara…](https://medium.com/@krisnawhy300/bug-bounty-series-6-google-dorking-untuk-reconnaissance-menggali-informasi-sensitif-secara-611d1f390449?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 April 2026
 
