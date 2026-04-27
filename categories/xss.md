@@ -1,3 +1,12 @@
+## 📅 27 April 2026
+
+- **[This “Low Severity” XSS Turned Into a Payout I Wasn’t Expecting](https://medium.com/@21bec131/this-low-severity-xss-turned-into-a-payout-i-wasnt-expecting-5540d07da66c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 27 April 2026
+
+- **[DOM-Based XSS in OAuth Login via Unvalidated baseUrl Parameter Leading to Account Takeover](https://medium.com/@krithickcyber/dom-based-xss-in-oauth-login-via-unvalidated-baseurl-parameter-leading-to-account-takeover-fbfcc10a61a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 April 2026
+
+- **[This “Low Severity” XSS Turned Into a Payout I Wasn’t Expecting](https://medium.com/@21bec131/this-low-severity-xss-turned-into-a-payout-i-wasnt-expecting-5540d07da66c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 April 2026
 
 - **[How I Found a Reflected XSS in a Government Website](https://medium.com/@moamensamer/how-i-found-a-reflected-xss-in-a-government-website-1488dace0c81?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

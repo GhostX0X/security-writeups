@@ -1,3 +1,9 @@
+## 📅 27 April 2026
+
+- **[DOM-Based XSS in OAuth Login via Unvalidated baseUrl Parameter Leading to Account Takeover](https://medium.com/@krithickcyber/dom-based-xss-in-oauth-login-via-unvalidated-baseurl-parameter-leading-to-account-takeover-fbfcc10a61a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 April 2026
+
+- **[The OAuth Wall That Kills Enterprise AI Agents (and How We Got Past It)](https://medium.com/@luis.f.s.m.dias/the-oauth-wall-that-kills-enterprise-ai-agents-and-how-we-got-past-it-36e3e7f710e3?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 April 2026
 
 - **[How Google OAuth Actually Works in the Browser](https://medium.com/@idreesdev2/how-google-oauth-actually-works-in-the-browser-82e91d0949ab?source=rss------security-5)** _(Medium Security)_

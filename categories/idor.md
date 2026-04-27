@@ -1,3 +1,6 @@
+## 📅 27 April 2026
+
+- **[IDOR Chained To Missing Ratelimiting Leaded To ATO of Any User Account](https://d0natel00.medium.com/idor-chained-to-missing-ratelimiting-leaded-to-ato-of-any-user-account-338d9f22aed2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 April 2026
 
 - **[IDOR….will help you to get bounty](https://medium.com/@theairforcegraudcommando/idor-will-help-you-to-get-bounty-a17918661b7c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

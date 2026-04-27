@@ -1,3 +1,9 @@
+## 📅 27 April 2026
+
+- **[DOM-Based XSS in OAuth Login via Unvalidated baseUrl Parameter Leading to Account Takeover](https://medium.com/@krithickcyber/dom-based-xss-in-oauth-login-via-unvalidated-baseurl-parameter-leading-to-account-takeover-fbfcc10a61a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 April 2026
+
+- **[IDOR Chained To Missing Ratelimiting Leaded To ATO of Any User Account](https://d0natel00.medium.com/idor-chained-to-missing-ratelimiting-leaded-to-ato-of-any-user-account-338d9f22aed2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 April 2026
 
 - **[How I Turned a “Harmless” Self-XSS into a Full Account Takeover](https://medium.com/@sadananddevre/how-i-turned-a-harmless-self-xss-into-a-full-account-takeover-50ff10244377?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
