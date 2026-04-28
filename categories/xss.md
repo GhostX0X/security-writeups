@@ -1,3 +1,6 @@
+## 📅 28 April 2026
+
+- **[The Intigriti 0426 Northstar Notes: Chaining Mass Assignment & Path Traversal to Stored XSS](https://medium.com/@vishnu.raveendran1461/the-intigriti-0426-northstar-notes-chaining-mass-assignment-path-traversal-to-stored-xss-bdcd019ed93b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 April 2026
 
 - **[This “Low Severity” XSS Turned Into a Payout I Wasn’t Expecting](https://medium.com/@21bec131/this-low-severity-xss-turned-into-a-payout-i-wasnt-expecting-5540d07da66c?source=rss------pentesting-5)** _(Medium Pentesting)_

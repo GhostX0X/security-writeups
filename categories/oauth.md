@@ -1,3 +1,6 @@
+## 📅 28 April 2026
+
+- **[OAuth2 Strategies: Balancing Pragmatism and Security in Internal Token Acquisition](https://sendoh-daten.medium.com/oauth2-strategies-balancing-pragmatism-and-security-in-internal-token-acquisition-9ae1e6d7a846?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 April 2026
 
 - **[DOM-Based XSS in OAuth Login via Unvalidated baseUrl Parameter Leading to Account Takeover](https://medium.com/@krithickcyber/dom-based-xss-in-oauth-login-via-unvalidated-baseurl-parameter-leading-to-account-takeover-fbfcc10a61a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

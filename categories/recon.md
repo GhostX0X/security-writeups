@@ -1,3 +1,6 @@
+## 📅 28 April 2026
+
+- **[⚡ 30 Tiny Bash Commands That Quietly Do Most of Your Bug Bounty Recon](https://medium.com/@mvspavs/30-tiny-bash-commands-that-quietly-do-most-of-your-bug-bounty-recon-dd10823262a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 April 2026
 
 - **[From Data Dumping to Bug Hunting: Building a Recon Pipeline That Actually Works](https://lex-is1.medium.com/from-data-dumping-to-bug-hunting-building-a-recon-pipeline-that-actually-works-88d795a8de8f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
