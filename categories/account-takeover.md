@@ -1,3 +1,15 @@
+## 📅 28 April 2026
+
+- **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 April 2026
+
+- **[Android Lockdown — Thinking Like an Operator (Part 5)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/android-lockdown-thinking-like-an-operator-part-5-a2f210cf850e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 April 2026
+
+- **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 April 2026
+
+- **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 April 2026
 
 - **[DOM-Based XSS in OAuth Login via Unvalidated baseUrl Parameter Leading to Account Takeover](https://medium.com/@krithickcyber/dom-based-xss-in-oauth-login-via-unvalidated-baseurl-parameter-leading-to-account-takeover-fbfcc10a61a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

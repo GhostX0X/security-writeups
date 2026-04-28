@@ -1,5 +1,14 @@
 ## 📅 28 April 2026
 
+- **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 April 2026
+
+- **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 April 2026
+
+- **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------security-5)** _(Medium Security)_
+## 📅 28 April 2026
+
 - **[The Intigriti 0426 Northstar Notes: Chaining Mass Assignment & Path Traversal to Stored XSS](https://medium.com/@vishnu.raveendran1461/the-intigriti-0426-northstar-notes-chaining-mass-assignment-path-traversal-to-stored-xss-bdcd019ed93b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 April 2026
 
