@@ -1,3 +1,6 @@
+## 📅 28 April 2026
+
+- **[Guía de Prototype Pollution: Vulnerabilidades, Vectores de Ataque y RCE](https://medium.com/@jpablo13/gu%C3%ADa-de-prototype-pollution-vulnerabilidades-vectores-de-ataque-y-rce-eb3503135192?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 April 2026
 
 - **[Probus: The Open-Source AI Vulnerability Scanner Built for the Age of AI-Generated Code](https://medium.com/@etairl/probus-the-open-source-ai-vulnerability-scanner-built-for-the-age-of-ai-generated-code-6f88c7671381?source=rss------security-5)** _(Medium Security)_
