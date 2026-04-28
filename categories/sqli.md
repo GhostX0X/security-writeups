@@ -1,3 +1,6 @@
+## 📅 28 April 2026
+
+- **[SQL Injection — How I Extracted a Full Database. #CyberSecurity](https://medium.com/@nilanjan.calculus/sql-injection-how-i-extracted-a-full-database-cybersecurity-ab1772da5606?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 25 April 2026
 
 - **[“' OR 1=1 --” Is Blocked? Good. You’re Finally Ready to Find Real SQL Injection](https://medium.com/@pradeeptadi03/or-1-1-is-blocked-good-youre-finally-ready-to-find-real-sql-injection-16919965043c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
