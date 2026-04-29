@@ -1,5 +1,11 @@
 ## 📅 28 April 2026
 
+- **[Building a Windows File System Minifilter Driver: Intercepting File Access](https://medium.com/@s12deff/building-a-windows-file-system-minifilter-driver-intercepting-file-access-55b933ccd6a4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 April 2026
+
+- **[Prototype Pollution Guide: Vulnerabilities, Attack Vectors, and RCE](https://medium.com/@jpablo13/prototype-pollution-guide-vulnerabilities-attack-vectors-and-rce-82100c1baf40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 April 2026
+
 - **[Guía de Prototype Pollution: Vulnerabilidades, Vectores de Ataque y RCE](https://medium.com/@jpablo13/gu%C3%ADa-de-prototype-pollution-vulnerabilidades-vectores-de-ataque-y-rce-eb3503135192?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 April 2026
 

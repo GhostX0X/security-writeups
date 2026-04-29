@@ -1,3 +1,6 @@
+## 📅 29 April 2026
+
+- **[Anatomy of Silence](https://medium.com/@nazilatunnatasya/anatomy-of-silence-1e37945b4646?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 April 2026
 
 - **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------pentesting-5)** _(Medium Pentesting)_
