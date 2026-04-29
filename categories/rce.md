@@ -1,3 +1,6 @@
+## 📅 29 April 2026
+
+- **[How I Found My First RCE — CVE-2026–37748](https://medium.com/@menevarad007/how-i-found-my-first-rce-cve-2026-37748-59619c582134?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 April 2026
 
 - **[Building a Windows File System Minifilter Driver: Intercepting File Access](https://medium.com/@s12deff/building-a-windows-file-system-minifilter-driver-intercepting-file-access-55b933ccd6a4?source=rss------pentesting-5)** _(Medium Pentesting)_

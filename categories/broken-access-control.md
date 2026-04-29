@@ -1,3 +1,6 @@
+## 📅 29 April 2026
+
+- **[Broken Access Control via Overprivileged Public API Key — How I Accessed 100+ User IDs, Search…](https://medium.com/@krithickcyber/broken-access-control-via-overprivileged-public-api-key-how-i-accessed-100-user-ids-search-41fa9641d1cc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 April 2026
 
 - **[How I Found a Simple Broken Access Control Bug in a Chat Application](https://medium.com/@obafemipelumi2003/how-i-found-a-simple-broken-access-control-bug-in-a-chat-application-508a69e966ba?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
