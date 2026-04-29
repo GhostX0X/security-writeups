@@ -1,5 +1,11 @@
 ## 📅 29 April 2026
 
+- **[Self-XSS + CSRF Leading to Account Takeover (50-Character Payload Limit Challenge)](https://canitey.medium.com/self-xss-csrf-leading-to-account-takeover-50-character-payload-limit-challenge-74f75d0b2c06?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 April 2026
+
+- **[Beyond the Signature: The Anatomy of True Document Integrity](https://janvierleviege.medium.com/beyond-the-signature-the-anatomy-of-true-document-integrity-c85936f2f206?source=rss------security-5)** _(Medium Security)_
+## 📅 29 April 2026
+
 - **[Atomic Chaos: Why Uranium Privatization and the Decay of Diplomacy Are Leading the World to…](https://medium.com/@diplomatic_madder_rabbit_249/atomic-chaos-why-uranium-privatization-and-the-decay-of-diplomacy-are-leading-the-world-to-20ca172d25bd?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 April 2026
 

@@ -1,3 +1,6 @@
+## 📅 29 April 2026
+
+- **[Self-XSS + CSRF Leading to Account Takeover (50-Character Payload Limit Challenge)](https://canitey.medium.com/self-xss-csrf-leading-to-account-takeover-50-character-payload-limit-challenge-74f75d0b2c06?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 April 2026
 
 - **[SVG Abuse: Account Takeover Without XSS](https://medium.com/@netmarauder/svg-abuse-account-takeover-without-xss-99280905e134?source=rss------pentesting-5)** _(Medium Pentesting)_

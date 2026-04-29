@@ -1,3 +1,6 @@
+## 📅 29 April 2026
+
+- **[Finding an IDOR in Tesla From the Outside](https://asjadbutt.medium.com/finding-an-idor-in-tesla-from-the-outside-224166216254?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 April 2026
 
 - **[IDOR Chained To Missing Ratelimiting Leaded To ATO of Any User Account](https://d0natel00.medium.com/idor-chained-to-missing-ratelimiting-leaded-to-ato-of-any-user-account-338d9f22aed2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
