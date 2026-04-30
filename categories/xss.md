@@ -1,3 +1,15 @@
+## 📅 30 April 2026
+
+- **[Write-Up: BugForge Weekly Challenge — MesaNet Portal with Stored-XSS](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-mesanet-portal-with-stored-xss-087a7dde6d05?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 April 2026
+
+- **[Lab: Reflected XSS into HTML context with nothing encoded](https://songulkizilay.medium.com/lab-reflected-xss-into-html-context-with-nothing-encoded-91d6c54b6c9b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 April 2026
+
+- **[Lab: Stored XSS into HTML context with nothing encoded](https://songulkizilay.medium.com/lab-stored-xss-into-html-context-with-nothing-encoded-1eb5f6e9c875?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 April 2026
+
+- **[What is XSS (Cross-Site Scripting)? Explained Simply for Beginners](https://medium.com/@gauravkumaramtics/what-is-xss-cross-site-scripting-explained-simply-for-beginners-065267aeb24d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 April 2026
 
 - **[XSS Sistemi Nasıl Manipüle Eder?](https://zekikayaalp.medium.com/xss-sistemi-nas%C4%B1l-manip%C3%BCle-eder-16e617c2009f?source=rss------pentesting-5)** _(Medium Pentesting)_

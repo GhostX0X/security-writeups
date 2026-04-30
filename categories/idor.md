@@ -1,3 +1,6 @@
+## 📅 30 April 2026
+
+- **[IDOR in a Header Leads to a $$$ Bounty](https://cybersecuritywriteups.com/idor-in-a-header-leads-to-a-bounty-d0ad7800ddda?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 April 2026
 
 - **[Finding an IDOR in Tesla From the Outside](https://asjadbutt.medium.com/finding-an-idor-in-tesla-from-the-outside-224166216254?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

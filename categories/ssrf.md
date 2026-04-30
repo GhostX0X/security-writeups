@@ -1,3 +1,6 @@
+## 📅 30 April 2026
+
+- **[Authenticated SSRF and Graph API Authorization Bypass via URL Normalization in a Vendor-Authored…](https://g0w6y.medium.com/authenticated-ssrf-and-graph-api-authorization-bypass-via-url-normalization-in-a-vendor-authored-36ec12710e83?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 April 2026
 
 - **[Wiz Cloud Security CTF — Perimeter Leak: Chaining SSRF with Credential Theft](https://adityamurali2.medium.com/wiz-cloud-security-ctf-perimeter-leak-chaining-ssrf-with-credential-theft-2472b76b3ba1?source=rss------pentesting-5)** _(Medium Pentesting)_

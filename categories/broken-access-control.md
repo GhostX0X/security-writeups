@@ -1,3 +1,6 @@
+## 📅 30 April 2026
+
+- **[Lab: Bypassing access controls using email address parsing discrepancies](https://medium.com/@amrsmooke321/lab-bypassing-access-controls-using-email-address-parsing-discrepancies-079cd4536b5d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 April 2026
 
 - **[Broken Access Control via Overprivileged Public API Key — How I Accessed 100+ User IDs, Search…](https://medium.com/@krithickcyber/broken-access-control-via-overprivileged-public-api-key-how-i-accessed-100-user-ids-search-41fa9641d1cc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
