@@ -1,5 +1,8 @@
 ## 📅 29 April 2026
 
+- **[XSS Sistemi Nasıl Manipüle Eder?](https://zekikayaalp.medium.com/xss-sistemi-nas%C4%B1l-manip%C3%BCle-eder-16e617c2009f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 April 2026
+
 - **[Self-XSS + CSRF Leading to Account Takeover (50-Character Payload Limit Challenge)](https://canitey.medium.com/self-xss-csrf-leading-to-account-takeover-50-character-payload-limit-challenge-74f75d0b2c06?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 April 2026
 
