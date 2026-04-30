@@ -1,3 +1,6 @@
+## 📅 30 April 2026
+
+- **[From Recon to Letter of Recognition | NASA VDP](https://medium.com/fmisec/from-recon-to-letter-of-recognition-nasa-vdp-4b115ccde1f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 April 2026
 
 - **[⚡ 30 Tiny Bash Commands That Quietly Do Most of Your Bug Bounty Recon](https://medium.com/@mvspavs/30-tiny-bash-commands-that-quietly-do-most-of-your-bug-bounty-recon-dd10823262a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
