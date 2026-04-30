@@ -1,3 +1,6 @@
+## 📅 30 April 2026
+
+- **[Part 3 — Inside Kingsentime: The Hidden Actuator of a Fake Galaxy S25 Ultra](https://clawshea.medium.com/part-3-inside-kingsentime-the-hidden-actuator-of-a-fake-galaxy-s25-ultra-bb7c5e067145?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 29 April 2026
 
 - **[Self-XSS + CSRF Leading to Account Takeover (50-Character Payload Limit Challenge)](https://canitey.medium.com/self-xss-csrf-leading-to-account-takeover-50-character-payload-limit-challenge-74f75d0b2c06?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

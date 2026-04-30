@@ -1,3 +1,6 @@
+## 📅 30 April 2026
+
+- **[How an Unrestricted API Key in HTML Source Can Cost a Company $20,000 a Week](https://prateekpulastya.medium.com/how-an-unrestricted-api-key-in-html-source-can-cost-a-company-20-000-a-week-bcb79d777488?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 April 2026
 
 - **[How I Found My First RCE — CVE-2026–37748](https://medium.com/@menevarad007/how-i-found-my-first-rce-cve-2026-37748-59619c582134?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
