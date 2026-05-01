@@ -1,3 +1,9 @@
+## 📅 01 May 2026
+
+- **[Mastering Access Control — Where Most Critical Bugs Live (Part 4)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mastering-access-control-where-most-critical-bugs-live-part-4-10a25014bfe5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 May 2026
+
+- **[How I Discovered 5 broken Access Control Bugs in a Single Web Application](https://medium.com/@0xyz_/how-i-discovered-5-broken-access-control-bugs-in-a-single-web-application-44d95652872f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 April 2026
 
 - **[Lab: Bypassing access controls using email address parsing discrepancies](https://medium.com/@amrsmooke321/lab-bypassing-access-controls-using-email-address-parsing-discrepancies-079cd4536b5d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
