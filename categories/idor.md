@@ -1,5 +1,11 @@
 ## 📅 30 April 2026
 
+- **[IDOR via Weak JWT Validation Leading to Unauthorized Data Access](https://medium.com/@0xMo7areb/idor-via-weak-jwt-validation-leading-to-unauthorized-data-access-e8d641750099?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 April 2026
+
+- **[SOC Alert Investigation: Possible IDOR Attack Detected (SOC169 — EventID 119)](https://medium.com/@rohitaswal2108/soc-alert-investigation-possible-idor-attack-detected-soc169-eventid-119-fd24fad89375?source=rss------security-5)** _(Medium Security)_
+## 📅 30 April 2026
+
 - **[IDOR in a Header Leads to a $$$ Bounty](https://cybersecuritywriteups.com/idor-in-a-header-leads-to-a-bounty-d0ad7800ddda?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 April 2026
 
