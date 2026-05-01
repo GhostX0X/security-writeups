@@ -1,5 +1,8 @@
 ## 📅 01 May 2026
 
+- **[From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata](https://medium.com/@kanishkakhandelwal18/from-a-simple-image-upload-to-account-takeover-stored-xss-via-file-metadata-0cc601b182c3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 May 2026
+
 - **[Temp Gmailer — Free Temporary Gmail Generator for OTP Verification & Secure Signups](https://medium.com/@tempg3043/temp-gmailer-free-temporary-gmail-generator-for-otp-verification-secure-signups-2143d9d0a3e0?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 April 2026
 

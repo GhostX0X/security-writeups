@@ -1,3 +1,6 @@
+## 📅 01 May 2026
+
+- **[From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata](https://medium.com/@kanishkakhandelwal18/from-a-simple-image-upload-to-account-takeover-stored-xss-via-file-metadata-0cc601b182c3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 April 2026
 
 - **[Write-Up: BugForge Weekly Challenge — MesaNet Portal with Stored-XSS](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-mesanet-portal-with-stored-xss-087a7dde6d05?source=rss------pentesting-5)** _(Medium Pentesting)_
