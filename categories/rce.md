@@ -1,3 +1,6 @@
+## 📅 02 May 2026
+
+- **[Vercel Won’t Be the Last. Here’s Every Breach That Should Have Warned Us.](https://medium.com/@gaurawsingh/vercel-wont-be-the-last-here-s-every-breach-that-should-have-warned-us-5c16788e1b7e?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 May 2026
 
 - **[From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover](https://0xm0r4d.medium.com/from-source-code-review-to-critical-vulnerability-critical-firebase-api-takeover-e8f2ffa426bd?source=rss------pentesting-5)** _(Medium Pentesting)_
