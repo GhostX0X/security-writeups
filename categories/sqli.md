@@ -1,3 +1,6 @@
+## 📅 02 May 2026
+
+- **[Find SQL injection with burp Suite scanner](https://awais0x1.medium.com/discovering-an-sql-injection-with-burps-scanner-41c6c5910d84?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 April 2026
 
 - **[SQL Injection — How I Extracted a Full Database. #CyberSecurity](https://medium.com/@nilanjan.calculus/sql-injection-how-i-extracted-a-full-database-cybersecurity-ab1772da5606?source=rss------pentesting-5)** _(Medium Pentesting)_

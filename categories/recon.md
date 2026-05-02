@@ -1,3 +1,12 @@
+## 📅 02 May 2026
+
+- **[Beyond the Ping: Mastering Nmap for Network Reconnaissance in 2026](https://medium.com/@sa.adamec/beyond-the-ping-mastering-nmap-for-network-reconnaissance-in-2026-70ee618643d7?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 May 2026
+
+- **[Introduction & Phases Of Pentesting : From Structured Recon to Exploit Chaining ☠️](https://yashsec.medium.com/introduction-phases-of-pentesting-from-structured-recon-to-exploit-chaining-%EF%B8%8F-0f5676d584ca?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 May 2026
+
+- **[⚡ Full Automation — Recon → Exploit Pipeline (Part 6)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/full-automation-recon-exploit-pipeline-part-6-aa5a217d414a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 April 2026
 
 - **[From Recon to Letter of Recognition | NASA VDP](https://medium.com/fmisec/from-recon-to-letter-of-recognition-nasa-vdp-4b115ccde1f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
