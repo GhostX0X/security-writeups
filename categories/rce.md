@@ -1,3 +1,9 @@
+## 📅 01 May 2026
+
+- **[From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover](https://0xm0r4d.medium.com/from-source-code-review-to-critical-vulnerability-critical-firebase-api-takeover-e8f2ffa426bd?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 May 2026
+
+- **[From Source Code Review To Critical Vulnerability — Critical Firebase API Takeover](https://0xm0r4d.medium.com/from-source-code-review-to-critical-vulnerability-critical-firebase-api-takeover-e8f2ffa426bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 April 2026
 
 - **[How an Unrestricted API Key in HTML Source Can Cost a Company $20,000 a Week](https://prateekpulastya.medium.com/how-an-unrestricted-api-key-in-html-source-can-cost-a-company-20-000-a-week-bcb79d777488?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 01 May 2026
 
+- **[This is my third bug bounty report: How I found an XSS vulnerability](https://umuttkyrdgn.medium.com/this-is-my-third-bug-bounty-report-how-i-found-an-xss-vulnerability-c2a637d86b2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 May 2026
+
 - **[From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata](https://medium.com/@kanishkakhandelwal18/from-a-simple-image-upload-to-account-takeover-stored-xss-via-file-metadata-0cc601b182c3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 April 2026
 
