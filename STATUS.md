@@ -1,7 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-05-03 01:53:01.770401 UTC
+Last updated: 2026-05-03 07:46:39.818314 UTC
 
-- rce: 2
+- oauth: 1
 - sqli: 1
 - recon: 3

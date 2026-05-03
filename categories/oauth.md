@@ -1,3 +1,6 @@
+## 📅 03 May 2026
+
+- **[MCP Server Authentication in .NET: Implement OAuth 2.1 with PKCE Natively](https://medium.com/@pabasaramahindapala/mcp-server-authentication-in-net-implement-oauth-2-1-with-pkce-natively-5b5caae76e67?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 April 2026
 
 - **[OAuth2 Strategies: Balancing Pragmatism and Security in Internal Token Acquisition](https://sendoh-daten.medium.com/oauth2-strategies-balancing-pragmatism-and-security-in-internal-token-acquisition-9ae1e6d7a846?source=rss------security-5)** _(Medium Security)_
