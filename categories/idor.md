@@ -1,3 +1,15 @@
+## 📅 03 May 2026
+
+- **[OSSEC: IDOR vulnerability no more — The easiest way for you to verify your apps yourself.](https://itnext.io/ossec-idor-vulnerability-no-more-the-easiest-way-for-you-to-verify-your-apps-yourself-6c18efacb7a8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 May 2026
+
+- **[OSSEC: Vulnerabilidade IDOR nunca mais — O jeito mais fácil de você mesmo verificar suas apps.](https://medium.com/@lucas_11478/ossec-vulnerabilidade-idor-nunca-mais-o-jeito-mais-f%C3%A1cil-de-voc%C3%AA-mesmo-verificar-suas-apps-f6e7df8224b9?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 May 2026
+
+- **[OSSEC: IDOR vulnerability no more — The easiest way for you to verify your apps yourself.](https://itnext.io/ossec-idor-vulnerability-no-more-the-easiest-way-for-you-to-verify-your-apps-yourself-6c18efacb7a8?source=rss------security-5)** _(Medium Security)_
+## 📅 03 May 2026
+
+- **[OSSEC: Vulnerabilidade IDOR nunca mais — O jeito mais fácil de você mesmo verificar suas apps.](https://medium.com/@lucas_11478/ossec-vulnerabilidade-idor-nunca-mais-o-jeito-mais-f%C3%A1cil-de-voc%C3%AA-mesmo-verificar-suas-apps-f6e7df8224b9?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 April 2026
 
 - **[IDOR via Weak JWT Validation Leading to Unauthorized Data Access](https://medium.com/@0xMo7areb/idor-via-weak-jwt-validation-leading-to-unauthorized-data-access-e8d641750099?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
