@@ -1,5 +1,8 @@
 ## 📅 02 May 2026
 
+- **[Vercel Paused My Site. Turns Out, I Was Being Attacked.](https://medium.com/@deshpandemrigesh/vercel-paused-my-site-turns-out-i-was-being-attacked-e2b5aec1bd0b?source=rss------security-5)** _(Medium Security)_
+## 📅 02 May 2026
+
 - **[Vercel Won’t Be the Last. Here’s Every Breach That Should Have Warned Us.](https://medium.com/@gaurawsingh/vercel-wont-be-the-last-here-s-every-breach-that-should-have-warned-us-5c16788e1b7e?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 May 2026
 
