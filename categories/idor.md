@@ -1,5 +1,11 @@
 ## 📅 03 May 2026
 
+- **[Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 May 2026
+
+- **[Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR](https://medium.com/@xelcezeri/chaining-logic-flaws-from-kyc-bypass-to-authenticated-time-based-sqli-and-mass-idor-0425f362dad5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 May 2026
+
 - **[OSSEC: IDOR vulnerability no more — The easiest way for you to verify your apps yourself.](https://itnext.io/ossec-idor-vulnerability-no-more-the-easiest-way-for-you-to-verify-your-apps-yourself-6c18efacb7a8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 May 2026
 

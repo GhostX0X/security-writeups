@@ -1,3 +1,6 @@
+## 📅 03 May 2026
+
+- **[The Punycode Paradox: When Unicode Normalization Turns Into an ATO](https://meetcyber.net/the-punycode-paradox-when-unicode-normalization-turns-into-an-ato-d6938d7d7e62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 May 2026
 
 - **[From a Simple Image Upload to Account Takeover: Stored XSS via File Metadata](https://medium.com/@kanishkakhandelwal18/from-a-simple-image-upload-to-account-takeover-stored-xss-via-file-metadata-0cc601b182c3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

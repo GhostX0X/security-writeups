@@ -1,3 +1,6 @@
+## 📅 03 May 2026
+
+- **[Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR](https://medium.com/@xelcezeri/chaining-logic-flaws-from-kyc-bypass-to-authenticated-time-based-sqli-and-mass-idor-0425f362dad5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 May 2026
 
 - **[Find SQL injection with burp Suite scanner](https://awais0x1.medium.com/discovering-an-sql-injection-with-burps-scanner-41c6c5910d84?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 03 May 2026
 
+- **[How Visma’s Verbose OAuth Debugger Exposed an Entire Identity Infrastructure](https://medium.com/@Pwnedl0l/how-vismas-verbose-oauth-debugger-exposed-an-entire-identity-infrastructure-1f6140d1e0fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 May 2026
+
 - **[MCP Server Authentication in .NET: Implement OAuth 2.1 with PKCE Natively](https://medium.com/@pabasaramahindapala/mcp-server-authentication-in-net-implement-oauth-2-1-with-pkce-natively-5b5caae76e67?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 April 2026
 

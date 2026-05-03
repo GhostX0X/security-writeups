@@ -1,5 +1,8 @@
 ## 📅 03 May 2026
 
+- **[AI + Recon — Auto-Analyzing Results Like a Senior Pentester (Part 8)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ai-recon-auto-analyzing-results-like-a-senior-pentester-part-8-bbeeb8afba11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 May 2026
+
 - **[️ Stealth vs Aggressive Recon — Avoid Bans & Maximize Coverage (Part 7)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-stealth-vs-aggressive-recon-avoid-bans-maximize-coverage-part-7-71919a553ff2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 May 2026
 

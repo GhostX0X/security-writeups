@@ -1,3 +1,6 @@
+## 📅 03 May 2026
+
+- **[Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 May 2026
 
 - **[This is my third bug bounty report: How I found an XSS vulnerability](https://umuttkyrdgn.medium.com/this-is-my-third-bug-bounty-report-how-i-found-an-xss-vulnerability-c2a637d86b2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
