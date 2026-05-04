@@ -1,3 +1,9 @@
+## 📅 04 May 2026
+
+- **[How I Found XSS by Understanding Context](https://medium.com/@Sh3llwolf/how-i-found-xss-by-understanding-context-1cacbafd1f41?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 May 2026
+
+- **[How I Found XSS by Understanding Context](https://medium.com/@Sh3llwolf/how-i-found-xss-by-understanding-context-1cacbafd1f41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 May 2026
 
 - **[Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

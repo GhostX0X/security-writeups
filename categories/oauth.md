@@ -1,3 +1,6 @@
+## 📅 04 May 2026
+
+- **[Your OAuth Login Can Be Hijacked… Without You Knowing](https://vinitpahwa.medium.com/your-oauth-login-can-be-hijacked-without-you-knowing-c0ff2fa24234?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 
 - **[How Visma’s Verbose OAuth Debugger Exposed an Entire Identity Infrastructure](https://medium.com/@Pwnedl0l/how-vismas-verbose-oauth-debugger-exposed-an-entire-identity-infrastructure-1f6140d1e0fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

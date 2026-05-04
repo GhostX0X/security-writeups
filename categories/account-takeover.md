@@ -1,3 +1,6 @@
+## 📅 04 May 2026
+
+- **[TRON Vanity Address Generators in 2026: A Honest Comparison](https://medium.com/@custom.tron/tron-vanity-address-generators-in-2026-a-honest-comparison-ecdf5329fa33?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 
 - **[The Punycode Paradox: When Unicode Normalization Turns Into an ATO](https://meetcyber.net/the-punycode-paradox-when-unicode-normalization-turns-into-an-ato-d6938d7d7e62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
