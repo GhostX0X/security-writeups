@@ -1,3 +1,6 @@
+## 📅 04 May 2026
+
+- **[Advanced Enumeration & Reconnaissance: A Practical Guide for Ethical Hackers](https://medium.com/@saikumarbalabhadruni/advanced-enumeration-reconnaissance-a-practical-guide-for-ethical-hackers-c7dd3d6367fe?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 
 - **[AI + Recon — Auto-Analyzing Results Like a Senior Pentester (Part 8)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ai-recon-auto-analyzing-results-like-a-senior-pentester-part-8-bbeeb8afba11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
