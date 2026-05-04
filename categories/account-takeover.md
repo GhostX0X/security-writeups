@@ -1,5 +1,8 @@
 ## 📅 04 May 2026
 
+- **[No Salt, Weak Security — How a Cookie Design Flaw Led to Account Takeover](https://medium.com/@vamsikandukuru22/no-salt-weak-security-how-a-cookie-design-flaw-led-to-account-takeover-b5616bd4b2eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 May 2026
+
 - **[TRON Vanity Address Generators in 2026: A Honest Comparison](https://medium.com/@custom.tron/tron-vanity-address-generators-in-2026-a-honest-comparison-ecdf5329fa33?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 

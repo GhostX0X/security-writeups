@@ -1,5 +1,8 @@
 ## 📅 04 May 2026
 
+- **[Building BB-Recon: My Bug Bounty Recon Automation Pipeline | Cyber Tamarin](https://cybertamarin.medium.com/building-bb-recon-my-bug-bounty-recon-automation-pipeline-cyber-tamarin-3b2a34c535c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 May 2026
+
 - **[Advanced Enumeration & Reconnaissance: A Practical Guide for Ethical Hackers](https://medium.com/@saikumarbalabhadruni/advanced-enumeration-reconnaissance-a-practical-guide-for-ethical-hackers-c7dd3d6367fe?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 

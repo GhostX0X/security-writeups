@@ -1,3 +1,6 @@
+## 📅 04 May 2026
+
+- **[The Ethics of Privatized Warfare: Should States Outsource the Use of Force?](https://medium.com/@vionadd/the-ethics-of-privatized-warfare-should-states-outsource-the-use-of-force-2708ca2bf087?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 
 - **[How I Found a Race Condition That Broke a Resource Limit (Real-World Case Study)](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-a-resource-limit-real-world-case-study-79bd09f29e8f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
