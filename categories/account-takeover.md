@@ -1,3 +1,9 @@
+## 📅 05 May 2026
+
+- **[Zero-Click ATO: How a Single Accent Mark Led to Account Takeovers](https://medium.com/@amendahunt/zero-click-ato-how-a-single-accent-mark-led-to-account-takeovers-6335a965a448?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 May 2026
+
+- **[Zero-Click ATO: How a Single Accent Mark Led to Account Takeovers](https://medium.com/@amendahunt/zero-click-ato-how-a-single-accent-mark-led-to-account-takeovers-6335a965a448?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 May 2026
 
 - **[No Salt, Weak Security — How a Cookie Design Flaw Led to Account Takeover](https://medium.com/@vamsikandukuru22/no-salt-weak-security-how-a-cookie-design-flaw-led-to-account-takeover-b5616bd4b2eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

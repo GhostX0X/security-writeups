@@ -1,5 +1,8 @@
 ## 📅 05 May 2026
 
+- **[Salesforce ECA Security Compliance for AppExchange ISVs: A Technical Breakdown of the Four OAuth…](https://medium.com/@devamgupta51/salesforce-eca-security-compliance-for-appexchange-isvs-a-technical-breakdown-of-the-four-oauth-b0e60b588b0d?source=rss------security-5)** _(Medium Security)_
+## 📅 05 May 2026
+
 - **[JBoss 6 RCE Exploitation and Privilege Escalation via Misconfigured "sudo find" Command](https://meetcyber.net/jboss-6-rce-exploitation-and-privilege-escalation-via-misconfigured-sudo-find-command-da4048ba4296?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 May 2026
 
