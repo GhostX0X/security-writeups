@@ -1,5 +1,11 @@
 ## 📅 04 May 2026
 
+- **[LFI to RCE: Weaponizing File Uploads with PHP Shells](https://meetcyber.net/lfi-to-rce-weaponizing-file-uploads-with-php-shells-b12edc433415?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 May 2026
+
+- **[LFI to RCE: Log Poisoning via PHP Sessions and Apache Logs](https://meetcyber.net/lfi-to-rce-log-poisoning-via-php-sessions-and-apache-logs-aa4dcf184bb8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 May 2026
+
 - **[The Ethics of Privatized Warfare: Should States Outsource the Use of Force?](https://medium.com/@vionadd/the-ethics-of-privatized-warfare-should-states-outsource-the-use-of-force-2708ca2bf087?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 May 2026
 
