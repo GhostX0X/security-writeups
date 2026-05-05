@@ -1,3 +1,6 @@
+## 📅 05 May 2026
+
+- **[JBoss 6 RCE Exploitation and Privilege Escalation via Misconfigured "sudo find" Command](https://meetcyber.net/jboss-6-rce-exploitation-and-privilege-escalation-via-misconfigured-sudo-find-command-da4048ba4296?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 May 2026
 
 - **[LFI to RCE: Weaponizing File Uploads with PHP Shells](https://meetcyber.net/lfi-to-rce-weaponizing-file-uploads-with-php-shells-b12edc433415?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
