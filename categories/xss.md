@@ -1,3 +1,6 @@
+## 📅 05 May 2026
+
+- **[Escalating Self-XSS with Disk Cache](https://medium.com/@spoderx555/escalating-self-xss-with-disk-cache-1716e420754f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 May 2026
 
 - **[How I Found XSS by Understanding Context](https://medium.com/@Sh3llwolf/how-i-found-xss-by-understanding-context-1cacbafd1f41?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,5 +1,9 @@
 ## 📅 05 May 2026
 
+- **[The Hidden Data Problem in Workforce & Security Operations
+Why Having an App Is Not Enough](https://medium.com/@raiamit640/the-hidden-data-problem-in-workforce-security-operations-why-having-an-app-is-not-enough-e989642aba78?source=rss------security-5)** _(Medium Security)_
+## 📅 05 May 2026
+
 - **[Salesforce ECA Security Compliance for AppExchange ISVs: A Technical Breakdown of the Four OAuth…](https://medium.com/@devamgupta51/salesforce-eca-security-compliance-for-appexchange-isvs-a-technical-breakdown-of-the-four-oauth-b0e60b588b0d?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 May 2026
 

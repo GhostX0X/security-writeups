@@ -1,3 +1,6 @@
+## 📅 05 May 2026
+
+- **[Unauthorized Workspace Deletion via Broken Access Control](https://medium.com/@sagar_kirola-G35638/unauthorized-workspace-deletion-via-broken-access-control-e7fbd4234581?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 May 2026
 
 - **[Mastering Access Control — Where Most Critical Bugs Live (Part 4)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/mastering-access-control-where-most-critical-bugs-live-part-4-10a25014bfe5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 05 May 2026
+
+- **[Part 8 — Automation + Recon (Ghostyjoe Style)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-8-automation-recon-ghostyjoe-style-3a1ad44f3f17?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 May 2026
 
 - **[Building BB-Recon: My Bug Bounty Recon Automation Pipeline | Cyber Tamarin](https://cybertamarin.medium.com/building-bb-recon-my-bug-bounty-recon-automation-pipeline-cyber-tamarin-3b2a34c535c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
