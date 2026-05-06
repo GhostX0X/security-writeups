@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[How I Found My First $250 Stored XSS When I Almost Quit](https://medium.com/@ali.codes1279/how-i-found-my-first-250-stored-xss-when-i-almost-quit-ac03afde2b2d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 May 2026
 
 - **[Escalating Self-XSS with Disk Cache](https://medium.com/@spoderx555/escalating-self-xss-with-disk-cache-1716e420754f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

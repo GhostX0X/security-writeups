@@ -1,5 +1,8 @@
 ## 📅 06 May 2026
 
+- **[IDOR Hunting — Find Broken Authorization](https://medium.com/@cyber-ninjaaa/idor-hunting-find-broken-authorization-a57795ca7e9d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 May 2026
+
 - **[IDOR (Insecure Direct Object Reference): Celah Kecil dengan Dampak Besar](https://medium.com/@gamawskt/idor-insecure-direct-object-reference-celah-kecil-dengan-dampak-besar-512060732e8e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 May 2026
 

@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[BUG-BOUNTY SERIES 10: SQL Injection (SQLi).](https://medium.com/@krisnawhy300/bug-bounty-series-10-sql-injection-sqli-b96b2f14d017?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 May 2026
 
 - **[Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR](https://medium.com/@xelcezeri/chaining-logic-flaws-from-kyc-bypass-to-authenticated-time-based-sqli-and-mass-idor-0425f362dad5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
