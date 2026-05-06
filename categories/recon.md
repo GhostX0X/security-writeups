@@ -1,5 +1,8 @@
 ## 📅 06 May 2026
 
+- **[Stop Wasting the First Hour of Every Bug Bounty Hunt — I Built ReconX to Fix That.](https://medium.com/@krithickcyber/stop-wasting-the-first-hour-of-every-bug-bounty-hunt-i-built-reconx-to-fix-that-ccdce8a09bf2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 May 2026
+
 - **[SendGrid Recon & Hidden Infrastructure Hunting — Real Bug Bounty Workflow](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/sendgrid-recon-hidden-infrastructure-hunting-real-bug-bounty-workflow-2944516a884b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 May 2026
 

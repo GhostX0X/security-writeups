@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[I Found !! Full Account Takeover via OAuth Linking CSRF bugs](https://skysenz.medium.com/i-found-full-account-takeover-via-oauth-linking-csrf-bugs-b5f4c155a456?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 May 2026
 
 - **[Zero-Click ATO: How a Single Accent Mark Led to Account Takeovers](https://medium.com/@amendahunt/zero-click-ato-how-a-single-accent-mark-led-to-account-takeovers-6335a965a448?source=rss------pentesting-5)** _(Medium Pentesting)_

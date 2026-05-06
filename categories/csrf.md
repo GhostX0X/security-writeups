@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[I Found !! Full Account Takeover via OAuth Linking CSRF bugs](https://skysenz.medium.com/i-found-full-account-takeover-via-oauth-linking-csrf-bugs-b5f4c155a456?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 April 2026
 
 - **[Self-XSS + CSRF Leading to Account Takeover (50-Character Payload Limit Challenge)](https://canitey.medium.com/self-xss-csrf-leading-to-account-takeover-50-character-payload-limit-challenge-74f75d0b2c06?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

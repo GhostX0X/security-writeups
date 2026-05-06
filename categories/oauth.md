@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[I Found !! Full Account Takeover via OAuth Linking CSRF bugs](https://skysenz.medium.com/i-found-full-account-takeover-via-oauth-linking-csrf-bugs-b5f4c155a456?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 May 2026
 
 - **[Salesforce ECA Security Compliance for AppExchange ISVs: A Technical Breakdown of the Four OAuth…](https://medium.com/@devamgupta51/salesforce-eca-security-compliance-for-appexchange-isvs-a-technical-breakdown-of-the-four-oauth-b0e60b588b0d?source=rss------security-5)** _(Medium Security)_
