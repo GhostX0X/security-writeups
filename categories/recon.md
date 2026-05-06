@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[SendGrid Recon & Hidden Infrastructure Hunting — Real Bug Bounty Workflow](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/sendgrid-recon-hidden-infrastructure-hunting-real-bug-bounty-workflow-2944516a884b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 May 2026
 
 - **[Part 8 — Automation + Recon (Ghostyjoe Style)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-8-automation-recon-ghostyjoe-style-3a1ad44f3f17?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

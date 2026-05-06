@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[IDOR (Insecure Direct Object Reference): Celah Kecil dengan Dampak Besar](https://medium.com/@gamawskt/idor-insecure-direct-object-reference-celah-kecil-dengan-dampak-besar-512060732e8e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 May 2026
 
 - **[Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
