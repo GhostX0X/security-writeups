@@ -1,5 +1,8 @@
 ## 📅 06 May 2026
 
+- **[The Recon Goldmine Hidden Inside Exposed AI Instruction Files](https://medium.com/@nijina7/the-recon-goldmine-hidden-inside-exposed-ai-instruction-files-888991a63e9f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 May 2026
+
 - **[Stop Wasting the First Hour of Every Bug Bounty Hunt — I Built ReconX to Fix That.](https://medium.com/@krithickcyber/stop-wasting-the-first-hour-of-every-bug-bounty-hunt-i-built-reconx-to-fix-that-ccdce8a09bf2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 May 2026
 

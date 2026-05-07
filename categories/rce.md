@@ -1,3 +1,6 @@
+## 📅 06 May 2026
+
+- **[HTB File Inclusion Skills Assessment — From LFI to RCE (Full Walkthrough)](https://meetcyber.net/htb-file-inclusion-skills-assessment-from-lfi-to-rce-full-walkthrough-b073fd8a185f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 May 2026
 
 - **[The Hidden Data Problem in Workforce & Security Operations
