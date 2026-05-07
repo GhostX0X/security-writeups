@@ -1,3 +1,9 @@
+## 📅 07 May 2026
+
+- **[️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim](https://medium.com/@0xMo7areb/%EF%B8%8Ffull-account-takeover-through-unsafe-google-linking-with-permanent-loss-of-access-for-the-victim-abbfae81538a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 May 2026
+
+- **[️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim](https://medium.com/@0xMo7areb/%EF%B8%8Ffull-account-takeover-through-unsafe-google-linking-with-permanent-loss-of-access-for-the-victim-abbfae81538a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 May 2026
 
 - **[I Found !! Full Account Takeover via OAuth Linking CSRF bugs](https://skysenz.medium.com/i-found-full-account-takeover-via-oauth-linking-csrf-bugs-b5f4c155a456?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

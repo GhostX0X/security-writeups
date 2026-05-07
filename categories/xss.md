@@ -1,3 +1,6 @@
+## 📅 07 May 2026
+
+- **[BUG-BOUNTY SERIES 11: Cross-Site Scripting (XSS).](https://medium.com/@krisnawhy300/bug-bounty-series-11-cross-site-scripting-xss-f157b5303a44?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 May 2026
 
 - **[How I Found My First $250 Stored XSS When I Almost Quit](https://medium.com/@ali.codes1279/how-i-found-my-first-250-stored-xss-when-i-almost-quit-ac03afde2b2d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

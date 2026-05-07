@@ -1,3 +1,6 @@
+## 📅 07 May 2026
+
+- **[Mobile-Based Wireless Access Control: The Future of Workplace Security](https://medium.com/@joven.a.rodrigues/mobile-based-wireless-access-control-the-future-of-workplace-security-2638b341c1fb?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 May 2026
 
 - **[Unauthorized Workspace Deletion via Broken Access Control](https://medium.com/@sagar_kirola-G35638/unauthorized-workspace-deletion-via-broken-access-control-e7fbd4234581?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

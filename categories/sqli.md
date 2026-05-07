@@ -1,3 +1,6 @@
+## 📅 07 May 2026
+
+- **[Prompt Injection Is the SQL Injection of the AI Era, And Most Developers Are Ignoring It](https://medium.com/@garvanand03/prompt-injection-is-the-sql-injection-of-the-ai-era-and-most-developers-are-ignoring-it-28e390cfa4cf?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 May 2026
 
 - **[BUG-BOUNTY SERIES 10: SQL Injection (SQLi).](https://medium.com/@krisnawhy300/bug-bounty-series-10-sql-injection-sqli-b96b2f14d017?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
