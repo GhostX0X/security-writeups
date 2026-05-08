@@ -1,3 +1,6 @@
+## 📅 08 May 2026
+
+- **[Write-Up: BugForge Weekly Challenge — FurHire with SSRF](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-furhire-with-ssrf-896ee437ee3e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 April 2026
 
 - **[Authenticated SSRF and Graph API Authorization Bypass via URL Normalization in a Vendor-Authored…](https://g0w6y.medium.com/authenticated-ssrf-and-graph-api-authorization-bypass-via-url-normalization-in-a-vendor-authored-36ec12710e83?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
