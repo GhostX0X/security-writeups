@@ -1,3 +1,6 @@
+## 📅 08 May 2026
+
+- **[Zero-Day to SYSTEM (RCE): Escaping AWS ECS Containers via OS Command Injection CVE-2026–7461](https://medium.com/@sachinpatilsp/zero-day-to-system-escaping-aws-ecs-containers-via-os-command-injection-cve-2026-7461-3d44f5f367e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 May 2026
 
 - **[HTB File Inclusion Skills Assessment — From LFI to RCE (Full Walkthrough)](https://meetcyber.net/htb-file-inclusion-skills-assessment-from-lfi-to-rce-full-walkthrough-b073fd8a185f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
