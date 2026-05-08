@@ -1,3 +1,6 @@
+## 📅 08 May 2026
+
+- **[Real Hunting & Operator Tactics — What This Series Will Actually Teach You](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/real-hunting-operator-tactics-what-this-series-will-actually-teach-you-6596b56c57a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 May 2026
 
 - **[️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim](https://medium.com/@0xMo7areb/%EF%B8%8Ffull-account-takeover-through-unsafe-google-linking-with-permanent-loss-of-access-for-the-victim-abbfae81538a?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,9 @@
+## 📅 08 May 2026
+
+- **[Broken Access Control / IDOR in Group Invitation Flow](https://medium.com/@elnanayahmed/%D8%AE%D9%84%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-idor-%D9%81%D9%8A-%D8%AA%D8%AF%D9%81%D9%82-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-61c693fec30e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 May 2026
+
+- **[Why the “Manned Guarding vs Automated Access Control” Debate Is Holding Organisations Back](https://medium.com/@Luke_EQRisk/why-the-manned-guarding-vs-automated-access-control-debate-is-holding-organisations-back-89bc41186642?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 May 2026
 
 - **[Mobile-Based Wireless Access Control: The Future of Workplace Security](https://medium.com/@joven.a.rodrigues/mobile-based-wireless-access-control-the-future-of-workplace-security-2638b341c1fb?source=rss------security-5)** _(Medium Security)_
