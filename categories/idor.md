@@ -1,3 +1,9 @@
+## 📅 07 May 2026
+
+- **[A Critical IDOR That Allowed Me to Delete Any User Account](https://medium.com/@mrx_w_/a-critical-idor-that-allowed-me-to-delete-any-user-account-3812722ba0ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 May 2026
+
+- **[خلل في التحكم بالوصول / IDOR في تدفق دعوة المجموعة](https://medium.com/@elnanayahmed/%D8%AE%D9%84%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-idor-%D9%81%D9%8A-%D8%AA%D8%AF%D9%81%D9%82-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-61c693fec30e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 May 2026
 
 - **[IDOR Hunting — Find Broken Authorization](https://medium.com/@cyber-ninjaaa/idor-hunting-find-broken-authorization-a57795ca7e9d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
