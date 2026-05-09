@@ -1,3 +1,6 @@
+## 📅 09 May 2026
+
+- **[From Mempool Reconnaissance to Cross-Chain Laundering: The Anatomy of a $50 Million DeFi Heist](https://medium.com/@varmapbhargav.audit/from-mempool-reconnaissance-to-cross-chain-laundering-the-anatomy-of-a-50-million-defi-heist-f97ece2f5312?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 May 2026
 
 - **[Recon-ng UI with AI Models | Next-Gen Recon Automation](https://medium.com/@pentesterclubpvtltd/recon-ng-ui-with-ai-models-next-gen-recon-automation-3f1c1795c6b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
