@@ -1,3 +1,6 @@
+## 📅 09 May 2026
+
+- **[Guardians of the Horizon: US Air Force F-16s and the 2026 Middle East Posture](https://medium.com/@GoldaMizrahi/guardians-of-the-horizon-us-air-force-f-16s-and-the-2026-middle-east-posture-166c6e3faf1c?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 May 2026
 
 - **[Zero-Day to SYSTEM (RCE): Escaping AWS ECS Containers via OS Command Injection CVE-2026–7461](https://medium.com/@sachinpatilsp/zero-day-to-system-escaping-aws-ecs-containers-via-os-command-injection-cve-2026-7461-3d44f5f367e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

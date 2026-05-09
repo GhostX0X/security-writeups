@@ -1,3 +1,6 @@
+## 📅 09 May 2026
+
+- **[From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 May 2026
 
 - **[BUG-BOUNTY SERIES 12: Cross-Site Request Forgery (CSRF).](https://medium.com/@krisnawhy300/bug-bounty-series-12-cross-site-request-forgery-csrf-8a83896d5824?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

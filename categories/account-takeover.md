@@ -1,5 +1,8 @@
 ## 📅 09 May 2026
 
+- **[From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 May 2026
+
 - **[From Mempool Reconnaissance to Cross-Chain Laundering: The Anatomy of a $50 Million DeFi Heist](https://medium.com/@varmapbhargav.audit/from-mempool-reconnaissance-to-cross-chain-laundering-the-anatomy-of-a-50-million-defi-heist-f97ece2f5312?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 May 2026
 
