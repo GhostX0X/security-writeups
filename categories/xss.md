@@ -1,3 +1,9 @@
+## 📅 09 May 2026
+
+- **[How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 May 2026
+
+- **[Exploiting Insecure Output Handling in LLMs via Indirect Prompt Injection (XSS)](https://infosecwriteups.com/exploiting-insecure-output-handling-in-llms-via-indirect-prompt-injection-xss-7807e198d9fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 May 2026
 
 - **[BUG-BOUNTY SERIES 11: Cross-Site Scripting (XSS).](https://medium.com/@krisnawhy300/bug-bounty-series-11-cross-site-scripting-xss-f157b5303a44?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
