@@ -1,5 +1,8 @@
 ## 📅 10 May 2026
 
+- **[Google XSS game report](https://medium.com/@adelekeismailifeoluwa/google-xss-game-report-2ebba23fed0b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 May 2026
+
 - **[Faster Bug Hunting with XSSassin : Smart Payload Injection for XSS, SQLi & More](https://medium.com/@sismmt09/faster-bug-hunting-with-xssassin-smart-payload-injection-for-xss-sqli-more-d6c44f9ae74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 May 2026
 
