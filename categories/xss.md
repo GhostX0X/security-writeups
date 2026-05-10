@@ -1,3 +1,6 @@
+## 📅 10 May 2026
+
+- **[Faster Bug Hunting with XSSassin : Smart Payload Injection for XSS, SQLi & More](https://medium.com/@sismmt09/faster-bug-hunting-with-xssassin-smart-payload-injection-for-xss-sqli-more-d6c44f9ae74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 May 2026
 
 - **[How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

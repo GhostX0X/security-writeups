@@ -1,3 +1,6 @@
+## 📅 10 May 2026
+
+- **[Faster Bug Hunting with XSSassin : Smart Payload Injection for XSS, SQLi & More](https://medium.com/@sismmt09/faster-bug-hunting-with-xssassin-smart-payload-injection-for-xss-sqli-more-d6c44f9ae74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 May 2026
 
 - **[Prompt Injection Is the SQL Injection of the AI Era, And Most Developers Are Ignoring It](https://medium.com/@garvanand03/prompt-injection-is-the-sql-injection-of-the-ai-era-and-most-developers-are-ignoring-it-28e390cfa4cf?source=rss------security-5)** _(Medium Security)_
