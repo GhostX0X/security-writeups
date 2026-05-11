@@ -1,3 +1,9 @@
+## 📅 10 May 2026
+
+- **[You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 May 2026
+
+- **[Burp Suite Enterprise resource exhaustion via huge request body](https://bereza4321.medium.com/burp-suite-enterprise-resource-exhaustion-via-huge-request-body-c8cf3cf83d58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 May 2026
 
 - **[Cloudflare Bypass via Real IP Leading to Remote Code Execution (RCE)](https://medium.com/@vaishalinagori112/cloudflare-bypass-via-real-ip-leading-to-remote-code-execution-rce-7076015085df?source=rss------pentesting-5)** _(Medium Pentesting)_

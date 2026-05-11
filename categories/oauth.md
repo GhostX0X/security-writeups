@@ -1,3 +1,9 @@
+## 📅 10 May 2026
+
+- **[OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne…](https://medium.com/@diaguilybouna/oauth-token-exchange-identity-delegation-et-ai-agents-pourquoi-aws-agentcore-et-azure-foundry-ne-929104980a72?source=rss------security-5)** _(Medium Security)_
+## 📅 10 May 2026
+
+- **[OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne…](https://medium.com/@diaguilybouna/oauth-token-exchange-identity-delegation-et-ai-agents-pourquoi-aws-agentcore-et-azure-foundry-ne-bcafff70b4d8?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 May 2026
 
 - **[I Found !! Full Account Takeover via OAuth Linking CSRF bugs](https://skysenz.medium.com/i-found-full-account-takeover-via-oauth-linking-csrf-bugs-b5f4c155a456?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
