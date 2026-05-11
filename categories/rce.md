@@ -1,3 +1,6 @@
+## 📅 11 May 2026
+
+- **[Superior E-Commerce Security Solutions | Protect Your Business | Acme Seals](https://medium.com/@michael_83154/superior-e-commerce-security-solutions-protect-your-business-acme-seals-957627c626da?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 May 2026
 
 - **[You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

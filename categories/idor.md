@@ -1,5 +1,8 @@
 ## 📅 11 May 2026
 
+- **[Find IDOR with Zwink course](https://medium.com/@rajanbala39/find-idor-with-zwink-course-6c2fa6109d63?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 May 2026
+
 - **[How I Test APIs Like an Operator — Beyond Basic IDORs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-test-apis-like-an-operator-beyond-basic-idors-3f1fbe021db5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
