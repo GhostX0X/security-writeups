@@ -1,3 +1,12 @@
+## 📅 11 May 2026
+
+- **[How I Test APIs Like an Operator — Beyond Basic IDORs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-test-apis-like-an-operator-beyond-basic-idors-3f1fbe021db5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 May 2026
+
+- **[Fake RTO Challan Checker — Part 2: Cracking the Payload, Mapping the Operator, and Why This Is…](https://medium.com/@singhbkn07/fake-rto-challan-checker-part-2-cracking-the-payload-mapping-the-operator-and-why-this-is-3eb78e512d7f?source=rss------security-5)** _(Medium Security)_
+## 📅 11 May 2026
+
+- **[How I Test APIs Like an Operator — Beyond Basic IDORs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-test-apis-like-an-operator-beyond-basic-idors-3f1fbe021db5?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 May 2026
 
 - **[From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

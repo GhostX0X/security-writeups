@@ -1,3 +1,9 @@
+## 📅 11 May 2026
+
+- **[How I Test APIs Like an Operator — Beyond Basic IDORs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-test-apis-like-an-operator-beyond-basic-idors-3f1fbe021db5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 May 2026
+
+- **[How I Test APIs Like an Operator — Beyond Basic IDORs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-test-apis-like-an-operator-beyond-basic-idors-3f1fbe021db5?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 May 2026
 
 - **[IDOR in Email Preference Management — Unauthenticated Access & Modification](https://medium.com/@dev_fr_/idor-in-email-preference-management-unauthenticated-access-modification-915a5f5c1fff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
