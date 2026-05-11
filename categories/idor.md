@@ -1,5 +1,8 @@
 ## 📅 11 May 2026
 
+- **[Uber Eats BOLA (IDOR) Vulnerability | $2,000 Bounty | Technical Write-up](https://nullsecurityx.medium.com/uber-eats-bola-idor-vulnerability-2-000-bounty-technical-write-up-a73c44f9f18f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 May 2026
+
 - **[Find IDOR with Zwink course](https://medium.com/@rajanbala39/find-idor-with-zwink-course-6c2fa6109d63?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 

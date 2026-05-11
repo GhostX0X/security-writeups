@@ -1,3 +1,6 @@
+## 📅 11 May 2026
+
+- **[Account Takeover via OAuth Code Hijacking on BuzzFeed’s Tasty App: Chaining WebView ,  Deeplinks](https://medium.com/@farouknapil/account-takeover-via-oauth-code-hijacking-on-buzzfeeds-tasty-app-chaining-webview-deeplinks-e2ff9a77b773?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 May 2026
 
 - **[OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne…](https://medium.com/@diaguilybouna/oauth-token-exchange-identity-delegation-et-ai-agents-pourquoi-aws-agentcore-et-azure-foundry-ne-929104980a72?source=rss------security-5)** _(Medium Security)_

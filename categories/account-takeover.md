@@ -1,5 +1,8 @@
 ## 📅 11 May 2026
 
+- **[Account Takeover via OAuth Code Hijacking on BuzzFeed’s Tasty App: Chaining WebView ,  Deeplinks](https://medium.com/@farouknapil/account-takeover-via-oauth-code-hijacking-on-buzzfeeds-tasty-app-chaining-webview-deeplinks-e2ff9a77b773?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 May 2026
+
 - **[How I Test APIs Like an Operator — Beyond Basic IDORs](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/how-i-test-apis-like-an-operator-beyond-basic-idors-3f1fbe021db5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
