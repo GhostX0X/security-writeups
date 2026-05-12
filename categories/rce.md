@@ -1,5 +1,8 @@
 ## 📅 12 May 2026
 
+- **[Explorando Remote Code Execution (RCE) no WordPress](https://medium.com/@_link/explorando-remote-code-execution-rce-no-wordpress-99c1f22b01da?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 May 2026
+
 - **[HackTheBox — StreamIO Writeup |LDAP ,SQL Injection, LFI, PHP RCE, LAPS, BloodHound, PowerView…](https://medium.com/@eyolticdev/hackthebox-streamio-writeup-ldap-sql-injection-lfi-php-rce-laps-bloodhound-powerview-3deea5c8794f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 May 2026
 
