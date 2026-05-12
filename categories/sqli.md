@@ -1,3 +1,6 @@
+## 📅 12 May 2026
+
+- **[HackTheBox — StreamIO Writeup |LDAP ,SQL Injection, LFI, PHP RCE, LAPS, BloodHound, PowerView…](https://medium.com/@eyolticdev/hackthebox-streamio-writeup-ldap-sql-injection-lfi-php-rce-laps-bloodhound-powerview-3deea5c8794f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 10 May 2026
 
 - **[Faster Bug Hunting with XSSassin : Smart Payload Injection for XSS, SQLi & More](https://medium.com/@sismmt09/faster-bug-hunting-with-xssassin-smart-payload-injection-for-xss-sqli-more-d6c44f9ae74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

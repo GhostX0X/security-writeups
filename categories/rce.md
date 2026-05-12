@@ -1,3 +1,9 @@
+## 📅 12 May 2026
+
+- **[HackTheBox — StreamIO Writeup |LDAP ,SQL Injection, LFI, PHP RCE, LAPS, BloodHound, PowerView…](https://medium.com/@eyolticdev/hackthebox-streamio-writeup-ldap-sql-injection-lfi-php-rce-laps-bloodhound-powerview-3deea5c8794f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 May 2026
+
+- **[Have You Ever Accidentally Deleted a Cloud Resource in Production?](https://medium.com/@kalyanraparthi3262/have-you-ever-accidentally-deleted-a-cloud-resource-in-production-af012ab6153a?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 May 2026
 
 - **[Superior E-Commerce Security Solutions | Protect Your Business | Acme Seals](https://medium.com/@michael_83154/superior-e-commerce-security-solutions-protect-your-business-acme-seals-957627c626da?source=rss------security-5)** _(Medium Security)_
