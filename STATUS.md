@@ -1,7 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-05-13 08:33:08.882849 UTC
+Last updated: 2026-05-13 14:05:47.586674 UTC
 
 - rce: 3
-- broken-access-control: 1
-- sqli: 2
+- broken-access-control: 2
+- sqli: 1

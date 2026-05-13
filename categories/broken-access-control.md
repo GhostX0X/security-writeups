@@ -1,5 +1,8 @@
 ## 📅 13 May 2026
 
+- **[Broken Access Control: How a Single Parameter Allowed Unauthorized Cloud Account Creation and…](https://medium.com/@theankitsaini16/broken-access-control-how-a-single-parameter-allowed-unauthorized-cloud-account-creation-and-c346696c8379?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 May 2026
+
 - **[PortSwigger Lab -Broken Access Control (URL-based access control can be circumvented) Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-url-based-access-control-can-be-circumvented-writeup-6920a23aafa1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
