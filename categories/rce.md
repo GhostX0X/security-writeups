@@ -1,5 +1,8 @@
 ## 📅 13 May 2026
 
+- **[Protegendo Senhas de Datasources com Elytron Credential Store no JBoss EAP / WildFly](https://medium.com/@darioajr/protegendo-senhas-de-datasources-com-elytron-credential-store-no-jboss-eap-wildfly-18bd0f1e8ec1?source=rss------security-5)** _(Medium Security)_
+## 📅 13 May 2026
+
 - **[Engineering and security approaches used in open-source PostgreSQL backup tool Databasus](https://medium.com/@x0goe/engineering-and-security-approaches-used-in-open-source-postgresql-backup-tool-databasus-064e3aa5b817?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 May 2026
 
