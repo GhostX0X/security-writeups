@@ -1,5 +1,8 @@
 ## 📅 12 May 2026
 
+- **[When Open Source Turns Against You: The TanStack npm Supply Chain Attack Explained](https://medium.com/@mluqman1500/when-open-source-turns-against-you-the-tanstack-npm-supply-chain-attack-explained-ae56911fc98d?source=rss------security-5)** _(Medium Security)_
+## 📅 12 May 2026
+
 - **[Explorando Remote Code Execution (RCE) no WordPress](https://medium.com/@_link/explorando-remote-code-execution-rce-no-wordpress-99c1f22b01da?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 May 2026
 

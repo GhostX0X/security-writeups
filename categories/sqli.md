@@ -1,3 +1,6 @@
+## 📅 13 May 2026
+
+- **[NoSQL Injection Guide: Fundamentals, Types, Exploitation, and Mitigation](https://medium.com/@jpablo13/nosql-injection-guide-fundamentals-types-exploitation-and-mitigation-dfe32baa4912?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 May 2026
 
 - **[HackTheBox — StreamIO Writeup |LDAP ,SQL Injection, LFI, PHP RCE, LAPS, BloodHound, PowerView…](https://medium.com/@eyolticdev/hackthebox-streamio-writeup-ldap-sql-injection-lfi-php-rce-laps-bloodhound-powerview-3deea5c8794f?source=rss------pentesting-5)** _(Medium Pentesting)_
