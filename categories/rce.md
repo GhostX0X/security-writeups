@@ -1,3 +1,6 @@
+## 📅 13 May 2026
+
+- **[How to Protect Your WooCommerce Store from Brute-Force Attacks (Complete Guide)](https://medium.com/@nvgandhi123/how-to-protect-your-woocommerce-store-from-brute-force-attacks-complete-guide-d3427d5e77b3?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 May 2026
 
 - **[When Open Source Turns Against You: The TanStack npm Supply Chain Attack Explained](https://medium.com/@mluqman1500/when-open-source-turns-against-you-the-tanstack-npm-supply-chain-attack-explained-ae56911fc98d?source=rss------security-5)** _(Medium Security)_

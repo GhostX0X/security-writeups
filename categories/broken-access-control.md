@@ -1,3 +1,6 @@
+## 📅 13 May 2026
+
+- **[PortSwigger Lab -Broken Access Control (URL-based access control can be circumvented) Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-url-based-access-control-can-be-circumvented-writeup-6920a23aafa1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
 - **[How I Found Unlimited Account Creation Vulnerability Due to Improper Access Control](https://medium.com/@iamshafayat/how-i-found-unlimited-account-creation-vulnerability-due-to-improper-access-control-96ed33839a1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
