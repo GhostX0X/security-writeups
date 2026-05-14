@@ -1,3 +1,15 @@
+## 📅 14 May 2026
+
+- **[Chaining Bugs: From Unauthenticated PII Disclosure to Mass Account Takeover in a Major E-Commerce…](https://medium.com/@mohmmedalariki2014/chaining-bugs-from-unauthenticated-pii-disclosure-to-mass-account-takeover-in-a-major-e-commerce-819f88dbcfa0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 May 2026
+
+- **[*$$$$ How I Turned a ‘Low Severity’ Reflected XSS into Full Admin Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
+- **[Chaining Bugs: From Unauthenticated PII Disclosure to Mass Account Takeover in a Major E-Commerce…](https://medium.com/@mohmmedalariki2014/chaining-bugs-from-unauthenticated-pii-disclosure-to-mass-account-takeover-in-a-major-e-commerce-819f88dbcfa0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
+- **[I Deleted Devise and Rebuilt Auth With the Rails 8 Generator. Here Is Exactly What I Lost.](https://medium.com/write-a-catalyst/i-deleted-devise-and-rebuilt-auth-with-the-rails-8-generator-here-is-exactly-what-i-lost-11cbe8c711bb?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 May 2026
 
 - **[Identify Mobile Number Online — Check State, Operator & Current Location in India](https://medium.com/@mobile-number-tracker/identify-mobile-number-online-check-state-operator-current-location-in-india-9bf2a606390b?source=rss------security-5)** _(Medium Security)_

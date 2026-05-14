@@ -1,5 +1,11 @@
 ## 📅 14 May 2026
 
+- **[*$$$$ How I Turned a ‘Low Severity’ Reflected XSS into Full Admin Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
+- **[XSS Nedir ve Neden Hâlâ Tehlikeli? | Bir Siber Güvenlik Öğrencisinin Notları](https://medium.com/@yusufbarut210/xss-nedir-ve-neden-h%C3%A2l%C3%A2-tehlikeli-bir-siber-g%C3%BCvenlik-%C3%B6%C4%9Frencisinin-notlar%C4%B1-0c9a89b3ad14?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
 - **[The Story of 45+ Stored XSS Bugs](https://he4am.medium.com/the-story-of-45-stored-xss-bugs-cb6585d0d1a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 

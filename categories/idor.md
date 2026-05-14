@@ -1,5 +1,8 @@
 ## 📅 14 May 2026
 
+- **[How Misconfigured S3 Buckets and IDOR Exposed Premium Books](https://medium.com/@0xMo7areb/how-misconfigured-s3-buckets-and-idor-exposed-premium-books-ff176ecdddb7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
 - **[BUG-BOUNTY SERIES 13: IDOR (Insecure Direct Object Reference).](https://medium.com/@krisnawhy300/bug-bounty-series-13-idor-insecure-direct-object-reference-8b2e01733b9c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
