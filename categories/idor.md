@@ -1,3 +1,6 @@
+## 📅 14 May 2026
+
+- **[BUG-BOUNTY SERIES 13: IDOR (Insecure Direct Object Reference).](https://medium.com/@krisnawhy300/bug-bounty-series-13-idor-insecure-direct-object-reference-8b2e01733b9c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
 - **[Uber Eats BOLA (IDOR) Vulnerability | $2,000 Bounty | Technical Write-up](https://nullsecurityx.medium.com/uber-eats-bola-idor-vulnerability-2-000-bounty-technical-write-up-a73c44f9f18f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

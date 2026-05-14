@@ -1,3 +1,6 @@
+## 📅 14 May 2026
+
+- **[How Hackers Actually Earn Passive Income With Recon](https://infosecwriteups.com/how-hackers-actually-earn-passive-income-with-recon-c77c2a74975f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 May 2026
 
 - **[I Built a Recon Tool That Runs While I Sleep. Meet Wraith.](https://osintteam.blog/i-built-a-recon-tool-that-runs-while-i-sleep-meet-wraith-5707af535bef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

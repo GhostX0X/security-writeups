@@ -1,3 +1,6 @@
+## 📅 14 May 2026
+
+- **[IronCorp — DNS Zone Transfer → SSRF → Command Injection → SYSTEM | TryHackMe](https://infosecwriteups.com/ironcorp-dns-zone-transfer-ssrf-command-injection-system-tryhackme-5187b0987b2f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 May 2026
 
 - **[Write-Up: BugForge Weekly Challenge — FurHire with SSRF](https://medium.com/@teammyinside/write-up-bugforge-weekly-challenge-furhire-with-ssrf-896ee437ee3e?source=rss------pentesting-5)** _(Medium Pentesting)_

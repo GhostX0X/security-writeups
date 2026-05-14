@@ -1,5 +1,8 @@
 ## 📅 14 May 2026
 
+- **[OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne…](https://medium.com/@diaguilybouna/oauth-token-exchange-identity-delegation-et-ai-agents-pourquoi-aws-agentcore-et-azure-foundry-ne-502cf4594231?source=rss------security-5)** _(Medium Security)_
+## 📅 14 May 2026
+
 - **[JWT, OAuth, and Every Auth Method You’ll Meet in Web App Testing—Explained Simply](https://osintteam.blog/jwt-oauth-and-every-auth-method-youll-meet-in-web-app-testing-explained-simply-3b5555f9ae65?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
