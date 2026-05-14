@@ -1,8 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-05-14 02:10:17.055326 UTC
+Last updated: 2026-05-14 08:26:49.560308 UTC
 
+- rce: 2
 - xss: 2
 - oauth: 1
-- sqli: 2
-- rce: 2
+- sqli: 1

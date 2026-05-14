@@ -1,3 +1,6 @@
+## 📅 14 May 2026
+
+- **[XAlgorix | Open-Source AI Agent for Penetration Testing](https://medium.com/@pentesterclubpvtltd/xalgorix-open-source-ai-agent-for-penetration-testing-78238a32fde5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 May 2026
 
 - **[Protegendo Senhas de Datasources com Elytron Credential Store no JBoss EAP / WildFly](https://medium.com/@darioajr/protegendo-senhas-de-datasources-com-elytron-credential-store-no-jboss-eap-wildfly-18bd0f1e8ec1?source=rss------security-5)** _(Medium Security)_
