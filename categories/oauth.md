@@ -1,3 +1,6 @@
+## 📅 14 May 2026
+
+- **[JWT, OAuth, and Every Auth Method You’ll Meet in Web App Testing—Explained Simply](https://osintteam.blog/jwt-oauth-and-every-auth-method-youll-meet-in-web-app-testing-explained-simply-3b5555f9ae65?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 May 2026
 
 - **[Account Takeover via OAuth Code Hijacking on BuzzFeed’s Tasty App: Chaining WebView ,  Deeplinks](https://medium.com/@farouknapil/account-takeover-via-oauth-code-hijacking-on-buzzfeeds-tasty-app-chaining-webview-deeplinks-e2ff9a77b773?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 13 May 2026
 
+- **[1,000,000 WordPress Sites Affected by Arbitrary File Read and SQL Injection Vulnerabilities in…](https://wordfence.medium.com/1-000-000-wordpress-sites-affected-by-arbitrary-file-read-and-sql-injection-vulnerabilities-in-9e93f9767569?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 May 2026
+
 - **[NoSQL Injection Guide: Fundamentals, Types, Exploitation, and Mitigation](https://medium.com/@jpablo13/nosql-injection-guide-fundamentals-types-exploitation-and-mitigation-dfe32baa4912?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 May 2026
 

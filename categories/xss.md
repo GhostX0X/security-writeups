@@ -1,3 +1,9 @@
+## 📅 14 May 2026
+
+- **[The Story of 45+ Stored XSS Bugs](https://he4am.medium.com/the-story-of-45-stored-xss-bugs-cb6585d0d1a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
+- **[XSS to Database Exfiltration](https://he4am.medium.com/xss-to-database-exfiltration-44b6bc14e9bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 May 2026
 
 - **[Google XSS game report](https://medium.com/@adelekeismailifeoluwa/google-xss-game-report-2ebba23fed0b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
