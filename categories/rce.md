@@ -1,5 +1,8 @@
 ## 📅 15 May 2026
 
+- **[When Billionaires Board Air Force One](https://medium.com/@mdvrobert101/when-billionaires-board-air-force-one-034dbcb68ea1?source=rss------security-5)** _(Medium Security)_
+## 📅 15 May 2026
+
 - **[Strix | Open-Source AI for Finding App Vulnerabilities](https://medium.com/@pentesterclubpvtltd/strix-open-source-ai-for-finding-app-vulnerabilities-49ea60b55428?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 

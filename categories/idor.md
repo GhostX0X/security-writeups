@@ -1,3 +1,6 @@
+## 📅 15 May 2026
+
+- **[$900 IDOR: Unauthorized Access to Form Attachments via Direct API](https://medium.com/@a13h1/900-idor-unauthorized-access-to-form-attachments-via-direct-api-2eb6fed81030?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 
 - **[How Misconfigured S3 Buckets and IDOR Exposed Premium Books](https://medium.com/@0xMo7areb/how-misconfigured-s3-buckets-and-idor-exposed-premium-books-ff176ecdddb7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
