@@ -1,5 +1,8 @@
 ## 📅 14 May 2026
 
+- **[How I Found SSRF and CORS Misconfigurations in a Modern Web App](https://medium.com/@ibrahimayobamiolaniyi/how-i-found-ssrf-and-cors-misconfigurations-in-a-modern-web-app-7ef44c3391d5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 May 2026
+
 - **[IronCorp — DNS Zone Transfer → SSRF → Command Injection → SYSTEM | TryHackMe](https://infosecwriteups.com/ironcorp-dns-zone-transfer-ssrf-command-injection-system-tryhackme-5187b0987b2f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 May 2026
 
