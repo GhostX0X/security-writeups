@@ -1,3 +1,6 @@
+## 📅 15 May 2026
+
+- **[Strix | Open-Source AI for Finding App Vulnerabilities](https://medium.com/@pentesterclubpvtltd/strix-open-source-ai-for-finding-app-vulnerabilities-49ea60b55428?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 
 - **[Chaining Bugs: From Unauthenticated PII Disclosure to Mass Account Takeover in a Major E-Commerce…](https://medium.com/@mohmmedalariki2014/chaining-bugs-from-unauthenticated-pii-disclosure-to-mass-account-takeover-in-a-major-e-commerce-819f88dbcfa0?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,9 @@
+## 📅 15 May 2026
+
+- **[⚡ Recon → Exploit Pipeline — How I Turn Raw Recon Into Real Findings](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/recon-exploit-pipeline-how-i-turn-raw-recon-into-real-findings-b416615bc4e6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 May 2026
+
+- **[⚡ Recon → Exploit Pipeline — How I Turn Raw Recon Into Real Findings](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/recon-exploit-pipeline-how-i-turn-raw-recon-into-real-findings-b416615bc4e6?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 May 2026
 
 - **[How Hackers Actually Earn Passive Income With Recon](https://infosecwriteups.com/how-hackers-actually-earn-passive-income-with-recon-c77c2a74975f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
