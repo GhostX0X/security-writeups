@@ -1,3 +1,9 @@
+## 📅 16 May 2026
+
+- **[Escalating Self-Stored XSS to Complete Admin ATO](https://mugh33ra.medium.com/escalating-self-stored-xss-to-complete-admin-ato-7a7c98b324fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 May 2026
+
+- **[Escalating Self-Stored XSS to Complete Admin ATO](https://mugh33ra.medium.com/escalating-self-stored-xss-to-complete-admin-ato-7a7c98b324fe?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 May 2026
 
 - **[XSS Discovery: How Hackers Actually Find Cross-Site Scripting Vulnerabilities](https://medium.com/@mertbaykal/xss-discovery-how-hackers-actually-find-cross-site-scripting-vulnerabilities-48a2577ecf6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

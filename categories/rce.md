@@ -1,3 +1,6 @@
+## 📅 16 May 2026
+
+- **[Agent Constitution: Policy Enforcement and PII Protection for AI Agents](https://medium.com/@neelopphersyed7/agent-constitution-policy-enforcement-and-pii-protection-for-ai-agents-28d25fa46d4e?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 May 2026
 
 - **[When Billionaires Board Air Force One](https://medium.com/@mdvrobert101/when-billionaires-board-air-force-one-034dbcb68ea1?source=rss------security-5)** _(Medium Security)_

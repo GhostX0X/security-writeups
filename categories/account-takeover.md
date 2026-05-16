@@ -1,3 +1,9 @@
+## 📅 16 May 2026
+
+- **[Escalating Self-Stored XSS to Complete Admin ATO](https://mugh33ra.medium.com/escalating-self-stored-xss-to-complete-admin-ato-7a7c98b324fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 May 2026
+
+- **[Escalating Self-Stored XSS to Complete Admin ATO](https://mugh33ra.medium.com/escalating-self-stored-xss-to-complete-admin-ato-7a7c98b324fe?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 May 2026
 
 - **[How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack](https://blog.blockmagnates.com/how-a-single-javascript-file-bypassed-a-1-5b-multi-sig-anatomy-of-the-bybit-hack-490653dbcb73?source=rss------security-5)** _(Medium Security)_
