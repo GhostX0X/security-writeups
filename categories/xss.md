@@ -1,3 +1,6 @@
+## 📅 15 May 2026
+
+- **[XSS Discovery: How Hackers Actually Find Cross-Site Scripting Vulnerabilities](https://medium.com/@mertbaykal/xss-discovery-how-hackers-actually-find-cross-site-scripting-vulnerabilities-48a2577ecf6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 
 - **[*$$$$ How I Turned a ‘Low Severity’ Reflected XSS into Full Admin Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

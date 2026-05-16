@@ -1,3 +1,6 @@
+## 📅 15 May 2026
+
+- **[How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack](https://blog.blockmagnates.com/how-a-single-javascript-file-bypassed-a-1-5b-multi-sig-anatomy-of-the-bybit-hack-490653dbcb73?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 May 2026
 
 - **[Chaining Bugs: From Unauthenticated PII Disclosure to Mass Account Takeover in a Major E-Commerce…](https://medium.com/@mohmmedalariki2014/chaining-bugs-from-unauthenticated-pii-disclosure-to-mass-account-takeover-in-a-major-e-commerce-819f88dbcfa0?source=rss------pentesting-5)** _(Medium Pentesting)_
