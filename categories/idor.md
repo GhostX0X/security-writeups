@@ -1,3 +1,6 @@
+## 📅 17 May 2026
+
+- **[IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers](https://medium.com/@abdulhaqkhokhar/idor-vulnerabilities-in-delivery-platform-affecting-5-4m-drivers-ca4c8790493b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 May 2026
 
 - **[$900 IDOR: Unauthorized Access to Form Attachments via Direct API](https://medium.com/@a13h1/900-idor-unauthorized-access-to-form-attachments-via-direct-api-2eb6fed81030?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
