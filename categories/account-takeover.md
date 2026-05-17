@@ -1,3 +1,6 @@
+## 📅 17 May 2026
+
+- **[How a Random Number Generator in Mullvad Can Fingerprint You Online](https://medium.com/@xcxwcqctcb/how-a-random-number-generator-in-mullvad-can-fingerprint-you-online-bc10e23c67c9?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 May 2026
 
 - **[Escalating Self-Stored XSS to Complete Admin ATO](https://mugh33ra.medium.com/escalating-self-stored-xss-to-complete-admin-ato-7a7c98b324fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 17 May 2026
+
+- **[How a Simple Self XSS Became Stored XSS](https://scriptjacker.medium.com/how-a-simple-self-xss-became-stored-xss-307d30281a66?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 May 2026
 
 - **[Escalating Self-Stored XSS to Complete Admin ATO](https://mugh33ra.medium.com/escalating-self-stored-xss-to-complete-admin-ato-7a7c98b324fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
