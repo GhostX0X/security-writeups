@@ -1,3 +1,6 @@
+## 📅 17 May 2026
+
+- **[Learning SQL Injection: My First 3 PortSwigger Labs Walkthrough](https://medium.com/@umair-khan/learning-sql-injection-my-first-3-portswigger-labs-walkthrough-6f238e3404ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 May 2026
 
 - **[1,000,000 WordPress Sites Affected by Arbitrary File Read and SQL Injection Vulnerabilities in…](https://wordfence.medium.com/1-000-000-wordpress-sites-affected-by-arbitrary-file-read-and-sql-injection-vulnerabilities-in-9e93f9767569?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
