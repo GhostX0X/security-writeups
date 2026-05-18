@@ -1,3 +1,6 @@
+## 📅 18 May 2026
+
+- **[Copy Fail: The Linux Kernel Vulnerability That Forced Me to Upgrade Kubernetes Clusters](https://msalinas92.medium.com/copy-fail-the-linux-kernel-vulnerability-that-forced-me-to-upgrade-kubernetes-clusters-b7cb61fd47a2?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 May 2026
 
 - **[How I Passed the CompTIA Security+ (SY0–701) on My First Try: My Journey and Resources](https://medium.com/@0x1F9/how-i-passed-the-comptia-security-sy0-701-on-my-first-try-my-journey-and-resources-ec55523312b8?source=rss------security-5)** _(Medium Security)_

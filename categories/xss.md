@@ -1,3 +1,12 @@
+## 📅 18 May 2026
+
+- **[XSS — Cross-Site Scripting](https://medium.com/@The4v1/xss-cross-site-scripting-94e974e368b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 May 2026
+
+- **[️‍♂️ BLIND XSS ( BXSS )](https://medium.com/@The4v1/%EF%B8%8F-%EF%B8%8F-blind-xss-bxss-7cc73c84d08e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 May 2026
+
+- **[⚙️ 01. — Reflected XSS into HTML context with nothing encoded](https://medium.com/@The4v1/%EF%B8%8F-01-reflected-xss-into-html-context-with-nothing-encoded-796b35d2e5d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 
 - **[How a Simple Self XSS Became Stored XSS](https://scriptjacker.medium.com/how-a-simple-self-xss-became-stored-xss-307d30281a66?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
