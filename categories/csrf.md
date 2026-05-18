@@ -1,3 +1,6 @@
+## 📅 17 May 2026
+
+- **[The OAuth Integration Debt: Why Your Social Login Is a CSRF Risk](https://systemweakness.com/the-oauth-integration-debt-why-your-social-login-is-a-csrf-risk-c2008099c05e?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 May 2026
 
 - **[From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 17 May 2026
 
+- **[Entendendo o SQL Injection desde a raiz: o que toda aplicação web ainda esquece sobre SQL](https://medium.com/@moprius/entendendo-o-sql-injection-desde-a-raiz-o-que-toda-aplica%C3%A7%C3%A3o-web-ainda-esquece-sobre-sql-f2ceeba97187?source=rss------security-5)** _(Medium Security)_
+## 📅 17 May 2026
+
 - **[Learning SQL Injection: My First 3 PortSwigger Labs Walkthrough](https://medium.com/@umair-khan/learning-sql-injection-my-first-3-portswigger-labs-walkthrough-6f238e3404ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 May 2026
 

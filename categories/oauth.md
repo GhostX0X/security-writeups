@@ -1,3 +1,6 @@
+## 📅 17 May 2026
+
+- **[The OAuth Integration Debt: Why Your Social Login Is a CSRF Risk](https://systemweakness.com/the-oauth-integration-debt-why-your-social-login-is-a-csrf-risk-c2008099c05e?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 May 2026
 
 - **[OAuth Token Exchange, Identity Delegation et AI Agents : pourquoi AWS AgentCore et Azure Foundry ne…](https://medium.com/@diaguilybouna/oauth-token-exchange-identity-delegation-et-ai-agents-pourquoi-aws-agentcore-et-azure-foundry-ne-502cf4594231?source=rss------security-5)** _(Medium Security)_
