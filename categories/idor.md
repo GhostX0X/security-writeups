@@ -1,3 +1,6 @@
+## 📅 18 May 2026
+
+- **[How I Could Delete Any Account via a Critical IDOR/BOLA Flaw and get $$$](https://medium.com/@Knox99/how-i-could-delete-any-account-via-a-critical-idor-bola-flaw-and-get-2540428556fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 
 - **[IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers](https://medium.com/@abdulhaqkhokhar/idor-vulnerabilities-in-delivery-platform-affecting-5-4m-drivers-ca4c8790493b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

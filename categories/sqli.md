@@ -1,3 +1,9 @@
+## 📅 18 May 2026
+
+- **[SQL & NoSQL Injection in APIs-The Vulnerability That Still Puts YOUR Data at Risk](https://infosecwriteups.com/sql-nosql-injection-in-apis-the-vulnerability-that-still-puts-your-data-at-risk-98ed14eebd23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 May 2026
+
+- **[SQL Injection in Numeric Parameter(int) without common special characters](https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 
 - **[Entendendo o SQL Injection desde a raiz: o que toda aplicação web ainda esquece sobre SQL](https://medium.com/@moprius/entendendo-o-sql-injection-desde-a-raiz-o-que-toda-aplica%C3%A7%C3%A3o-web-ainda-esquece-sobre-sql-f2ceeba97187?source=rss------security-5)** _(Medium Security)_
