@@ -1,5 +1,8 @@
 ## 📅 18 May 2026
 
+- **[Servidor de jogos — TryHackMe](https://medium.com/@devandcyber/gamingserver-tryhackme-637b028103b2?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 May 2026
+
 - **[How I Could Delete Any Account via a Critical IDOR/BOLA Flaw and get $$$](https://medium.com/@Knox99/how-i-could-delete-any-account-via-a-critical-idor-bola-flaw-and-get-2540428556fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 

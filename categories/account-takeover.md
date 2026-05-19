@@ -1,3 +1,6 @@
+## 📅 18 May 2026
+
+- **[Account Takeover via OTP Bypass Through Response Manipulation — A Real-World Bug Finding](https://medium.com/@tanjimul_islam/account-takeover-via-otp-bypass-through-response-manipulation-a-real-world-bug-finding-d79cf9ff8ca5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 
 - **[How a Random Number Generator in Mullvad Can Fingerprint You Online](https://medium.com/@xcxwcqctcb/how-a-random-number-generator-in-mullvad-can-fingerprint-you-online-bc10e23c67c9?source=rss------security-5)** _(Medium Security)_
