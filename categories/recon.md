@@ -1,3 +1,6 @@
+## 📅 19 May 2026
+
+- **[7 Recon Tricks That Paid Me Bounties](https://medium.com/@cyber-ninjaaa/7-recon-tricks-that-paid-me-bounties-a3279b0390af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 May 2026
 
 - **[ReconX Automation | Save Hours on Bug Bounty Recon](https://medium.com/@pentesterclubpvtltd/reconx-automation-save-hours-on-bug-bounty-recon-5bde55aef0fb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
