@@ -1,5 +1,8 @@
 ## 📅 19 May 2026
 
+- **[20 JavaScript Recon Tricks to Find Hidden APIs, Secrets, Admin Routes, and Bug Bounty Targets](https://medium.com/@bughuntersjournal/20-javascript-recon-tricks-to-find-hidden-apis-secrets-admin-routes-and-bug-bounty-targets-8a8d0eee64a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 May 2026
+
 - **[7 Recon Tricks That Paid Me Bounties](https://medium.com/@cyber-ninjaaa/7-recon-tricks-that-paid-me-bounties-a3279b0390af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 May 2026
 

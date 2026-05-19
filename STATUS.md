@@ -1,7 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-05-19 14:35:38.230883 UTC
+Last updated: 2026-05-19 19:42:30.256880 UTC
 
 - recon: 1
-- xss: 1
 - idor: 1
