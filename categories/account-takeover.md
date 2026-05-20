@@ -1,3 +1,9 @@
+## 📅 20 May 2026
+
+- **[How I Bypassed OTP Verification on Quick Heal — Account Takeover Without Valid OTP [RESOLVED]](https://pradyumntiwarenexus.medium.com/how-i-bypassed-otp-verification-on-quick-heal-account-takeover-without-valid-otp-resolved-c7a56177191d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 May 2026
+
+- **[How I Discovered Account Takeover (ATO) via XSS and Open redirect](https://jeetpal2007.medium.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 May 2026
 
 - **[Account Takeover via OTP Bypass Through Response Manipulation — A Real-World Bug Finding](https://medium.com/@tanjimul_islam/account-takeover-via-otp-bypass-through-response-manipulation-a-real-world-bug-finding-d79cf9ff8ca5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

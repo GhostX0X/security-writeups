@@ -1,3 +1,6 @@
+## 📅 20 May 2026
+
+- **[How I Discovered Account Takeover (ATO) via XSS and Open redirect](https://jeetpal2007.medium.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 May 2026
 
 - **[The XSS Escalation Playbook: From Basic Reflection to DOM Breakouts](https://medium.com/@ravsau00/the-xss-escalation-playbook-from-basic-reflection-to-dom-breakouts-551cd2b8d479?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
