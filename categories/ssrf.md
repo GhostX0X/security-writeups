@@ -1,3 +1,6 @@
+## 📅 20 May 2026
+
+- **[SSRF NEDİR, NASIL ÇALIŞIR?](https://medium.com/@YavuzSO/ssrf-nedi%CC%87r-nasil-%C3%A7ali%C5%9Fir-4561038d9b56?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 
 - **[How I Found SSRF and CORS Misconfigurations in a Modern Web App](https://medium.com/@ibrahimayobamiolaniyi/how-i-found-ssrf-and-cors-misconfigurations-in-a-modern-web-app-7ef44c3391d5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

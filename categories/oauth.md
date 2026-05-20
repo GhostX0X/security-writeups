@@ -1,3 +1,9 @@
+## 📅 19 May 2026
+
+- **[Breaking OAuth Trust: An Analysis of CVE-2026–45430 in Backdrop CMS](https://medium.com/@me5476793/breaking-oauth-trust-an-analysis-of-cve-2026-45430-in-backdrop-cms-67192dd3d9ab?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 May 2026
+
+- **[Breaking OAuth Trust: An Analysis of CVE-2026–45430 in Backdrop CMS](https://medium.com/@me5476793/breaking-oauth-trust-an-analysis-of-cve-2026-45430-in-backdrop-cms-67192dd3d9ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 
 - **[The OAuth Integration Debt: Why Your Social Login Is a CSRF Risk](https://systemweakness.com/the-oauth-integration-debt-why-your-social-login-is-a-csrf-risk-c2008099c05e?source=rss------security-5)** _(Medium Security)_
