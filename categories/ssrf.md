@@ -1,5 +1,11 @@
 ## 📅 20 May 2026
 
+- **[Bypassing Network Boundaries: Achieving Blind SSRF to Cloud Instance Compromise via Webhook…](https://medium.com/@azzam6954/bypassing-network-boundaries-achieving-blind-ssrf-to-cloud-instance-compromise-via-webhook-bbe2fccd64e5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 May 2026
+
+- **[“Bug Bounty Bootcamp #38: SSRF Chaining — Bypassing Domain Whitelists with Open Redirects and PDF…](https://infosecwriteups.com/bug-bounty-bootcamp-38-ssrf-chaining-bypassing-domain-whitelists-with-open-redirects-and-pdf-8c344246a1c7?source=rss------security-5)** _(Medium Security)_
+## 📅 20 May 2026
+
 - **[SSRF NEDİR, NASIL ÇALIŞIR?](https://medium.com/@YavuzSO/ssrf-nedi%CC%87r-nasil-%C3%A7ali%C5%9Fir-4561038d9b56?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 May 2026
 

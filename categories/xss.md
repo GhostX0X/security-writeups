@@ -1,5 +1,11 @@
 ## 📅 20 May 2026
 
+- **[⚙️ 02. — Stored XSS into HTML context with nothing encoded](https://medium.com/@The4v1/%EF%B8%8F-02-stored-xss-into-html-context-with-nothing-encoded-9de9f029cd03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 May 2026
+
+- **[Stored XSS via Markdown URL Attribute Injection — How I Earned a €450 Bug Bounty](https://medium.com/@angry.althaf/stored-xss-via-markdown-url-attribute-injection-how-i-earned-a-450-bug-bounty-48c40ae644ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 May 2026
+
 - **[How I Discovered Account Takeover (ATO) via XSS and Open redirect](https://jeetpal2007.medium.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 May 2026
 

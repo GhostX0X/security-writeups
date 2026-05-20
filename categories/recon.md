@@ -1,3 +1,6 @@
+## 📅 20 May 2026
+
+- **[Recon Isn’t Just Technical — It’s Psychological](https://infosecwriteups.com/recon-isnt-just-technical-it-s-psychological-0bc51a58487b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 May 2026
 
 - **[20 JavaScript Recon Tricks to Find Hidden APIs, Secrets, Admin Routes, and Bug Bounty Targets](https://medium.com/@bughuntersjournal/20-javascript-recon-tricks-to-find-hidden-apis-secrets-admin-routes-and-bug-bounty-targets-8a8d0eee64a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 20 May 2026
 
+- **[Password Reset Tokens in URLs: A Small Mistake That Can Lead to Account Takeover](https://medium.com/@abdulshakoor.seo.consultant/password-reset-tokens-in-urls-a-small-mistake-that-can-lead-to-account-takeover-cf18a94418cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 May 2026
+
 - **[How I Bypassed OTP Verification on Quick Heal — Account Takeover Without Valid OTP [RESOLVED]](https://pradyumntiwarenexus.medium.com/how-i-bypassed-otp-verification-on-quick-heal-account-takeover-without-valid-otp-resolved-c7a56177191d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 May 2026
 
