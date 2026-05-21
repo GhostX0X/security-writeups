@@ -1,5 +1,8 @@
 ## 📅 21 May 2026
 
+- **[Agentic AI Security: Cutting Through the Hype (And Free Resources to Actually Learn It)](https://medium.com/write-a-catalyst/agentic-ai-security-cutting-through-the-hype-and-free-resources-to-actually-learn-it-29d1edd460d2?source=rss------security-5)** _(Medium Security)_
+## 📅 21 May 2026
+
 - **[Bypassing Early-Stage Android Native Integrity Gates Through Runtime Load Interception](https://medium.com/@babakhanihirad/bypassing-early-stage-android-native-integrity-gates-through-runtime-load-interception-deb3c8cc2072?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 May 2026
 

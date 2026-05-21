@@ -1,3 +1,6 @@
+## 📅 21 May 2026
+
+- **[From Removed Admin to Full Workspace Takeover — A Broken Access Control Story](https://medium.com/@montaser_mohsen/from-removed-admin-to-full-workspace-takeover-a-broken-access-control-story-4275640d5d29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 May 2026
 
 - **[Broken Access Control: How a Single Parameter Allowed Unauthorized Cloud Account Creation and…](https://medium.com/@theankitsaini16/broken-access-control-how-a-single-parameter-allowed-unauthorized-cloud-account-creation-and-c346696c8379?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
