@@ -1,3 +1,6 @@
+## 📅 21 May 2026
+
+- **[Bypassing Early-Stage Android Native Integrity Gates Through Runtime Load Interception](https://medium.com/@babakhanihirad/bypassing-early-stage-android-native-integrity-gates-through-runtime-load-interception-deb3c8cc2072?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 May 2026
 
 - **[Develop Database-Enforced End-User Auth with Oracle AI Database Deep Data Security and Java](https://medium.com/oracledevs/develop-database-enforced-end-user-auth-with-oracle-ai-database-deep-data-security-and-java-5a845ba1ebfd?source=rss------security-5)** _(Medium Security)_
