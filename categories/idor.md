@@ -1,3 +1,6 @@
+## 📅 21 May 2026
+
+- **[From Org Switcher to Org Takeover: An IDOR Story](https://medium.com/@xploiterr/from-org-switcher-to-org-takeover-an-idor-story-e8f8a5652cb9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 May 2026
 
 - **[Servidor de jogos — TryHackMe](https://medium.com/@devandcyber/gamingserver-tryhackme-637b028103b2?source=rss------pentesting-5)** _(Medium Pentesting)_
