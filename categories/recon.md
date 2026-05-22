@@ -1,3 +1,9 @@
+## 📅 22 May 2026
+
+- **[Why Most Bug Bounty Hunters Fail at Recon (And How to Fix It)](https://medium.com/@vipulsonule71/why-most-bug-bounty-hunters-fail-at-recon-and-how-to-fix-it-d5565ff7a4ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 May 2026
+
+- **[I Built a 10-Phase Attack Surface Recon Framework from Scratch — Here’s Everything I Learned](https://medium.com/@sidharthsmenon1/i-built-a-10-phase-attack-surface-recon-framework-from-scratch-heres-everything-i-learned-a6bac051cc7c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 May 2026
 
 - **[Recon Isn’t Just Technical — It’s Psychological](https://infosecwriteups.com/recon-isnt-just-technical-it-s-psychological-0bc51a58487b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 22 May 2026
 
+- **[Lab: Source code disclosure via backup files](https://songulkizilay.medium.com/lab-source-code-disclosure-via-backup-files-21c5fb8a5c7a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 May 2026
+
 - **[Inclusiveness — LFI to RCE via FTP Upload + SUID PATH Hijack | OffSec PG Play](https://medium.com/h7w/inclusiveness-lfi-to-rce-via-ftp-upload-suid-path-hijack-offsec-pg-play-76681bec6d3b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 May 2026
 
