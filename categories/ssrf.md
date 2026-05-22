@@ -1,3 +1,6 @@
+## 📅 22 May 2026
+
+- **[SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 May 2026
 
 - **[Bypassing Network Boundaries: Achieving Blind SSRF to Cloud Instance Compromise via Webhook…](https://medium.com/@azzam6954/bypassing-network-boundaries-achieving-blind-ssrf-to-cloud-instance-compromise-via-webhook-bbe2fccd64e5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

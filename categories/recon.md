@@ -1,5 +1,8 @@
 ## 📅 22 May 2026
 
+- **[Found but a small recong](https://medium.com/@qa8453026/found-but-a-small-recong-0c734afa2d5b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 May 2026
+
 - **[Why Most Bug Bounty Hunters Fail at Recon (And How to Fix It)](https://medium.com/@vipulsonule71/why-most-bug-bounty-hunters-fail-at-recon-and-how-to-fix-it-d5565ff7a4ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
