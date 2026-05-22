@@ -1,3 +1,6 @@
+## 📅 22 May 2026
+
+- **[XSS Testing Checklist: 12 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/xss-testing-checklist-12-important-test-cases-every-security-tester-should-know-7dad5d82f91c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 May 2026
 
 - **[⚙️ 02. — Stored XSS into HTML context with nothing encoded](https://medium.com/@The4v1/%EF%B8%8F-02-stored-xss-into-html-context-with-nothing-encoded-9de9f029cd03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

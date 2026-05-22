@@ -1,3 +1,6 @@
+## 📅 22 May 2026
+
+- **[SQL Injection Testing Checklist: 10 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/sql-injection-testing-checklist-10-important-test-cases-every-security-tester-should-know-8844b1e20a78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 May 2026
 
 - **[SQL & NoSQL Injection in APIs-The Vulnerability That Still Puts YOUR Data at Risk](https://infosecwriteups.com/sql-nosql-injection-in-apis-the-vulnerability-that-still-puts-your-data-at-risk-98ed14eebd23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

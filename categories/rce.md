@@ -1,3 +1,6 @@
+## 📅 22 May 2026
+
+- **[Inclusiveness — LFI to RCE via FTP Upload + SUID PATH Hijack | OffSec PG Play](https://medium.com/h7w/inclusiveness-lfi-to-rce-via-ftp-upload-suid-path-hijack-offsec-pg-play-76681bec6d3b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 May 2026
 
 - **[Agentic AI Security: Cutting Through the Hype (And Free Resources to Actually Learn It)](https://medium.com/write-a-catalyst/agentic-ai-security-cutting-through-the-hype-and-free-resources-to-actually-learn-it-29d1edd460d2?source=rss------security-5)** _(Medium Security)_
