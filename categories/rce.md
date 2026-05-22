@@ -1,5 +1,8 @@
 ## 📅 22 May 2026
 
+- **[AI Security Is Changing Fast — These 6 Open-Source Tools Prove It](https://osintteam.blog/ai-security-is-changing-fast-these-6-open-source-tools-prove-it-5c5c9081cff7?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 May 2026
+
 - **[Lab: Source code disclosure via backup files](https://songulkizilay.medium.com/lab-source-code-disclosure-via-backup-files-21c5fb8a5c7a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 May 2026
 
