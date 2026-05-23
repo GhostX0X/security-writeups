@@ -1,5 +1,8 @@
 ## 📅 22 May 2026
 
+- **[Is SQLI still exist in the wild ? 2 SQLI 0 $](https://medium.com/@1ahmedsameh45/is-sqli-still-exist-in-the-wild-2-sqli-0-c6efc3371af9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 May 2026
+
 - **[SQL Injection Testing Checklist: 10 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/sql-injection-testing-checklist-10-important-test-cases-every-security-tester-should-know-8844b1e20a78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 May 2026
 
