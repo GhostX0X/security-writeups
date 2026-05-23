@@ -1,3 +1,6 @@
+## 📅 23 May 2026
+
+- **[Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
 - **[XSS Testing Checklist: 12 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/xss-testing-checklist-12-important-test-cases-every-security-tester-should-know-7dad5d82f91c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 23 May 2026
+
+- **[Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop](https://osintteam.blog/testing-sql-injection-using-google-gemma4-31b-cloud-on-portswiggers-vulnerable-shop-ef9dc05dd1aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
 - **[Is SQLI still exist in the wild ? 2 SQLI 0 $](https://medium.com/@1ahmedsameh45/is-sqli-still-exist-in-the-wild-2-sqli-0-c6efc3371af9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

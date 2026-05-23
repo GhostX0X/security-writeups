@@ -1,3 +1,6 @@
+## 📅 23 May 2026
+
+- **[Why Leisure Operators in Newcastle Are Reviewing Site Security Measures](https://medium.com/@wiliamchris048/why-leisure-operators-in-newcastle-are-reviewing-site-security-measures-8c3b0cce5e82?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 May 2026
 
 - **[Password Reset Tokens in URLs: A Small Mistake That Can Lead to Account Takeover](https://medium.com/@abdulshakoor.seo.consultant/password-reset-tokens-in-urls-a-small-mistake-that-can-lead-to-account-takeover-cf18a94418cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
