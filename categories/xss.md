@@ -1,5 +1,13 @@
 ## 📅 23 May 2026
 
+- **[XSS: Enjeksiyondan Kör Atağa
+Bir Saldırganın Not Defteri](https://medium.com/@buraktekcan2005/xss-enjeksiyondan-k%C3%B6r-ata%C4%9Fa-bir-sald%C4%B1rgan%C4%B1n-not-defteri-461c4ac048e0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 May 2026
+
+- **[XSS: Enjeksiyondan Kör Atağa
+Bir Saldırganın Not Defteri](https://medium.com/@buraktekcan2005/xss-enjeksiyondan-k%C3%B6r-ata%C4%9Fa-bir-sald%C4%B1rgan%C4%B1n-not-defteri-461c4ac048e0?source=rss------security-5)** _(Medium Security)_
+## 📅 23 May 2026
+
 - **[Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
