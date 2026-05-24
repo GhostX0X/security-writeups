@@ -1,3 +1,6 @@
+## 📅 24 May 2026
+
+- **[Race Condition Leading to Quota Bypass and Unlimited Resource Creation](https://medium.com/@z3r0_hunter/race-condition-leading-to-quota-bypass-and-unlimited-resource-creation-5f39c2d35127?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
 - **[AI Security Is Changing Fast — These 6 Open-Source Tools Prove It](https://osintteam.blog/ai-security-is-changing-fast-these-6-open-source-tools-prove-it-5c5c9081cff7?source=rss------pentesting-5)** _(Medium Pentesting)_
