@@ -1,3 +1,9 @@
+## 📅 24 May 2026
+
+- **[When Try Again Later Still Means You Guessed Right: OLX Account Takeover](https://medium.com/@monxresearch/when-try-again-later-still-means-you-guessed-right-olx-account-takeover-9ca3cb9dbbb4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 24 May 2026
+
+- **[When Try Again Later Still Means You Guessed Right: OLX Account Takeover](https://medium.com/@monxresearch/when-try-again-later-still-means-you-guessed-right-olx-account-takeover-9ca3cb9dbbb4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 May 2026
 
 - **[Why Leisure Operators in Newcastle Are Reviewing Site Security Measures](https://medium.com/@wiliamchris048/why-leisure-operators-in-newcastle-are-reviewing-site-security-measures-8c3b0cce5e82?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,7 @@
+## 📅 24 May 2026
+
+- **[SQL Injection UNION Attacks: Labs 4–6 
+PortSwigger Walkthrough | Umair Khan](https://medium.com/@umair-khan/sql-injection-union-attacks-labs-4-6-portswigger-walkthrough-umair-khan-006f7550b31e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 May 2026
 
 - **[Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop](https://osintteam.blog/testing-sql-injection-using-google-gemma4-31b-cloud-on-portswiggers-vulnerable-shop-ef9dc05dd1aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
