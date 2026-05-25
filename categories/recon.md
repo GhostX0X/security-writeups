@@ -1,3 +1,9 @@
+## 📅 25 May 2026
+
+- **[Recon to Exploitation: Custom Bash One-Liners to Elevate Your Bug Bounty Game](https://alfazhossain0.medium.com/recon-to-exploitation-custom-bash-one-liners-to-elevate-your-bug-bounty-game-b867bda5d032?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 25 May 2026
+
+- **[Recon to Exploitation: Custom Bash One-Liners to Elevate Your Bug Bounty Game](https://alfazhossain0.medium.com/recon-to-exploitation-custom-bash-one-liners-to-elevate-your-bug-bounty-game-b867bda5d032?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
 - **[Found but a small recong](https://medium.com/@qa8453026/found-but-a-small-recong-0c734afa2d5b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

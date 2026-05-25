@@ -1,3 +1,6 @@
+## 📅 25 May 2026
+
+- **[How I found my first bug in 2 hours : (Blind SQLi)Time based SQL Injection.](https://arcy-02.medium.com/how-i-found-my-first-bug-in-2-hours-blind-sqli-time-based-sql-injection-cb31b95eb7ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 May 2026
 
 - **[SQL Injection UNION Attacks: Labs 4–6 
