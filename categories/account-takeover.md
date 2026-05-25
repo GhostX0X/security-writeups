@@ -1,5 +1,11 @@
 ## 📅 24 May 2026
 
+- **[How I Found a Permanent Account Takeover Through SSO Account Linking Misconfiguration](https://medium.com/@wanqais007/how-i-found-a-permanent-account-takeover-through-sso-account-linking-misconfiguration-3f2df3857f92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 May 2026
+
+- **[Spring Boot Actuator expuesto conduce a Account Takeover (ATO)](https://medium.com/@miguelsegovia21/spring-boot-actuator-expuesto-conduce-a-account-takeover-ato-52b8bb0a2155?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 May 2026
+
 - **[When Try Again Later Still Means You Guessed Right: OLX Account Takeover](https://medium.com/@monxresearch/when-try-again-later-still-means-you-guessed-right-olx-account-takeover-9ca3cb9dbbb4?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 24 May 2026
 
