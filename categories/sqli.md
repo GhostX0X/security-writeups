@@ -1,5 +1,8 @@
 ## 📅 25 May 2026
 
+- **[Holy shit — Drupal just dropped a MAXIMUM severity SQL injection (CVE-2026–9082)](https://medium.com/programming-letters/holy-shit-drupal-just-dropped-a-maximum-severity-sql-injection-cve-2026-9082-ddaf7b7fb456?source=rss------security-5)** _(Medium Security)_
+## 📅 25 May 2026
+
 - **[How I found my first bug in 2 hours : (Blind SQLi)Time based SQL Injection.](https://arcy-02.medium.com/how-i-found-my-first-bug-in-2-hours-blind-sqli-time-based-sql-injection-cb31b95eb7ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 May 2026
 
