@@ -1,3 +1,6 @@
+## 📅 25 May 2026
+
+- **[How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://prateekpulastya.medium.com/how-i-chained-three-bugs-to-xss-an-intigriti-ctf-idor-dom-clobbering-dompurify-3-0-9-bypass-25b74fc7afc7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 May 2026
 
 - **[From Org Switcher to Org Takeover: An IDOR Story](https://medium.com/@xploiterr/from-org-switcher-to-org-takeover-an-idor-story-e8f8a5652cb9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

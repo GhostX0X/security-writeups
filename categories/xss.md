@@ -1,3 +1,6 @@
+## 📅 25 May 2026
+
+- **[How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://prateekpulastya.medium.com/how-i-chained-three-bugs-to-xss-an-intigriti-ctf-idor-dom-clobbering-dompurify-3-0-9-bypass-25b74fc7afc7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 May 2026
 
 - **[XSS: Enjeksiyondan Kör Atağa
