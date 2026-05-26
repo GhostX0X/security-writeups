@@ -1,5 +1,8 @@
 ## 📅 26 May 2026
 
+- **[How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure](https://medium.com/@cybervolt/how-i-used-burp-suite-to-discover-a-6-000-xss-vulnerability-through-responsible-disclosure-27ff36dc6a9b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 May 2026
+
 - **[Intigriti Challenge 0526 Write-up: DOM Clobbering to XSS via PixelAnalyticsConfig](https://medium.com/@mhqfhvxqbumxepbfvb/intigriti-challenge-0526-write-up-dom-clobbering-to-xss-via-pixelanalyticsconfig-83840cea06c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
