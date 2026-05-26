@@ -1,3 +1,6 @@
+## 📅 26 May 2026
+
+- **[Day 2: Reconnaissance & Information Gathering — Where Real Bug Hunting Starts](https://medium.com/@pritamtare029/day-2-reconnaissance-information-gathering-where-real-bug-hunting-starts-f5dd912df139?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 May 2026
 
 - **[Recon to Exploitation: Custom Bash One-Liners to Elevate Your Bug Bounty Game](https://alfazhossain0.medium.com/recon-to-exploitation-custom-bash-one-liners-to-elevate-your-bug-bounty-game-b867bda5d032?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 26 May 2026
+
+- **[How I Found an Account Takeover Vulnerability in a Large University Portal](https://medium.com/@rekhanshrajput_6347/how-i-found-an-account-takeover-vulnerability-in-a-large-university-portal-58297ba233f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 May 2026
 
 - **[Potato | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/potato-proving-grounds-oscp-preparation-57c2cfcdef5e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
