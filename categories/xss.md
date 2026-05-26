@@ -1,5 +1,8 @@
 ## 📅 26 May 2026
 
+- **[Intigriti May 2026 Challenge — XSS via Stored Payload + SCA Shield Bypass](https://0x0meowsec.medium.com/intigriti-may-2026-challenge-xss-via-stored-payload-sca-shield-bypass-6ab4c1a976c2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 May 2026
+
 - **[How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure](https://medium.com/@cybervolt/how-i-used-burp-suite-to-discover-a-6-000-xss-vulnerability-through-responsible-disclosure-27ff36dc6a9b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 

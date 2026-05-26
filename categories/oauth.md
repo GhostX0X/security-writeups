@@ -1,3 +1,6 @@
+## 📅 26 May 2026
+
+- **[OAuth’s Seatbelt: Why PKCE Exists and Where It Could Go Wrong](https://medium.com/@diyaneupane.2020/oauths-seatbelt-why-pkce-exists-and-where-it-could-go-wrong-a4c8e90828c3?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 May 2026
 
 - **[Breaking OAuth Trust: An Analysis of CVE-2026–45430 in Backdrop CMS](https://medium.com/@me5476793/breaking-oauth-trust-an-analysis-of-cve-2026-45430-in-backdrop-cms-67192dd3d9ab?source=rss------pentesting-5)** _(Medium Pentesting)_

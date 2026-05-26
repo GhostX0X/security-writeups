@@ -1,3 +1,6 @@
+## 📅 26 May 2026
+
+- **[“Bug Bounty Bootcamp #39: PDF SSRF and Blind Exfiltration — When Headless Browsers Become Your Data…](https://infosecwriteups.com/bug-bounty-bootcamp-39-pdf-ssrf-and-blind-exfiltration-when-headless-browsers-become-your-data-507d6543d167?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 May 2026
 
 - **[SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

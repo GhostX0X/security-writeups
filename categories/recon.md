@@ -1,5 +1,8 @@
 ## 📅 26 May 2026
 
+- **[Bug Bounty Automation Toolkit 2026 Automate Recon & Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 May 2026
+
 - **[Day 2: Reconnaissance & Information Gathering — Where Real Bug Hunting Starts](https://medium.com/@pritamtare029/day-2-reconnaissance-information-gathering-where-real-bug-hunting-starts-f5dd912df139?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 May 2026
 
