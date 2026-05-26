@@ -1,3 +1,6 @@
+## 📅 25 May 2026
+
+- **[Potato | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/potato-proving-grounds-oscp-preparation-57c2cfcdef5e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 May 2026
 
 - **[How I Found a Permanent Account Takeover Through SSO Account Linking Misconfiguration](https://medium.com/@wanqais007/how-i-found-a-permanent-account-takeover-through-sso-account-linking-misconfiguration-3f2df3857f92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
