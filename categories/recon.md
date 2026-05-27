@@ -1,5 +1,8 @@
 ## 📅 26 May 2026
 
+- **[I Automated My Entire Bug Bounty Recon Workflow — Here’s What I Learned](https://adnancyber.medium.com/i-automated-my-entire-bug-bounty-recon-workflow-heres-what-i-learned-f964595eecfe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 May 2026
+
 - **[Bug Bounty Automation Toolkit 2026 Automate Recon & Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 

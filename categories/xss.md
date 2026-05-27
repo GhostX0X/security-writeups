@@ -1,5 +1,8 @@
 ## 📅 26 May 2026
 
+- **[Intigriti May 2026 Challenge: XSS via Stored Payload & SCA Shield Bypass](https://medium.com/@Ryuk0x01/intigriti-may-2026-challenge-xss-via-stored-payload-sca-shield-bypass-f1533a20b5bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 May 2026
+
 - **[Intigriti May 2026 Challenge — XSS via Stored Payload + SCA Shield Bypass](https://0x0meowsec.medium.com/intigriti-may-2026-challenge-xss-via-stored-payload-sca-shield-bypass-6ab4c1a976c2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 

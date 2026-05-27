@@ -1,3 +1,6 @@
+## 📅 26 May 2026
+
+- **[The IDOR I Almost Missed](https://medium.com/@ahmed1sedeeq/the-idor-i-almost-missed-c6aff6ee72f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 May 2026
 
 - **[How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://prateekpulastya.medium.com/how-i-chained-three-bugs-to-xss-an-intigriti-ctf-idor-dom-clobbering-dompurify-3-0-9-bypass-25b74fc7afc7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
