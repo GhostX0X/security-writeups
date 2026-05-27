@@ -1,5 +1,8 @@
 ## 📅 27 May 2026
 
+- **[Beyond Scopes: A Field Guide to OPA (and Where OAuth Hands Off)](https://medium.com/@adamczyk.maciej01/beyond-scopes-a-field-guide-to-opa-and-where-oauth-hands-off-df841d24c442?source=rss------security-5)** _(Medium Security)_
+## 📅 27 May 2026
+
 - **[OAuth, OIDC, SAML, SSO: The Map You Wish You Had on Day One](https://medium.com/@adamczyk.maciej01/oauth-oidc-saml-sso-the-map-you-wish-you-had-on-day-one-e287dee524a8?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 May 2026
 
