@@ -1,3 +1,9 @@
+## 📅 27 May 2026
+
+- **[I Built an Open-Source Vulnerability Scanner with a Real-Time Dashboard — Because Nothing Else Did…](https://medium.com/@KrishnaBagal/i-built-an-open-source-vulnerability-scanner-with-a-real-time-dashboard-because-nothing-else-did-f7a4831be629?source=rss------security-5)** _(Medium Security)_
+## 📅 27 May 2026
+
+- **[Open Source Transparency Was a Moat — AI Is Turning It Into a Liability](https://addozhang.medium.com/open-source-transparency-was-a-moat-ai-is-turning-it-into-a-liability-855b5dd4fa85?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 May 2026
 
 - **[Claude-BugHunter: The Open-Source AI Security Agent That Turns Claude Code Into a Bug Bounty…](https://osintteam.blog/claude-bughunter-the-open-source-ai-security-agent-that-turns-claude-code-into-a-bug-bounty-b480582a6925?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

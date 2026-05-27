@@ -1,3 +1,9 @@
+## 📅 27 May 2026
+
+- **[GKeyhunter Pro: Revolutionizing Gemini API Key Reconnaissance and Impact Demonstration for Bug…](https://medium.com/@tanjimul_islam/gkeyhunter-pro-revolutionizing-gemini-api-key-reconnaissance-and-impact-demonstration-for-bug-f3ac32f1a540?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 May 2026
+
+- **[Wide Recon, Deep Impact: Finding HIGH & MEDIUM Severity Bugs in an Enterprise SaaS Platform](https://medium.com/@divakarvasani3938/wide-recon-deep-impact-finding-high-medium-severity-bugs-in-an-enterprise-saas-platform-d3b4b394cc26?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
 - **[I Automated My Entire Bug Bounty Recon Workflow — Here’s What I Learned](https://adnancyber.medium.com/i-automated-my-entire-bug-bounty-recon-workflow-heres-what-i-learned-f964595eecfe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

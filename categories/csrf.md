@@ -1,3 +1,6 @@
+## 📅 27 May 2026
+
+- **[BAC + CSRF](https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 May 2026
 
 - **[The OAuth Integration Debt: Why Your Social Login Is a CSRF Risk](https://systemweakness.com/the-oauth-integration-debt-why-your-social-login-is-a-csrf-risk-c2008099c05e?source=rss------security-5)** _(Medium Security)_
