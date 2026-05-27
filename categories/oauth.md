@@ -1,3 +1,6 @@
+## 📅 27 May 2026
+
+- **[OAuth, OIDC, SAML, SSO: The Map You Wish You Had on Day One](https://medium.com/@adamczyk.maciej01/oauth-oidc-saml-sso-the-map-you-wish-you-had-on-day-one-e287dee524a8?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 May 2026
 
 - **[OAuth’s Seatbelt: Why PKCE Exists and Where It Could Go Wrong](https://medium.com/@diyaneupane.2020/oauths-seatbelt-why-pkce-exists-and-where-it-could-go-wrong-a4c8e90828c3?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 27 May 2026
+
+- **[Intigriti May 2026 XSS Challenge — Stored XSS via Username Field (Unintended Solution)](https://oussamaelhattab.medium.com/intigriti-may-2026-xss-challenge-stored-xss-via-username-field-unintended-solution-b9d3273e45c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
 - **[Intigriti May 2026 Challenge: XSS via Stored Payload & SCA Shield Bypass](https://medium.com/@Ryuk0x01/intigriti-may-2026-challenge-xss-via-stored-payload-sca-shield-bypass-f1533a20b5bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
