@@ -1,5 +1,5 @@
 # 📊 Status
 
-Last updated: 2026-05-28 02:04:38.079321 UTC
+Last updated: 2026-05-28 09:43:52.795232 UTC
 
-- xss: 1
+- idor: 1

@@ -1,3 +1,6 @@
+## 📅 28 May 2026
+
+- **[The One GraphQL Query That Finds IDORs in Seconds (And Why Most Hunters Skip It)](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
 - **[The IDOR I Almost Missed](https://medium.com/@ahmed1sedeeq/the-idor-i-almost-missed-c6aff6ee72f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
