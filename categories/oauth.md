@@ -1,3 +1,6 @@
+## 📅 28 May 2026
+
+- **[Unique OAuth Misconfiguration That Could Lead to Account Takeover](https://medium.com/@ankitrathva/unique-oauth-misconfiguration-that-could-lead-to-account-takeover-3c92a2d626b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 May 2026
 
 - **[Beyond Scopes: A Field Guide to OPA (and Where OAuth Hands Off)](https://medium.com/@adamczyk.maciej01/beyond-scopes-a-field-guide-to-opa-and-where-oauth-hands-off-df841d24c442?source=rss------security-5)** _(Medium Security)_

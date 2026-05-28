@@ -1,3 +1,6 @@
+## 📅 28 May 2026
+
+- **[SQL Injection Introduction TryHackme Walkthrough](https://cyberleelawat.medium.com/sql-injection-introduction-tryhackme-walkthrough-5fca9e1b3e78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 May 2026
 
 - **[Holy shit — Drupal just dropped a MAXIMUM severity SQL injection (CVE-2026–9082)](https://medium.com/programming-letters/holy-shit-drupal-just-dropped-a-maximum-severity-sql-injection-cve-2026-9082-ddaf7b7fb456?source=rss------security-5)** _(Medium Security)_

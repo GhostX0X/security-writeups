@@ -1,3 +1,6 @@
+## 📅 28 May 2026
+
+- **[Advanced Client Side Injection Secrets Leads To (SSRF , Prev Esc)](https://infosecwriteups.com/advanced-client-side-injection-secrets-leads-to-ssrf-prev-esc-637a3781b8cd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
 - **[“Bug Bounty Bootcamp #39: PDF SSRF and Blind Exfiltration — When Headless Browsers Become Your Data…](https://infosecwriteups.com/bug-bounty-bootcamp-39-pdf-ssrf-and-blind-exfiltration-when-headless-browsers-become-your-data-507d6543d167?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

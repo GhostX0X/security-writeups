@@ -1,3 +1,12 @@
+## 📅 28 May 2026
+
+- **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://medium.com/@divakarvasani3938/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 May 2026
+
+- **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://medium.com/@divakarvasani3938/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 May 2026
+
+- **[Unique OAuth Misconfiguration That Could Lead to Account Takeover](https://medium.com/@ankitrathva/unique-oauth-misconfiguration-that-could-lead-to-account-takeover-3c92a2d626b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
 - **[How I Found an Account Takeover Vulnerability in a Large University Portal](https://medium.com/@rekhanshrajput_6347/how-i-found-an-account-takeover-vulnerability-in-a-large-university-portal-58297ba233f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

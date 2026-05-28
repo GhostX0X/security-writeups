@@ -1,3 +1,9 @@
+## 📅 28 May 2026
+
+- **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://medium.com/@divakarvasani3938/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 May 2026
+
+- **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://medium.com/@divakarvasani3938/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 May 2026
 
 - **[I Built an Open-Source Vulnerability Scanner with a Real-Time Dashboard — Because Nothing Else Did…](https://medium.com/@KrishnaBagal/i-built-an-open-source-vulnerability-scanner-with-a-real-time-dashboard-because-nothing-else-did-f7a4831be629?source=rss------security-5)** _(Medium Security)_
