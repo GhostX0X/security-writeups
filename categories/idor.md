@@ -1,5 +1,8 @@
 ## 📅 28 May 2026
 
+- **[IDOR Testing: How to Find Insecure Direct Object Reference Vulnerabilities (With Real Examples)](https://osintteam.blog/idor-testing-how-to-find-insecure-direct-object-reference-vulnerabilities-with-real-examples-590b8b719b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 May 2026
+
 - **[The One GraphQL Query That Finds IDORs in Seconds (And Why Most Hunters Skip It)](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 May 2026
 
