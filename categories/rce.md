@@ -1,5 +1,8 @@
 ## 📅 28 May 2026
 
+- **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://systemweakness.com/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 May 2026
+
 - **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://medium.com/@divakarvasani3938/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 May 2026
 
