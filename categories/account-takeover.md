@@ -1,3 +1,12 @@
+## 📅 29 May 2026
+
+- **[SAML Username Collision Leading to Full ATO](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 May 2026
+
+- **[SAML Username Collision Leading to Full ATO](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 May 2026
+
+- **[CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director ($$$)](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 May 2026
 
 - **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://systemweakness.com/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------pentesting-5)** _(Medium Pentesting)_

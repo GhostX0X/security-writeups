@@ -1,3 +1,9 @@
+## 📅 29 May 2026
+
+- **[Private Polls? Not Really — Exploiting Access Control and Logic Flaws](https://medium.com/@yosefmostef99/private-polls-not-really-exploiting-access-control-and-logic-flaws-943ff0bb5cc4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 May 2026
+
+- **[Private Polls? Not Really — Exploiting Access Control and Logic Flaws](https://medium.com/@yosefmostef99/private-polls-not-really-exploiting-access-control-and-logic-flaws-943ff0bb5cc4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 May 2026
 
 - **[From Removed Admin to Full Workspace Takeover — A Broken Access Control Story](https://medium.com/@montaser_mohsen/from-removed-admin-to-full-workspace-takeover-a-broken-access-control-story-4275640d5d29?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

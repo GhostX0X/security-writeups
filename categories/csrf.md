@@ -1,5 +1,8 @@
 ## 📅 29 May 2026
 
+- **[CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director ($$$)](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 May 2026
+
 - **[$575 CSRF: Triggering Payment Receipt Emails Without User Consent](https://medium.com/@a13h1/575-csrf-triggering-payment-receipt-emails-without-user-consent-6014dd5a17b0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 May 2026
 
