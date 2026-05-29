@@ -1,3 +1,6 @@
+## 📅 29 May 2026
+
+- **[The Live Demo Trap That Forced Me to Master Flutter Web Routing](https://medium.com/@muhammadomar0335/the-live-demo-trap-that-forced-me-to-master-flutter-web-routing-11a71e646b46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 May 2026
 
 - **[How I Found a Source Map Exposure Leading to an Account Takeover Chain — Bug Bounty Writeup](https://systemweakness.com/how-i-found-a-source-map-exposure-leading-to-an-account-takeover-chain-bug-bounty-writeup-d8fed9ed92d5?source=rss------pentesting-5)** _(Medium Pentesting)_

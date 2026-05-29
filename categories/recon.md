@@ -1,3 +1,6 @@
+## 📅 29 May 2026
+
+- **[I Got Tired Of Running The Same Recon Commands Every Day — So I Built This](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/i-got-tired-of-running-the-same-recon-commands-every-day-so-i-built-this-92583e840c60?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 May 2026
 
 - **[Bug Framework Explained | Aggressive Recon & Automation 2026](https://medium.com/@pentesterclubpvtltd/bug-framework-explained-aggressive-recon-automation-2026-ea484bb267cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
