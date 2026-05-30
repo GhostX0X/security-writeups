@@ -1,3 +1,6 @@
+## 📅 30 May 2026
+
+- **[XSS Introduction | TryHackMe](https://medium.com/@elaris/xss-introduction-tryhackme-90c5400b25ec?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 May 2026
 
 - **[Intigriti May 2026 XSS Challenge — Stored XSS via Username Field (Unintended Solution)](https://oussamaelhattab.medium.com/intigriti-may-2026-xss-challenge-stored-xss-via-username-field-unintended-solution-b9d3273e45c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
