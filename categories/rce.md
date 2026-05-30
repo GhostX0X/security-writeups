@@ -1,5 +1,8 @@
 ## 📅 30 May 2026
 
+- **[Modern SOC Stack 2026: 50 Open-Source Tools for Detection & Response](https://medium.com/@xpert4cyber/modern-soc-stack-2026-50-open-source-tools-for-detection-response-1d0f7c5009ed?source=rss------security-5)** _(Medium Security)_
+## 📅 30 May 2026
+
 - **[The I EXCEL National Action Plan for Housing, Food Security and Workforce Development Solutions](https://medium.com/@andrewwilliamsjr777/the-i-excel-national-action-plan-for-housing-food-security-and-workforce-development-solutions-1945c5cda156?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 May 2026
 

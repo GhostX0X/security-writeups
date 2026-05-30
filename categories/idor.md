@@ -1,3 +1,9 @@
+## 📅 30 May 2026
+
+- **[IDOR BugBounty Labs: 5 Realistic Challenges to Master Insecure Direct Object Reference](https://medium.com/@cyberjsonp/idor-bugbounty-labs-5-realistic-challenges-to-master-insecure-direct-object-reference-114894ed40de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 May 2026
+
+- **[I Found a P1 IDOR. They Closed It as Duplicate. The Timeline Tells a Different Story.](https://medium.com/@atanupal22256/i-found-a-p1-idor-they-closed-it-as-duplicate-the-timeline-tells-a-different-story-67c093d495eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 May 2026
 
 - **[IDOR Testing: How to Find Insecure Direct Object Reference Vulnerabilities (With Real Examples)](https://osintteam.blog/idor-testing-how-to-find-insecure-direct-object-reference-vulnerabilities-with-real-examples-590b8b719b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
