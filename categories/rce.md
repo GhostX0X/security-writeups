@@ -1,3 +1,6 @@
+## 📅 31 May 2026
+
+- **[EvilBox: One — PHP Web Shell RCE + Writable /etc/passwd to Root | OffSec PG Play](https://infosecwriteups.com/evilbox-one-php-web-shell-rce-writable-etc-passwd-to-root-offsec-pg-play-86677fd5984a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 May 2026
 
 - **[Modern SOC Stack 2026: 50 Open-Source Tools for Detection & Response](https://medium.com/@xpert4cyber/modern-soc-stack-2026-50-open-source-tools-for-detection-response-1d0f7c5009ed?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 30 May 2026
+
+- **[Encriptar una tabla completa es fácil. Proteger los datos correctos es lo que realmente importa.](https://edgarjmarquezb.medium.com/encriptar-una-tabla-completa-es-f%C3%A1cil-proteger-los-datos-correctos-es-lo-que-realmente-importa-297f5e16df48?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 May 2026
 
 - **[SAML Username Collision Leading to Full ATO](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8?source=rss------pentesting-5)** _(Medium Pentesting)_
