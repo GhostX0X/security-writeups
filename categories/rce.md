@@ -1,5 +1,8 @@
 ## 📅 31 May 2026
 
+- **[Salesforce MFA Just Got Serious : A Practical Guide to Phishing-Resistant Authentication](https://medium.com/@laissaoui.brahim/salesforce-mfa-just-got-serious-a-practical-guide-to-phishing-resistant-authentication-aae2573cc5f5?source=rss------security-5)** _(Medium Security)_
+## 📅 31 May 2026
+
 - **[EvilBox: One — PHP Web Shell RCE + Writable /etc/passwd to Root | OffSec PG Play](https://infosecwriteups.com/evilbox-one-php-web-shell-rce-writable-etc-passwd-to-root-offsec-pg-play-86677fd5984a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 May 2026
 

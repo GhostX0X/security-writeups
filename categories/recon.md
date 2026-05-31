@@ -1,3 +1,9 @@
+## 📅 31 May 2026
+
+- **[This Recon Tool Automates Everything  | MAXMAP](https://medium.com/@pentesterclubpvtltd/this-recon-tool-automates-everything-maxmap-41816f4e9ee4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 May 2026
+
+- **[Check My Links Browser Extension: A Hidden Weapon for OSINT and Web Reconnaissance](https://medium.com/@xpert4cyber/check-my-links-browser-extension-a-hidden-weapon-for-osint-and-web-reconnaissance-ed5b6fd9670c?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 May 2026
 
 - **[I Got Tired Of Running The Same Recon Commands Every Day — So I Built This](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/i-got-tired-of-running-the-same-recon-commands-every-day-so-i-built-this-92583e840c60?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

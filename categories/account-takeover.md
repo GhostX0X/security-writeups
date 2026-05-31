@@ -1,5 +1,8 @@
 ## 📅 31 May 2026
 
+- **[A Critical OAuth Vulnerability in a Data Visualization Platform: One-Click Account Takeover](https://cybersecuritywriteups.com/a-critical-oauth-vulnerability-in-a-data-visualization-platform-one-click-account-takeover-959199aa4539?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 May 2026
+
 - **[Best Free Secure Password Generator Online 2026](https://medium.com/@alloex040579/best-free-secure-password-generator-online-2026-d92204116079?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 May 2026
 

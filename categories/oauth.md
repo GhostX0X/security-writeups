@@ -1,5 +1,8 @@
 ## 📅 31 May 2026
 
+- **[A Critical OAuth Vulnerability in a Data Visualization Platform: One-Click Account Takeover](https://cybersecuritywriteups.com/a-critical-oauth-vulnerability-in-a-data-visualization-platform-one-click-account-takeover-959199aa4539?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 May 2026
+
 - **[OAuth delegation for Agents (OBO)](https://medium.com/@sauravkumarsct/oauth-delegation-for-agents-o-b-o-1e75616c2033?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 May 2026
 
