@@ -1,7 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-05-31 08:33:39.216201 UTC
+Last updated: 2026-05-31 13:13:53.991703 UTC
 
-- oauth: 1
-- idor: 1
+- account-takeover: 1
 - rce: 1
