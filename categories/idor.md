@@ -1,3 +1,9 @@
+## 📅 01 June 2026
+
+- **[IDOR: o que é, como ocorre, riscos associados e formas de mitigação](https://newe-x.medium.com/idor-o-que-%C3%A9-como-ocorre-riscos-associados-e-formas-de-mitiga%C3%A7%C3%A3o-8b2cfbbe01f1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 June 2026
+
+- **[How I Cracked Multi-Tenancy Isolation in a Leading Biotech SaaS: A Tale of BFLA and IDOR](https://medium.com/@RootXSec/how-i-cracked-multi-tenancy-isolation-in-a-leading-biotech-saas-a-tale-of-bfla-and-idor-a662841821d5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 May 2026
 
 - **[IDOR BugBounty Labs: 5 Realistic Challenges to Master Insecure Direct Object Reference](https://medium.com/@cyberjsonp/idor-bugbounty-labs-5-realistic-challenges-to-master-insecure-direct-object-reference-114894ed40de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

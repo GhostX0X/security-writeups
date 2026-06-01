@@ -1,5 +1,8 @@
 ## 📅 01 June 2026
 
+- **[Wpwn — Social Warfare RCE + wp-config Credential Reuse to Root | OffSec PG Play](https://meetcyber.net/wpwn-social-warfare-rce-wp-config-credential-reuse-to-root-offsec-pg-play-f91ea791accb?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 June 2026
+
 - **[Azure Resource Graph Explorer: Seeing Through the Noise Before the Noise Sees You](https://masterzdran.medium.com/azure-resource-graph-explorer-seeing-through-the-noise-before-the-noise-sees-you-a15572028911?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 May 2026
 

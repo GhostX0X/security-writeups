@@ -1,5 +1,14 @@
 ## 📅 01 June 2026
 
+- **[Bypassing reCAPTCHA v3 During VAPT: A Case Study in Automated SQLi Validation](https://medium.com/@sameerimr384/bypassing-recaptcha-v3-during-vapt-a-case-study-in-automated-sqli-validation-a54d259ab1d9?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 June 2026
+
+- **[Bypassing reCAPTCHA v3 During VAPT: A Case Study in Automated SQLi Validation](https://medium.com/@sameerimr384/bypassing-recaptcha-v3-during-vapt-a-case-study-in-automated-sqli-validation-a54d259ab1d9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 June 2026
+
+- **[Two SQLi vulnerabilities on Reddit in February 2024](https://medium.com/@neemaaf0/two-sqli-vulnerabilities-on-reddit-in-february-2024-79e204c14f4a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 June 2026
+
 - **[Panduan Lab Portwigger (Lab: SQL injection attack, querying the database type and version on MySQL…](https://medium.com/@dwiputraadi156/panduan-lab-portwigger-lab-sql-injection-attack-querying-the-database-type-and-version-on-mysql-3596f37a521c?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 May 2026
 
