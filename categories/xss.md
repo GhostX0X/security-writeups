@@ -1,3 +1,6 @@
+## 📅 31 May 2026
+
+- **[From Blocked to Bypassed: A Reflected XSS Journey with accesskey Trick](https://medium.com/@xploiterr/from-blocked-to-bypassed-a-reflected-xss-journey-with-accesskey-trick-76d2bd38ad12?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 May 2026
 
 - **[XSS Introduction | TryHackMe](https://medium.com/@elaris/xss-introduction-tryhackme-90c5400b25ec?source=rss------pentesting-5)** _(Medium Pentesting)_
