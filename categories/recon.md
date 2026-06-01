@@ -1,3 +1,6 @@
+## 📅 01 June 2026
+
+- **[TeigekiSuite: A modular web reconnaissance toolkit in pure Python](https://medium.com/@davird/teigekisuite-a-modular-web-reconnaissance-toolkit-in-pure-python-973b039c2c12?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 31 May 2026
 
 - **[This Recon Tool Automates Everything  | MAXMAP](https://medium.com/@pentesterclubpvtltd/this-recon-tool-automates-everything-maxmap-41816f4e9ee4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
