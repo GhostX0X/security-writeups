@@ -1,3 +1,6 @@
+## 📅 01 June 2026
+
+- **[Panduan Lab Portwigger (Lab: SQL injection attack, querying the database type and version on MySQL…](https://medium.com/@dwiputraadi156/panduan-lab-portwigger-lab-sql-injection-attack-querying-the-database-type-and-version-on-mysql-3596f37a521c?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 May 2026
 
 - **[SQL Injection Introduction TryHackme Walkthrough](https://cyberleelawat.medium.com/sql-injection-introduction-tryhackme-walkthrough-5fca9e1b3e78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

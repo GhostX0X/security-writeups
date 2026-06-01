@@ -1,3 +1,6 @@
+## 📅 01 June 2026
+
+- **[Azure Resource Graph Explorer: Seeing Through the Noise Before the Noise Sees You](https://masterzdran.medium.com/azure-resource-graph-explorer-seeing-through-the-noise-before-the-noise-sees-you-a15572028911?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 May 2026
 
 - **[Salesforce MFA Just Got Serious : A Practical Guide to Phishing-Resistant Authentication](https://medium.com/@laissaoui.brahim/salesforce-mfa-just-got-serious-a-practical-guide-to-phishing-resistant-authentication-aae2573cc5f5?source=rss------security-5)** _(Medium Security)_
