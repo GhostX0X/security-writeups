@@ -1,3 +1,6 @@
+## 📅 02 June 2026
+
+- **[The 10-Minute Recon Routine That Finds What Scanners Miss](https://medium.com/@userwithheart/the-10-minute-recon-routine-that-finds-what-scanners-miss-32898accb63b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 June 2026
 
 - **[How I Do Recon & To Hunt Bugs My Full Automation Pipeline](https://medium.com/@tanvir.infosec/how-i-do-recon-to-hunt-bugs-my-full-automation-pipeline-0b069438d12c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
