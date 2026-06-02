@@ -1,8 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-06-02 10:02:43.148972 UTC
+Last updated: 2026-06-02 15:59:04.058426 UTC
 
+- idor: 4
 - recon: 2
-- account-takeover: 1
-- idor: 1
 - rce: 1

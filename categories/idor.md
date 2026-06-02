@@ -1,3 +1,12 @@
+## 📅 02 June 2026
+
+- **[How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin…](https://medium.com/@21bec131/how-i-chained-a-broken-multi-tenant-filter-and-a-missing-idor-check-to-hijack-corporate-admin-93b9286016df?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 June 2026
+
+- **[How Chaining Two IDORs Led to a Mass Data Harvesting of a Government University](https://medium.com/@0xmonesgoda/how-chaining-two-idors-led-to-a-mass-data-harvesting-of-a-government-university-e46b48632b70?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 June 2026
+
+- **[How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin…](https://medium.com/@21bec131/how-i-chained-a-broken-multi-tenant-filter-and-a-missing-idor-check-to-hijack-corporate-admin-93b9286016df?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 June 2026
 
 - **[IDOR: o que é, como ocorre, riscos associados e formas de mitigação](https://newe-x.medium.com/idor-o-que-%C3%A9-como-ocorre-riscos-associados-e-formas-de-mitiga%C3%A7%C3%A3o-8b2cfbbe01f1?source=rss------pentesting-5)** _(Medium Pentesting)_
