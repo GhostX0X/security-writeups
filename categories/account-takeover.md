@@ -1,5 +1,8 @@
 ## 📅 02 June 2026
 
+- **[DeleGator: Building and Testing a Linux-Native Kerberos Delegation Abuse Framework](https://medium.com/@seebev/delegator-building-and-testing-a-linux-native-kerberos-delegation-abuse-framework-848887a9ba47?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 June 2026
+
 - **[Mass Account Takeover of 29,000 Accounts by Abusing GraphQL](https://medium.com/fmisec/mass-account-takeover-of-29-000-accounts-by-abusing-graphql-7d9eb4534fd1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 May 2026
 

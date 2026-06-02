@@ -1,3 +1,6 @@
+## 📅 02 June 2026
+
+- **[PortSwigger Academy: Exploiting Broken Brute-Force Protection via Multiple Credentials per Request](https://medium.com/@ayeshaaghafoor48/portswigger-academy-exploiting-broken-brute-force-protection-via-multiple-credentials-per-request-ee5aea9dfe03?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 June 2026
 
 - **[Wpwn — Social Warfare RCE + wp-config Credential Reuse to Root | OffSec PG Play](https://meetcyber.net/wpwn-social-warfare-rce-wp-config-credential-reuse-to-root-offsec-pg-play-f91ea791accb?source=rss------pentesting-5)** _(Medium Pentesting)_
