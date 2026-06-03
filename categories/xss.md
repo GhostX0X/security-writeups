@@ -1,3 +1,6 @@
+## 📅 03 June 2026
+
+- **[File Upload Attacks: Alternative Exploitation Paths (XSS, XXE, DoS)](https://meetcyber.net/file-upload-attacks-alternative-exploitation-paths-xss-xxe-dos-2cf8586309ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 May 2026
 
 - **[From Blocked to Bypassed: A Reflected XSS Journey with accesskey Trick](https://medium.com/@xploiterr/from-blocked-to-bypassed-a-reflected-xss-journey-with-accesskey-trick-76d2bd38ad12?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
