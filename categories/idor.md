@@ -1,3 +1,6 @@
+## 📅 03 June 2026
+
+- **[IDOR Sounds Fancy But It’s Just Broken Math](https://medium.com/@userwithheart/idor-sounds-fancy-but-its-just-broken-math-98152cfce501?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 June 2026
 
 - **[How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin…](https://medium.com/@21bec131/how-i-chained-a-broken-multi-tenant-filter-and-a-missing-idor-check-to-hijack-corporate-admin-93b9286016df?source=rss------pentesting-5)** _(Medium Pentesting)_

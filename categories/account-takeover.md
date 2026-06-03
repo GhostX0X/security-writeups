@@ -1,5 +1,8 @@
 ## 📅 03 June 2026
 
+- **[Instagram — Meta AI Prompt Injection: How a Support Bot Enabled 0‑Click Account Takeover and 2FA…](https://beshoy902.medium.com/instagram-meta-ai-prompt-injection-how-a-support-bot-enabled-0-click-account-takeover-and-2fa-e49b4a6682fa?source=rss------security-5)** _(Medium Security)_
+## 📅 03 June 2026
+
 - **[From Exposed API Keys to Account Takeovers](https://scriptjacker.medium.com/from-exposed-api-keys-to-account-takeovers-7ac2a73d7113?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 June 2026
 

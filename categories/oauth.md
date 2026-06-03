@@ -1,3 +1,6 @@
+## 📅 03 June 2026
+
+- **[The Most Dangerous OAuth Bug I’ve Ever Found](https://medium.com/@AliMojaver/the-most-dangerous-oauth-bug-ive-ever-found-a2af1275385c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 May 2026
 
 - **[A Critical OAuth Vulnerability in a Data Visualization Platform: One-Click Account Takeover](https://cybersecuritywriteups.com/a-critical-oauth-vulnerability-in-a-data-visualization-platform-one-click-account-takeover-959199aa4539?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
