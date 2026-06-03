@@ -1,3 +1,12 @@
+## 📅 03 June 2026
+
+- **[Hacking Outpost (Active Directory Pentest) — From Recon to Root (Part 1)](https://medium.com/@calvaryhasarrived/hacking-outpost-active-directory-pentest-from-recon-to-root-part-1-2d62c719cf49?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 June 2026
+
+- **[SpyAI Explained | Passive Reconnaissance for AI Systems](https://medium.com/@pentesterclubpvtltd/spyai-explained-passive-reconnaissance-for-ai-systems-de13506422e0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 June 2026
+
+- **[How I Started Learning Recon, Hunting Bugs & Thinking Like a Hacker](https://medium.com/@gwzoheb/how-i-started-learning-recon-hunting-bugs-thinking-like-a-hacker-ea9b3caa368f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 June 2026
 
 - **[The 10-Minute Recon Routine That Finds What Scanners Miss](https://medium.com/@userwithheart/the-10-minute-recon-routine-that-finds-what-scanners-miss-32898accb63b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
