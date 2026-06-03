@@ -1,3 +1,6 @@
+## 📅 03 June 2026
+
+- **[From Exposed API Keys to Account Takeovers](https://scriptjacker.medium.com/from-exposed-api-keys-to-account-takeovers-7ac2a73d7113?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 June 2026
 
 - **[DeleGator: Building and Testing a Linux-Native Kerberos Delegation Abuse Framework](https://medium.com/@seebev/delegator-building-and-testing-a-linux-native-kerberos-delegation-abuse-framework-848887a9ba47?source=rss------pentesting-5)** _(Medium Pentesting)_
