@@ -1,5 +1,8 @@
 ## 📅 04 June 2026
 
+- **[AUTOMATICÉ EL RECONOCIMIENTO EN BUG BOUNTY CON GEMINI 2.5](https://medium.com/@sebastianduarte_55698/automatic%C3%A9-el-reconocimiento-en-bug-bounty-con-gemini-2-5-24857c48f5ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 June 2026
+
 - **[Full server takeover ssh leak (dell technologies) by (RECON)](https://medium.com/@omar_ahmed496/full-server-takeover-ssh-leak-dell-technologies-by-recon-a7c54ee5e6a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 June 2026
 

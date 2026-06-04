@@ -1,3 +1,9 @@
+## 📅 04 June 2026
+
+- **[From Quantity Manipulation to Negative Shipping Costs: A Business Logic Flaw in an E-Commerce…](https://cybersecuritywriteups.com/from-quantity-manipulation-to-negative-shipping-costs-a-business-logic-flaw-in-an-e-commerce-73f6c80b9b17?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 June 2026
+
+- **[Reliable Guards Force: The Foundation of Modern Security Solutions](https://medium.com/@vimal.isi2025/reliable-guards-force-the-foundation-of-modern-security-solutions-29be62e804b8?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 June 2026
 
 - **[PortSwigger Academy: Exploiting Broken Brute-Force Protection via Multiple Credentials per Request](https://medium.com/@ayeshaaghafoor48/portswigger-academy-exploiting-broken-brute-force-protection-via-multiple-credentials-per-request-ee5aea9dfe03?source=rss------security-5)** _(Medium Security)_
