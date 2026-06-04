@@ -1,3 +1,9 @@
+## 📅 03 June 2026
+
+- **[A Unique Case of One-Click Account Takeover via CSRF Chain](https://medium.com/@n0body1337/a-unique-case-of-one-click-account-takeover-via-csrf-chain-93ad43ceed8b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 June 2026
+
+- **[A Unique Case of One-Click Account Takeover via CSRF Chain](https://medium.com/@n0body1337/a-unique-case-of-one-click-account-takeover-via-csrf-chain-93ad43ceed8b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 May 2026
 
 - **[CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director ($$$)](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

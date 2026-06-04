@@ -1,3 +1,6 @@
+## 📅 04 June 2026
+
+- **[Full server takeover ssh leak (dell technologies) by (RECON)](https://medium.com/@omar_ahmed496/full-server-takeover-ssh-leak-dell-technologies-by-recon-a7c54ee5e6a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 June 2026
 
 - **[Hacking Outpost (Active Directory Pentest) — From Recon to Root (Part 1)](https://medium.com/@calvaryhasarrived/hacking-outpost-active-directory-pentest-from-recon-to-root-part-1-2d62c719cf49?source=rss------pentesting-5)** _(Medium Pentesting)_
