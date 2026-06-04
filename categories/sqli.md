@@ -1,3 +1,6 @@
+## 📅 04 June 2026
+
+- **[Blind SQL Injection with Time Delays and Information Retrieval](https://medium.com/@mohahakeem566/blind-sql-injection-with-time-delays-and-information-retrieval-6a0739e2615e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 June 2026
 
 - **[Bypassing reCAPTCHA v3 During VAPT: A Case Study in Automated SQLi Validation](https://medium.com/@sameerimr384/bypassing-recaptcha-v3-during-vapt-a-case-study-in-automated-sqli-validation-a54d259ab1d9?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,12 @@
+## 📅 04 June 2026
+
+- **[From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 June 2026
+
+- **[From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 June 2026
+
+- **[From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 June 2026
 
 - **[A Unique Case of One-Click Account Takeover](https://medium.com/@n0body1337/a-unique-case-of-one-click-account-takeover-via-csrf-chain-93ad43ceed8b?source=rss------pentesting-5)** _(Medium Pentesting)_
