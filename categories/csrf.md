@@ -1,3 +1,9 @@
+## 📅 04 June 2026
+
+- **[What is CSRF and how it affect sessions](https://medium.com/@gastnorlando/what-is-csrf-and-how-affect-sessions-3bbc70f78532?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 June 2026
+
+- **[Mastering CSRF: The Ultimate PortSwigger Academy Walkthrough Guide Community Edition](https://medium.com/@ayeshaaghafoor48/mastering-csrf-the-ultimate-portswigger-academy-walkthrough-guide-community-edition-8ddbcff3fb59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 June 2026
 
 - **[A Unique Case of One-Click Account Takeover via CSRF Chain](https://medium.com/@n0body1337/a-unique-case-of-one-click-account-takeover-via-csrf-chain-93ad43ceed8b?source=rss------pentesting-5)** _(Medium Pentesting)_
