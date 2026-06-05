@@ -1,5 +1,11 @@
 ## 📅 04 June 2026
 
+- **[Security Assessment Report: Full Exploit Chain (SQLi to RCE)](https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 June 2026
+
+- **[The Missing Layer in Enterprise AI: Governance That Enforces Itself](https://medium.com/@brady.bastian/the-missing-layer-in-enterprise-ai-governance-that-enforces-itself-9216f0f8bc31?source=rss------security-5)** _(Medium Security)_
+## 📅 04 June 2026
+
 - **[From Quantity Manipulation to Negative Shipping Costs: A Business Logic Flaw in an E-Commerce…](https://cybersecuritywriteups.com/from-quantity-manipulation-to-negative-shipping-costs-a-business-logic-flaw-in-an-e-commerce-73f6c80b9b17?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 04 June 2026
 

@@ -1,5 +1,8 @@
 ## 📅 04 June 2026
 
+- **[Security Assessment Report: Full Exploit Chain (SQLi to RCE)](https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 June 2026
+
 - **[Blind SQL Injection with Time Delays and Information Retrieval](https://medium.com/@mohahakeem566/blind-sql-injection-with-time-delays-and-information-retrieval-6a0739e2615e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 June 2026
 
