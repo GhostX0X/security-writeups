@@ -1,3 +1,6 @@
+## 📅 05 June 2026
+
+- **[What TryHackMe Vulnversity Taught Me About HTTP Enumeration, File Upload RCE, and Linux Privilege…](https://dshivamsharma.medium.com/what-tryhackme-vulnversity-taught-me-about-http-enumeration-file-upload-rce-and-linux-privilege-3ed0cc1da118?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 04 June 2026
 
 - **[Security Assessment Report: Full Exploit Chain (SQLi to RCE)](https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
