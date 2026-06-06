@@ -1,3 +1,6 @@
+## 📅 06 June 2026
+
+- **[MSB Penalties and Enforcement Trends](https://medium.com/@Christine_2108/msb-penalties-and-enforcement-trends-fda1f3ff3a17?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 June 2026
 
 - **[What TryHackMe Vulnversity Taught Me About HTTP Enumeration, File Upload RCE, and Linux Privilege…](https://dshivamsharma.medium.com/what-tryhackme-vulnversity-taught-me-about-http-enumeration-file-upload-rce-and-linux-privilege-3ed0cc1da118?source=rss------pentesting-5)** _(Medium Pentesting)_
