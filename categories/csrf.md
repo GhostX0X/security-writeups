@@ -1,3 +1,9 @@
+## 📅 06 June 2026
+
+- **[Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07](https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 June 2026
+
+- **[Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07](https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 June 2026
 
 - **[What is CSRF and how it affect sessions](https://medium.com/@gastnorlando/what-is-csrf-and-how-affect-sessions-3bbc70f78532?source=rss------pentesting-5)** _(Medium Pentesting)_

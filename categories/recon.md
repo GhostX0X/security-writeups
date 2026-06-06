@@ -1,3 +1,6 @@
+## 📅 05 June 2026
+
+- **[API Fuzzing for Security Testing: Part 1: Recon, Discovery & Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 June 2026
 
 - **[AUTOMATICÉ EL RECONOCIMIENTO EN BUG BOUNTY CON GEMINI 2.5](https://medium.com/@sebastianduarte_55698/automatic%C3%A9-el-reconocimiento-en-bug-bounty-con-gemini-2-5-24857c48f5ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

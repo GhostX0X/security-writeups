@@ -1,3 +1,9 @@
+## 📅 05 June 2026
+
+- **[Password Reset Flow Testing — The Most Overlooked Account Takeover Vulnerability](https://osintteam.blog/password-reset-flow-testing-the-most-overlooked-account-takeover-vulnerability-cac0c1c5369c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 June 2026
+
+- **[Password Reset Flow Testing — The Most Overlooked Account Takeover Vulnerability](https://osintteam.blog/password-reset-flow-testing-the-most-overlooked-account-takeover-vulnerability-cac0c1c5369c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 June 2026
 
 - **[From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------pentesting-5)** _(Medium Pentesting)_
