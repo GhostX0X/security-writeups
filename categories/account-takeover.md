@@ -1,3 +1,9 @@
+## 📅 06 June 2026
+
+- **[Account Takeover via Unsafe CORS | Cyber Tamarin](https://cybertamarin.medium.com/account-takeover-via-unsafe-cors-cyber-tamarin-177022130018?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 June 2026
+
+- **[Global Administrator Accounts, Necessary Evil or Security Risk?](https://medium.com/@railsdevabam/global-administrator-accounts-necessary-evil-or-security-risk-27e3cd8d7037?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 June 2026
 
 - **[Password Reset Flow Testing — The Most Overlooked Account Takeover Vulnerability](https://osintteam.blog/password-reset-flow-testing-the-most-overlooked-account-takeover-vulnerability-cac0c1c5369c?source=rss------pentesting-5)** _(Medium Pentesting)_
