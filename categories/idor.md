@@ -1,3 +1,6 @@
+## 📅 06 June 2026
+
+- **[The “Open House” API: How I Found a Massive IDOR Vulnerability](https://alfazhossain0.medium.com/the-open-house-api-how-i-found-a-massive-idor-vulnerability-e5c6da9483d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 June 2026
 
 - **[My First Bug in College Portal -IDOR,PII,SQL over 10,000 students information Leaks.](https://medium.com/@loki1818/my-first-bug-in-my-college-portal-idor-pii-sql-over-30-000-students-information-leaks-ed4e5e83a500?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

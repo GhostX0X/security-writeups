@@ -1,3 +1,6 @@
+## 📅 06 June 2026
+
+- **[OSIRIS Explained | AI-Powered OSINT & Reconnaissance Platform](https://medium.com/@pentesterclubpvtltd/osiris-explained-ai-powered-osint-reconnaissance-platform-b83500241306?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 June 2026
 
 - **[API Fuzzing for Security Testing: Part 1: Recon, Discovery & Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
