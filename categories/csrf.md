@@ -1,5 +1,8 @@
 ## 📅 06 June 2026
 
+- **[Mastering Clickjacking: Bypassing CSRF Protection via UI Redressing](https://medium.com/@ayeshaaghafoor48/mastering-clickjacking-bypassing-csrf-protection-via-ui-redressing-15daffe29bce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 June 2026
+
 - **[Mastering CSRF: PortSwigger Academy Walkthrough Guide Community Edition From Practitioner LAB 07](https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 June 2026
 
