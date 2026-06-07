@@ -1,3 +1,6 @@
+## 📅 07 June 2026
+
+- **[How I Hacked Any User Account in 5Minutes: A Critical Account Takeover Story](https://medium.com/@pankaj_73968/how-i-hacked-any-user-account-in-5minutes-a-critical-account-takeover-story-ab203e774422?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 June 2026
 
 - **[Account Takeover via Unsafe CORS | Cyber Tamarin](https://cybertamarin.medium.com/account-takeover-via-unsafe-cors-cyber-tamarin-177022130018?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
