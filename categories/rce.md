@@ -1,3 +1,6 @@
+## 📅 07 June 2026
+
+- **[I Fine-Tuned a 72B Security LLM From Scratch Then Open-Sourced Everything](https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 June 2026
 
 - **[MSB Penalties and Enforcement Trends](https://medium.com/@Christine_2108/msb-penalties-and-enforcement-trends-fda1f3ff3a17?source=rss------security-5)** _(Medium Security)_

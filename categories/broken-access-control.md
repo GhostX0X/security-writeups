@@ -1,3 +1,6 @@
+## 📅 07 June 2026
+
+- **[Web Security Academy — Access Control Vulnerabilities (Apprentice Level Labs)](https://medium.com/@Kamal_S/web-security-academy-access-control-vulnerabilities-apprentice-level-labs-5c4036907b94?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 May 2026
 
 - **[Private Polls? Not Really — Exploiting Access Control and Logic Flaws](https://medium.com/@yosefmostef99/private-polls-not-really-exploiting-access-control-and-logic-flaws-943ff0bb5cc4?source=rss------pentesting-5)** _(Medium Pentesting)_
