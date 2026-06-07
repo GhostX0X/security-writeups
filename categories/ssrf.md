@@ -1,3 +1,9 @@
+## 📅 07 June 2026
+
+- **[SSRF Explained: Making the Server Your Proxy](https://meetcyber.net/ssrf-explained-making-the-server-your-proxy-e549fea6a0e1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 June 2026
+
+- **[SSRF Explained: Making the Server Your Proxy](https://meetcyber.net/ssrf-explained-making-the-server-your-proxy-e549fea6a0e1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 June 2026
 
 - **[Inner-Parser SSRF](https://sin99xx.medium.com/inner-parser-ssrf-e940b76514e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

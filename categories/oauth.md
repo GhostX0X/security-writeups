@@ -1,3 +1,6 @@
+## 📅 07 June 2026
+
+- **[OAuth 2.0 Device Authorization Grant (RFC 8628): A Complete Technical Breakdown](https://medium.com/@nishchayr/oauth-2-0-device-authorization-grant-rfc-8628-a-complete-technical-breakdown-6e859ece51dd?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 June 2026
 
 - **[The Most Dangerous OAuth Bug I’ve Ever Found](https://medium.com/@AliMojaver/the-most-dangerous-oauth-bug-ive-ever-found-a2af1275385c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
