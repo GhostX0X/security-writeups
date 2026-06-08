@@ -1,5 +1,11 @@
 ## 📅 08 June 2026
 
+- **[How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint (Missing Auth)](https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
+- **[Direct Enforcement: Why the West Must Reset Its Deterrence Strategy Against Tehran](https://medium.com/@GoldaMizrahi/direct-enforcement-why-the-west-must-reset-its-deterrence-strategy-against-tehran-f0fb61d5d205?source=rss------security-5)** _(Medium Security)_
+## 📅 08 June 2026
+
 - **[PoisonJar: One HTTP Request to Pre-Auth RCE in Nextcloud](https://medium.com/@ermenson.sec/poisonjar-one-http-request-to-pre-auth-rce-in-nextcloud-2a10d26a87cb?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 June 2026
 

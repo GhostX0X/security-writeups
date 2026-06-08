@@ -1,5 +1,8 @@
 ## 📅 08 June 2026
 
+- **[The Advanced URL Enumeration Guide for Recon in 2026](https://medium.com/@tanvir.infosec/the-advanced-url-enumeration-guide-for-recon-in-2026-6d80ee383e50?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
 - **[From Open Port to CVE: The Recon-to-Exploit Workflow](https://levelup.gitconnected.com/from-open-port-to-cve-the-recon-to-exploit-workflow-4296a5242238?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 June 2026
 

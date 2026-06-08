@@ -1,5 +1,11 @@
 ## 📅 08 June 2026
 
+- **[Is XSS Dead in Modern Web Applications?](https://medium.com/@ekanshchoudhary.96/is-xss-dead-in-modern-web-applications-9f9fce58b0f6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
+- **[Blog Comment System on Firebase: XSS Protection and $0 Cost](https://digital-abetka.medium.com/blog-comment-system-on-firebase-xss-protection-and-0-cost-4136344bc9b5?source=rss------security-5)** _(Medium Security)_
+## 📅 08 June 2026
+
 - **[Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 June 2026
 
