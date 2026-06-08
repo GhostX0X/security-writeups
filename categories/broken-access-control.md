@@ -1,5 +1,8 @@
 ## 📅 07 June 2026
 
+- **[Access control vulnerabilities and privilege escalation](https://medium.com/@ayeshaaghafoor48/access-control-vulnerabilities-and-privilege-escalation-973ebfbc134b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 June 2026
+
 - **[Web Security Academy — Access Control Vulnerabilities (Apprentice Level Labs)](https://medium.com/@Kamal_S/web-security-academy-access-control-vulnerabilities-apprentice-level-labs-5c4036907b94?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 May 2026
 

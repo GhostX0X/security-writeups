@@ -1,3 +1,6 @@
+## 📅 08 June 2026
+
+- **[Internal — SMBv2 Negotiation RCE (CVE-2009–3103) | OffSec Proving Grounds Play](https://medium.com/h7w/internal-smbv2-negotiation-rce-cve-2009-3103-offsec-proving-grounds-play-b0140d9394b0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 June 2026
 
 - **[I Fine-Tuned a 72B Security LLM From Scratch Then Open-Sourced Everything](https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
