@@ -1,3 +1,6 @@
+## 📅 08 June 2026
+
+- **[[First Blood] Write-Up: BugForge Weekly Challenge — FurHire with Account Takeover via CSPT2CSRF and…](https://medium.com/@teammyinside/first-blood-write-up-bugforge-weekly-challenge-furhire-with-account-takeover-via-cspt2csrf-and-fc9238bf3690?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 June 2026
 
 - **[How I Hacked Any User Account in 5Minutes: A Critical Account Takeover Story](https://medium.com/@pankaj_73968/how-i-hacked-any-user-account-in-5minutes-a-critical-account-takeover-story-ab203e774422?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

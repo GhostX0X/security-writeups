@@ -1,5 +1,8 @@
 ## 📅 08 June 2026
 
+- **[PoisonJar: One HTTP Request to Pre-Auth RCE in Nextcloud](https://medium.com/@ermenson.sec/poisonjar-one-http-request-to-pre-auth-rce-in-nextcloud-2a10d26a87cb?source=rss------security-5)** _(Medium Security)_
+## 📅 08 June 2026
+
 - **[Internal — SMBv2 Negotiation RCE (CVE-2009–3103) | OffSec Proving Grounds Play](https://medium.com/h7w/internal-smbv2-negotiation-rce-cve-2009-3103-offsec-proving-grounds-play-b0140d9394b0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 June 2026
 

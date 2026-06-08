@@ -1,3 +1,6 @@
+## 📅 08 June 2026
+
+- **[[First Blood] Write-Up: BugForge Weekly Challenge — FurHire with Account Takeover via CSPT2CSRF and…](https://medium.com/@teammyinside/first-blood-write-up-bugforge-weekly-challenge-furhire-with-account-takeover-via-cspt2csrf-and-fc9238bf3690?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 06 June 2026
 
 - **[Mastering Clickjacking: Bypassing CSRF Protection via UI Redressing](https://medium.com/@ayeshaaghafoor48/mastering-clickjacking-bypassing-csrf-protection-via-ui-redressing-15daffe29bce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

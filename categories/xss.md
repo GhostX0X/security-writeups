@@ -1,3 +1,6 @@
+## 📅 08 June 2026
+
+- **[How I Found an XSS Vulnerability on a Gray-Zone Search Feed (Invect.com)](https://medium.com/@psystudio.in/how-i-found-an-xss-vulnerability-on-a-gray-zone-search-feed-invect-com-1eaf476991f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 June 2026
 
 - **[File Upload Attacks: Alternative Exploitation Paths (XSS, XXE, DoS)](https://meetcyber.net/file-upload-attacks-alternative-exploitation-paths-xss-xxe-dos-2cf8586309ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

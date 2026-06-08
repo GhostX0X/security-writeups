@@ -1,3 +1,6 @@
+## 📅 08 June 2026
+
+- **[IDOR and Auto-Increment: How Attackers Enumerate Your Data (and How to Stop Them)](https://medium.com/@kouadiomathias64/idor-and-auto-increment-how-attackers-enumerate-your-data-and-how-to-stop-them-aeb2ed32e246?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 June 2026
 
 - **[The “Open House” API: How I Found a Massive IDOR Vulnerability](https://alfazhossain0.medium.com/the-open-house-api-how-i-found-a-massive-idor-vulnerability-e5c6da9483d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

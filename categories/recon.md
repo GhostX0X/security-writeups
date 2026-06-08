@@ -1,3 +1,9 @@
+## 📅 08 June 2026
+
+- **[From Open Port to CVE: The Recon-to-Exploit Workflow](https://levelup.gitconnected.com/from-open-port-to-cve-the-recon-to-exploit-workflow-4296a5242238?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 June 2026
+
+- **[From Zero Recon to Real World Findings: My First 3 Months on Open Targets](https://medium.com/@VasukiSec/from-zero-recon-to-real-world-findings-my-first-3-months-on-open-targets-8ab733abba88?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 June 2026
 
 - **[OSIRIS Explained | AI-Powered OSINT & Reconnaissance Platform](https://medium.com/@pentesterclubpvtltd/osiris-explained-ai-powered-osint-reconnaissance-platform-b83500241306?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
