@@ -1,5 +1,11 @@
 ## 📅 08 June 2026
 
+- **[Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
+- **[How a Routine XSS Hunt Led to an Unexpected Database Information Disclosure](https://medium.com/@andrewdehghan/how-a-routine-xss-hunt-led-to-an-unexpected-database-information-disclosure-ec47f1868277?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
 - **[How I Found an XSS Vulnerability on a Gray-Zone Search Feed (Invect.com)](https://medium.com/@psystudio.in/how-i-found-an-xss-vulnerability-on-a-gray-zone-search-feed-invect-com-1eaf476991f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 June 2026
 
