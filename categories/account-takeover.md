@@ -1,5 +1,8 @@
 ## 📅 09 June 2026
 
+- **[How I Found a Critical OAuth Misconfiguration That Led to Account Takeover](https://medium.com/@iamshafayat/how-i-found-a-critical-oauth-misconfiguration-that-led-to-account-takeover-abfec43eaea6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 June 2026
+
 - **[BBP#3: The Boat Speaker— From Shopping Cart to Account Takeover](https://raoshaab.medium.com/bbp-3-the-boat-speaker-from-shopping-cart-to-account-takeover-fb2923376821?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 June 2026
 

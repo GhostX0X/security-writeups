@@ -1,3 +1,6 @@
+## 📅 09 June 2026
+
+- **[How I Found a Critical OAuth Misconfiguration That Led to Account Takeover](https://medium.com/@iamshafayat/how-i-found-a-critical-oauth-misconfiguration-that-led-to-account-takeover-abfec43eaea6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 June 2026
 
 - **[OAuth 2.0 Device Authorization Grant (RFC 8628): A Complete Technical Breakdown](https://medium.com/@nishchayr/oauth-2-0-device-authorization-grant-rfc-8628-a-complete-technical-breakdown-6e859ece51dd?source=rss------security-5)** _(Medium Security)_

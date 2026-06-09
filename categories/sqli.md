@@ -1,5 +1,8 @@
 ## 📅 09 June 2026
 
+- **[Making A SQLi Lab Is Not Difficult, Build One With Me.](https://infosecwriteups.com/making-a-sqli-lab-is-not-difficult-build-one-with-me-795964b602db?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 June 2026
+
 - **[SQL Injection in Password Reset: Full Database, One Email](https://infosecwriteups.com/sql-injection-in-password-reset-full-database-one-email-f091269b9fec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 June 2026
 
