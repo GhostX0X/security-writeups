@@ -1,5 +1,8 @@
 ## 📅 09 June 2026
 
+- **[OPEN REDIRCET](https://medium.com/@amanpiyush/open-redircet-68270a513ce9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 June 2026
+
 - **[From LFI to Database Takeover and the RCE That Almost Was](https://elahe4.medium.com/from-lfi-to-database-takeover-and-the-rce-that-almost-was-38b9176bcb6b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 09 June 2026
 
