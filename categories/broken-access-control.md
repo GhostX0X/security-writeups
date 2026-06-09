@@ -1,3 +1,15 @@
+## 📅 08 June 2026
+
+- **[When the Frontend Lies: Simple Business Logic and Access Control Bug](https://medium.com/@obafemipelumi2003/when-the-frontend-lies-simple-business-logic-and-access-control-bug-dcdd6d821eb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
+- **[Broken Access Control leads to delete any user’s comment](https://medium.com/@0xRaccoon/broken-access-control-leads-to-delete-any-users-comment-1908ca07f2a9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 June 2026
+
+- **[When the Frontend Lies: Simple Business Logic and Access Control Bug](https://medium.com/@obafemipelumi2003/when-the-frontend-lies-simple-business-logic-and-access-control-bug-dcdd6d821eb3?source=rss------security-5)** _(Medium Security)_
+## 📅 09 June 2026
+
+- **[Network Access Control (NAC): Strengthening Enterprise Security](https://mraviteja9949.medium.com/network-access-control-nac-strengthening-enterprise-security-100c69b2b48e?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 June 2026
 
 - **[Access control vulnerabilities and privilege escalation](https://medium.com/@ayeshaaghafoor48/access-control-vulnerabilities-and-privilege-escalation-973ebfbc134b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
