@@ -1,3 +1,12 @@
+## 📅 09 June 2026
+
+- **[From LFI to Database Takeover and the RCE That Almost Was](https://elahe4.medium.com/from-lfi-to-database-takeover-and-the-rce-that-almost-was-38b9176bcb6b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 June 2026
+
+- **[From LFI to Database Takeover and the RCE That Almost Was](https://elahe4.medium.com/from-lfi-to-database-takeover-and-the-rce-that-almost-was-38b9176bcb6b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 June 2026
+
+- **[Angular Security: Subresource Integrity (SRI)](https://medium.com/javascript-everyday/angular-security-subresource-integrity-sri-23e48c523cc7?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 June 2026
 
 - **[How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint (Missing Auth)](https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

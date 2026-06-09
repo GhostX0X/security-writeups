@@ -1,3 +1,9 @@
+## 📅 09 June 2026
+
+- **[BBP#3: The Boat Speaker— From Shopping Cart to Account Takeover](https://raoshaab.medium.com/bbp-3-the-boat-speaker-from-shopping-cart-to-account-takeover-fb2923376821?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 June 2026
+
+- **[BBP#3: The Boat Speaker— From Shopping Cart to Account Takeover](https://raoshaab.medium.com/bbp-3-the-boat-speaker-from-shopping-cart-to-account-takeover-fb2923376821?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 June 2026
 
 - **[Nmap de 0 a Experto: Anatomía de un Escaneo Profesional desde la Terminal](https://medium.com/@claudio.drewsc/nmap-de-0-a-experto-anatom%C3%ADa-de-un-escaneo-profesional-desde-la-terminal-8e9a81a18271?source=rss------pentesting-5)** _(Medium Pentesting)_

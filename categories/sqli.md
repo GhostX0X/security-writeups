@@ -1,3 +1,6 @@
+## 📅 09 June 2026
+
+- **[SQL Injection in Password Reset: Full Database, One Email](https://infosecwriteups.com/sql-injection-in-password-reset-full-database-one-email-f091269b9fec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 June 2026
 
 - **[Security Assessment Report: Full Exploit Chain (SQLi to RCE)](https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
