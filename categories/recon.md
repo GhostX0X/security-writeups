@@ -1,5 +1,8 @@
 ## 📅 10 June 2026
 
+- **[Recon Is Everything — Where Real Bugs Actually Hide](https://kd-200.medium.com/recon-is-everything-where-real-bugs-actually-hide-95f349e2b726?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 June 2026
+
 - **[Tenderly + Etherscan Debugging & Recon](https://medium.com/@HackerMD/tenderly-etherscan-debugging-recon-dbb5c7b96509?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 June 2026
 
