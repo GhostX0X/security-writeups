@@ -1,3 +1,6 @@
+## 📅 10 June 2026
+
+- **[Exposing Nearly 2,000 User Records Through a SQL Injection](https://medium.com/@andrewdehghan/exposing-nearly-2-000-user-records-through-a-sql-injection-fd8f89e8646a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 June 2026
 
 - **[Making A SQLi Lab Is Not Difficult, Build One With Me.](https://infosecwriteups.com/making-a-sqli-lab-is-not-difficult-build-one-with-me-795964b602db?source=rss------pentesting-5)** _(Medium Pentesting)_
