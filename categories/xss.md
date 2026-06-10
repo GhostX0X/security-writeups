@@ -1,3 +1,6 @@
+## 📅 09 June 2026
+
+- **[PortSwigger Lab Write-Up: DOM XSS in AngularJS Expression with Angle Brackets and Double Quotes…](https://medium.com/@ayeshaaghafoor48/portswigger-lab-write-up-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-aa14b3ca2f34?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 June 2026
 
 - **[Is XSS Dead in Modern Web Applications?](https://medium.com/@ekanshchoudhary.96/is-xss-dead-in-modern-web-applications-9f9fce58b0f6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
