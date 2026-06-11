@@ -1,3 +1,9 @@
+## 📅 10 June 2026
+
+- **[SSRF Exploitation: From Reading Internal Pages to Dumping System Files](https://infosecwriteups.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 June 2026
+
+- **[SSRF Exploitation: From Reading Internal Pages to Dumping System Files](https://infosecwriteups.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 June 2026
 
 - **[SSRF Explained: Making the Server Your Proxy](https://meetcyber.net/ssrf-explained-making-the-server-your-proxy-e549fea6a0e1?source=rss------pentesting-5)** _(Medium Pentesting)_

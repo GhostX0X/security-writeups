@@ -1,3 +1,6 @@
+## 📅 10 June 2026
+
+- **[Stop Telling Site Operators to Walk Through the Safari Park](https://havefunwithaich-hide.medium.com/https-futuretechch-havefunwithaich-com-j31-slug-stop-telling-site-operators-to-walk-through-the-safari-park-f2ce8aa3a796?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 June 2026
 
 - **[How I Found a Critical OAuth Misconfiguration That Led to Account Takeover](https://medium.com/@iamshafayat/how-i-found-a-critical-oauth-misconfiguration-that-led-to-account-takeover-abfec43eaea6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
