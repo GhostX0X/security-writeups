@@ -1,3 +1,6 @@
+## 📅 11 June 2026
+
+- **[Everyone Is Automating Bug Bounty Recon in 2026 Almost Nobody Is Automating the Right Things](https://medium.com/@R.H_Rizvi/everyone-is-automating-bug-bounty-recon-in-2026-almost-nobody-is-automating-the-right-things-feafb1b500f2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 June 2026
 
 - **[Recon Is Everything — Where Real Bugs Actually Hide](https://kd-200.medium.com/recon-is-everything-where-real-bugs-actually-hide-95f349e2b726?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

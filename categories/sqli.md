@@ -1,3 +1,6 @@
+## 📅 11 June 2026
+
+- **[Everything Looked Normal Until I Decoded It — A Hidden SQL Injection](https://medium.com/@unvalidor/everything-looked-normal-until-i-decoded-it-a-hidden-sql-injection-c96bba8d291f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 June 2026
 
 - **[Exposing Nearly 2,000 User Records Through a SQL Injection](https://medium.com/@andrewdehghan/exposing-nearly-2-000-user-records-through-a-sql-injection-fd8f89e8646a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

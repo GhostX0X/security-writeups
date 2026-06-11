@@ -1,5 +1,8 @@
 ## 📅 11 June 2026
 
+- **[Intercepting HTTPS on Android 16 with HTTP Toolkit — What Nobody Tells You](https://medium.com/@specteropx7777x/intercepting-https-on-android-16-with-http-toolkit-what-nobody-tells-you-14d0cb5a9aee?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 June 2026
+
 - **[How I Discovered a Critical IDOR Vulnerability That Exposed 383 Users’ Data -Canadian E-commerce…](https://medium.com/@harisatish75/how-i-discovered-a-critical-idor-vulnerability-that-exposed-383-users-data-canadian-e-commerce-f80fec25fb51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 June 2026
 
