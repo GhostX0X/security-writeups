@@ -1,3 +1,6 @@
+## 📅 11 June 2026
+
+- **[How I Discovered a Critical IDOR Vulnerability That Exposed 383 Users’ Data -Canadian E-commerce…](https://medium.com/@harisatish75/how-i-discovered-a-critical-idor-vulnerability-that-exposed-383-users-data-canadian-e-commerce-f80fec25fb51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 June 2026
 
 - **[IDOR and Auto-Increment: How Attackers Enumerate Your Data (and How to Stop Them)](https://medium.com/@kouadiomathias64/idor-and-auto-increment-how-attackers-enumerate-your-data-and-how-to-stop-them-aeb2ed32e246?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 11 June 2026
+
+- **[I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened](https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-b9bc9275bed3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 June 2026
 
 - **[I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened](https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-48b01b2370d9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

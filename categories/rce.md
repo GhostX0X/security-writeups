@@ -1,3 +1,6 @@
+## 📅 11 June 2026
+
+- **[How I Discovered a Critical IDOR Vulnerability That Exposed 383 Users’ Data -Canadian E-commerce…](https://medium.com/@harisatish75/how-i-discovered-a-critical-idor-vulnerability-that-exposed-383-users-data-canadian-e-commerce-f80fec25fb51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 June 2026
 
 - **[Intercepting iOS App Traffic Without Frida, reFlutter, or OpenVPN](https://medium.com/@fatmagamal275/intercepting-ios-app-traffic-without-frida-reflutter-or-openvpn-4cc62a6031ed?source=rss------pentesting-5)** _(Medium Pentesting)_
