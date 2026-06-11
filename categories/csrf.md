@@ -1,3 +1,6 @@
+## 📅 11 June 2026
+
+- **[Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 June 2026
 
 - **[[First Blood] Write-Up: BugForge Weekly Challenge — FurHire with Account Takeover via CSPT2CSRF and…](https://medium.com/@teammyinside/first-blood-write-up-bugforge-weekly-challenge-furhire-with-account-takeover-via-cspt2csrf-and-fc9238bf3690?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,5 +1,14 @@
 ## 📅 10 June 2026
 
+- **[SSRF Exploitation: From Reading Internal Pages to Dumping System Files](https://systemweakness.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 June 2026
+
+- **[Blind SSRF: You Can’t See the Response. You Don’t Need To.](https://systemweakness.com/blind-ssrf-you-cant-see-the-response-you-don-t-need-to-647075b02d27?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 June 2026
+
+- **[Blind SSRF: You Can’t See the Response. You Don’t Need To.](https://systemweakness.com/blind-ssrf-you-cant-see-the-response-you-don-t-need-to-647075b02d27?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 June 2026
+
 - **[SSRF Exploitation: From Reading Internal Pages to Dumping System Files](https://infosecwriteups.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 10 June 2026
 
