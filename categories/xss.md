@@ -1,3 +1,9 @@
+## 📅 12 June 2026
+
+- **[The Print Button That Handed Me Your Account: Stored XSS to Full ATO on a “Secure” Email Platform](https://medium.com/@Itachi0xf/the-print-button-that-handed-me-your-account-stored-xss-to-full-ato-on-a-secure-email-platform-dfd410dee02b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 June 2026
+
+- **[RAG System Hacking: How Poisoning a Vector Database Becomes Persistent XSS at Scale](https://medium.com/@anand114bug/rag-system-hacking-how-poisoning-a-vector-database-becomes-persistent-xss-at-scale-c131c527b124?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 June 2026
 
 - **[Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss------security-5)** _(Medium Security)_

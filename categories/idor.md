@@ -1,3 +1,6 @@
+## 📅 12 June 2026
+
+- **[Base Nacional de Celulares Roubados e Monitoramento em Tempo Real: O Que Muda para os Consumidores?](https://medium.com/@emersonsantarem1991/base-nacional-de-celulares-roubados-e-monitoramento-em-tempo-real-o-que-muda-para-os-consumidores-b8db16274bf1?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 June 2026
 
 - **[How I Discovered a Critical IDOR Vulnerability That Exposed 383 Users’ Data -Canadian E-commerce…](https://medium.com/@harisatish75/how-i-discovered-a-critical-idor-vulnerability-that-exposed-383-users-data-canadian-e-commerce-f80fec25fb51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

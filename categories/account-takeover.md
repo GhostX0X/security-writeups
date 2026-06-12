@@ -1,3 +1,9 @@
+## 📅 12 June 2026
+
+- **[The Print Button That Handed Me Your Account: Stored XSS to Full ATO on a “Secure” Email Platform](https://medium.com/@Itachi0xf/the-print-button-that-handed-me-your-account-stored-xss-to-full-ato-on-a-secure-email-platform-dfd410dee02b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 June 2026
+
+- **[Ever wondered how 2FA authenticator works?](https://medium.com/@saigadangi/ever-wondered-how-2fa-authenticator-works-2a3d6734bfce?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 June 2026
 
 - **[Stop Telling Site Operators to Walk Through the Safari Park](https://havefunwithaich-hide.medium.com/https-futuretechch-havefunwithaich-com-j31-slug-stop-telling-site-operators-to-walk-through-the-safari-park-f2ce8aa3a796?source=rss------security-5)** _(Medium Security)_
