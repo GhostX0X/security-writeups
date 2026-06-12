@@ -1,3 +1,9 @@
+## 📅 12 June 2026
+
+- **[SSRF Prevention: How You Actually Close This Off](https://systemweakness.com/ssrf-prevention-how-you-actually-close-this-off-3139af0dfc73?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 June 2026
+
+- **[SSRF Prevention: How You Actually Close This Off](https://systemweakness.com/ssrf-prevention-how-you-actually-close-this-off-3139af0dfc73?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 June 2026
 
 - **[SSRF Exploitation: From Reading Internal Pages to Dumping System Files](https://systemweakness.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------pentesting-5)** _(Medium Pentesting)_
