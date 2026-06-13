@@ -1,3 +1,6 @@
+## 📅 13 June 2026
+
+- **[Gatehouse Security vs Remote Access Control: Which One Actually Stops Unauthorised Entry?](https://medium.com/@henrycarter19930/gatehouse-guard-versus-remote-access-control-preventing-unauthorised-entry-gatehouse-223ab44875bc?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 June 2026
 
 - **[When the Frontend Lies: Simple Business Logic and Access Control Bug](https://medium.com/@obafemipelumi2003/when-the-frontend-lies-simple-business-logic-and-access-control-bug-dcdd6d821eb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
