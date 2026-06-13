@@ -1,5 +1,8 @@
 ## 📅 13 June 2026
 
+- **[Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough](https://medium.com/@n4r4n15/finding-an-open-redirect-pattern-on-a-shopify-storefront-a-bug-bounty-recon-walkthrough-d65fcd464ad1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 June 2026
+
 - **[DockerLabs CTF: Countdown Walkthrough — WPvivid RCE & Advanced Hex File Reconstruction](https://swale.medium.com/dockerlabs-ctf-countdown-walkthrough-wpvivid-rce-advanced-hex-file-reconstruction-1b9b081e1ec6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 June 2026
 

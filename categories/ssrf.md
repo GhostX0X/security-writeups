@@ -1,3 +1,6 @@
+## 📅 13 June 2026
+
+- **[Easy SSRF from Wayback Machine](https://anontriager.medium.com/easy-ssrf-from-wayback-machine-4766b0b0ffa3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 June 2026
 
 - **[SSRF Prevention: How You Actually Close This Off](https://systemweakness.com/ssrf-prevention-how-you-actually-close-this-off-3139af0dfc73?source=rss------pentesting-5)** _(Medium Pentesting)_
