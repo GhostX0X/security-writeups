@@ -1,5 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-06-13 02:27:36.594269 UTC
+Last updated: 2026-06-13 08:45:50.985949 UTC
 
-- ssrf: 2
+- account-takeover: 2
+- ssrf: 1
