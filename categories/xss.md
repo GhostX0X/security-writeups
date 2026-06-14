@@ -1,3 +1,6 @@
+## 📅 14 June 2026
+
+- **[Stored XSS via PNG Polyglot Upload and Filename Trust](https://medium.com/@raghavraut29/stored-xss-via-png-polyglot-upload-and-filename-trust-552020690f4f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 June 2026
 
 - **[The Print Button That Handed Me Your Account: Stored XSS to Full ATO on a “Secure” Email Platform](https://medium.com/@Itachi0xf/the-print-button-that-handed-me-your-account-stored-xss-to-full-ato-on-a-secure-email-platform-dfd410dee02b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
