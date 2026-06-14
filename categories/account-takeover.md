@@ -1,5 +1,8 @@
 ## 📅 13 June 2026
 
+- **[AAGUIDs and how to identify what type of authenticator a passkey was created with](https://espens.medium.com/aaguids-and-how-to-identify-what-type-of-authenticator-a-passkey-was-created-with-fc1983a02f06?source=rss------security-5)** _(Medium Security)_
+## 📅 13 June 2026
+
 - **[How a BOLA Vulnerability Escalated Into Full Account Takeover](https://5ummer.medium.com/how-a-bola-vulnerability-escalated-into-full-account-takeover-9eda7f595b82?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 June 2026
 

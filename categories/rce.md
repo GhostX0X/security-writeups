@@ -1,3 +1,6 @@
+## 📅 14 June 2026
+
+- **[The July 2026 Blackout: Why Most Salesforce Admins Are About to Lock Themselves Out of Their Own…](https://medium.com/@mandeep_53569/the-july-2026-blackout-why-most-salesforce-admins-are-about-to-lock-themselves-out-of-their-own-4cdc5620de91?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 June 2026
 
 - **[How Nmap Helped Me Discover a $4,000 Vulnerability on an E-Commerce Platform](https://medium.com/@cybervolt/how-nmap-helped-me-discover-a-4-000-vulnerability-on-an-e-commerce-platform-aaa4c40c4bdc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
