@@ -1,5 +1,8 @@
 ## 📅 14 June 2026
 
+- **[Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3)](https://medium.com/@learngrid/anatomy-of-an-exploit-chain-from-session-forging-to-rce-helium-challenge-batch-3-91e23d5bd127?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 June 2026
+
 - **[The July 2026 Blackout: Why Most Salesforce Admins Are About to Lock Themselves Out of Their Own…](https://medium.com/@mandeep_53569/the-july-2026-blackout-why-most-salesforce-admins-are-about-to-lock-themselves-out-of-their-own-4cdc5620de91?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 June 2026
 

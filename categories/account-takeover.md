@@ -1,3 +1,9 @@
+## 📅 14 June 2026
+
+- **[Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3)](https://medium.com/@learngrid/anatomy-of-an-exploit-chain-from-session-forging-to-rce-helium-challenge-batch-3-91e23d5bd127?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 June 2026
+
+- **[From Profile Update to Account Takeover: A Mass Assignment Story](https://scriptjacker.medium.com/from-profile-update-to-account-takeover-a-mass-assignment-story-60c6e8de4abc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 June 2026
 
 - **[AAGUIDs and how to identify what type of authenticator a passkey was created with](https://espens.medium.com/aaguids-and-how-to-identify-what-type-of-authenticator-a-passkey-was-created-with-fc1983a02f06?source=rss------security-5)** _(Medium Security)_
