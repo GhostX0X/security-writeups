@@ -1,5 +1,8 @@
 ## 📅 14 June 2026
 
+- **[Golden XSS Attack Guide for Modern Pentesting and Bug Bounty Hunting](https://medium.com/@opr3vail/golden-xss-attack-guide-for-modern-pentesting-and-bug-bounty-hunting-90bb24dda477?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 June 2026
+
 - **[Stored XSS via PNG Polyglot Upload and Filename Trust](https://medium.com/@raghavraut29/stored-xss-via-png-polyglot-upload-and-filename-trust-552020690f4f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 June 2026
 
