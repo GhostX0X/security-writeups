@@ -1,7 +1,5 @@
 # 📊 Status
 
-Last updated: 2026-06-15 02:44:01.472821 UTC
+Last updated: 2026-06-15 11:44:28.210092 UTC
 
-- oauth: 1
-- broken-access-control: 3
-- rce: 1
+- broken-access-control: 2
