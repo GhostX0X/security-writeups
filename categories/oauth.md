@@ -1,3 +1,6 @@
+## 📅 14 June 2026
+
+- **[OAuth Under the Hood : Understanding Why OAuth Works the Way It Does](https://medium.com/@karthikeyanm.developer/oauth-under-the-hood-understanding-why-oauth-works-the-way-it-does-9df4874b37b3?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 June 2026
 
 - **[I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened](https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-b9bc9275bed3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

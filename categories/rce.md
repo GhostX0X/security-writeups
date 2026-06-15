@@ -1,5 +1,8 @@
 ## 📅 14 June 2026
 
+- **[I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://medium.com/@mdarbazpc/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 June 2026
+
 - **[Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3)](https://medium.com/@learngrid/anatomy-of-an-exploit-chain-from-session-forging-to-rce-helium-challenge-batch-3-91e23d5bd127?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 14 June 2026
 
