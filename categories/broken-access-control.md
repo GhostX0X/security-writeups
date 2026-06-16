@@ -1,5 +1,8 @@
 ## 📅 16 June 2026
 
+- **[Improper Access Control Leading to Account Deletion Without 2FA](https://medium.com/@habibhassan293/improper-access-control-leading-to-account-deletion-without-2fa-f82b1b0e19ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 June 2026
+
 - **[Breaking Access Control: Object References & Data Leakage (Part 3)](https://medium.com/@hdhffxfg/breaking-access-control-object-references-data-leakage-part-3-9a2c29833472?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 June 2026
 
