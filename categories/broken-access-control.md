@@ -1,3 +1,6 @@
+## 📅 16 June 2026
+
+- **[Breaking Access Control: Object References & Data Leakage (Part 3)](https://medium.com/@hdhffxfg/breaking-access-control-object-references-data-leakage-part-3-9a2c29833472?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 June 2026
 
 - **[Breaking Access Control: Logic Manipulation & Role Escalation (Part 2)](https://medium.com/@hdhffxfg/breaking-access-control-logic-manipulation-role-escalation-part-2-dce5cc44c909?source=rss------pentesting-5)** _(Medium Pentesting)_
