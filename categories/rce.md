@@ -1,3 +1,6 @@
+## 📅 16 June 2026
+
+- **[From Prompt Injection to Blocklist Enforcement — A Practical Guide to Azure AI Gateway Content…](https://pub.towardsai.net/from-prompt-injection-to-blocklist-enforcement-a-practical-guide-to-azure-ai-gateway-content-ead561a3fcd0?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 June 2026
 
 - **[I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://medium.com/@mdarbazpc/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
