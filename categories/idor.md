@@ -1,3 +1,9 @@
+## 📅 16 June 2026
+
+- **[How I Discovered My First IDOR via API Downgrade](https://medium.com/@tanjimul_islam/how-i-discovered-my-first-idor-via-api-downgrade-aabf7e300772?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 16 June 2026
+
+- **[How I Discovered My First IDOR via API Downgrade](https://medium.com/@tanjimul_islam/how-i-discovered-my-first-idor-via-api-downgrade-aabf7e300772?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 June 2026
 
 - **[Base Nacional de Celulares Roubados e Monitoramento em Tempo Real: O Que Muda para os Consumidores?](https://medium.com/@emersonsantarem1991/base-nacional-de-celulares-roubados-e-monitoramento-em-tempo-real-o-que-muda-para-os-consumidores-b8db16274bf1?source=rss------security-5)** _(Medium Security)_

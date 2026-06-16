@@ -1,3 +1,6 @@
+## 📅 16 June 2026
+
+- **[Wraith: The Ultimate Bug Bounty Recon CLI](https://medium.com/@pentesterclubpvtltd/wraith-the-ultimate-bug-bounty-recon-cli-daefc6e620f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 June 2026
 
 - **[Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough](https://medium.com/@n4r4n15/finding-an-open-redirect-pattern-on-a-shopify-storefront-a-bug-bounty-recon-walkthrough-d65fcd464ad1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 16 June 2026
+
+- **[READING The JavaScript Gave Me a Cross-Tenant Write + SSRF](https://medium.com/@mahmodziad40/reading-the-javascript-gave-me-a-cross-tenant-write-ssrf-367b20798d41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 June 2026
 
 - **[Easy SSRF from Wayback Machine](https://anontriager.medium.com/easy-ssrf-from-wayback-machine-4766b0b0ffa3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

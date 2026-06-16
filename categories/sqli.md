@@ -1,3 +1,6 @@
+## 📅 16 June 2026
+
+- **[SQL Injection for Absolute Beginners](https://kd-200.medium.com/sql-injection-for-absolute-beginners-ed84859aecef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 June 2026
 
 - **[How I Solved PortSwigger’s SQL Injection Lab: Retrieving Hidden Data](https://medium.com/@ibmohamed085/how-i-solved-portswiggers-sql-injection-lab-retrieving-hidden-data-dbf5b0803860?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

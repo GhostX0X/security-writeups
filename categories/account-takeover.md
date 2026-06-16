@@ -1,3 +1,9 @@
+## 📅 16 June 2026
+
+- **[Deep Link Hijacking leads to Account Takeover](https://medium.com/@rawansa3ed2002/deep-link-hijacking-leads-to-account-takeover-e7d639592f37?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 June 2026
+
+- **[“Bug Bounty Bootcamp #47: Account Takeover 101 — How to Steal Everyone’s Account (Legally)”](https://infosecwriteups.com/bug-bounty-bootcamp-47-account-takeover-101-how-to-steal-everyones-account-legally-684fd8e3e198?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 June 2026
 
 - **[Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3)](https://medium.com/@learngrid/anatomy-of-an-exploit-chain-from-session-forging-to-rce-helium-challenge-batch-3-91e23d5bd127?source=rss------pentesting-5)** _(Medium Pentesting)_
