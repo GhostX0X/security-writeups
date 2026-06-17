@@ -1,3 +1,15 @@
+## 📅 17 June 2026
+
+- **[How a Single “Backslash” Smashed Through a Global Retailer’s OAuth Implementation](https://medium.com/@21bec131/how-a-single-backslash-smashed-through-a-global-retailers-oauth-implementation-9a3ae0c0a53f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 June 2026
+
+- **[How a Single “Backslash” Smashed Through a Global Retailer’s OAuth Implementation](https://medium.com/@21bec131/how-a-single-backslash-smashed-through-a-global-retailers-oauth-implementation-9a3ae0c0a53f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 June 2026
+
+- **[Account Takeover via Misconfigured OAuth in Android](https://abdelnasserr.medium.com/account-takeover-via-misconfigured-oauth-in-android-cb54af6fd46d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 June 2026
+
+- **[How a Single “Backslash” Smashed Through a Global Retailer’s OAuth Implementation](https://medium.com/@21bec131/how-a-single-backslash-smashed-through-a-global-retailers-oauth-implementation-9a3ae0c0a53f?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 June 2026
 
 - **[OAuth 2.0 –The Only Guide You Need](https://medium.com/@yashpal22.work/oauth-2-0-the-only-guide-you-need-90c69d966dbe?source=rss------security-5)** _(Medium Security)_

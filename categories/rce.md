@@ -1,3 +1,9 @@
+## 📅 17 June 2026
+
+- **[Northwest Nigeria’s Farmers Are Being Forced Off Their Land.](https://medium.com/@kolaporokeebat/northwest-nigerias-farmers-are-being-forced-off-their-land-dea1298dacaa?source=rss------security-5)** _(Medium Security)_
+## 📅 17 June 2026
+
+- **[I Gave a Junior Engineer Terraform Access — By Monday, He Provisioned $4,700 in Resources (Full…](https://abdoboshy.medium.com/i-gave-a-junior-engineer-terraform-access-by-monday-he-provisioned-4-700-in-resources-full-2cc3aa653223?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 June 2026
 
 - **[From Prompt Injection to Blocklist Enforcement — A Practical Guide to Azure AI Gateway Content…](https://pub.towardsai.net/from-prompt-injection-to-blocklist-enforcement-a-practical-guide-to-azure-ai-gateway-content-ead561a3fcd0?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,12 @@
+## 📅 17 June 2026
+
+- **[One Click Account Takeover via Misconfigured WebView](https://abdelnasserr.medium.com/1-click-account-takeover-via-misconfigured-webview-c3096c8173e9?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 June 2026
+
+- **[One Click Account Takeover via Misconfigured WebView](https://abdelnasserr.medium.com/1-click-account-takeover-via-misconfigured-webview-c3096c8173e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 June 2026
+
+- **[Account Takeover via Misconfigured OAuth in Android](https://abdelnasserr.medium.com/account-takeover-via-misconfigured-oauth-in-android-cb54af6fd46d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 June 2026
 
 - **[Deep Link Hijacking leads to Account Takeover](https://medium.com/@rawansa3ed2002/deep-link-hijacking-leads-to-account-takeover-e7d639592f37?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
