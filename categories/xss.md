@@ -1,3 +1,6 @@
+## 📅 17 June 2026
+
+- **[“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 June 2026
 
 - **[Golden XSS Attack Guide for Modern Pentesting and Bug Bounty Hunting](https://medium.com/@opr3vail/golden-xss-attack-guide-for-modern-pentesting-and-bug-bounty-hunting-90bb24dda477?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

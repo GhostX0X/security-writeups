@@ -1,5 +1,8 @@
 ## 📅 17 June 2026
 
+- **[“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 June 2026
+
 - **[How a Single “Backslash” Smashed Through a Global Retailer’s OAuth Implementation](https://medium.com/@21bec131/how-a-single-backslash-smashed-through-a-global-retailers-oauth-implementation-9a3ae0c0a53f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 June 2026
 

@@ -1,3 +1,6 @@
+## 📅 17 June 2026
+
+- **[Unauthenticated IDOR on NASA’s GitLab Instance — From Recon to Bypass](https://medium.com/@ghaddarittoo/unauthenticated-idor-on-nasas-gitlab-instance-from-recon-to-bypass-a09211a81927?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 June 2026
 
 - **[How I Discovered My First IDOR via API Downgrade](https://medium.com/@tanjimul_islam/how-i-discovered-my-first-idor-via-api-downgrade-aabf7e300772?source=rss------pentesting-5)** _(Medium Pentesting)_
