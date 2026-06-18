@@ -1,3 +1,6 @@
+## 📅 18 June 2026
+
+- **[How to Detect SSH Brute-Force Attacks Using Wazuh](https://medium.com/@vrushalipagar31/how-to-detect-ssh-brute-force-attacks-using-wazuh-88d56c376070?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 June 2026
 
 - **[Proforce Nigeria: How West Africa’s Pioneer Defence Manufacturer Is Redefining Indigenous Security…](https://medium.com/@litetechpoint1/proforce-nigeria-how-west-africas-pioneer-defence-manufacturer-is-redefining-indigenous-security-19c43a8a89bd?source=rss------security-5)** _(Medium Security)_

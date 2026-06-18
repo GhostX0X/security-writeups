@@ -1,3 +1,6 @@
+## 📅 18 June 2026
+
+- **[SSO, SAML, SCIM & OAuth Architecture Explained](https://medium.com/@kamran.ahmed.ocp/sso-saml-scim-oauth-architecture-explained-16cb4cc1d961?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 June 2026
 
 - **[“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
