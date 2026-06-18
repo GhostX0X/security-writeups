@@ -1,3 +1,6 @@
+## 📅 18 June 2026
+
+- **[How I Solved My First Reflected XSS Lab on PortSwigger](https://medium.com/@mahdiyaa87/how-i-solved-my-first-reflected-xss-lab-on-portswigger-db9cde57c90f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 June 2026
 
 - **[Mahdi Shamlo | XSS Attacks Are Everywhere: Reflected, Stored, DOM-Based — How to Actually Fix Them…](https://medium.com/@shamlouprogrammer/mahdi-shamlo-uxss-attacks-are-everywhere-reflected-stored-dom-based-how-to-actually-fix-them-731006905779?source=rss------security-5)** _(Medium Security)_

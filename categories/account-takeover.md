@@ -1,5 +1,8 @@
 ## 📅 18 June 2026
 
+- **[Slort — RFI via PHP allow_url_include + Writable Scheduled Task Binary to Administrator | OffSec PG…](https://infosecwriteups.com/slort-rfi-via-php-allow-url-include-writable-scheduled-task-binary-to-administrator-offsec-pg-ac72c40761ae?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 June 2026
+
 - **[Authentication Bypass via Insecure redirect_url Parameter Leading to Account Takeover](https://medium.com/@priyanshuuparmar/authentication-bypass-via-insecure-redirect-url-parameter-leading-to-account-takeover-8b6e8d72da5e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 June 2026
 
