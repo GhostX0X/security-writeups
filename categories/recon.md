@@ -1,3 +1,6 @@
+## 📅 18 June 2026
+
+- **[“Bug Bounty Bootcamp #49: Recon Is Not Stalking”](https://infosecwriteups.com/bug-bounty-bootcamp-49-recon-is-not-stalking-2c9126d4781d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 June 2026
 
 - **[Unauthenticated IDOR on NASA’s GitLab Instance — From Recon to Bypass](https://medium.com/@ghaddarittoo/unauthenticated-idor-on-nasas-gitlab-instance-from-recon-to-bypass-a09211a81927?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

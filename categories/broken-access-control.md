@@ -1,3 +1,6 @@
+## 📅 18 June 2026
+
+- **[Broken Access Control — 2026’s #1 Bug](https://kd-200.medium.com/broken-access-control-2026s-1-bug-db2acca401dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 June 2026
 
 - **[Improper Access Control Leading to Account Deletion Without 2FA](https://medium.com/@habibhassan293/improper-access-control-leading-to-account-deletion-without-2fa-f82b1b0e19ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
