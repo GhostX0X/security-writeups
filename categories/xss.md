@@ -1,5 +1,8 @@
 ## 📅 17 June 2026
 
+- **[Mahdi Shamlo | XSS Attacks Are Everywhere: Reflected, Stored, DOM-Based — How to Actually Fix Them…](https://medium.com/@shamlouprogrammer/mahdi-shamlo-uxss-attacks-are-everywhere-reflected-stored-dom-based-how-to-actually-fix-them-731006905779?source=rss------security-5)** _(Medium Security)_
+## 📅 17 June 2026
+
 - **[“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 June 2026
 

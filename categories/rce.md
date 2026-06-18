@@ -1,5 +1,8 @@
 ## 📅 17 June 2026
 
+- **[Proforce Nigeria: How West Africa’s Pioneer Defence Manufacturer Is Redefining Indigenous Security…](https://medium.com/@litetechpoint1/proforce-nigeria-how-west-africas-pioneer-defence-manufacturer-is-redefining-indigenous-security-19c43a8a89bd?source=rss------security-5)** _(Medium Security)_
+## 📅 17 June 2026
+
 - **[Northwest Nigeria’s Farmers Are Being Forced Off Their Land.](https://medium.com/@kolaporokeebat/northwest-nigerias-farmers-are-being-forced-off-their-land-dea1298dacaa?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 June 2026
 
