@@ -1,3 +1,6 @@
+## 📅 19 June 2026
+
+- **[Mastering Symfony Security, Passports and Custom Authenticators #1](https://medium.com/@MattLeads/mastering-symfony-security-passports-and-custom-authenticators-1-ee35b7487053?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 June 2026
 
 - **[Slort — RFI via PHP allow_url_include + Writable Scheduled Task Binary to Administrator | OffSec PG…](https://infosecwriteups.com/slort-rfi-via-php-allow-url-include-writable-scheduled-task-binary-to-administrator-offsec-pg-ac72c40761ae?source=rss------pentesting-5)** _(Medium Pentesting)_

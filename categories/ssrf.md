@@ -1,3 +1,6 @@
+## 📅 19 June 2026
+
+- **[SSRF Explained Like You Are Five (For Bug Bounty Beginners)](https://medium.com/@masood.nfc77/ssrf-explained-like-you-are-five-for-bug-bounty-beginners-85a059f5e436?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 June 2026
 
 - **[SSRF — Making the Server Do Your Dirty Work](https://kd-200.medium.com/ssrf-making-the-server-do-your-dirty-work-4731040f1483?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
