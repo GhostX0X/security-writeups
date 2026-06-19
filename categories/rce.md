@@ -1,3 +1,12 @@
+## 📅 19 June 2026
+
+- **[How a Loose Regex in a File Upload Component Led to a $12,000 Remote Code Execution (RCE)](https://medium.com/@21bec131/how-a-loose-regex-in-a-file-upload-component-led-to-a-12-000-remote-code-execution-rce-843c35e08adb?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 June 2026
+
+- **[How a Loose Regex in a File Upload Component Led to a $12,000 Remote Code Execution (RCE)](https://medium.com/@21bec131/how-a-loose-regex-in-a-file-upload-component-led-to-a-12-000-remote-code-execution-rce-843c35e08adb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 June 2026
+
+- **[How a Loose Regex in a File Upload Component Led to a $12,000 Remote Code Execution (RCE)](https://medium.com/@21bec131/how-a-loose-regex-in-a-file-upload-component-led-to-a-12-000-remote-code-execution-rce-843c35e08adb?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 June 2026
 
 - **[How to Detect SSH Brute-Force Attacks Using Wazuh](https://medium.com/@vrushalipagar31/how-to-detect-ssh-brute-force-attacks-using-wazuh-88d56c376070?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
