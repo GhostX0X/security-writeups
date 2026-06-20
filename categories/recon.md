@@ -1,5 +1,14 @@
 ## 📅 20 June 2026
 
+- **[Active and Passive Recon, What Is It?](https://medium.com/@rasyafadillahacta/active-and-passive-recon-what-is-it-61db11a04599?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 20 June 2026
+
+- **[Active and Passive Recon, What Is It?](https://medium.com/@rasyafadillahacta/active-and-passive-recon-what-is-it-61db11a04599?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 June 2026
+
+- **[Bug Bounty Automation Toolkit 2026 Automate Recon & Find Vulnerabilities Faster | Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-1b93875d9023?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 June 2026
+
 - **[Web3 Recon Target Research Kaise Karo](https://medium.com/@HackerMD/web3-recon-target-research-kaise-karo-58d692ac4ab0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 June 2026
 

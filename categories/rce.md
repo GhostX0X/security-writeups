@@ -1,3 +1,6 @@
+## 📅 20 June 2026
+
+- **[10,000 Malicious GitHub Repos and the Growing Open Source Security Threat](https://medium.com/@ritukampani/10-000-malicious-github-repos-and-the-growing-open-source-security-threat-b4835bde6da7?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 June 2026
 
 - **[How a Loose Regex in a File Upload Component Led to a $12,000 Remote Code Execution (RCE)](https://medium.com/@21bec131/how-a-loose-regex-in-a-file-upload-component-led-to-a-12-000-remote-code-execution-rce-843c35e08adb?source=rss------pentesting-5)** _(Medium Pentesting)_

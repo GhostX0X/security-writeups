@@ -1,3 +1,6 @@
+## 📅 20 June 2026
+
+- **[Time-Based Blind SQL Injection — Confirming and Exploiting with curl and Ghauri](https://medium.com/@boumriga.bahmed/time-based-blind-sql-injection-confirming-and-exploiting-with-curl-and-ghauri-3c7bf94aaffd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 June 2026
 
 - **[SQL Injection for Absolute Beginners](https://kd-200.medium.com/sql-injection-for-absolute-beginners-ed84859aecef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
