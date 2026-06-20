@@ -1,3 +1,9 @@
+## 📅 20 June 2026
+
+- **[Web3 Recon Target Research Kaise Karo](https://medium.com/@HackerMD/web3-recon-target-research-kaise-karo-58d692ac4ab0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 June 2026
+
+- **[Everyone Is Automating Bug Bounty Recon in 2026. Almost Nobody Is Finding More Bugs Because of It](https://medium.com/@R.H_Rizvi/everyone-is-automating-bug-bounty-recon-in-2026-almost-nobody-is-finding-more-bugs-because-of-it-e1d07d18cb5b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 June 2026
 
 - **[“Bug Bounty Bootcamp #49: Recon Is Not Stalking”](https://infosecwriteups.com/bug-bounty-bootcamp-49-recon-is-not-stalking-2c9126d4781d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
