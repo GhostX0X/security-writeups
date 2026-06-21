@@ -1,3 +1,12 @@
+## 📅 21 June 2026
+
+- **[Mastering Passive Recon: How to Map an Attack Surface Without Leaving a Trace](https://infosecwriteups.com/mastering-passive-recon-how-to-map-an-attack-surface-without-leaving-a-trace-5b5744a3870a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 June 2026
+
+- **[My experience with simple recon and getting a Bounty.](https://medium.com/@kartikkhare17/my-experience-with-simple-recon-and-getting-a-bounty-e02fae81fc2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 June 2026
+
+- **[My experience with simple recon and getting a Bounty.](https://medium.com/@kartikkhare17/my-experience-with-simple-recon-and-getting-a-bounty-e02fae81fc2e?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 June 2026
 
 - **[Active and Passive Recon, What Is It?](https://medium.com/@rasyafadillahacta/active-and-passive-recon-what-is-it-61db11a04599?source=rss------pentesting-5)** _(Medium Pentesting)_
