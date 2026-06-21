@@ -1,3 +1,6 @@
+## 📅 21 June 2026
+
+- **[Insecure Direct Object Reference (IDOR) — TryHackMe IDOR Room](https://kirll0s.medium.com/insecure-direct-object-reference-idor-tryhackme-idor-room-b238900fef0e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 20 June 2026
 
 - **[From Zero to Security Researcher: How I Found a Critical IDOR Vulnerability at Swiggy.](https://medium.com/@binuconcept_22420/from-zero-to-security-researcher-how-i-found-a-critical-idor-vulnerability-at-swiggy-d93236703d27?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

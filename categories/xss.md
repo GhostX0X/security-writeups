@@ -1,3 +1,6 @@
+## 📅 20 June 2026
+
+- **[From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey](https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 June 2026
 
 - **[React Doesn’t Prevent XSS — Developers Do](https://medium.com/@suvechhyabanerjee92/react-doesnt-prevent-xss-developers-do-ce3b226778dd?source=rss------security-5)** _(Medium Security)_
