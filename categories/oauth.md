@@ -1,3 +1,6 @@
+## 📅 21 June 2026
+
+- **[OAuth 2.0 Token Exchange: Cross-Vertical UI Auth Done Right](https://medium.com/@swi_23226/oauth-2-0-token-exchange-cross-vertical-ui-auth-done-right-a4800fe828a5?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 June 2026
 
 - **[SSO, SAML, SCIM & OAuth Architecture Explained](https://medium.com/@kamran.ahmed.ocp/sso-saml-scim-oauth-architecture-explained-16cb4cc1d961?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 21 June 2026
+
+- **[Spring Boot 4: Secure Your APIs Against SSRF Attacks with Built-in InetAddressFilter](https://medium.com/@harshal14ahire/spring-boot-4-secure-your-apis-against-ssrf-attacks-with-built-in-inetaddressfilter-3bab4cb1a4b8?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 June 2026
 
 - **[SSRF Explained Like You Are Five (For Bug Bounty Beginners)](https://medium.com/@masood.nfc77/ssrf-explained-like-you-are-five-for-bug-bounty-beginners-85a059f5e436?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

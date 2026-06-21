@@ -1,3 +1,9 @@
+## 📅 21 June 2026
+
+- **[From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 21 June 2026
+
+- **[From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 June 2026
 
 - **[10,000 Malicious GitHub Repos and the Growing Open Source Security Threat](https://medium.com/@ritukampani/10-000-malicious-github-repos-and-the-growing-open-source-security-threat-b4835bde6da7?source=rss------security-5)** _(Medium Security)_
