@@ -1,5 +1,8 @@
 ## 📅 21 June 2026
 
+- **[Easy IDOR Challenge Walkthrough (BugForge)](https://medium.com/@varshitsharma.me/easy-idor-challenge-walkthrough-bugforge-7bc8a8bdbe00?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 June 2026
+
 - **[Insecure Direct Object Reference (IDOR) — TryHackMe IDOR Room](https://kirll0s.medium.com/insecure-direct-object-reference-idor-tryhackme-idor-room-b238900fef0e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 20 June 2026
 
