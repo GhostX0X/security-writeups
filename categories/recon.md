@@ -1,5 +1,8 @@
 ## 📅 21 June 2026
 
+- **[Surface Brief AI: Transforming Public Data into Actionable Business Intelligence and Reconnaissance](https://medium.com/@gary.drocella/surface-brief-ai-transforming-public-data-into-actionable-business-intelligence-and-reconnaissance-458bf7968b26?source=rss------security-5)** _(Medium Security)_
+## 📅 21 June 2026
+
 - **[Mastering Passive Recon: How to Map an Attack Surface Without Leaving a Trace](https://infosecwriteups.com/mastering-passive-recon-how-to-map-an-attack-surface-without-leaving-a-trace-5b5744a3870a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 June 2026
 

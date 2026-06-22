@@ -1,3 +1,6 @@
+## 📅 21 June 2026
+
+- **[Reflected XSS into a JavaScript string with angle brackets HTML encoded | Shiv Kumar | OWASP Top 10…](https://medium.com/@localhostsinga/reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-shiv-kumar-owasp-top-10-94520693b77b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 June 2026
 
 - **[From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey](https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

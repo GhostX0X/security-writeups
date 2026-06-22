@@ -1,5 +1,8 @@
 ## 📅 21 June 2026
 
+- **[I Accidentally Open-Sourced My API Keys: How I Built a Forensic Engine to Stop the Bleeding](https://medium.com/@ytdreamlong/i-accidentally-open-sourced-my-api-keys-how-i-built-a-forensic-engine-to-stop-the-bleeding-54a4c022ee13?source=rss------security-5)** _(Medium Security)_
+## 📅 21 June 2026
+
 - **[From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 June 2026
 
