@@ -1,3 +1,6 @@
+## 📅 22 June 2026
+
+- **[The Forgotten Backdoor: Why IDOR Remains the Silent Killer of Web Security](https://medium.com/@hckslyr28/the-forgotten-backdoor-why-idor-remains-the-silent-killer-of-web-security-3327d71ae4ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 June 2026
 
 - **[BOLA — The API Version of IDOR](https://kd-200.medium.com/bola-the-api-version-of-idor-ef1f3a4c6ae0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

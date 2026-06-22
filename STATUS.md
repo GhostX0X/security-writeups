@@ -1,6 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-06-22 11:33:44.583619 UTC
+Last updated: 2026-06-22 16:27:36.588313 UTC
 
-- recon: 3
-- rce: 1
+- idor: 1
+- recon: 1
