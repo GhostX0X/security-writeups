@@ -1,3 +1,12 @@
+## 📅 22 June 2026
+
+- **[How I Automated My Bug Bounty Recon Pipeline Using Nmap + Nuclei + FFUF](https://meetcyber.net/how-i-automated-my-bug-bounty-recon-pipeline-using-nmap-nuclei-ffuf-3b388ff16745?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 June 2026
+
+- **[Recon & OSINT: The Skill That Separates Beginners from Professional Hackers](https://medium.com/hackmetoocom/recon-osint-the-skill-that-separates-beginners-from-professional-hackers-85152184fa68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 June 2026
+
+- **[The Recon Workflow I Built After 10 Rejections](https://ismailtasdelen.medium.com/the-recon-workflow-i-built-after-10-rejections-b81c5a3b8427?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 June 2026
 
 - **[Surface Brief AI: Transforming Public Data into Actionable Business Intelligence and Reconnaissance](https://medium.com/@gary.drocella/surface-brief-ai-transforming-public-data-into-actionable-business-intelligence-and-reconnaissance-458bf7968b26?source=rss------security-5)** _(Medium Security)_
