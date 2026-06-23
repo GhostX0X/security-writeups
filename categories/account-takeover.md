@@ -1,3 +1,6 @@
+## 📅 23 June 2026
+
+- **[From Fuzzing to Administrator Access: Chaining Multiple Weaknesses into Full Account Takeover](https://0xh7ml.medium.com/from-fuzzing-to-administrator-access-chaining-multiple-weaknesses-into-full-account-takeover-43e21a74daa7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 June 2026
 
 - **[Mastering Symfony Security, Passports and Custom Authenticators #1](https://medium.com/@MattLeads/mastering-symfony-security-passports-and-custom-authenticators-1-ee35b7487053?source=rss------security-5)** _(Medium Security)_

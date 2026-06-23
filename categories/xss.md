@@ -1,3 +1,6 @@
+## 📅 23 June 2026
+
+- **[Intigriti Challenge 0626 Write-up: Blind XSS, NUL Bytes and a Prefix Oracle](https://medium.com/@mhqfhvxqbumxepbfvb/intigriti-challenge-0626-write-up-blind-xss-via-search-reflection-and-a-prefix-oracle-e856a53f3d08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 June 2026
 
 - **[Reflected XSS into a JavaScript string with angle brackets HTML encoded | Shiv Kumar | OWASP Top 10…](https://medium.com/@localhostsinga/reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-shiv-kumar-owasp-top-10-94520693b77b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
