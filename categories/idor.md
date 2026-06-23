@@ -1,3 +1,6 @@
+## 📅 23 June 2026
+
+- **[I Find IDOR Bugs in Minutes Using This Simple Manual Trick](https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 June 2026
 
 - **[The Forgotten Backdoor: Why IDOR Remains the Silent Killer of Web Security](https://medium.com/@hckslyr28/the-forgotten-backdoor-why-idor-remains-the-silent-killer-of-web-security-3327d71ae4ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

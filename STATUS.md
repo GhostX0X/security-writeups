@@ -1,5 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-06-23 14:26:39.683247 UTC
+Last updated: 2026-06-23 19:48:56.692803 UTC
 
-- recon: 1
+- rce: 2
+- account-takeover: 1
+- csrf: 2
+- idor: 1
+- recon: 4

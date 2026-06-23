@@ -1,5 +1,8 @@
 ## 📅 23 June 2026
 
+- **[Stored HTML Injection leading to CSRF-based Account Takeover](https://medium.com/@hossein.za68/stored-html-injection-leading-to-csrf-based-account-takeover-30ff84bac34a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 June 2026
+
 - **[From Fuzzing to Administrator Access: Chaining Multiple Weaknesses into Full Account Takeover](https://0xh7ml.medium.com/from-fuzzing-to-administrator-access-chaining-multiple-weaknesses-into-full-account-takeover-43e21a74daa7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 June 2026
 

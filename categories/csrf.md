@@ -1,3 +1,9 @@
+## 📅 23 June 2026
+
+- **[CSRF Validation Bypass: How I Tested Swiggy’s API Security](https://medium.com/@binuconcept_22420/csrf-validation-bypass-how-i-tested-swiggys-api-security-b28110efc927?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 June 2026
+
+- **[Stored HTML Injection leading to CSRF-based Account Takeover](https://medium.com/@hossein.za68/stored-html-injection-leading-to-csrf-based-account-takeover-30ff84bac34a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 June 2026
 
 - **[Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss------security-5)** _(Medium Security)_

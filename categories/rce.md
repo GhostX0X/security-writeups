@@ -1,5 +1,11 @@
 ## 📅 23 June 2026
 
+- **[How a Single Copied Function Gave Me Pre-Auth RCE in an LLM DevOps Platform — and What Happened…](https://medium.com/@cihananthony/how-a-single-copied-function-gave-me-pre-auth-rce-in-an-llm-devops-platform-and-what-happened-47fa7714e10d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 June 2026
+
+- **[How a Single Copied Function Gave Me Pre-Auth RCE in an LLM DevOps Platform — and What Happened…](https://medium.com/@cihananthony/how-a-single-copied-function-gave-me-pre-auth-rce-in-an-llm-devops-platform-and-what-happened-47fa7714e10d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 June 2026
+
 - **[Payroll Compliance Services: The Key to Accurate and Risk-Free Workforce Management](https://medium.com/@vimal.isi2025/payroll-compliance-services-the-key-to-accurate-and-risk-free-workforce-management-7b01b7283935?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 June 2026
 

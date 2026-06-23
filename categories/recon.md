@@ -1,5 +1,17 @@
 ## 📅 23 June 2026
 
+- **[Still Doing Recon Manually? You’re Wasting Time — Recon Smarter, Not Harder](https://sayemeh.medium.com/still-doing-recon-manually-youre-wasting-time-recon-smarter-not-harder-a6bd771f2ae9?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 June 2026
+
+- **[“Bug Bounty Bootcamp #53: HTTPx — The Recon Tool”](https://infosecwriteups.com/bug-bounty-bootcamp-53-httpx-the-recon-tool-f68678b59a78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 June 2026
+
+- **[BUG Framework v5.0: The All-in-One Bug Bounty Recon Suite That Actually Works](https://medium.com/@tanvir.infosec/bug-framework-v5-0-the-all-in-one-bug-bounty-recon-suite-that-actually-works-9b41d8667a68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 June 2026
+
+- **[Still Doing Recon Manually? You’re Wasting Time — Recon Smarter, Not Harder](https://sayemeh.medium.com/still-doing-recon-manually-youre-wasting-time-recon-smarter-not-harder-a6bd771f2ae9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 June 2026
+
 - **[Bug Bounty Recon Mastery →Advanced Reconnaissance and Attack Surface Mapping V2](https://infosecwriteups.com/bug-bounty-recon-mastery-advanced-reconnaissance-and-attack-surface-mapping-v2-c18e0a6738c9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 June 2026
 
