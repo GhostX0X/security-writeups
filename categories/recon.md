@@ -1,3 +1,9 @@
+## 📅 24 June 2026
+
+- **[RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300](https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 June 2026
+
+- **[Inside the AI Recon Lifecycle](https://medium.com/@jdl_/inside-the-ai-recon-lifecycle-2c9dd4a7e7b9?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 June 2026
 
 - **[Still Doing Recon Manually? You’re Wasting Time — Recon Smarter, Not Harder](https://sayemeh.medium.com/still-doing-recon-manually-youre-wasting-time-recon-smarter-not-harder-a6bd771f2ae9?source=rss------pentesting-5)** _(Medium Pentesting)_
