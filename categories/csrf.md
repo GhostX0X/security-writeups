@@ -1,3 +1,6 @@
+## 📅 24 June 2026
+
+- **[CSRF Explained Like You’re Five](https://kd-200.medium.com/csrf-explained-like-youre-five-abbc99974faa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 June 2026
 
 - **[CSRF Validation Bypass: How I Tested Swiggy’s API Security](https://medium.com/@binuconcept_22420/csrf-validation-bypass-how-i-tested-swiggys-api-security-b28110efc927?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
