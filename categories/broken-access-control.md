@@ -1,3 +1,6 @@
+## 📅 24 June 2026
+
+- **[Classic Vulnerabilities Part 1: Reentrancy, Access Control & Integer Bugs](https://medium.com/@HackerMD/classic-vulnerabilities-part-1-reentrancy-access-control-integer-bugs-9efd599ba493?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 June 2026
 
 - **[Broken Access Control in an API Allowed Unauthorized Access to User and Admin Functions](https://medium.com/@mohamedeid5/broken-access-control-in-an-api-allowed-unauthorized-access-to-user-and-admin-functions-da6292104f12?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
