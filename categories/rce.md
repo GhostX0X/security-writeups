@@ -1,3 +1,6 @@
+## 📅 25 June 2026
+
+- **[How a Custom Google Dork Led Me to RCE in a Job Portal’s Resume Upload](https://medium.com/@atanupal22256/how-a-custom-google-dork-led-me-to-rce-in-a-job-portals-resume-upload-b0323a55ee65?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 June 2026
 
 - **[How a Single Copied Function Gave Me Pre-Auth RCE in an LLM DevOps Platform — and What Happened…](https://medium.com/@cihananthony/how-a-single-copied-function-gave-me-pre-auth-rce-in-an-llm-devops-platform-and-what-happened-47fa7714e10d?source=rss------pentesting-5)** _(Medium Pentesting)_
