@@ -1,3 +1,6 @@
+## 📅 24 June 2026
+
+- **[CVE-2025–65640: Escalating a Stored XSS to Account Takeover in Globe Document Intelligence](https://medium.com/@vemartone/cve-2025-65640-escalating-a-stored-xss-to-account-takeover-in-globe-document-intelligence-7009590501c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 June 2026
 
 - **[Stored HTML Injection leading to CSRF-based Account Takeover](https://medium.com/@hossein.za68/stored-html-injection-leading-to-csrf-based-account-takeover-30ff84bac34a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

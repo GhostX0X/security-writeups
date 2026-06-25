@@ -1,3 +1,6 @@
+## 📅 24 June 2026
+
+- **[CVE-2025–65640: Escalating a Stored XSS to Account Takeover in Globe Document Intelligence](https://medium.com/@vemartone/cve-2025-65640-escalating-a-stored-xss-to-account-takeover-in-globe-document-intelligence-7009590501c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 June 2026
 
 - **[Intigriti Challenge 0626 Write-up: Blind XSS, NUL Bytes and a Prefix Oracle](https://medium.com/@mhqfhvxqbumxepbfvb/intigriti-challenge-0626-write-up-blind-xss-via-search-reflection-and-a-prefix-oracle-e856a53f3d08?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

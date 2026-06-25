@@ -1,3 +1,9 @@
+## 📅 24 June 2026
+
+- **[From an Informational Finding to a Valuable Lesson: My IDOR Discovery on Bugcrowd](https://meetcyber.net/from-an-informational-finding-to-a-valuable-lesson-my-idor-discovery-on-bugcrowd-a7d40fd1d2aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 June 2026
+
+- **[interesting Logic idor that allowed me to Access User Data and Private Photos](https://hamzadzworm.medium.com/interesting-logic-idor-that-allowed-me-to-access-user-data-and-private-photos-a32b4c966d35?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 June 2026
 
 - **[I Find IDOR Bugs in Minutes Using This Simple Manual Trick](https://sayemeh.medium.com/i-find-idor-bugs-in-minutes-using-this-simple-manual-trick-849915e67589?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
