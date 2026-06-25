@@ -1,3 +1,9 @@
+## 📅 25 June 2026
+
+- **[How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 25 June 2026
+
+- **[How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 June 2026
 
 - **[CVE-2025–65640: Escalating a Stored XSS to Account Takeover in Globe Document Intelligence](https://medium.com/@vemartone/cve-2025-65640-escalating-a-stored-xss-to-account-takeover-in-globe-document-intelligence-7009590501c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 25 June 2026
+
+- **[XSS The $5k Bug That Runs Code in Their Browser](https://medium.com/@cyber-ninjaaa/xss-the-5k-bug-that-runs-code-in-their-browser-cf35f7962f47?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 24 June 2026
 
 - **[CVE-2025–65640: Escalating a Stored XSS to Account Takeover in Globe Document Intelligence](https://medium.com/@vemartone/cve-2025-65640-escalating-a-stored-xss-to-account-takeover-in-globe-document-intelligence-7009590501c4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

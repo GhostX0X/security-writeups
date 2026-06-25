@@ -1,3 +1,6 @@
+## 📅 25 June 2026
+
+- **[“Bug Bounty Bootcamp #55: Hands-On Hacking — From Recon to Exploitation”](https://osintteam.blog/bug-bounty-bootcamp-55-hands-on-hacking-from-recon-to-exploitation-cf6426acc942?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 June 2026
 
 - **[RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300](https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
