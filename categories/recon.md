@@ -1,5 +1,8 @@
 ## 📅 25 June 2026
 
+- **[“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon](https://medium.com/@Muhammad_Murtaza/i-wont-let-your-future-customers-register-hunting-an-email-verification-bug-through-recon-99c772c5ed84?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 June 2026
+
 - **[“Bug Bounty Bootcamp #55: Hands-On Hacking — From Recon to Exploitation”](https://osintteam.blog/bug-bounty-bootcamp-55-hands-on-hacking-from-recon-to-exploitation-cf6426acc942?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 June 2026
 
