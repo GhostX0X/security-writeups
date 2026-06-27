@@ -1,3 +1,9 @@
+## 📅 27 June 2026
+
+- **[I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 June 2026
+
+- **[I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 June 2026
 
 - **[OAuth 2.0 Token Exchange: Cross-Vertical UI Auth Done Right](https://medium.com/@swi_23226/oauth-2-0-token-exchange-cross-vertical-ui-auth-done-right-a4800fe828a5?source=rss------security-5)** _(Medium Security)_

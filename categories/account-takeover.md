@@ -1,3 +1,12 @@
+## 📅 27 June 2026
+
+- **[I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 June 2026
+
+- **[Zero-Click Account Takeover via Unicode Homoglyph Email Collision](https://r0h1th.medium.com/zero-click-account-takeover-via-unicode-homoglyph-email-collision-190f942ccb07?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 June 2026
+
+- **[I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 June 2026
 
 - **[How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------pentesting-5)** _(Medium Pentesting)_
