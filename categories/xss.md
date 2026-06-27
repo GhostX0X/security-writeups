@@ -1,3 +1,12 @@
+## 📅 27 June 2026
+
+- **[Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…](https://alvinferd.medium.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 June 2026
+
+- **[Stored XSS via SVG File Upload in a Project Management Application](https://medium.com/@am011416854/stored-xss-via-svg-file-upload-in-a-project-management-application-038c0944c3f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 June 2026
+
+- **[PortSwigger Lab Write-Up: Reflected XSS into HTML Context with Most Tags and Attributes Blocked](https://medium.com/@ayeshaaghafoor48/portswigger-lab-write-up-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-7cb6e44a36e7?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 June 2026
 
 - **[From a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.](https://infosecwriteups.com/from-a-self-xss-to-a-convincing-ui-spoof-a-bug-bounty-story-that-ended-as-a-duplicate-f2b79e233d4e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
