@@ -1,3 +1,6 @@
+## 📅 26 June 2026
+
+- **[From a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.](https://infosecwriteups.com/from-a-self-xss-to-a-convincing-ui-spoof-a-bug-bounty-story-that-ended-as-a-duplicate-f2b79e233d4e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 June 2026
 
 - **[XSS The $5k Bug That Runs Code in Their Browser](https://medium.com/@cyber-ninjaaa/xss-the-5k-bug-that-runs-code-in-their-browser-cf35f7962f47?source=rss------pentesting-5)** _(Medium Pentesting)_
