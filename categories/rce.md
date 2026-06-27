@@ -1,3 +1,6 @@
+## 📅 27 June 2026
+
+- **[The Akatsuki Cafe: How Git Leaks & JS Source Analysis Gave Me Super Admin Access ✍️](https://atanupal22256.medium.com/the-akatsuki-cafe-how-git-leaks-js-source-analysis-gave-me-super-admin-access-%EF%B8%8F-bf87f3084809?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 June 2026
 
 - **[How a Custom Google Dork Led Me to RCE in a Job Portal’s Resume Upload](https://medium.com/@atanupal22256/how-a-custom-google-dork-led-me-to-rce-in-a-job-portals-resume-upload-b0323a55ee65?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
