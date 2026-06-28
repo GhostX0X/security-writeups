@@ -1,3 +1,6 @@
+## 📅 28 June 2026
+
+- **[Building a Real Bug Bounty Recon Pipeline (BLACKBELT v3)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/building-a-real-bug-bounty-recon-pipeline-blackbelt-v3-606fbc67f047?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 June 2026
 
 - **[Real Recon Starts Before the First Packet Hits the Target](https://v3n0m.medium.com/real-recon-starts-before-the-first-packet-hits-the-target-d0849af496c9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

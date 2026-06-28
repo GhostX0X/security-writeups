@@ -1,3 +1,6 @@
+## 📅 28 June 2026
+
+- **[Web Security Academy — Access Control Vulnerabilities (Practitioner Level Labs)](https://medium.com/@Kamal_S/web-security-academy-access-control-vulnerabilities-practitioner-level-labs-eec3aeb01c8a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 June 2026
 
 - **[Classic Vulnerabilities Part 1: Reentrancy, Access Control & Integer Bugs](https://medium.com/@HackerMD/classic-vulnerabilities-part-1-reentrancy-access-control-integer-bugs-9efd599ba493?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

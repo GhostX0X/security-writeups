@@ -1,3 +1,6 @@
+## 📅 28 June 2026
+
+- **[The Open Source Security Reset](https://medium.com/ai-security-hub/the-open-source-security-reset-da9c662f56ee?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 June 2026
 
 - **[The Akatsuki Cafe: How Git Leaks & JS Source Analysis Gave Me Super Admin Access ✍️](https://atanupal22256.medium.com/the-akatsuki-cafe-how-git-leaks-js-source-analysis-gave-me-super-admin-access-%EF%B8%8F-bf87f3084809?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
