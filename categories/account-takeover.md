@@ -1,3 +1,6 @@
+## 📅 28 June 2026
+
+- **[# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 June 2026
 
 - **[I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
