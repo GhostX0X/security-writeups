@@ -1,5 +1,8 @@
 ## 📅 28 June 2026
 
+- **[️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…](https://systemweakness.com/%EF%B8%8F-network-scanning-masterclass-a-complete-guide-to-recon-port-scanning-vulnerability-4de837c73d23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 June 2026
+
 - **[Building a Real Bug Bounty Recon Pipeline (BLACKBELT v3)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/building-a-real-bug-bounty-recon-pipeline-blackbelt-v3-606fbc67f047?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 June 2026
 

@@ -1,3 +1,6 @@
+## 📅 28 June 2026
+
+- **[How I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure…](https://medium.com/@Sahal07/how-i-found-an-unauthenticated-idor-in-a-government-college-website-a-responsible-disclosure-case-46f6bf5d3bd3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 June 2026
 
 - **[From an Informational Finding to a Valuable Lesson: My IDOR Discovery on Bugcrowd](https://meetcyber.net/from-an-informational-finding-to-a-valuable-lesson-my-idor-discovery-on-bugcrowd-a7d40fd1d2aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

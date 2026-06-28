@@ -1,5 +1,8 @@
 ## 📅 28 June 2026
 
+- **[RCE via Gemini Live AI Voice Session Misconfiguration.](https://alvinferd.medium.com/rce-via-gemini-live-ai-voice-session-misconfiguration-e0648805a055?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 June 2026
+
 - **[The Open Source Security Reset](https://medium.com/ai-security-hub/the-open-source-security-reset-da9c662f56ee?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 June 2026
 

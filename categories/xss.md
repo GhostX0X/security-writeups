@@ -1,3 +1,12 @@
+## 📅 28 June 2026
+
+- **[Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix](https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 June 2026
+
+- **[Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix](https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 June 2026
+
+- **[Stored XSS into anchor href attribute with double quotes HTML-encoded | PortSwigger | Shiv Kumar |…](https://medium.com/@localhostsinga/stored-xss-into-anchor-href-attribute-with-double-quotes-html-encoded-portswigger-shiv-kumar-1b75767bd531?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 June 2026
 
 - **[Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…](https://alvinferd.medium.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
