@@ -1,3 +1,9 @@
+## 📅 29 June 2026
+
+- **[Looking for Beta Testers for SoftInterceptor: Help Me Find Bugs and Improve the Product](https://medium.com/@jmfrouin/looking-for-beta-testers-for-softinterceptor-help-me-find-bugs-and-improve-the-product-18bf0299a31c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 June 2026
+
+- **[Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story](https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 June 2026
 
 - **[Start Your Crypto Migration Before You’re Forced To](https://medium.com/@raj.mohindra/start-your-crypto-migration-before-youre-forced-to-bd1e0f1e33ec?source=rss------security-5)** _(Medium Security)_

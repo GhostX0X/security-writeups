@@ -1,3 +1,6 @@
+## 📅 29 June 2026
+
+- **[DOM XSS using Web Messages](https://medium.com/@tonmoybarmon/dom-xss-using-web-messages-4f859c7b8867?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 June 2026
 
 - **[Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix](https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,8 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-06-29 10:20:42.360610 UTC
+Last updated: 2026-06-29 15:29:47.883637 UTC
 
-- oauth: 1
-- xss: 2
-- idor: 1
-- rce: 1
+- rce: 2
+- ssrf: 2
+- csrf: 2
+- xss: 1

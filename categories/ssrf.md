@@ -1,3 +1,9 @@
+## 📅 29 June 2026
+
+- **[SSRF vs CSRF: Deep Dive, Real-World Exploits & Prevention Guide](https://medium.com/@N0aziXss/ssrf-vs-csrf-deep-dive-real-world-exploits-prevention-guide-8d2ee8eaec72?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 June 2026
+
+- **[SSRF vs CSRF: Deep Dive, Real-World Exploits & Prevention Guide](https://medium.com/@N0aziXss/ssrf-vs-csrf-deep-dive-real-world-exploits-prevention-guide-8d2ee8eaec72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 June 2026
 
 - **[BUG-BOUNTY SERIES 16: Server-Side Request Forgery (SSRF).](https://medium.com/@krisnawhy300/bug-bounty-series-16-server-side-request-forgery-ssrf-aba266e83b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
