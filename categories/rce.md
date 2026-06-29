@@ -1,5 +1,8 @@
 ## 📅 28 June 2026
 
+- **[Start Your Crypto Migration Before You’re Forced To](https://medium.com/@raj.mohindra/start-your-crypto-migration-before-youre-forced-to-bd1e0f1e33ec?source=rss------security-5)** _(Medium Security)_
+## 📅 28 June 2026
+
 - **[RCE via Gemini Live AI Voice Session Misconfiguration.](https://alvinferd.medium.com/rce-via-gemini-live-ai-voice-session-misconfiguration-e0648805a055?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 June 2026
 
