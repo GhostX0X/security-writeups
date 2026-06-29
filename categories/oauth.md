@@ -1,3 +1,6 @@
+## 📅 29 June 2026
+
+- **[I Didn’t Hack OAuth -I Just Clicked ‘Login’ Eight Times.](https://medium.com/@nayanacharya050/i-didnt-hack-oauth-i-just-clicked-login-eight-times-037b8773c8b2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 June 2026
 
 - **[I Found a High-Severity OAuth Account Takeover Vulnerability on IIT Madras’s Student Portal](https://medium.com/@betigetin/i-found-a-high-severity-oauth-account-takeover-vulnerability-on-iit-madrass-student-portal-ea37127d5b9d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
