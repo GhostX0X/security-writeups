@@ -1,3 +1,6 @@
+## 📅 29 June 2026
+
+- **[TryHackMe Passive Reconnaissance (versão em português)](https://medium.com/@c.mineff/tryhackme-passive-reconnaissance-vers%C3%A3o-em-portugu%C3%AAs-37cc0500b551?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 June 2026
 
 - **[️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…](https://systemweakness.com/%EF%B8%8F-network-scanning-masterclass-a-complete-guide-to-recon-port-scanning-vulnerability-4de837c73d23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 29 June 2026
+
+- **[How a Missing Rate Limit in a Password Reset Flow Led to Account Takeover](https://medium.com/@hossein.za68/how-a-missing-rate-limit-in-a-password-reset-flow-led-to-account-takeover-531f060b85de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 June 2026
+
+- **[When Account Recovery Became Account Delivery : Full Account Takeover](https://medium.com/@mohamedmehina31/when-account-recovery-became-account-delivery-full-account-takeover-57c91a9fc300?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 June 2026
 
 - **[# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
