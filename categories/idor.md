@@ -1,3 +1,9 @@
+## 📅 29 June 2026
+
+- **[IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data](https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 June 2026
+
+- **[IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data](https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 June 2026
 
 - **[How I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure…](https://medium.com/@Sahal07/how-i-found-an-unauthenticated-idor-in-a-government-college-website-a-responsible-disclosure-case-46f6bf5d3bd3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 30 June 2026
+
+- **[Rate Limiting for Login Endpoints: Stopping Brute Force Without Angering Users](https://medium.com/@erwindev/rate-limiting-for-login-endpoints-stopping-brute-force-without-angering-users-7e8821b139bb?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 June 2026
 
 - **[Looking for Beta Testers for SoftInterceptor: Help Me Find Bugs and Improve the Product](https://medium.com/@jmfrouin/looking-for-beta-testers-for-softinterceptor-help-me-find-bugs-and-improve-the-product-18bf0299a31c?source=rss------pentesting-5)** _(Medium Pentesting)_
