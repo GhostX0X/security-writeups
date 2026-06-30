@@ -1,3 +1,6 @@
+## 📅 30 June 2026
+
+- **[OAuth1.0 (part 1): General Overview](https://niki9max.medium.com/oauth1-0-part-1-general-overview-7610b0ac3aea?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 June 2026
 
 - **[I Didn’t Hack OAuth -I Just Clicked ‘Login’ Eight Times.](https://medium.com/@nayanacharya050/i-didnt-hack-oauth-i-just-clicked-login-eight-times-037b8773c8b2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

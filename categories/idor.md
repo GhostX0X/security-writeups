@@ -1,5 +1,8 @@
 ## 📅 29 June 2026
 
+- **[IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data](https://medium.com/@0xlumi/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 June 2026
+
 - **[IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data](https://medium.com/@obafemipelumi2003/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 June 2026
 

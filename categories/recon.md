@@ -1,3 +1,6 @@
+## 📅 30 June 2026
+
+- **[VAPT Series Part 2: Reconnaissance and Information Gathering — The Foundation of Every Pentest](https://medium.com/@muhyideenqadiri/vapt-series-part-2-reconnaissance-and-information-gathering-the-foundation-of-every-pentest-7572cad15e3c?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 29 June 2026
 
 - **[TryHackMe Passive Reconnaissance (versão em português)](https://medium.com/@c.mineff/tryhackme-passive-reconnaissance-vers%C3%A3o-em-portugu%C3%AAs-37cc0500b551?source=rss------pentesting-5)** _(Medium Pentesting)_
