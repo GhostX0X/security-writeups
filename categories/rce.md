@@ -1,5 +1,8 @@
 ## 📅 30 June 2026
 
+- **[The Phantom Price Glitch: How I Hacked ¥750,000 From a Japanese E-Commerce Giant](https://atanupal22256.medium.com/the-phantom-price-glitch-how-i-hacked-750-000-from-a-japanese-e-commerce-giant-a36bc4413cd0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 June 2026
+
 - **[Post auth RCE in GeoSIG seismological equipment (GMSplus)](https://medium.com/@bertinjoseb/post-auth-rce-in-geosig-seismological-equipment-gmsplus-b2358b44a625?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 June 2026
 
