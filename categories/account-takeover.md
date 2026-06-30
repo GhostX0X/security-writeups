@@ -1,3 +1,6 @@
+## 📅 30 June 2026
+
+- **[“Mercury Rising”: How German Journalists Exposed a Live NATO Locked Shields System](https://krevetk0.medium.com/mercury-rising-how-german-journalists-exposed-a-live-nato-locked-shields-system-35b98d570b9a?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 June 2026
 
 - **[How a Missing Rate Limit in a Password Reset Flow Led to Account Takeover](https://medium.com/@hossein.za68/how-a-missing-rate-limit-in-a-password-reset-flow-led-to-account-takeover-531f060b85de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

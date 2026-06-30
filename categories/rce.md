@@ -1,5 +1,8 @@
 ## 📅 30 June 2026
 
+- **[Post auth RCE in GeoSIG seismological equipment (GMSplus)](https://medium.com/@bertinjoseb/post-auth-rce-in-geosig-seismological-equipment-gmsplus-b2358b44a625?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 June 2026
+
 - **[Rate Limiting for Login Endpoints: Stopping Brute Force Without Angering Users](https://medium.com/@erwindev/rate-limiting-for-login-endpoints-stopping-brute-force-without-angering-users-7e8821b139bb?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 June 2026
 
