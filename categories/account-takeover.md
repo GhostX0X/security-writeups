@@ -1,3 +1,9 @@
+## 📅 01 July 2026
+
+- **[How I Turned a Worthless CSRF + IDOR into a Full Account Takeover](https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 July 2026
+
+- **[Stay One Step Ahead of Cyber Threats with the Best Authenticator App](https://easterlyjen6.medium.com/stay-one-step-ahead-of-cyber-threats-with-the-best-authenticator-app-ca7defdf9128?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 June 2026
 
 - **[5G Security: Why Most Operators Are Underprepared for the Threats Standalone Architecture…](https://medium.com/@elmehdinini1/5g-security-why-most-operators-are-underprepared-for-the-threats-standalone-architecture-7238db8b4fb9?source=rss------security-5)** _(Medium Security)_

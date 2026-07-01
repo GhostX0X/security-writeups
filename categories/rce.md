@@ -1,3 +1,6 @@
+## 📅 01 July 2026
+
+- **[Caracal Joins the Vercel Open Source Program Spring 2026 Cohort](https://medium.com/@caracal.core/caracal-joins-the-vercel-open-source-program-spring-2026-cohort-8d701a0a1606?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 June 2026
 
 - **[The Phantom Price Glitch: How I Hacked ¥750,000 From a Japanese E-Commerce Giant](https://atanupal22256.medium.com/the-phantom-price-glitch-how-i-hacked-750-000-from-a-japanese-e-commerce-giant-a36bc4413cd0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

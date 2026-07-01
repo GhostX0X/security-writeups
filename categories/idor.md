@@ -1,3 +1,6 @@
+## 📅 01 July 2026
+
+- **[How I Turned a Worthless CSRF + IDOR into a Full Account Takeover](https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 June 2026
 
 - **[IDOR in a Session Replay API: One Sequential ID From Wiping Any Customer’s Data](https://medium.com/@0xlumi/idor-in-a-session-replay-api-one-sequential-id-from-wiping-any-customers-data-f24f237609da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
