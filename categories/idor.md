@@ -1,5 +1,8 @@
 ## 📅 01 July 2026
 
+- **[$600 IDOR](https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 July 2026
+
 - **[How I Turned a Worthless CSRF + IDOR into a Full Account Takeover](https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 June 2026
 

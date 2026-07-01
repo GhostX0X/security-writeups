@@ -1,5 +1,8 @@
 ## 📅 01 July 2026
 
+- **[Authentication Bypass via Session Token Reuse Leading to Account Takeover](https://medium.com/@youssefawad1357/authentication-bypass-via-session-token-reuse-leading-to-account-takeover-9f24022c32ed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 July 2026
+
 - **[How I Turned a Worthless CSRF + IDOR into a Full Account Takeover](https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 
