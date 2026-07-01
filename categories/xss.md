@@ -1,3 +1,6 @@
+## 📅 01 July 2026
+
+- **[Reflected XSS into HTML Context: Popping alert() Through an Unencoded Search Field](https://medium.com/@devchetanpatil/reflected-xss-into-html-context-popping-alert-through-an-unencoded-search-field-afaf04410b19?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 June 2026
 
 - **[“The XSS Cheat Sheet That Keeps Me Up at Night”](https://infosecwriteups.com/the-xss-cheat-sheet-that-keeps-me-up-at-night-8438d3954532?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

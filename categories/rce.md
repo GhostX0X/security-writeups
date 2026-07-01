@@ -1,5 +1,8 @@
 ## 📅 01 July 2026
 
+- **[Security Audits, Managed Crowdsourced Security, and Bug Bounty Programs: Complementary, Not…](https://medium.com/least-authority/security-audits-managed-crowdsourced-security-and-bug-bounty-programs-complementary-not-c851e496419a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 July 2026
+
 - **[Building ReconMaster: My Open-Source Automated OSINT & Dorking Tool](https://medium.com/@arthaanugerahheffendi/building-reconmaster-my-open-source-automated-osint-dorking-tool-073bf579ceba?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 

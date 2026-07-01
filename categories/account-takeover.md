@@ -1,5 +1,8 @@
 ## 📅 01 July 2026
 
+- **[Anatomy of a Shellcode: A Deep Dive into Runtime Execution Internals](https://medium.com/@Abhineet.Ayan/anatomy-of-a-shellcode-a-deep-dive-into-runtime-execution-internals-906f51b97d7e?source=rss------security-5)** _(Medium Security)_
+## 📅 01 July 2026
+
 - **[Authentication Bypass via Session Token Reuse Leading to Account Takeover](https://medium.com/@youssefawad1357/authentication-bypass-via-session-token-reuse-leading-to-account-takeover-9f24022c32ed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 

@@ -1,5 +1,8 @@
 ## 📅 01 July 2026
 
+- **[How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…](https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 July 2026
+
 - **[How I Turned a Worthless CSRF + IDOR into a Full Account Takeover](https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 June 2026
 
