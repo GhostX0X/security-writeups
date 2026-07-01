@@ -1,5 +1,8 @@
 ## 📅 30 June 2026
 
+- **[5G Security: Why Most Operators Are Underprepared for the Threats Standalone Architecture…](https://medium.com/@elmehdinini1/5g-security-why-most-operators-are-underprepared-for-the-threats-standalone-architecture-7238db8b4fb9?source=rss------security-5)** _(Medium Security)_
+## 📅 30 June 2026
+
 - **[“Mercury Rising”: How German Journalists Exposed a Live NATO Locked Shields System](https://krevetk0.medium.com/mercury-rising-how-german-journalists-exposed-a-live-nato-locked-shields-system-35b98d570b9a?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 June 2026
 

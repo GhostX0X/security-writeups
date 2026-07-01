@@ -1,3 +1,6 @@
+## 📅 01 July 2026
+
+- **[SQL Injection: Types, Logic, Examples, and Testing Methodology](https://medium.com/@4zer7y/sql-injection-types-logic-examples-and-testing-methodology-7f2315756c2d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 29 June 2026
 
 - **[SQL Injection Still Works in 2025: How We Found 12 Vulnerabilities in Our Own Code](https://medium.com/@erwindev/sql-injection-still-works-in-2025-how-we-found-12-vulnerabilities-in-our-own-code-a6219e2e2d19?source=rss------security-5)** _(Medium Security)_
