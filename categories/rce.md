@@ -1,5 +1,8 @@
 ## 📅 02 July 2026
 
+- **[How I Got Tired Of Windows Closed-Source Restrictive Ecosystem and Ended Up a Full-Time Kubuntu User](https://muf4sa.medium.com/how-i-got-tired-of-windows-closed-source-restrictive-ecosystem-and-ended-up-a-full-time-kubuntu-user-508d14199b00?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 July 2026
+
 - **[I Hacked a Multi-Million Dollar E-Commerce Site by Exploiting a 0.001-Second Race Condition](https://medium.com/@psaibtech/i-hacked-a-multi-million-dollar-e-commerce-site-by-exploiting-a-0-001-second-race-condition-4cf489086cd9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 

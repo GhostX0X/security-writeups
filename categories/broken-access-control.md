@@ -1,3 +1,6 @@
+## 📅 02 July 2026
+
+- **[OWASP Top 10 2025 A01: Broken Access Control Starts Before the Exploit](https://medium.com/@cprzemek91/owasp-top-10-2025-a01-broken-access-control-starts-before-the-exploit-09bd8acd88c5?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 June 2026
 
 - **[Web Security Academy — Access Control Vulnerabilities (Practitioner Level Labs)](https://medium.com/@Kamal_S/web-security-academy-access-control-vulnerabilities-practitioner-level-labs-eec3aeb01c8a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
