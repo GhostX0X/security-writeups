@@ -1,6 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-07-02 13:28:27.660296 UTC
+Last updated: 2026-07-02 19:08:12.646858 UTC
 
-- broken-access-control: 1
-- rce: 2
+- rce: 4
+- recon: 2

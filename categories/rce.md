@@ -1,5 +1,17 @@
 ## 📅 02 July 2026
 
+- **[How I Got Tired Of Windows Closed-Source Restrictive Ecosystem and Ended Up a Full-Time Kubuntu…](https://muf4sa.medium.com/how-i-got-tired-of-windows-closed-source-restrictive-ecosystem-and-ended-up-a-full-time-kubuntu-user-508d14199b00?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 July 2026
+
+- **[Methodology over Automation: Deconstructing E-commerce Checkout Logic](https://medium.com/@extraterrestrial2342/methodology-over-automation-deconstructing-e-commerce-checkout-logic-449ae6e1d024?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 July 2026
+
+- **[Subscription Enforcement Bypass Leading to Unauthorized Full Application Access](https://medium.com/@0xMo7areb/subscription-enforcement-bypass-leading-to-unauthorized-full-application-access-fb897afde3f6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 July 2026
+
+- **[The 2026 Guide to Open-Source Security Tools Every Laravel Developer Needs](https://hcanovas.medium.com/the-2026-guide-to-open-source-security-tools-every-laravel-developer-needs-ae5b2f016c51?source=rss------security-5)** _(Medium Security)_
+## 📅 02 July 2026
+
 - **[How I Got Tired Of Windows Closed-Source Restrictive Ecosystem and Ended Up a Full-Time Kubuntu User](https://muf4sa.medium.com/how-i-got-tired-of-windows-closed-source-restrictive-ecosystem-and-ended-up-a-full-time-kubuntu-user-508d14199b00?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 02 July 2026
 

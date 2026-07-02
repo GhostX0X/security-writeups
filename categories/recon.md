@@ -1,3 +1,9 @@
+## 📅 02 July 2026
+
+- **[The Bug Bounty Hunter’s Ultimate Recon Checklist (2026 Edition) — Clean Version](https://osintteam.blog/the-bug-bounty-hunters-ultimate-recon-checklist-2026-edition-clean-version-82ad4be87382?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 July 2026
+
+- **[Why I Built a New Go Based Recon Tool in 2026 (And How It Holds Up Against reconFTW and BBOT)](https://medium.com/@demondevarmy/why-i-built-a-new-go-based-recon-tool-in-2026-and-how-it-holds-up-against-reconftw-and-bbot-c4804b361cb6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 
 - **[Building ReconMaster: My Open-Source Automated OSINT & Dorking Tool](https://medium.com/@arthaanugerahheffendi/building-reconmaster-my-open-source-automated-osint-dorking-tool-073bf579ceba?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
