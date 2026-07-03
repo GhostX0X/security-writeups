@@ -1,8 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-07-03 08:48:08.358646 UTC
+Last updated: 2026-07-03 13:41:29.846810 UTC
 
-- recon: 3
+- recon: 2
 - broken-access-control: 1
 - idor: 1
-- rce: 2
+- rce: 1
