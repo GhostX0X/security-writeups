@@ -1,3 +1,6 @@
+## 📅 03 July 2026
+
+- **[Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 
 - **[$600 IDOR](https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

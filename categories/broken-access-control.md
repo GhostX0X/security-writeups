@@ -1,3 +1,6 @@
+## 📅 03 July 2026
+
+- **[Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 July 2026
 
 - **[OWASP Top 10 2025 A01: Broken Access Control Starts Before the Exploit](https://medium.com/@cprzemek91/owasp-top-10-2025-a01-broken-access-control-starts-before-the-exploit-09bd8acd88c5?source=rss------security-5)** _(Medium Security)_

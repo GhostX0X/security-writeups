@@ -1,3 +1,6 @@
+## 📅 03 July 2026
+
+- **[Recon to Bug Mapping: Kaunsa Recon Kaunsa Bug Dikhata Hai?](https://medium.com/@harshitp1971/recon-to-bug-mapping-kaunsa-recon-kaunsa-bug-dikhata-hai-8f3601bba089?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 July 2026
 
 - **[The Bug Bounty Hunter’s Ultimate Recon Checklist (2026 Edition) — Clean Version](https://osintteam.blog/the-bug-bounty-hunters-ultimate-recon-checklist-2026-edition-clean-version-82ad4be87382?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
