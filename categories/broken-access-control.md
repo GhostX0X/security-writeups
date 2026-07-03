@@ -1,5 +1,11 @@
 ## 📅 03 July 2026
 
+- **[Bypassing Role-Based Access Controls via Client-Side Generation & JS Overrides](https://medium.com/@belalshohaip222/bypassing-role-based-access-controls-via-client-side-generation-js-overrides-f797496efb6c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 July 2026
+
+- **[Bypassing Role-Based Access Controls via Client-Side Generation & JS Overrides](https://medium.com/@belalshohaip222/bypassing-role-based-access-controls-via-client-side-generation-js-overrides-f797496efb6c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 July 2026
+
 - **[Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 July 2026
 

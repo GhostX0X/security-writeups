@@ -1,5 +1,8 @@
 ## 📅 03 July 2026
 
+- **[TryHackMe Reconhecimento ativo (versão em português)](https://medium.com/@c.mineff/tryhackme-reconhecimento-ativo-vers%C3%A3o-em-portugu%C3%AAs-0d1308ec7e30?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 July 2026
+
 - **[Recon to Bug Mapping: Kaunsa Recon Kaunsa Bug Dikhata Hai?](https://medium.com/@harshitp1971/recon-to-bug-mapping-kaunsa-recon-kaunsa-bug-dikhata-hai-8f3601bba089?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 July 2026
 

@@ -1,3 +1,6 @@
+## 📅 03 July 2026
+
+- **[The Methodology Behind CVE-2026–11395: An Unauthenticated SSRF Hiding in Plain Sight](https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-c89950051180?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 June 2026
 
 - **[SSRF vs CSRF: Deep Dive, Real-World Exploits & Prevention Guide](https://medium.com/@N0aziXss/ssrf-vs-csrf-deep-dive-real-world-exploits-prevention-guide-8d2ee8eaec72?source=rss------pentesting-5)** _(Medium Pentesting)_
