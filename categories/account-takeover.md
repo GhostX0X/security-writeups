@@ -1,3 +1,6 @@
+## 📅 03 July 2026
+
+- **[Demystifying Active Directory Built-In Privileged Groups: Anatomy, Attack Surface, and PowerShell…](https://medium.com/@aayushbhatt337/demystifying-active-directory-built-in-privileged-groups-anatomy-attack-surface-and-powershell-d9c167f4bc00?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 July 2026
 
 - **[Anatomy of a Shellcode: A Deep Dive into Runtime Execution Internals](https://medium.com/@Abhineet.Ayan/anatomy-of-a-shellcode-a-deep-dive-into-runtime-execution-internals-906f51b97d7e?source=rss------security-5)** _(Medium Security)_
