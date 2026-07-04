@@ -1,3 +1,6 @@
+## 📅 04 July 2026
+
+- **[Access Control Lists (ACL) and Lock Management in Enterprise .NET Applications](https://medium.com/@anderson.buenogod/access-control-lists-acl-and-lock-management-in-enterprise-net-applications-ae692e75fe23?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 July 2026
 
 - **[Bypassing Role-Based Access Controls via Client-Side Generation & JS Overrides](https://medium.com/@belalshohaip222/bypassing-role-based-access-controls-via-client-side-generation-js-overrides-f797496efb6c?source=rss------pentesting-5)** _(Medium Pentesting)_
