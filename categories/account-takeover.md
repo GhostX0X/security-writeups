@@ -1,3 +1,6 @@
+## 📅 04 July 2026
+
+- **[How I Found an Account Takeover (ATO) in Swisscom](https://medium.com/@m0ro23/how-i-found-an-account-takeover-ato-in-swisscom-383e7bbf2d2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 July 2026
 
 - **[Demystifying Active Directory Built-In Privileged Groups: Anatomy, Attack Surface, and PowerShell…](https://medium.com/@aayushbhatt337/demystifying-active-directory-built-in-privileged-groups-anatomy-attack-surface-and-powershell-d9c167f4bc00?source=rss------security-5)** _(Medium Security)_
