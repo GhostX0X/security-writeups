@@ -1,3 +1,6 @@
+## 📅 04 July 2026
+
+- **[What Your PHP Logs Actually Look Like During an SQL Injection Attack](https://medium.com/@jnchiminyi/what-your-php-logs-actually-look-like-during-an-sql-injection-attack-571aa807f5fe?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 July 2026
 
 - **[SQL Injection: Types, Logic, Examples, and Testing Methodology](https://medium.com/@4zer7y/sql-injection-types-logic-examples-and-testing-methodology-7f2315756c2d?source=rss------pentesting-5)** _(Medium Pentesting)_

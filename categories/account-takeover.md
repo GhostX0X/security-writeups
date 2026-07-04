@@ -1,5 +1,11 @@
 ## 📅 04 July 2026
 
+- **[Visma Case Study Part 2: Cross Tenant Account Takeover](https://medium.com/@Pwnedl0l/visma-case-study-part-2-cross-tenant-account-takeover-1510642ab0e2?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 July 2026
+
+- **[Visma Case Study Part 2: Cross Tenant Account Takeover](https://medium.com/@Pwnedl0l/visma-case-study-part-2-cross-tenant-account-takeover-1510642ab0e2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 July 2026
+
 - **[How I Found an Account Takeover (ATO) in Swisscom](https://medium.com/@m0ro23/how-i-found-an-account-takeover-ato-in-swisscom-383e7bbf2d2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 July 2026
 
