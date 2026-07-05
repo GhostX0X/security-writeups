@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[The Recon Habit Most Hunters Skip (And Pay For Later)](https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 July 2026
 
 - **[How I Do Recon in 2026: No Subdomains, No Wordlists, Just the App](https://meetcyber.net/how-i-do-recon-in-2026-no-subdomains-no-wordlists-just-the-app-2b446f76e764?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

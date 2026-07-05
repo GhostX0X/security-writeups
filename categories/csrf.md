@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[The Modern CSRF Playbook: From Basic Mechanics to SameSite Bypasses](https://medium.com/@ravsau00/the-modern-csrf-playbook-from-basic-mechanics-to-samesite-bypasses-c28128e40f46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 July 2026
 
 - **[How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…](https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
