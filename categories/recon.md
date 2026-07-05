@@ -1,5 +1,8 @@
 ## 📅 04 July 2026
 
+- **[How I Do Recon in 2026: No Subdomains, No Wordlists, Just the App](https://meetcyber.net/how-i-do-recon-in-2026-no-subdomains-no-wordlists-just-the-app-2b446f76e764?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 July 2026
+
 - **[BladeRecon Explained | Next-Generation Recon for Bug Bounty Hunters](https://medium.com/@pentesterclubpvtltd/bladerecon-explained-next-generation-recon-for-bug-bounty-hunters-60ce90be6432?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 July 2026
 
