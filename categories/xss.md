@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[TryHackMe “Domino” Writeup | XSS, IDOR & JWT Bypass to Root](https://medium.com/@matteo.h.iacovantuono/tryhackme-domino-writeup-xss-idor-jwt-bypass-to-root-010c2aec0b25?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 July 2026
 
 - **[Reflected XSS into HTML Context: Popping alert() Through an Unencoded Search Field](https://medium.com/@devchetanpatil/reflected-xss-into-html-context-popping-alert-through-an-unencoded-search-field-afaf04410b19?source=rss------security-5)** _(Medium Security)_

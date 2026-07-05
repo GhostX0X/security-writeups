@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[TryHackMe “Domino” Writeup | XSS, IDOR & JWT Bypass to Root](https://medium.com/@matteo.h.iacovantuono/tryhackme-domino-writeup-xss-idor-jwt-bypass-to-root-010c2aec0b25?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 July 2026
 
 - **[Day 2 of Bug Hunting: Understanding IDOR & Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
