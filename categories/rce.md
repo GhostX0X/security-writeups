@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[How One RCE Led to Seven Critical Vulnerabilities Across the Same Organization](https://medium.com/@MohaseenK/how-one-rce-led-to-seven-critical-vulnerabilities-across-the-same-organization-a5ebe89865c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 July 2026
 
 - **[How I Got Tired Of Windows Closed-Source Restrictive Ecosystem and Ended Up a Full-Time Kubuntu…](https://muf4sa.medium.com/how-i-got-tired-of-windows-closed-source-restrictive-ecosystem-and-ended-up-a-full-time-kubuntu-user-508d14199b00?source=rss------pentesting-5)** _(Medium Pentesting)_

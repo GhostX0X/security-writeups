@@ -1,5 +1,8 @@
 ## 📅 05 July 2026
 
+- **[From File Upload to Admin Account Takeover: Exploring Blind XSS via Malicious File Content](https://orion7715.medium.com/from-file-upload-to-admin-account-takeover-exploring-blind-xss-via-malicious-file-content-cba1ac63ab11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 July 2026
+
 - **[TryHackMe “Domino” Writeup | XSS, IDOR & JWT Bypass to Root](https://medium.com/@matteo.h.iacovantuono/tryhackme-domino-writeup-xss-idor-jwt-bypass-to-root-010c2aec0b25?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 July 2026
 

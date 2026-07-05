@@ -1,3 +1,9 @@
+## 📅 05 July 2026
+
+- **[From File Upload to Admin Account Takeover: Exploring Blind XSS via Malicious File Content](https://orion7715.medium.com/from-file-upload-to-admin-account-takeover-exploring-blind-xss-via-malicious-file-content-cba1ac63ab11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 July 2026
+
+- **[How to Hire a Licensed Private Investigator in the USA](https://medium.com/@ProTalentPIcks/how-to-hire-a-licensed-private-investigator-in-the-usa-51aaf740b5d4?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 July 2026
 
 - **[Visma Case Study Part 2: Cross Tenant Account Takeover](https://medium.com/@Pwnedl0l/visma-case-study-part-2-cross-tenant-account-takeover-1510642ab0e2?source=rss------pentesting-5)** _(Medium Pentesting)_

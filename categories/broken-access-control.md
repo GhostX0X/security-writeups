@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[Broken Access Control: Low Privilege, Full Organization Visibility](https://medium.com/@0xMo7areb/broken-access-control-low-privilege-full-organization-visibility-f6f987503648?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 July 2026
 
 - **[Access Control Lists (ACL) and Lock Management in Enterprise .NET Applications](https://medium.com/@anderson.buenogod/access-control-lists-acl-and-lock-management-in-enterprise-net-applications-ae692e75fe23?source=rss------security-5)** _(Medium Security)_
