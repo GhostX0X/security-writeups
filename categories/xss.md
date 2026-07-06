@@ -1,5 +1,8 @@
 ## 📅 06 July 2026
 
+- **[Finding a Stored XSS in a Support Ticket System: A Responsible Disclosure Story](https://medium.com/@ilianothingg/finding-a-stored-xss-in-a-support-ticket-system-a-responsible-disclosure-story-d25a15faa487?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 July 2026
+
 - **[Server-Side XSS via PDF Generation Functionality](https://medium.com/@mohamed10111213141516171819/server-side-xss-via-pdf-generation-functionality-d564c512f506?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 

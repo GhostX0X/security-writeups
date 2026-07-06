@@ -1,3 +1,6 @@
+## 📅 06 July 2026
+
+- **[From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data (PART 2)](https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[Discovering an IDOR Vulnerability in a Community Platform API](https://medium.com/@tahaabdelalali1/discovering-an-idor-vulnerability-in-a-community-platform-api-6bf01b92b5ee?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

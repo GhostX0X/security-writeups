@@ -1,5 +1,8 @@
 ## 📅 06 July 2026
 
+- **[Introducing Synapse: a deterministic-first, open-source SCA and evidence platform](https://medium.com/@nhatnghiatyper/introducing-synapse-a-deterministic-first-open-source-sca-and-evidence-platform-ebe0f4d18d97?source=rss------security-5)** _(Medium Security)_
+## 📅 06 July 2026
+
 - **[From Application RCE to Full Host Takeover via Docker Socket Misconfiguration](https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 06 July 2026
 
