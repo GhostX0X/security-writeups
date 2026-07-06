@@ -1,3 +1,6 @@
+## 📅 06 July 2026
+
+- **[Server-Side XSS via PDF Generation Functionality](https://medium.com/@mohamed10111213141516171819/server-side-xss-via-pdf-generation-functionality-d564c512f506?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[Investigating a Potential Stored XSS During Community Platform Testing](https://medium.com/@tahaabdelalali1/investigating-a-potential-stored-xss-during-community-platform-testing-3084d20e68da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
