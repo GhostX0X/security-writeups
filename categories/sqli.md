@@ -1,3 +1,6 @@
+## 📅 05 July 2026
+
+- **[SQLi With A Twist: How leveraging multiple vulnerabilities can lead to significant impact](https://medium.com/@kfirverse/sqli-with-a-twist-how-leveraging-multiple-vulnerabilities-can-lead-to-significant-impact-0c5ca2234f38?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 04 July 2026
 
 - **[What Your PHP Logs Actually Look Like During an SQL Injection Attack](https://medium.com/@jnchiminyi/what-your-php-logs-actually-look-like-during-an-sql-injection-attack-571aa807f5fe?source=rss------security-5)** _(Medium Security)_

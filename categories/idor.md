@@ -1,5 +1,8 @@
 ## 📅 05 July 2026
 
+- **[Discovering an IDOR Vulnerability in a Community Platform API](https://medium.com/@tahaabdelalali1/discovering-an-idor-vulnerability-in-a-community-platform-api-6bf01b92b5ee?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 July 2026
+
 - **[TryHackMe “Domino” Writeup | XSS, IDOR & JWT Bypass to Root](https://medium.com/@matteo.h.iacovantuono/tryhackme-domino-writeup-xss-idor-jwt-bypass-to-root-010c2aec0b25?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 July 2026
 
