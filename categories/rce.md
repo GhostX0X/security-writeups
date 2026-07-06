@@ -1,3 +1,9 @@
+## 📅 06 July 2026
+
+- **[From Application RCE to Full Host Takeover via Docker Socket Misconfiguration](https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 July 2026
+
+- **[From Application RCE to Full Host Takeover via Docker Socket Misconfiguration](https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[How One RCE Led to Seven Critical Vulnerabilities Across the Same Organization](https://medium.com/@MohaseenK/how-one-rce-led-to-seven-critical-vulnerabilities-across-the-same-organization-a5ebe89865c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

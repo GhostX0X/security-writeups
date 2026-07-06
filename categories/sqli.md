@@ -1,3 +1,6 @@
+## 📅 06 July 2026
+
+- **[From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[SQLi With A Twist: How leveraging multiple vulnerabilities can lead to significant impact](https://medium.com/@kfirverse/sqli-with-a-twist-how-leveraging-multiple-vulnerabilities-can-lead-to-significant-impact-0c5ca2234f38?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,9 @@
+## 📅 06 July 2026
+
+- **[From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 July 2026
+
+- **[I Built the Recon & OSINT Cheat Sheet I Wish Someone Handed Me on Day One](https://medium.com/@LegitHunter/i-built-the-recon-osint-cheat-sheet-i-wish-someone-handed-me-on-day-one-0678a3cb0196?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[The Recon Habit Most Hunters Skip (And Pay For Later)](https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
