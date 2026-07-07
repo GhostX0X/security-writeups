@@ -1,3 +1,6 @@
+## 📅 07 July 2026
+
+- **[When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room](https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 July 2026
 
 - **[The Methodology Behind CVE-2026-11395: An Unauthenticated SSRF Hiding in Plain Sight](https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-76a5a81d0f2c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
