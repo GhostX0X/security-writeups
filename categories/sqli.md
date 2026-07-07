@@ -1,3 +1,6 @@
+## 📅 07 July 2026
+
+- **[SQL Injection: Web Uygulamalarının En Eski ve En Tehlikeli Düşmanı](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalar%C4%B1n%C4%B1n-en-eski-ve-en-tehlikeli-d%C3%BC%C5%9Fman%C4%B1-f409e0736079?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 06 July 2026
 
 - **[From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

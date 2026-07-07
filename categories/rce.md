@@ -1,3 +1,6 @@
+## 📅 07 July 2026
+
+- **[The Path of the Serpent: How I Turned a P5 Open Redirect into a $7,500 RCE on Ragnar Lothbrok](https://atanupal22256.medium.com/the-path-of-the-serpent-how-i-turned-a-p5-open-redirect-into-a-7-500-rce-on-ragnar-lothbrok-27bfc5ef14cb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 July 2026
 
 - **[Patch the Planet: OpenAI Turned AI Into an Open Source Security Engineer](https://medium.com/@ritukampani/patch-the-planet-openai-turned-ai-into-an-open-source-security-engineer-e759a319693b?source=rss------security-5)** _(Medium Security)_

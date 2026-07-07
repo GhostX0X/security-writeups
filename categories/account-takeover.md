@@ -1,3 +1,6 @@
+## 📅 07 July 2026
+
+- **[From Organizaton Admin to ReadOnly… But Still Able to Download Sensitive Exports](https://medium.com/@RootXSec/from-organizaton-admin-to-readonly-but-still-able-to-download-sensitive-exports-64fdade12ab9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 July 2026
 
 - **[When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…](https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
