@@ -1,3 +1,9 @@
+## 📅 06 July 2026
+
+- **[When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…](https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 July 2026
+
+- **[How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform (~$1,125)](https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[From File Upload to Admin Account Takeover: Exploring Blind XSS via Malicious File Content](https://orion7715.medium.com/from-file-upload-to-admin-account-takeover-exploring-blind-xss-via-malicious-file-content-cba1ac63ab11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
