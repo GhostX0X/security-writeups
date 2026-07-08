@@ -1,3 +1,6 @@
+## 📅 08 July 2026
+
+- **[Snowflake External OAuth Security Integration: How Authentication Works Between Snowflake and…](https://medium.com/@usmaanrifkhan/snowflake-external-oauth-security-integration-how-authentication-works-between-snowflake-and-d503d342c2e5?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 June 2026
 
 - **[OAuth1.0 (part 1): General Overview](https://niki9max.medium.com/oauth1-0-part-1-general-overview-7610b0ac3aea?source=rss------security-5)** _(Medium Security)_
