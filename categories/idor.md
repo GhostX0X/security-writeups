@@ -1,3 +1,6 @@
+## 📅 08 July 2026
+
+- **[The $0 IDOR That Was Worth More Than a $12,500 P1](https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 July 2026
 
 - **[From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data (PART 2)](https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

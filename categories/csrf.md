@@ -1,5 +1,11 @@
 ## 📅 08 July 2026
 
+- **[Tickets Data Exfiltration/Modification Via CSRF After Bypassing Restrictions on a GraphQL API…](https://0xm0r4d.medium.com/tickets-data-exfiltration-modification-via-csrf-bypassing-graphql-api-protections-9983574c14a1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 July 2026
+
+- **[Tickets Data Exfiltration/Modification Via CSRF After Bypassing Restrictions on a GraphQL API…](https://0xm0r4d.medium.com/tickets-data-exfiltration-modification-via-csrf-bypassing-graphql-api-protections-9983574c14a1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 July 2026
+
 - **[Tickets Data Exfiltration/Modification via CSRF — Bypassing GraphQL API Protections](https://0xm0r4d.medium.com/tickets-data-exfiltration-modification-via-csrf-bypassing-graphql-api-protections-9983574c14a1?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 July 2026
 
