@@ -1,3 +1,6 @@
+## 📅 09 July 2026
+
+- **[Security Advisory: Chaining XSS, Database Exposure, and GDPR Violations in Devcomm BIP CMS](https://medium.com/@https.vrun/security-advisory-chaining-xss-database-exposure-and-gdpr-violations-in-devcomm-bip-cms-c1fd3db15646?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 July 2026
 
 - **[Finding a Stored XSS in a Support Ticket System: A Responsible Disclosure Story](https://medium.com/@ilianothingg/finding-a-stored-xss-in-a-support-ticket-system-a-responsible-disclosure-story-d25a15faa487?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

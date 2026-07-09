@@ -1,3 +1,6 @@
+## 📅 09 July 2026
+
+- **[How I Found My First Critical Bug (An IDOR Story)](https://kd-200.medium.com/how-i-found-my-first-critical-bug-an-idor-story-f8c07ca4d795?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 July 2026
 
 - **[The $0 IDOR That Was Worth More Than a $12,500 P1](https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
