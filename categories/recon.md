@@ -1,3 +1,6 @@
+## 📅 09 July 2026
+
+- **[Recon to Shell Access: Nokia Hall of Fame](https://scriptjacker.medium.com/recon-to-shell-access-nokia-hall-of-fame-5a7995595631?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 July 2026
 
 - **[From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

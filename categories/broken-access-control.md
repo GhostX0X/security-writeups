@@ -1,3 +1,6 @@
+## 📅 09 July 2026
+
+- **[Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs](https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 July 2026
 
 - **[Broken Access Control: Low Privilege, Full Organization Visibility](https://medium.com/@0xMo7areb/broken-access-control-low-privilege-full-organization-visibility-f6f987503648?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
