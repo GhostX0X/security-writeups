@@ -1,3 +1,6 @@
+## 📅 10 July 2026
+
+- **[Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…](https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 July 2026
 
 - **[When a Proxy Becomes a Spy: Hunting an SSRF That Led Straight Into the Server Room](https://medium.com/@yogeshbhandage/when-a-proxy-becomes-a-spy-hunting-an-ssrf-that-led-straight-into-the-server-room-99445fd2f95f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 10 July 2026
+
+- **[From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me](https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 July 2026
+
+- **[How I Found a Stored XSS Vulnerability While Testing for Self-XSS](https://medium.com/@mr-sudheer/how-i-found-a-stored-xss-vulnerability-while-testing-for-self-xss-131559b570a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 July 2026
 
 - **[Security Advisory: Chaining XSS, Database Exposure, and GDPR Violations in Devcomm BIP CMS](https://medium.com/@https.vrun/security-advisory-chaining-xss-database-exposure-and-gdpr-violations-in-devcomm-bip-cms-c1fd3db15646?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

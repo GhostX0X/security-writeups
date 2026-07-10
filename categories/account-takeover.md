@@ -1,3 +1,6 @@
+## 📅 10 July 2026
+
+- **[How I Bypassed a Mandatory 2FA Enforcement Just by Dropping One Request](https://medium.com/@northsidehacker/how-i-bypassed-a-mandatory-2fa-enforcement-just-by-dropping-one-request-863b79f88771?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 July 2026
 
 - **[Zypheron vs NodeZero: Operator Workspace vs Autonomous Pentest Platform](https://medium.com/@2starx/zypheron-vs-nodezero-operator-workspace-vs-autonomous-pentest-platform-6d72b97a4c7b?source=rss------pentesting-5)** _(Medium Pentesting)_

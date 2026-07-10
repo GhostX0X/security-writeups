@@ -1,3 +1,6 @@
+## 📅 10 July 2026
+
+- **[How I Bypassed a Mandatory 2FA Enforcement Just by Dropping One Request](https://medium.com/@northsidehacker/how-i-bypassed-a-mandatory-2fa-enforcement-just-by-dropping-one-request-863b79f88771?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 July 2026
 
 - **[The Path of the Serpent: How I Turned a P5 Open Redirect into a $7,500 RCE on Ragnar Lothbrok](https://atanupal22256.medium.com/the-path-of-the-serpent-how-i-turned-a-p5-open-redirect-into-a-7-500-rce-on-ragnar-lothbrok-27bfc5ef14cb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
