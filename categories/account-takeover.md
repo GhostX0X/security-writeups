@@ -1,5 +1,11 @@
 ## 📅 10 July 2026
 
+- **[INSTAGRAM Account Takeover 0-click Username and email Collision in Password Recover](https://medium.com/@metabugs/instagram-account-takeover-0-click-username-and-email-collision-in-password-recover-60712873f1ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 July 2026
+
+- **[INSTAGRAM Account Takeover 0-click Username and email Collision in Password Recover](https://medium.com/@metabugs/instagram-account-takeover-0-click-username-and-email-collision-in-password-recover-60712873f1ea?source=rss------security-5)** _(Medium Security)_
+## 📅 10 July 2026
+
 - **[How I Bypassed a Mandatory 2FA Enforcement Just by Dropping One Request](https://medium.com/@northsidehacker/how-i-bypassed-a-mandatory-2fa-enforcement-just-by-dropping-one-request-863b79f88771?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 July 2026
 

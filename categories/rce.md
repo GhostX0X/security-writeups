@@ -1,5 +1,8 @@
 ## 📅 10 July 2026
 
+- **[We Found a Public Cloud Bucket Exposing Customer Data Across Major E-Commerce Platforms](https://medium.com/@thefreelancer0128/we-found-a-public-cloud-bucket-exposing-customer-data-across-major-e-commerce-platforms-4ab2f6f5919f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 July 2026
+
 - **[How I Bypassed a Mandatory 2FA Enforcement Just by Dropping One Request](https://medium.com/@northsidehacker/how-i-bypassed-a-mandatory-2fa-enforcement-just-by-dropping-one-request-863b79f88771?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 July 2026
 
