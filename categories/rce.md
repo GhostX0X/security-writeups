@@ -1,3 +1,6 @@
+## 📅 11 July 2026
+
+- **[How I Found an OS Command Injection (RCE) in Coolify](https://medium.com/@cybertechajju/how-i-found-an-os-command-injection-rce-in-coolify-a93ffce24e74?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 July 2026
 
 - **[We Found a Public Cloud Bucket Exposing Customer Data Across Major E-Commerce Platforms](https://medium.com/@thefreelancer0128/we-found-a-public-cloud-bucket-exposing-customer-data-across-major-e-commerce-platforms-4ab2f6f5919f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
