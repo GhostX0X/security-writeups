@@ -1,3 +1,9 @@
+## 📅 11 July 2026
+
+- **[Lab 1: Broken Access Control “Unprotected Admin Functionality” (PortSwigger Web Security Academy)](https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 July 2026
+
+- **[Lab 2: Broken Access Control “Unprotected Admin Functionality with Unpredictable URL” (PortSwigger…](https://medium.com/@nitishmukhiya/lab-2-broken-access-control-unprotected-admin-functionality-with-unpredictable-url-portswigger-660bafaac135?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 July 2026
 
 - **[Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs](https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
