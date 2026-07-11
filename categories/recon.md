@@ -1,3 +1,6 @@
+## 📅 10 July 2026
+
+- **[Beyond Recon: My Personal Methodology for Hunting High-Impact Vulnerabilities in 2026](https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunting-high-impact-vulnerabilities-in-2026-a95215087b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 July 2026
 
 - **[Recon to Shell Access: Nokia Hall of Fame](https://scriptjacker.medium.com/recon-to-shell-access-nokia-hall-of-fame-5a7995595631?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

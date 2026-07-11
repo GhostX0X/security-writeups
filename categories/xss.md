@@ -1,5 +1,8 @@
 ## 📅 10 July 2026
 
+- **[Reflected XSS into HTML context with most tags and attributes blocked](https://z3r0-day.medium.com/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-9c824d9f57c2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 July 2026
+
 - **[From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me](https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 July 2026
 
