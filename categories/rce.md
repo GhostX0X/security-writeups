@@ -1,5 +1,8 @@
 ## 📅 11 July 2026
 
+- **[Google Classroom’s Gemini Tab Makes Source Custody the Student-Safety Gate](https://medium.com/kairi-ai/google-classrooms-gemini-tab-makes-source-custody-the-student-safety-gate-674b4145c6c9?source=rss------security-5)** _(Medium Security)_
+## 📅 11 July 2026
+
 - **[How I Found an OS Command Injection (RCE) in Coolify](https://medium.com/@cybertechajju/how-i-found-an-os-command-injection-rce-in-coolify-a93ffce24e74?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 July 2026
 

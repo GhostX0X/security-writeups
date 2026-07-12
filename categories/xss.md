@@ -1,3 +1,6 @@
+## 📅 11 July 2026
+
+- **[Finding Reflected XSS Through Persistence](https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 July 2026
 
 - **[Reflected XSS into HTML context with most tags and attributes blocked](https://z3r0-day.medium.com/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-9c824d9f57c2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 11 July 2026
+
+- **[PKCE: The OAuth Extension You’re Probably Already Using (and Should Understand)](https://javascript.plainenglish.io/pkce-the-oauth-extension-youre-probably-already-using-and-should-understand-bb9763b53fc4?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 July 2026
 
 - **[Snowflake External OAuth Security Integration: How Authentication Works Between Snowflake and…](https://medium.com/@usmaanrifkhan/snowflake-external-oauth-security-integration-how-authentication-works-between-snowflake-and-d503d342c2e5?source=rss------security-5)** _(Medium Security)_
