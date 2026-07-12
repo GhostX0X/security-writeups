@@ -1,5 +1,8 @@
 ## 📅 12 July 2026
 
+- **[Account takeover via prompt injection](https://medium.com/@rahuldevadiga18/account-takeover-via-prompt-injection-863080432635?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 July 2026
+
 - **[Android Pentesting in 2026: The Only Guide You’ll Need to Go From Emulator to Exploit](https://medium.com/@Makishima_ShogO/android-pentesting-in-2026-the-only-guide-youll-need-to-go-from-emulator-to-exploit-9233e1768a35?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 July 2026
 

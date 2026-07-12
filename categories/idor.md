@@ -1,3 +1,6 @@
+## 📅 12 July 2026
+
+- **[How I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…](https://medium.com/@salmanul060/how-i-discovered-an-insecure-direct-object-reference-idor-through-google-dorking-redacted-case-76b79016711d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 July 2026
 
 - **[How I Found My First Critical Bug (An IDOR Story)](https://kd-200.medium.com/how-i-found-my-first-critical-bug-an-idor-story-f8c07ca4d795?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
