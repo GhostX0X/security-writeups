@@ -1,3 +1,9 @@
+## 📅 12 July 2026
+
+- **[Android Pentesting in 2026: The Only Guide You’ll Need to Go From Emulator to Exploit](https://medium.com/@Makishima_ShogO/android-pentesting-in-2026-the-only-guide-youll-need-to-go-from-emulator-to-exploit-9233e1768a35?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 July 2026
+
+- **[How One JavaScript File Led Me to Account Takeover](https://kd-200.medium.com/how-one-javascript-file-led-me-to-account-takeover-9ccae22fac72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 July 2026
 
 - **[INSTAGRAM Account Takeover 0-click Username and email Collision in Password Recover $130k+ bounty](https://medium.com/@metabugs/instagram-account-takeover-0-click-username-and-email-collision-in-password-recover-60712873f1ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

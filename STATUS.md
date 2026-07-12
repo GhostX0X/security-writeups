@@ -1,7 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-07-12 07:58:34.428699 UTC
+Last updated: 2026-07-12 12:55:20.289270 UTC
 
-- rce: 1
+- account-takeover: 2
 - xss: 1
-- broken-access-control: 2
+- broken-access-control: 1
