@@ -1,3 +1,6 @@
+## 📅 12 July 2026
+
+- **[Caught in the Octopus Trap: Inside the Unpatched ArgoCD RCE that Leads to K8S Cluster Takeover](https://medium.com/@meSATYA95/caught-in-the-octopus-trap-inside-the-unpatched-argocd-rce-that-leads-to-k8s-cluster-takeover-a4d7f65acb4a?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 July 2026
 
 - **[Google Classroom’s Gemini Tab Makes Source Custody the Student-Safety Gate](https://medium.com/kairi-ai/google-classrooms-gemini-tab-makes-source-custody-the-student-safety-gate-674b4145c6c9?source=rss------security-5)** _(Medium Security)_
