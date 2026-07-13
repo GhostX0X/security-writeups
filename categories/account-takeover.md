@@ -1,3 +1,6 @@
+## 📅 13 July 2026
+
+- **[Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty](https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 July 2026
 
 - **[Account Takeover via Open Redirect XSS](https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

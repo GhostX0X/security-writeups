@@ -1,3 +1,6 @@
+## 📅 13 July 2026
+
+- **[Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty](https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 July 2026
 
 - **[Tickets Data Exfiltration/Modification Via CSRF After Bypassing Restrictions on a GraphQL API…](https://0xm0r4d.medium.com/tickets-data-exfiltration-modification-via-csrf-bypassing-graphql-api-protections-9983574c14a1?source=rss------pentesting-5)** _(Medium Pentesting)_

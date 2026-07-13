@@ -1,3 +1,6 @@
+## 📅 13 July 2026
+
+- **[Reconnaissance in Cybersecurity: First Step Towards Hacking](https://aydxin.medium.com/reconnaissance-in-cybersecurity-first-step-towards-hacking-85ea3bbfa241?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 July 2026
 
 - **[Automating initial recon with GitHub Actions and ReAct AI agent — The Big Rollback #6](https://medium.com/@kelvinzdk/automating-initial-recon-with-github-actions-and-react-ai-agent-the-big-rollback-6-496901d84da0?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,5 +1,8 @@
 ## 📅 13 July 2026
 
+- **[Race Condition on Login Endpoint Allows Complete Brute-Force Rate-Limit Bypass and Block Bypass](https://medium.com/@RootXSec/race-condition-on-login-endpoint-allows-complete-brute-force-rate-limit-bypass-and-block-bypass-bb4f7f30e4ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 July 2026
+
 - **[From Source Code Disclosure to a Hardcoded Backdoor: How I Achieved Full Authentication Bypass](https://medium.com/@m.bafy10/from-source-code-disclosure-to-a-hardcoded-backdoor-how-i-achieved-full-authentication-bypass-20fb3c38b48e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 July 2026
 
