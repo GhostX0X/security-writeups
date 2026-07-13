@@ -1,3 +1,6 @@
+## 📅 13 July 2026
+
+- **[SQL Injection Bypass: Why Network-Level Fixes Fail to Secure Vulnerable Applications](https://medium.com/@m.bafy10/sql-injection-bypass-why-network-level-fixes-fail-to-secure-vulnerable-applications-d3e96ddc5b27?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 July 2026
 
 - **[SQL Injection: Web Uygulamalarının En Eski ve En Tehlikeli Düşmanı](https://medium.com/@yusufbarut210/sql-injection-web-uygulamalar%C4%B1n%C4%B1n-en-eski-ve-en-tehlikeli-d%C3%BC%C5%9Fman%C4%B1-f409e0736079?source=rss------pentesting-5)** _(Medium Pentesting)_

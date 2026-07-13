@@ -1,3 +1,9 @@
+## 📅 13 July 2026
+
+- **[From Source Code Disclosure to a Hardcoded Backdoor: How I Achieved Full Authentication Bypass](https://medium.com/@m.bafy10/from-source-code-disclosure-to-a-hardcoded-backdoor-how-i-achieved-full-authentication-bypass-20fb3c38b48e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 July 2026
+
+- **[Best Security Services in India: The Silent Force That Keeps Every Business Moving](https://medium.com/@vimal.isi2025/best-security-services-in-india-the-silent-force-that-keeps-every-business-moving-254718f003ff?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 July 2026
 
 - **[Caught in the Octopus Trap: Inside the Unpatched ArgoCD RCE that Leads to K8S Cluster Takeover](https://medium.com/@meSATYA95/caught-in-the-octopus-trap-inside-the-unpatched-argocd-rce-that-leads-to-k8s-cluster-takeover-a4d7f65acb4a?source=rss------security-5)** _(Medium Security)_
