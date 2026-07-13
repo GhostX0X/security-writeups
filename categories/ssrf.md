@@ -1,3 +1,6 @@
+## 📅 13 July 2026
+
+- **[The SSRF I Almost Didn’t Report](https://kd-200.medium.com/the-ssrf-i-almost-didnt-report-54ed91ffc779?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 July 2026
 
 - **[Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…](https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
