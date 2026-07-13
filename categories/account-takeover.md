@@ -1,5 +1,8 @@
 ## 📅 12 July 2026
 
+- **[Account Takeover via Open Redirect XSS](https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 July 2026
+
 - **[Account takeover via prompt injection](https://medium.com/@rahuldevadiga18/account-takeover-via-prompt-injection-863080432635?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 July 2026
 

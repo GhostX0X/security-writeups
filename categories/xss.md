@@ -1,3 +1,6 @@
+## 📅 12 July 2026
+
+- **[Account Takeover via Open Redirect XSS](https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 July 2026
 
 - **[Finding Reflected XSS Through Persistence](https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 12 July 2026
+
+- **[Automating initial recon with GitHub Actions and ReAct AI agent — The Big Rollback #6](https://medium.com/@kelvinzdk/automating-initial-recon-with-github-actions-and-react-ai-agent-the-big-rollback-6-496901d84da0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 10 July 2026
 
 - **[Beyond Recon: My Personal Methodology for Hunting High-Impact Vulnerabilities in 2026](https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunting-high-impact-vulnerabilities-in-2026-a95215087b79?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
