@@ -1,3 +1,6 @@
+## 📅 14 July 2026
+
+- **[Server-Side Request Forgery: Exploiting and Fixing the SSRF Vulnerability](https://medium.com/@arthurmonney/server-side-request-forgery-exploiting-and-fixing-the-ssrf-vulnerability-94f33eed32c3?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 July 2026
 
 - **[The SSRF I Almost Didn’t Report](https://kd-200.medium.com/the-ssrf-i-almost-didnt-report-54ed91ffc779?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

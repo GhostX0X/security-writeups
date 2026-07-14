@@ -1,3 +1,9 @@
+## 📅 14 July 2026
+
+- **[Smart Gates & Sharp Minds: The Evolution of Access Control in Tyne and Wear](https://medium.com/@henrycarter19930/smart-gates-sharp-minds-the-evolution-of-access-control-in-tyne-and-wear-ca8a0e767109?source=rss------security-5)** _(Medium Security)_
+## 📅 14 July 2026
+
+- **[Jenkins Security: Users, Roles, and Basic Access Control](https://medium.com/@duyguadadivle/jenkins-security-users-roles-and-basic-access-control-aa09d106848d?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 July 2026
 
 - **[Lab 1: Broken Access Control “Unprotected Admin Functionality” (PortSwigger Web Security Academy)](https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

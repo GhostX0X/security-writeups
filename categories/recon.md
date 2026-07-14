@@ -1,3 +1,9 @@
+## 📅 14 July 2026
+
+- **[How I built a multi-agent AI recon tool that refuses to guess](https://medium.com/@gultekin.butun/how-i-built-a-multi-agent-ai-recon-tool-that-refuses-to-guess-04caf740ae7b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 July 2026
+
+- **[Tahmine Değil Kanıta Dayanan Çoklu Ajanlı “AI Recon” Aracını Nasıl İnşa Ettim](https://medium.com/@gultekin.butun/tahmine-de%C4%9Fil-kan%C4%B1ta-dayanan-%C3%A7oklu-ajanl%C4%B1-ai-recon-arac%C4%B1n%C4%B1-nas%C4%B1l-i%CC%87n%C5%9Fa-ettim-2e834e86677b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 July 2026
 
 - **[Reconnaissance in Cybersecurity: First Step Towards Hacking](https://aydxin.medium.com/reconnaissance-in-cybersecurity-first-step-towards-hacking-85ea3bbfa241?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
