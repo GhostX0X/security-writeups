@@ -1,5 +1,8 @@
 ## 📅 13 July 2026
 
+- **[How I Turned a Magic Link Feature Into Account Takeover](https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 July 2026
+
 - **[Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty](https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 July 2026
 

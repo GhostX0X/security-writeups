@@ -1,3 +1,9 @@
+## 📅 13 July 2026
+
+- **[IDOR & Bypass Techniques: A Practical Methodology for Security Testing](https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 13 July 2026
+
+- **[IDOR & Bypass Techniques: A Practical Methodology for Security Testing](https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 July 2026
 
 - **[How I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…](https://medium.com/@salmanul060/how-i-discovered-an-insecure-direct-object-reference-idor-through-google-dorking-redacted-case-76b79016711d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
