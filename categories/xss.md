@@ -1,3 +1,6 @@
+## 📅 14 July 2026
+
+- **[NahamStore CTF (XSS)](https://medium.com/@zodiak0x6/nahamstore-ctf-xss-6ffe7d164f8e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 July 2026
 
 - **[Account Takeover via Open Redirect XSS](https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

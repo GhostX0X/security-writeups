@@ -1,5 +1,8 @@
 ## 📅 14 July 2026
 
+- **[Redis Cloud SSRF](https://medium.com/@RootXSec/redis-cloud-ssrf-d45a212113dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 July 2026
+
 - **[Server-Side Request Forgery: Exploiting and Fixing the SSRF Vulnerability](https://medium.com/@arthurmonney/server-side-request-forgery-exploiting-and-fixing-the-ssrf-vulnerability-94f33eed32c3?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 July 2026
 
