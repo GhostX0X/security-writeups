@@ -1,3 +1,6 @@
+## 📅 15 July 2026
+
+- **[This Tool Found An XSS Bug In 40 Seconds That I Missed Manually For An Hour](https://osintteam.blog/this-tool-found-an-xss-bug-in-40-seconds-that-i-missed-manually-for-an-hour-fc193d157178?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 July 2026
 
 - **[NahamStore CTF (XSS)](https://medium.com/@zodiak0x6/nahamstore-ctf-xss-6ffe7d164f8e?source=rss------pentesting-5)** _(Medium Pentesting)_

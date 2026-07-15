@@ -1,3 +1,6 @@
+## 📅 15 July 2026
+
+- **[How I Turned a Database Import Feature into an Internal Network Scanner: The Art of the SSRF…](https://medium.com/@RootXSec/how-i-turned-a-database-import-feature-into-an-internal-network-scanner-the-art-of-the-ssrf-dbe5f07aface?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 July 2026
 
 - **[Redis Cloud SSRF](https://medium.com/@RootXSec/redis-cloud-ssrf-d45a212113dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
