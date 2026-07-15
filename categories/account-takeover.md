@@ -1,3 +1,6 @@
+## 📅 15 July 2026
+
+- **[Password Generators: What Makes a Password Actually Secure](https://jonasmaro.medium.com/password-generators-what-makes-a-password-actually-secure-49a89de0f319?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 July 2026
 
 - **[How I Turned a Magic Link Feature Into Account Takeover](https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
