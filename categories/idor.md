@@ -1,3 +1,6 @@
+## 📅 15 July 2026
+
+- **[How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers](https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 July 2026
 
 - **[IDOR & Bypass Techniques: A Practical Methodology for Security Testing](https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------pentesting-5)** _(Medium Pentesting)_
