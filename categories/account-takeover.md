@@ -1,5 +1,8 @@
 ## 📅 15 July 2026
 
+- **[I Got Tired of Cybersecurity Being Taught Like a Second Language. So I Built a Translator.](https://medium.com/@rockyofficial64/i-got-tired-of-cybersecurity-being-taught-like-a-second-language-so-i-built-a-translator-4c0bee8da77c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 15 July 2026
+
 - **[Password Generators: What Makes a Password Actually Secure](https://jonasmaro.medium.com/password-generators-what-makes-a-password-actually-secure-49a89de0f319?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 July 2026
 
