@@ -1,3 +1,9 @@
+## 📅 16 July 2026
+
+- **[Active Directory Attacks — Resource Based Constrained Delegation](https://medium.com/@osec403/active-directory-attacks-resource-based-constrained-delegation-49e22edce64c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 16 July 2026
+
+- **[Only One Crosses the Bridge at a Time > Heimdall MCP Adds Resource Locks](https://medium.com/@enmanuelmag/only-one-crosses-the-bridge-at-a-time-heimdall-mcp-adds-resource-locks-748d31338754?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 July 2026
 
 - **[Race Condition on Login Endpoint Allows Complete Brute-Force Rate-Limit Bypass and Block Bypass](https://medium.com/@RootXSec/race-condition-on-login-endpoint-allows-complete-brute-force-rate-limit-bypass-and-block-bypass-bb4f7f30e4ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
