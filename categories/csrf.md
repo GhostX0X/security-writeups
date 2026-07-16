@@ -1,3 +1,6 @@
+## 📅 16 July 2026
+
+- **[One postMessage Was Enough to Break a Trust Boundary (CSRF)](https://medium.com/@RootXSec/one-postmessage-was-enough-to-break-a-trust-boundary-csrf-8adeb40315ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 July 2026
 
 - **[Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty](https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
