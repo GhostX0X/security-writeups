@@ -1,5 +1,8 @@
 ## 📅 15 July 2026
 
+- **[10 Recon Techniques Every Pentester Should Master in 2026](https://medium.com/infosec-writes-up/10-recon-techniques-every-pentester-should-master-2c299d3e2826?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 July 2026
+
 - **[Breaking AI Agents: What a Vendor Chatbot Told Me It Shouldn’t Have - Part 01: Recon](https://medium.com/@abhishek_pahuja/breaking-ai-agents-what-a-vendor-chatbot-told-me-it-shouldnt-have-part-01-recon-4f25805d2066?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 July 2026
 
