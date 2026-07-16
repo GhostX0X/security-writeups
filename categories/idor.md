@@ -1,3 +1,6 @@
+## 📅 16 July 2026
+
+- **[Workflow Bypass Leading to Unauthorized Access to Sensitive Records (IDOR / Broken Object-Level…](https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 July 2026
 
 - **[How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers](https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

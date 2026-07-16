@@ -1,3 +1,6 @@
+## 📅 16 July 2026
+
+- **[One-Click Full Account Takeover: How an Unauthenticated OAuth Endpoint Let Anyone Impersonate a…](https://medium.com/@mohamedatefsarhan123/one-click-full-account-takeover-how-an-unauthenticated-oauth-endpoint-let-anyone-impersonate-a-0c2715a18561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 July 2026
 
 - **[PKCE: The OAuth Extension You’re Probably Already Using (and Should Understand)](https://javascript.plainenglish.io/pkce-the-oauth-extension-youre-probably-already-using-and-should-understand-bb9763b53fc4?source=rss------security-5)** _(Medium Security)_

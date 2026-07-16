@@ -1,3 +1,9 @@
+## 📅 16 July 2026
+
+- **[Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform](https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 16 July 2026
+
+- **[Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform](https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 July 2026
 
 - **[This Tool Found An XSS Bug In 40 Seconds That I Missed Manually For An Hour](https://osintteam.blog/this-tool-found-an-xss-bug-in-40-seconds-that-i-missed-manually-for-an-hour-fc193d157178?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

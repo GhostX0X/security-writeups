@@ -1,3 +1,12 @@
+## 📅 16 July 2026
+
+- **[Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform](https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 16 July 2026
+
+- **[One-Click Full Account Takeover: How an Unauthenticated OAuth Endpoint Let Anyone Impersonate a…](https://medium.com/@mohamedatefsarhan123/one-click-full-account-takeover-how-an-unauthenticated-oauth-endpoint-let-anyone-impersonate-a-0c2715a18561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 July 2026
+
+- **[Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform](https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 July 2026
 
 - **[I Got Tired of Cybersecurity Being Taught Like a Second Language. So I Built a Translator.](https://medium.com/@rockyofficial64/i-got-tired-of-cybersecurity-being-taught-like-a-second-language-so-i-built-a-translator-4c0bee8da77c?source=rss------pentesting-5)** _(Medium Pentesting)_
