@@ -1,9 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-07-17 07:51:25.499285 UTC
+Last updated: 2026-07-17 13:03:18.277550 UTC
 
+- rce: 2
+- sqli: 1
+- account-takeover: 1
 - broken-access-control: 1
-- xss: 3
-- account-takeover: 2
-- idor: 1
-- rce: 1
+- xss: 1

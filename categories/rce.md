@@ -1,3 +1,9 @@
+## 📅 17 July 2026
+
+- **[Active Directory Attacks — Force Change Password](https://medium.com/@osec403/active-directory-attacks-force-change-password-1ca80ef64d66?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 July 2026
+
+- **[KeyHunter Explained | The Open-Source Tool Every Security Researcher Should Know](https://medium.com/@pentesterclubpvtltd/keyhunter-explained-the-open-source-tool-every-security-researcher-should-know-f8bfd9c84fb8?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 July 2026
 
 - **[Active Directory Attacks — Resource Based Constrained Delegation](https://medium.com/@osec403/active-directory-attacks-resource-based-constrained-delegation-49e22edce64c?source=rss------pentesting-5)** _(Medium Pentesting)_

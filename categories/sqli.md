@@ -1,3 +1,6 @@
+## 📅 17 July 2026
+
+- **[Bypassing Authentication Gates: SQL Injection (Auth Bypass) on Login Portal](https://medium.com/@m.bafy10/bypassing-authentication-gates-sql-injection-auth-bypass-on-login-portal-8856ed2efde4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 July 2026
 
 - **[SQL Injection Bypass: Why Network-Level Fixes Fail to Secure Vulnerable Applications](https://medium.com/@m.bafy10/sql-injection-bypass-why-network-level-fixes-fail-to-secure-vulnerable-applications-d3e96ddc5b27?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

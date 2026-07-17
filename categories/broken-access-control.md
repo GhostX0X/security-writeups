@@ -1,5 +1,8 @@
 ## 📅 17 July 2026
 
+- **[Broken Access Control & Authentication Misconfiguration Led to Internal Employee Account Takeover…](https://medium.com/@sm3771311/broken-access-control-authentication-misconfiguration-led-to-internal-employee-account-takeover-d5616ff9fce4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 July 2026
+
 - **[Beyond the Turnstile: How to Manage VIP Venue Access Control at Saudi Mega-Events](https://medium.com/@stampiqevent/beyond-the-turnstile-how-to-manage-vip-venue-access-control-at-saudi-mega-events-ba7f73650ad5?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 July 2026
 

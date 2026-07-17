@@ -1,3 +1,6 @@
+## 📅 17 July 2026
+
+- **[Broken Access Control & Authentication Misconfiguration Led to Internal Employee Account Takeover…](https://medium.com/@sm3771311/broken-access-control-authentication-misconfiguration-led-to-internal-employee-account-takeover-d5616ff9fce4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 July 2026
 
 - **[Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform](https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------pentesting-5)** _(Medium Pentesting)_
