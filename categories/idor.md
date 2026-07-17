@@ -1,3 +1,6 @@
+## 📅 17 July 2026
+
+- **[The Night Claude Found a Critical IDOR and Deleted the Test Account](https://medium.com/@Aacle/the-night-claude-found-a-critical-idor-and-deleted-the-test-account-6a685cc205d3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 July 2026
 
 - **[Workflow Bypass Leading to Unauthorized Access to Sensitive Records (IDOR / Broken Object-Level…](https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

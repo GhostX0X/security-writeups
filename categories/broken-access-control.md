@@ -1,5 +1,8 @@
 ## 📅 17 July 2026
 
+- **[Broken access control](https://medium.com/@ahmedzaki27102003/broken-access-control-9ef70b22382a?source=rss------security-5)** _(Medium Security)_
+## 📅 17 July 2026
+
 - **[Broken Access Control & Authentication Misconfiguration Led to Internal Employee Account Takeover…](https://medium.com/@sm3771311/broken-access-control-authentication-misconfiguration-led-to-internal-employee-account-takeover-d5616ff9fce4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 July 2026
 

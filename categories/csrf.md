@@ -1,3 +1,6 @@
+## 📅 17 July 2026
+
+- **[I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.](https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 July 2026
 
 - **[One postMessage Was Enough to Break a Trust Boundary (CSRF)](https://medium.com/@RootXSec/one-postmessage-was-enough-to-break-a-trust-boundary-csrf-8adeb40315ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
