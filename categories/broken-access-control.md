@@ -1,3 +1,6 @@
+## 📅 17 July 2026
+
+- **[Beyond the Turnstile: How to Manage VIP Venue Access Control at Saudi Mega-Events](https://medium.com/@stampiqevent/beyond-the-turnstile-how-to-manage-vip-venue-access-control-at-saudi-mega-events-ba7f73650ad5?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 July 2026
 
 - **[Smart Gates & Sharp Minds: The Evolution of Access Control in Tyne and Wear](https://medium.com/@henrycarter19930/smart-gates-sharp-minds-the-evolution-of-access-control-in-tyne-and-wear-ca8a0e767109?source=rss------security-5)** _(Medium Security)_
