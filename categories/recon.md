@@ -1,3 +1,6 @@
+## 📅 18 July 2026
+
+- **[PentesterLab — Recon 10: Visual Reconnaissance](https://medium.com/@G4f3r/pentesterlab-recon-10-visual-reconnaissance-7a359ea73152?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 July 2026
 
 - **[I Built a Bug Bounty Recon Tool That Automates the Boring Parts (So I Don’t Have To)](https://kushalbhattarai.medium.com/i-built-a-bug-bounty-recon-tool-that-automates-the-boring-parts-so-i-dont-have-to-465585bf08dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

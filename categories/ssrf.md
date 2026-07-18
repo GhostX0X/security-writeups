@@ -1,3 +1,9 @@
+## 📅 18 July 2026
+
+- **[Prompt Injection Is Just SSRF for Text | MCP Security → Part 3](https://medium.com/@Aacle/prompt-injection-is-just-ssrf-for-text-7c864c73571e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 July 2026
+
+- **[Zero Requiem: The $5,000 Blind SSRF Chain That Owned Lelouch Lamperouge](https://atanupal22256.medium.com/zero-requiem-the-5-000-blind-ssrf-chain-that-owned-lelouch-lamperouge-f0e00c919213?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 July 2026
 
 - **[How I Turned a Database Import Feature into an Internal Network Scanner: The Art of the SSRF…](https://medium.com/@RootXSec/how-i-turned-a-database-import-feature-into-an-internal-network-scanner-the-art-of-the-ssrf-dbe5f07aface?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

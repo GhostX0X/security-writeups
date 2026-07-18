@@ -1,5 +1,11 @@
 ## 📅 18 July 2026
 
+- **[10 Ways to Encode an XSS Payload](https://systemweakness.com/10-ways-to-encode-an-xss-payload-daf64595ebcf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 July 2026
+
+- **[From Reflected XSS to Critical Bug Led to Sensitive Data Leakage](https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-data-leakage-229c61722992?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 July 2026
+
 - **[How I Hunt and Find XSS Bugs in Bug Bounty Programs (2026)](https://sayemeh.medium.com/how-i-hunt-and-find-xss-bugs-in-bug-bounty-programs-2026-aed6b265e782?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 July 2026
 
