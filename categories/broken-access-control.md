@@ -1,3 +1,9 @@
+## 📅 18 July 2026
+
+- **[PortSwigger — Access control vulnerabilities and privilege escalation](https://medium.com/@hasanliniki/portswigger-access-control-vulnerabilities-and-privilege-escalation-6bb91d858954?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 July 2026
+
+- **[PortSwigger — Access control vulnerabilities and privilege escalation](https://medium.com/@hasanliniki/portswigger-access-control-vulnerabilities-and-privilege-escalation-6bb91d858954?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 July 2026
 
 - **[Broken access control](https://medium.com/@ahmedzaki27102003/broken-access-control-9ef70b22382a?source=rss------security-5)** _(Medium Security)_

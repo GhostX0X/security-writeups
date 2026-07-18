@@ -1,3 +1,6 @@
+## 📅 18 July 2026
+
+- **[How I Hunt and Find XSS Bugs in Bug Bounty Programs (2026)](https://sayemeh.medium.com/how-i-hunt-and-find-xss-bugs-in-bug-bounty-programs-2026-aed6b265e782?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 July 2026
 
 - **[Finding Reflected XSS Parameters Fast: A Deep Dive into RefleX](https://medium.com/@arshadshoaib029/finding-reflected-xss-parameters-fast-a-deep-dive-into-reflex-ab5f063d7355?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
