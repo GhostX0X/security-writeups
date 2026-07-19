@@ -1,3 +1,9 @@
+## 📅 19 July 2026
+
+- **[Welcome to the Passive Reconnaissance room.](https://medium.com/@sevinjrb/welcome-to-the-passive-reconnaissance-room-272b3ae9114b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 July 2026
+
+- **[Bug Bounty Pre-Recon Methodology: A Beginner’s Guide to Finding the Attack Surface](https://medium.com/@nsm10a01akhil/bug-bounty-pre-recon-methodology-a-beginners-guide-to-finding-the-attack-surface-892e5699e5e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 
 - **[PentesterLab — Recon 10: Visual Reconnaissance](https://medium.com/@G4f3r/pentesterlab-recon-10-visual-reconnaissance-7a359ea73152?source=rss------pentesting-5)** _(Medium Pentesting)_

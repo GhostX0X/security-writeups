@@ -1,3 +1,9 @@
+## 📅 18 July 2026
+
+- **[When XSS Meets CSRF](https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 July 2026
+
+- **[When XSS Meets CSRF](https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 July 2026
 
 - **[I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.](https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

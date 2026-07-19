@@ -1,3 +1,6 @@
+## 📅 18 July 2026
+
+- **[The IDOR hole in your SaaS app (and a 2-minute test)](https://medium.com/@martinRsaas/the-idor-hole-in-your-saas-app-and-a-2-minute-test-36cf7d2aca6a?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 July 2026
 
 - **[The Night Claude Found a Critical IDOR and Deleted the Test Account](https://medium.com/@Aacle/the-night-claude-found-a-critical-idor-and-deleted-the-test-account-6a685cc205d3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
