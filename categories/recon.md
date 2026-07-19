@@ -1,5 +1,8 @@
 ## 📅 19 July 2026
 
+- **[External Pentest: Uçtan Uca Recon Workflow](https://exript.medium.com/external-pentest-u%C3%A7tan-uca-recon-workflow-f0b367b5b5cf?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 July 2026
+
 - **[Welcome to the Passive Reconnaissance room.](https://medium.com/@sevinjrb/welcome-to-the-passive-reconnaissance-room-272b3ae9114b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 18 July 2026
 
