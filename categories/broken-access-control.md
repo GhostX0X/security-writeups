@@ -1,3 +1,6 @@
+## 📅 19 July 2026
+
+- **[Broken Access Control: How Attackers Bypass Permissions (And How to Stop Them)](https://medium.com/@KhushiPatel26/broken-access-control-how-attackers-bypass-permissions-and-how-to-stop-them-d032b634083f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 
 - **[PortSwigger — Access control vulnerabilities and privilege escalation](https://medium.com/@hasanliniki/portswigger-access-control-vulnerabilities-and-privilege-escalation-6bb91d858954?source=rss------pentesting-5)** _(Medium Pentesting)_
