@@ -1,5 +1,8 @@
 ## 📅 19 July 2026
 
+- **[I built an automated DORA compliance engine in Python — here’s what I learned about regulatory…](https://medium.com/@vincent.plessy12/i-built-an-automated-dora-compliance-engine-in-python-heres-what-i-learned-about-regulatory-ef4cff9b5ffb?source=rss------security-5)** _(Medium Security)_
+## 📅 19 July 2026
+
 - **[Account Takeover via Broken Password Reset Validation](https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 July 2026
 
