@@ -1,5 +1,11 @@
 ## 📅 20 July 2026
 
+- **[Stellar Tier 1 Validator Adds MoneyGram to Boost Blockchain Security](https://medium.com/@bainesaaron26/stellar-tier-1-validator-adds-moneygram-to-boost-blockchain-security-e56779ec1ca4?source=rss------security-5)** _(Medium Security)_
+## 📅 20 July 2026
+
+- **[CVE-2026–44722: A Zip encryption downgrade caused by an incorrect operator](https://medium.com/@kulkan-security/cve-2026-44722-a-zip-encryption-downgrade-caused-by-an-incorrect-operator-00f9aae73e1f?source=rss------security-5)** _(Medium Security)_
+## 📅 20 July 2026
+
 - **[From a “Hey, {name} ” Banner to Full Account Takeover | Chaining 4 Bugs Through a Rewards WebView](https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 July 2026
 

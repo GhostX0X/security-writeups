@@ -1,3 +1,6 @@
+## 📅 20 July 2026
+
+- **[How a Failed CSRF Escalated to an Unauthenticated Mass Assignment (7.3 Severity)](https://medium.com/@RootXSec/how-a-failed-csrf-escalated-to-an-unauthenticated-mass-assignment-7-3-severity-aa0ba70a3162?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 
 - **[When XSS Meets CSRF](https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,7 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-07-20 13:47:23.823349 UTC
+Last updated: 2026-07-20 19:23:58.844685 UTC
 
-- idor: 1
 - account-takeover: 2
-- broken-access-control: 1
+- csrf: 1
+- idor: 1
