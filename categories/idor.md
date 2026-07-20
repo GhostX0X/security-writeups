@@ -1,3 +1,6 @@
+## 📅 20 July 2026
+
+- **[How a Single UUID Change Led to an IDOR Vulnerability](https://medium.com/@ctf.exe890/how-a-single-uuid-change-led-to-an-idor-vulnerability-e3913d0d9985?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 
 - **[The IDOR hole in your SaaS app (and a 2-minute test)](https://medium.com/@martinRsaas/the-idor-hole-in-your-saas-app-and-a-2-minute-test-36cf7d2aca6a?source=rss------security-5)** _(Medium Security)_
