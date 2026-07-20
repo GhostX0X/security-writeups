@@ -1,3 +1,6 @@
+## 📅 19 July 2026
+
+- **[We Built an Open-Source AI Security Analyzer in 5 Days with AI Coding Agents](https://medium.com/@ikaruscareer/we-built-an-open-source-ai-security-analyzer-in-5-days-with-ai-coding-agents-50149edc8f4e?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 July 2026
 
 - **[Active Directory Attacks — Force Change Password](https://medium.com/@osec403/active-directory-attacks-force-change-password-1ca80ef64d66?source=rss------pentesting-5)** _(Medium Pentesting)_

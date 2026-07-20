@@ -1,3 +1,6 @@
+## 📅 20 July 2026
+
+- **[From a “Hey, {name} ” Banner to Full Account Takeover | Chaining 4 Bugs Through a Rewards WebView](https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 July 2026
 
 - **[I built an automated DORA compliance engine in Python — here’s what I learned about regulatory…](https://medium.com/@vincent.plessy12/i-built-an-automated-dora-compliance-engine-in-python-heres-what-i-learned-about-regulatory-ef4cff9b5ffb?source=rss------security-5)** _(Medium Security)_
