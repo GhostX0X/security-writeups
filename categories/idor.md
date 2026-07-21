@@ -1,5 +1,17 @@
 ## 📅 20 July 2026
 
+- **[Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 July 2026
+
+- **[The Bug Bounty Playbook: IDOR](https://medium.com/@Aacle/the-bug-bounty-playbook-idor-72038e510337?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 July 2026
+
+- **[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation](https://medium.com/@viodex02/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-856ae5bdddc1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 July 2026
+
+- **[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation](https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-9bb4715c6026?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 July 2026
+
 - **[How a Single UUID Change Led to an IDOR Vulnerability](https://medium.com/@ctf.exe890/how-a-single-uuid-change-led-to-an-idor-vulnerability-e3913d0d9985?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 

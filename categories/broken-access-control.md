@@ -1,3 +1,9 @@
+## 📅 20 July 2026
+
+- **[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation](https://medium.com/@viodex02/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-856ae5bdddc1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 July 2026
+
+- **[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation](https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-9bb4715c6026?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 July 2026
 
 - **[Broken Access Control: How Attackers Bypass Permissions (And How to Stop Them)](https://medium.com/@KhushiPatel26/broken-access-control-how-attackers-bypass-permissions-and-how-to-stop-them-d032b634083f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
