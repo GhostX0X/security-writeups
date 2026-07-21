@@ -1,3 +1,6 @@
+## 📅 21 July 2026
+
+- **[DOM XSS using web messages and JSON.parse](https://medium.com/@karthikmudgal12/dom-xss-using-web-messages-and-json-parse-70a1324330e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 
 - **[XSS Bypass — The Hackers Labs](https://pavin-das.medium.com/xss-bypass-the-hackers-labs-3aa6cd9944c3?source=rss------pentesting-5)** _(Medium Pentesting)_

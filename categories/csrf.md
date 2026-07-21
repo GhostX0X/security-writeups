@@ -1,3 +1,6 @@
+## 📅 21 July 2026
+
+- **[Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…](https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 July 2026
 
 - **[How a Failed CSRF Escalated to an Unauthenticated Mass Assignment (7.3 Severity)](https://medium.com/@RootXSec/how-a-failed-csrf-escalated-to-an-unauthenticated-mass-assignment-7-3-severity-aa0ba70a3162?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
