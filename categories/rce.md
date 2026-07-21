@@ -1,3 +1,6 @@
+## 📅 21 July 2026
+
+- **[Best No Subscription CCTV System UK | Gary Pearce — Real Installer Advice](https://medium.com/@garypearce.homesecurity/best-no-subscription-cctv-system-uk-gary-pearce-real-installer-advice-931b80981ed6?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 July 2026
 
 - **[We Built an Open-Source AI Security Analyzer in 5 Days with AI Coding Agents](https://medium.com/@ikaruscareer/we-built-an-open-source-ai-security-analyzer-in-5-days-with-ai-coding-agents-50149edc8f4e?source=rss------security-5)** _(Medium Security)_
