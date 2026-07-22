@@ -1,3 +1,9 @@
+## 📅 22 July 2026
+
+- **[When Security by Obscurity Blinds the WAF: From Client-Side Encryption to Critical SQL Injection —…](https://medium.com/@justmobilesec/when-security-by-obscurity-blinds-the-waf-from-client-side-encryption-to-critical-sql-injection-f90b40ea5645?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 July 2026
+
+- **[When Security by Obscurity Blinds the WAF: From Client-Side Encryption to Critical SQL Injection —…](https://medium.com/@justmobilesec/when-security-by-obscurity-blinds-the-waf-from-client-side-encryption-to-critical-sql-injection-696805976ff4?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 July 2026
 
 - **[Bypassing Authentication Gates: SQL Injection (Auth Bypass) on Login Portal](https://medium.com/@m.bafy10/bypassing-authentication-gates-sql-injection-auth-bypass-on-login-portal-8856ed2efde4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

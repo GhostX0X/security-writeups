@@ -1,3 +1,6 @@
+## 📅 22 July 2026
+
+- **[Meta Bug Bounty Breakdown: $78K for an IDOR That Exposed Chats & PII](https://medium.com/@xpert4cyber/meta-bug-bounty-breakdown-78k-for-an-idor-that-exposed-chats-pii-e5de282524e2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 July 2026
 
 - **[Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

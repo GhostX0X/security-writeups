@@ -1,3 +1,6 @@
+## 📅 22 July 2026
+
+- **[Python Web Penetration Testing — Day 4: Resources Discovery](https://osintteam.blog/python-web-penetration-testing-day-4-resources-discovery-54898bfb3186?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 July 2026
 
 - **[Best No Subscription CCTV System UK | Gary Pearce — Real Installer Advice](https://medium.com/@garypearce.homesecurity/best-no-subscription-cctv-system-uk-gary-pearce-real-installer-advice-931b80981ed6?source=rss------security-5)** _(Medium Security)_
