@@ -1,3 +1,6 @@
+## 📅 22 July 2026
+
+- **[What is Cross-Site Scripting (XSS)? A Complete Beginner’s Guide](https://mrpatil.medium.com/what-is-cross-site-scripting-xss-a-complete-beginners-guide-9bd20d30c0d4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 July 2026
 
 - **[DOM XSS using web messages and JSON.parse](https://medium.com/@karthikmudgal12/dom-xss-using-web-messages-and-json-parse-70a1324330e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
