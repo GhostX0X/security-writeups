@@ -1,3 +1,9 @@
+## 📅 23 July 2026
+
+- **[Blind SQL injection attack with Conditional Responses using Sniper and Cluster Bomb](https://cyberlabyrinthx.medium.com/blind-sql-injection-attack-with-conditional-responses-using-sniper-and-cluster-bomb-9759ebc69657?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 July 2026
+
+- **[How I Find SQL Injection Vulnerabilities: My Bug Bounty Hunting Manual Testing Methodology](https://sayemeh.medium.com/how-i-find-sql-injection-vulnerabilities-my-bug-bounty-hunting-manual-testing-methodology-970c87535839?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 July 2026
 
 - **[When Security by Obscurity Blinds the WAF: From Client-Side Encryption to Critical SQL Injection —…](https://medium.com/@justmobilesec/when-security-by-obscurity-blinds-the-waf-from-client-side-encryption-to-critical-sql-injection-f90b40ea5645?source=rss------pentesting-5)** _(Medium Pentesting)_

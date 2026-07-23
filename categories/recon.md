@@ -1,5 +1,8 @@
 ## 📅 23 July 2026
 
+- **[The Bug Bounty Recon Workflow I Use Before Opening Burp Suite](https://medium.com/@mikespenz25/the-bug-bounty-recon-workflow-i-use-before-opening-burp-suite-7f71c862b8ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 July 2026
+
 - **[Bug Bounty Automation — Elite Recon Pipeline + bonus Script](https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 July 2026
 

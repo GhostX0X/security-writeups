@@ -1,6 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-07-23 13:23:00.702909 UTC
+Last updated: 2026-07-23 18:57:47.661274 UTC
 
+- sqli: 4
 - recon: 1
-- sqli: 2
+- xss: 1

@@ -1,3 +1,6 @@
+## 📅 23 July 2026
+
+- **[How a Simple Google Dork Led Me to Find Reflected XSS & HTML Injection on NASA and Earn a Letter of…](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 July 2026
 
 - **[What is Cross-Site Scripting (XSS)? A Complete Beginner’s Guide](https://mrpatil.medium.com/what-is-cross-site-scripting-xss-a-complete-beginners-guide-9bd20d30c0d4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
