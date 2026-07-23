@@ -1,3 +1,6 @@
+## 📅 23 July 2026
+
+- **[Bug Bounty Automation — Elite Recon Pipeline + bonus Script](https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 July 2026
 
 - **[External Pentest: Uçtan Uca Recon Workflow](https://exript.medium.com/external-pentest-u%C3%A7tan-uca-recon-workflow-f0b367b5b5cf?source=rss------pentesting-5)** _(Medium Pentesting)_
