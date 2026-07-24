@@ -1,5 +1,11 @@
 ## 📅 24 July 2026
 
+- **[I got tired of spraying RCE payloads that never fire — so I built a tool that only sends the ones…](https://medium.com/@ad.kabiri/i-got-tired-of-spraying-rce-payloads-that-never-fire-so-i-built-a-tool-that-only-sends-the-ones-e3aae7a7e357?source=rss------security-5)** _(Medium Security)_
+## 📅 24 July 2026
+
+- **[I built something to secure my AI agent tool calls. Open Source](https://medium.com/@ar9av/i-built-something-to-secure-my-ai-agent-tool-calls-open-source-853d5dba1254?source=rss------security-5)** _(Medium Security)_
+## 📅 24 July 2026
+
 - **[Free Orders via Business Logic Flaw: How a Simple Interception Uncovered an Unpaid Order Bug](https://medium.com/@zyad_ibrahim333/free-orders-via-business-logic-flaw-how-a-simple-interception-uncovered-an-unpaid-order-bug-0dc8c7d69d49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 July 2026
 
