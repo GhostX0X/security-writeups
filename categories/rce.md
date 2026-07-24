@@ -1,3 +1,6 @@
+## 📅 24 July 2026
+
+- **[Free Orders via Business Logic Flaw: How a Simple Interception Uncovered an Unpaid Order Bug](https://medium.com/@zyad_ibrahim333/free-orders-via-business-logic-flaw-how-a-simple-interception-uncovered-an-unpaid-order-bug-0dc8c7d69d49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 July 2026
 
 - **[One Command Pulled URLs from four different sources at once; I was not ready for the results.](https://osintteam.blog/one-command-pulled-urls-from-four-different-sources-at-once-i-was-not-ready-for-the-results-8a1895d4f4bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
