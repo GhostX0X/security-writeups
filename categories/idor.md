@@ -1,3 +1,6 @@
+## 📅 25 July 2026
+
+- **[I Modified Collections I Did Not Own: IDOR](https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 July 2026
 
 - **[Meta Bug Bounty Breakdown: $78K for an IDOR That Exposed Chats & PII](https://medium.com/@xpert4cyber/meta-bug-bounty-breakdown-78k-for-an-idor-that-exposed-chats-pii-e5de282524e2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
