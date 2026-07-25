@@ -1,3 +1,6 @@
+## 📅 25 July 2026
+
+- **[Tutorial 6 PortSwigger Lab: Serangan DOM XSS pada sink innerHTML menggunakan lokasi sumber location.](https://medium.com/@Divarizkyalfitrah/tutorial-6-portswigger-lab-serangan-dom-xss-pada-sink-innerhtml-menggunakan-lokasi-sumber-location-7b47adda29e7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 23 July 2026
 
 - **[How a Simple Google Dork Led Me to Find Reflected XSS & HTML Injection on NASA and Earn a Letter of…](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

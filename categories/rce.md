@@ -1,3 +1,9 @@
+## 📅 25 July 2026
+
+- **[Finding 4 Logic Vulnerabilities in a Single E-Commerce Target](https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 July 2026
+
+- **[Conectividad Crítica y Seguridad Profesional en Barcelona: Cómo Ibersystems Transforma Empresas…](https://medium.com/@ibersystems/conectividad-cr%C3%ADtica-y-seguridad-profesional-en-barcelona-c%C3%B3mo-ibersystems-transforma-empresas-29ff0984af02?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 July 2026
 
 - **[The wp2shell Exploit Chain: Understanding the Critical WordPress Core Pre-Auth RCE (CVE-2026–63030…](https://medium.com/@HaakimSec/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
