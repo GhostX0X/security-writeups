@@ -1,3 +1,6 @@
+## 📅 25 July 2026
+
+- **[PKCE-enhanced Authorization Code Flow | OAuth Explained](https://medium.com/@dmosyan/pkce-enhanced-authorization-code-flow-oauth-explained-76993b40a9ca?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 July 2026
 
 - **[How OAuth Actually Works: And What the Token in Your Browser Is Really Proving](https://medium.com/@jay.sravan.dev/how-oauth-actually-works-and-what-the-token-in-your-browser-is-really-proving-f16434a087f4?source=rss------security-5)** _(Medium Security)_
