@@ -1,3 +1,6 @@
+## 📅 24 July 2026
+
+- **[How OAuth Actually Works: And What the Token in Your Browser Is Really Proving](https://medium.com/@jay.sravan.dev/how-oauth-actually-works-and-what-the-token-in-your-browser-is-really-proving-f16434a087f4?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 July 2026
 
 - **[One-Click Full Account Takeover: How an Unauthenticated OAuth Endpoint Let Anyone Impersonate a…](https://medium.com/@mohamedatefsarhan123/one-click-full-account-takeover-how-an-unauthenticated-oauth-endpoint-let-anyone-impersonate-a-0c2715a18561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
