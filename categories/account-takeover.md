@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[The Header That Signed Itself: Full Account Takeover in a Google SSO Flow](https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 July 2026
 
 - **[The Mathematical Logic Behind Random Number Generators in Casual Mobile Applications](https://medium.com/@harkiranluvleen/the-mathematical-logic-behind-random-number-generators-in-casual-mobile-applications-c71847fcff99?source=rss------security-5)** _(Medium Security)_

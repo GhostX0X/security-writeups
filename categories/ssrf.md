@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[The Bug Bounty Playbook: SSRF](https://medium.com/@Aacle/the-bug-bounty-playbook-ssrf-18e39248fedb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 July 2026
 
 - **[Prompt Injection Is Just SSRF for Text | MCP Security → Part 3](https://medium.com/@Aacle/prompt-injection-is-just-ssrf-for-text-7c864c73571e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[Building Your First Automated Recon Pipeline](https://kd-200.medium.com/building-your-first-automated-recon-pipeline-c977c94966a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 July 2026
 
 - **[The Bug Bounty Recon Workflow I Use Before Opening Burp Suite](https://medium.com/@mikespenz25/the-bug-bounty-recon-workflow-i-use-before-opening-burp-suite-7f71c862b8ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
