@@ -1,5 +1,11 @@
 ## 📅 26 July 2026
 
+- **[Building Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery](https://medium.com/@antor.csecu/building-bug-bounty-recon-pipeline-from-target-domain-to-vulnerability-discovery-cdc3e90e7a20?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 26 July 2026
+
+- **[Mastering Passive Reconnaissance](https://medium.com/@mohamedsamehms15/mastering-passive-reconnaissance-27af81a777fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 July 2026
+
 - **[Building Your First Automated Recon Pipeline](https://kd-200.medium.com/building-your-first-automated-recon-pipeline-c977c94966a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 July 2026
 

@@ -1,5 +1,8 @@
 ## 📅 26 July 2026
 
+- **[Two Simple but Amazing Pre-Account Takeover (ATO) Ideas](https://medium.com/@mo_0xnaser/two-simple-but-amazing-pre-account-takeover-ato-ideas-b4a98311a5e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 July 2026
+
 - **[The Header That Signed Itself: Full Account Takeover in a Google SSO Flow](https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 July 2026
 

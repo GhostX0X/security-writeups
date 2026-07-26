@@ -1,5 +1,8 @@
 ## 📅 26 July 2026
 
+- **[How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 July 2026
+
 - **[Reflected XSS in E-Commerce Search — Bug Bounty Writeup](https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 July 2026
 

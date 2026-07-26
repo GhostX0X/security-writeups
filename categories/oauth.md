@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[Google and GitHub login without leaking tokens: external OAuth behind your own JWTs](https://medium.com/@ivanball76/google-and-github-login-without-leaking-tokens-external-oauth-behind-your-own-jwts-d68ba5e3aca4?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 July 2026
 
 - **[PKCE-enhanced Authorization Code Flow | OAuth Explained](https://medium.com/@dmosyan/pkce-enhanced-authorization-code-flow-oauth-explained-76993b40a9ca?source=rss------security-5)** _(Medium Security)_
