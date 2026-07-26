@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 July 2026
 
 - **[Blind SQL injection attack with Conditional Responses using Sniper and Cluster Bomb](https://cyberlabyrinthx.medium.com/blind-sql-injection-attack-with-conditional-responses-using-sniper-and-cluster-bomb-9759ebc69657?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
