@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[Reflected XSS in E-Commerce Search — Bug Bounty Writeup](https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 July 2026
 
 - **[Tutorial 6 PortSwigger Lab: Serangan DOM XSS pada sink innerHTML menggunakan lokasi sumber location.](https://medium.com/@Divarizkyalfitrah/tutorial-6-portswigger-lab-serangan-dom-xss-pada-sink-innerhtml-menggunakan-lokasi-sumber-location-7b47adda29e7?source=rss------pentesting-5)** _(Medium Pentesting)_

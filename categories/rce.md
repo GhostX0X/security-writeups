@@ -1,3 +1,6 @@
+## 📅 26 July 2026
+
+- **[Reflected XSS in E-Commerce Search — Bug Bounty Writeup](https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 July 2026
 
 - **[Finding 4 Logic Vulnerabilities in a Single E-Commerce Target](https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
