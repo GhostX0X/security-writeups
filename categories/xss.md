@@ -1,3 +1,6 @@
+## 📅 27 July 2026
+
+- **[How I Found a Reflected XSS and Bypassed Wordfence WAF](https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 July 2026
 
 - **[Reflected XSS in E-Commerce Search — Bug Bounty Writeup](https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

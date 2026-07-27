@@ -1,5 +1,8 @@
 ## 📅 26 July 2026
 
+- **[Mastering Active Reconnaissance: The Art of Gathering Information Without Exploitation](https://medium.com/@mohamedsamehms15/mastering-active-reconnaissance-the-art-of-gathering-information-without-exploitation-14f7aa58746b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 July 2026
+
 - **[Building Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery](https://medium.com/@antor.csecu/building-bug-bounty-recon-pipeline-from-target-domain-to-vulnerability-discovery-cdc3e90e7a20?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 July 2026
 

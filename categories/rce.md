@@ -1,5 +1,8 @@
 ## 📅 26 July 2026
 
+- **[Visa Open-Sourced an 11-Stage AI Security Pipeline.](https://vlad-vsbd.medium.com/visa-open-sourced-an-11-stage-ai-security-pipeline-1647d871ebdf?source=rss------security-5)** _(Medium Security)_
+## 📅 26 July 2026
+
 - **[How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 July 2026
 
