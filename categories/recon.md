@@ -1,3 +1,6 @@
+## 📅 27 July 2026
+
+- **[Certificate Transparency — The Recon Superpower](https://kd-200.medium.com/certificate-transparency-the-recon-superpower-3dea8f58a5a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 July 2026
 
 - **[Mastering Active Reconnaissance: The Art of Gathering Information Without Exploitation](https://medium.com/@Mohamed_Sameh/mastering-active-reconnaissance-the-art-of-gathering-information-without-exploitation-14f7aa58746b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

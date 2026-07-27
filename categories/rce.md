@@ -1,3 +1,6 @@
+## 📅 27 July 2026
+
+- **[5 Affordable Penetration Testing Companies I Actually Outsourced to as a Startup](https://medium.com/@nabishajaved/5-affordable-penetration-testing-companies-i-actually-outsourced-to-as-a-startup-bc3ad399ecd5?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 July 2026
 
 - **[Visa Open-Sourced an 11-Stage AI Security Pipeline.](https://vlad-vsbd.medium.com/visa-open-sourced-an-11-stage-ai-security-pipeline-1647d871ebdf?source=rss------security-5)** _(Medium Security)_

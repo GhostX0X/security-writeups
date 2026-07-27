@@ -1,3 +1,6 @@
+## 📅 27 July 2026
+
+- **[Python Web Penetration Testing — Day 6: Detecting and Exploiting SQL Injection Vulnerabilities](https://osintteam.blog/python-web-penetration-testing-day-6-detecting-and-exploiting-sql-injection-vulnerabilities-490bf8527686?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 July 2026
 
 - **[Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
