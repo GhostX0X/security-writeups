@@ -1,3 +1,9 @@
+## 📅 27 July 2026
+
+- **[How I Found a Broken Access Control Vulnerability During a Penetration Test](https://medium.com/@ctf.exe890/how-i-found-a-broken-access-control-vulnerability-during-a-penetration-test-59a6d737a72d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 27 July 2026
+
+- **[How I Found a Broken Access Control Vulnerability During a Penetration Test](https://medium.com/@ctf.exe890/how-i-found-a-broken-access-control-vulnerability-during-a-penetration-test-59a6d737a72d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 July 2026
 
 - **[Real-World Broken Access Control (BAC): From IDOR to Privilege Escalation](https://medium.com/@viodex02/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-856ae5bdddc1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

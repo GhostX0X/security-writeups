@@ -1,5 +1,8 @@
 ## 📅 27 July 2026
 
+- **[How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500](https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 July 2026
+
 - **[Python Web Penetration Testing — Day 6: Detecting and Exploiting SQL Injection Vulnerabilities](https://osintteam.blog/python-web-penetration-testing-day-6-detecting-and-exploiting-sql-injection-vulnerabilities-490bf8527686?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 July 2026
 

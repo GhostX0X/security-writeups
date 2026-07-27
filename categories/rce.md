@@ -1,5 +1,8 @@
 ## 📅 27 July 2026
 
+- **[I Audited an Open-Source Go Web Project: CORS Leakage & Unauthenticated WebSockets](https://medium.com/@sharkeyhot/i-audited-an-open-source-go-web-project-cors-leakage-unauthenticated-websockets-e5c81eb723ed?source=rss------security-5)** _(Medium Security)_
+## 📅 27 July 2026
+
 - **[5 Affordable Penetration Testing Companies I Actually Outsourced to as a Startup](https://medium.com/@nabishajaved/5-affordable-penetration-testing-companies-i-actually-outsourced-to-as-a-startup-bc3ad399ecd5?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 July 2026
 

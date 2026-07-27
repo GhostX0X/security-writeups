@@ -1,3 +1,6 @@
+## 📅 27 July 2026
+
+- **[Hey, I just finished OAuth 2 in Action by Justin Richer and Antonio Sanso — and from a security…](https://medium.com/@test.my.hack.v1/hey-i-just-finished-oauth-2-in-action-by-justin-richer-and-antonio-sanso-and-from-a-security-c3515d6409fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 July 2026
 
 - **[Google and GitHub login without leaking tokens: external OAuth behind your own JWTs](https://medium.com/@ivanball76/google-and-github-login-without-leaking-tokens-external-oauth-behind-your-own-jwts-d68ba5e3aca4?source=rss------security-5)** _(Medium Security)_

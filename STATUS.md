@@ -1,7 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-07-27 14:09:24.379178 UTC
+Last updated: 2026-07-27 19:11:14.472026 UTC
 
-- sqli: 1
-- recon: 1
-- rce: 1
+- rce: 2
+- broken-access-control: 2
+- oauth: 1
+- sqli: 2
