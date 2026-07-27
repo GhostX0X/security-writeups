@@ -1,3 +1,9 @@
+## 📅 27 July 2026
+
+- **[How Current Connects Yield Originators with On-chain Capital](https://medium.com/@currentfinance/how-current-connects-yield-originators-with-on-chain-capital-89194cbcb02e?source=rss------security-5)** _(Medium Security)_
+## 📅 27 July 2026
+
+- **[La sicurezza ecologica di Stato](https://medium.com/@luca.momia.bonisoli/la-sicurezza-ecologica-di-stato-4eee5d276d76?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 July 2026
 
 - **[Two Simple but Amazing Pre-Account Takeover (ATO) Ideas](https://medium.com/@mo_0xnaser/two-simple-but-amazing-pre-account-takeover-ato-ideas-b4a98311a5e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
