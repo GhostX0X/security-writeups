@@ -1,5 +1,8 @@
 ## 📅 28 July 2026
 
+- **[Python Web Penetration Testing — Day 7: Intercepting HTTP Requests — Building Your Own Proxy](https://osintteam.blog/python-web-penetration-testing-day-7-intercepting-http-requests-building-your-own-proxy-a594aa841edc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 July 2026
+
 - **[OWASP API #4 — Unrestricted Resource Consumption: When APIs Don’t Know When to Say “Enough”](https://medium.com/@narmadha484/owasp-api-4-unrestricted-resource-consumption-when-apis-dont-know-when-to-say-enough-2845795261b0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 July 2026
 
