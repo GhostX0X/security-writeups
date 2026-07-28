@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[Securing Microservices with OAuth2 and Spring Authorization Server](https://medium.com/devdomain/securing-microservices-with-oauth2-and-spring-authorization-server-bd0b56d2d118?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 July 2026
 
 - **[Hey, I just finished OAuth 2 in Action by Justin Richer and Antonio Sanso — and from a security…](https://medium.com/@test.my.hack.v1/hey-i-just-finished-oauth-2-in-action-by-justin-richer-and-antonio-sanso-and-from-a-security-c3515d6409fc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
