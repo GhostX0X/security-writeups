@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 July 2026
 
 - **[How Current Connects Yield Originators with On-chain Capital](https://medium.com/@currentfinance/how-current-connects-yield-originators-with-on-chain-capital-89194cbcb02e?source=rss------security-5)** _(Medium Security)_

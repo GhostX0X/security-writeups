@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 July 2026
 
 - **[Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…](https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

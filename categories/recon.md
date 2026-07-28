@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[Three Hooks That Turn Claude Code Into an Autonomous Recon Loop](https://medium.com/@badekanrohan/three-hooks-that-turn-claude-code-into-an-autonomous-recon-loop-b602f03cb9d0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 July 2026
 
 - **[Certificate Transparency — The Recon Superpower](https://kd-200.medium.com/certificate-transparency-the-recon-superpower-3dea8f58a5a0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 July 2026
 
 - **[I Modified Collections I Did Not Own: IDOR](https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)](https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 July 2026
 
 - **[How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500](https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

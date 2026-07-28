@@ -1,3 +1,6 @@
+## 📅 28 July 2026
+
+- **[Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 July 2026
 
 - **[How I Found a Reflected XSS and Bypassed Wordfence WAF](https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

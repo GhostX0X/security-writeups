@@ -1,3 +1,9 @@
+## 📅 28 July 2026
+
+- **[How Do Companies Source Used IT Infrastructure? A Complete Guide for Businesses](https://medium.com/@futureprojectsca/how-do-companies-source-used-it-infrastructure-a-complete-guide-for-businesses-749afdb50c85?source=rss------security-5)** _(Medium Security)_
+## 📅 28 July 2026
+
+- **[How Do Companies Source Used IT Infrastructure for Business Growth?](https://medium.com/@futureprojectsca/how-do-companies-source-used-it-infrastructure-for-business-growth-aed6b049f7f8?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 July 2026
 
 - **[I Audited an Open-Source Go Web Project: CORS Leakage & Unauthenticated WebSockets](https://medium.com/@sharkeyhot/i-audited-an-open-source-go-web-project-cors-leakage-unauthenticated-websockets-e5c81eb723ed?source=rss------security-5)** _(Medium Security)_
