@@ -1,5 +1,8 @@
 ## 📅 28 July 2026
 
+- **[OWASP API #4 — Unrestricted Resource Consumption: When APIs Don’t Know When to Say “Enough”](https://medium.com/@narmadha484/owasp-api-4-unrestricted-resource-consumption-when-apis-dont-know-when-to-say-enough-2845795261b0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 July 2026
+
 - **[How Do Companies Source Used IT Infrastructure? A Complete Guide for Businesses](https://medium.com/@futureprojectsca/how-do-companies-source-used-it-infrastructure-a-complete-guide-for-businesses-749afdb50c85?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 July 2026
 

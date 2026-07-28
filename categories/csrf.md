@@ -1,5 +1,8 @@
 ## 📅 28 July 2026
 
+- **[I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability](https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 July 2026
+
 - **[Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 July 2026
 

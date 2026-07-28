@@ -1,5 +1,8 @@
 ## 📅 28 July 2026
 
+- **[I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability](https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 July 2026
+
 - **[How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 July 2026
 
