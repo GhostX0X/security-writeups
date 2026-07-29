@@ -1,5 +1,8 @@
 ## 📅 29 July 2026
 
+- **[Authenticator Apps Are Changing And Here’s What Businesses Should Look For In 2026](https://easterlyjen6.medium.com/authenticator-apps-are-changing-and-heres-what-businesses-should-look-for-in-2026-60e05e75b449?source=rss------security-5)** _(Medium Security)_
+## 📅 29 July 2026
+
 - **[Account Takeover Across Multiple Programs via Featurebase Integration](https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
