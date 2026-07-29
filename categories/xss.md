@@ -1,3 +1,6 @@
+## 📅 29 July 2026
+
+- **[Unauthenticated IPFS Uploads Led to Stored XSS on a Web3 Platform](https://medium.com/@default_Ox/unauthenticated-ipfs-uploads-led-to-stored-xss-on-a-web3-platform-d5b31f3869b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
