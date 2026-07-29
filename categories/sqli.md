@@ -1,3 +1,6 @@
+## 📅 29 July 2026
+
+- **[Everything Is Input: SQL Injection Through Parameter Names](https://clarkvoss.medium.com/everything-is-input-sql-injection-through-parameter-names-83f517eee633?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[Discovering an Time-Based Blind SQL Injection in a Tamil Nadu Government Web Portal (TANGEDCO)](https://infosecwriteups.com/discovering-an-time-based-blind-sql-injection-in-a-tamil-nadu-government-web-portal-tangedco-bbd48e761940?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 29 July 2026
+
+- **[⚙️ Hashcat Blackbelt — Automation, Pipelines & Full Recon-to-Crack Framework (Part 5)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-hashcat-blackbelt-automation-pipelines-full-recon-to-crack-framework-part-5-fe3798b6cfbf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 July 2026
+
+- **[Automating Google Dorking Across Multiple Search Engines for Faster Recon](https://medium.com/@bughuntingtips/automating-google-dorking-across-multiple-search-engines-for-faster-recon-175a136ecbdb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[Three Hooks That Turn Claude Code Into an Autonomous Recon Loop](https://medium.com/@badekanrohan/three-hooks-that-turn-claude-code-into-an-autonomous-recon-loop-b602f03cb9d0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

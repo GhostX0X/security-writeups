@@ -1,7 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-07-29 01:40:58.388076 UTC
+Last updated: 2026-07-29 08:18:50.643246 UTC
 
-- ssrf: 1
+- recon: 2
+- account-takeover: 1
+- sqli: 1
 - rce: 1
-- broken-access-control: 1

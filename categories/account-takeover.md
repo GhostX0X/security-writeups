@@ -1,3 +1,6 @@
+## 📅 29 July 2026
+
+- **[Account Takeover Across Multiple Programs via Featurebase Integration](https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[Account Takeover via XSS + CSRF and Browser Autofill Password](https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
