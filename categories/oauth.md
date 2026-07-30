@@ -1,3 +1,6 @@
+## 📅 29 July 2026
+
+- **[How to manage multi-user AI agent authentication and authorization in 2026 (OAuth 2.1,](https://medium.com/@ai_agents/ai-agent-authentication-authorization-1ef11e788d4a?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 July 2026
 
 - **[Securing Microservices with OAuth2 and Spring Authorization Server](https://medium.com/devdomain/securing-microservices-with-oauth2-and-spring-authorization-server-bd0b56d2d118?source=rss------security-5)** _(Medium Security)_

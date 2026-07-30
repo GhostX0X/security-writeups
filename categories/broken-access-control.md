@@ -1,3 +1,6 @@
+## 📅 29 July 2026
+
+- **[We Made Our Access Control Too Granular. Here’s What It Cost Us](https://levelup.gitconnected.com/we-made-our-access-control-too-granular-heres-what-it-cost-us-0b6bb9e0c84d?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 July 2026
 
 - **[How I Found a Broken Access Control Vulnerability During a Penetration Test](https://medium.com/@ctf.exe890/how-i-found-a-broken-access-control-vulnerability-during-a-penetration-test-59a6d737a72d?source=rss------pentesting-5)** _(Medium Pentesting)_
