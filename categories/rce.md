@@ -1,5 +1,8 @@
 ## 📅 30 July 2026
 
+- **[3 Hops to RCE. | MCP Security Part 4](https://medium.com/@Aacle/3-hops-to-rce-mcp-security-part-4-c1e6498c7b4c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 July 2026
+
 - **[TryHackMe Room 404 Walkthrough: Exposed .git Directory Leads to Full Source Code Disclosure](https://medium.com/@iamrudhh/tryhackme-room-404-walkthrough-exposed-git-directory-leads-to-full-source-code-disclosure-8f6ee55cba30?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 

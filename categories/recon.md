@@ -1,5 +1,11 @@
 ## 📅 30 July 2026
 
+- **[⚙️ Ghostyjoe™ Blackbelt Framework v2 — Full Recon, Scanning, Fuzzing & Cracking Automation](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-ghostyjoe-blackbelt-framework-v2-full-recon-scanning-fuzzing-cracking-automation-ee37c9032f7c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 July 2026
+
+- **[⚙️ Ghostyjoe™ Blackbelt Framework v2 — Full Recon, Scanning, Fuzzing & Cracking Automation](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-ghostyjoe-blackbelt-framework-v2-full-recon-scanning-fuzzing-cracking-automation-ee37c9032f7c?source=rss------security-5)** _(Medium Security)_
+## 📅 30 July 2026
+
 - **[My 3-Step Bug Bounty Recon Blueprint: The Ultimate 2026 Web Crawling Cheatsheet](https://kd-200.medium.com/my-3-step-bug-bounty-recon-blueprint-the-ultimate-2026-web-crawling-cheatsheet-075329dd59d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 July 2026
 
