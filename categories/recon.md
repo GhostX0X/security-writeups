@@ -1,3 +1,6 @@
+## 📅 30 July 2026
+
+- **[My 3-Step Bug Bounty Recon Blueprint: The Ultimate 2026 Web Crawling Cheatsheet](https://kd-200.medium.com/my-3-step-bug-bounty-recon-blueprint-the-ultimate-2026-web-crawling-cheatsheet-075329dd59d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 July 2026
 
 - **[⚙️ Hashcat Blackbelt — Automation, Pipelines & Full Recon-to-Crack Framework (Part 5)](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-hashcat-blackbelt-automation-pipelines-full-recon-to-crack-framework-part-5-fe3798b6cfbf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

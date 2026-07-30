@@ -1,5 +1,8 @@
 ## 📅 29 July 2026
 
+- **[Engineering an Android Security Testing Laboratory: Challenges, Solutions, and Lessons Learned](https://medium.com/@evansdavou178/building-my-first-android-penetration-testing-lab-every-error-taught-me-something-8c266792723b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 July 2026
+
 - **[Authenticator Apps Are Changing And Here’s What Businesses Should Look For In 2026](https://easterlyjen6.medium.com/authenticator-apps-are-changing-and-heres-what-businesses-should-look-for-in-2026-60e05e75b449?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 July 2026
 
