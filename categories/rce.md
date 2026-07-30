@@ -1,3 +1,6 @@
+## 📅 30 July 2026
+
+- **[TryHackMe Room 404 Walkthrough: Exposed .git Directory Leads to Full Source Code Disclosure](https://medium.com/@iamrudhh/tryhackme-room-404-walkthrough-exposed-git-directory-leads-to-full-source-code-disclosure-8f6ee55cba30?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[Python Web Penetration Testing — Day 7: Intercepting HTTP Requests — Building Your Own Proxy](https://osintteam.blog/python-web-penetration-testing-day-7-intercepting-http-requests-building-your-own-proxy-a594aa841edc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
