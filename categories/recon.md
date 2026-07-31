@@ -1,3 +1,6 @@
+## 📅 31 July 2026
+
+- **[Mastering the Dig Tool: A Beginner-Friendly Guide to DNS Lookup and Reconnaissance (Part 2)](https://osintteam.blog/mastering-the-dig-tool-a-beginner-friendly-guide-to-dns-lookup-and-reconnaissance-part-2-180c46910895?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 July 2026
 
 - **[⚙️ Ghostyjoe™ Blackbelt Framework v2 — Full Recon, Scanning, Fuzzing & Cracking Automation](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-ghostyjoe-blackbelt-framework-v2-full-recon-scanning-fuzzing-cracking-automation-ee37c9032f7c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
