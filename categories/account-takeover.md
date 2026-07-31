@@ -1,3 +1,6 @@
+## 📅 31 July 2026
+
+- **[blind XSS vulnerability that performs actions on behalf of the administrator.](https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 July 2026
 
 - **[Engineering an Android Security Testing Laboratory: Challenges, Solutions, and Lessons Learned](https://medium.com/@evansdavou178/building-my-first-android-penetration-testing-lab-every-error-taught-me-something-8c266792723b?source=rss------pentesting-5)** _(Medium Pentesting)_

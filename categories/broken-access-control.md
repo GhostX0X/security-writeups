@@ -1,3 +1,6 @@
+## 📅 31 July 2026
+
+- **[Broken Access Control: A Non-Admin User Can Change Site Configuration](https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 July 2026
 
 - **[We Made Our Access Control Too Granular. Here’s What It Cost Us](https://levelup.gitconnected.com/we-made-our-access-control-too-granular-heres-what-it-cost-us-0b6bb9e0c84d?source=rss------security-5)** _(Medium Security)_

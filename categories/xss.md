@@ -1,3 +1,6 @@
+## 📅 31 July 2026
+
+- **[blind XSS vulnerability that performs actions on behalf of the administrator.](https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 July 2026
 
 - **[Unauthenticated IPFS Uploads Led to Stored XSS on a Web3 Platform](https://medium.com/@default_Ox/unauthenticated-ipfs-uploads-led-to-stored-xss-on-a-web3-platform-d5b31f3869b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
