@@ -1,5 +1,8 @@
 ## 📅 01 August 2026
 
+- **[How Smart Lock Suppliers in Sharjah Deliver Safe and Convenient Access Control](https://medium.com/@v42665864/how-smart-lock-suppliers-in-sharjah-deliver-safe-and-convenient-access-control-8857c7b8e6ff?source=rss------security-5)** _(Medium Security)_
+## 📅 01 August 2026
+
 - **[Discovering an IDOR in Hoppscotch: A Deep Dive into Broken Access Control](https://medium.com/@ajithprabhu15/discovering-an-idor-in-hoppscotch-a-deep-dive-into-broken-access-control-3a337d4f3791?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 July 2026
 

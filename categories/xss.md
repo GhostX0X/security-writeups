@@ -1,3 +1,6 @@
+## 📅 01 August 2026
+
+- **[How I found a blind stored XSS bug and got paid twice](https://jalwan.medium.com/how-i-found-a-blind-stored-xss-bug-and-got-paid-twice-3b4db4c84c23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 July 2026
 
 - **[blind XSS vulnerability that performs actions on behalf of the administrator.](https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

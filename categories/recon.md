@@ -1,3 +1,12 @@
+## 📅 01 August 2026
+
+- **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 August 2026
+
+- **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 August 2026
+
+- **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 July 2026
 
 - **[Mastering the Dig Tool: A Beginner-Friendly Guide to DNS Lookup and Reconnaissance (Part 2)](https://osintteam.blog/mastering-the-dig-tool-a-beginner-friendly-guide-to-dns-lookup-and-reconnaissance-part-2-180c46910895?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

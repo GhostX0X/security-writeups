@@ -1,3 +1,12 @@
+## 📅 01 August 2026
+
+- **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 August 2026
+
+- **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 August 2026
+
+- **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 July 2026
 
 - **[How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra](https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
