@@ -1,5 +1,8 @@
 ## 📅 01 August 2026
 
+- **[When the Lock Comes With the Key: Bypassing Client-Side Encryption to Find an IDOR](https://cybersecuritywriteups.com/when-the-lock-comes-with-the-key-6e1c8e0162cb?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 August 2026
+
 - **[When the Lock Comes With the Key: Bypassing Client-Side Encryption to Find an IDOR](https://medium.com/@thelazypentester/when-the-lock-comes-with-the-key-6e1c8e0162cb?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 August 2026
 
