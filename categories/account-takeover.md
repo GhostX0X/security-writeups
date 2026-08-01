@@ -1,3 +1,6 @@
+## 📅 01 August 2026
+
+- **[RSS, Atom And Others To Improve Our Privacy On The Internet](https://medium.com/@colin.sampler/rss-atom-and-others-to-improve-our-privacy-on-the-internet-2777a9c1caf7?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 July 2026
 
 - **[blind XSS vulnerability that performs actions on behalf of the administrator.](https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 01 August 2026
+
+- **[Discovering an IDOR in Hoppscotch: A Deep Dive into Broken Access Control](https://medium.com/@ajithprabhu15/discovering-an-idor-in-hoppscotch-a-deep-dive-into-broken-access-control-3a337d4f3791?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 July 2026
 
 - **[Broken Access Control: A Non-Admin User Can Change Site Configuration](https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 01 August 2026
+
+- **[Discovering an IDOR in Hoppscotch: A Deep Dive into Broken Access Control](https://medium.com/@ajithprabhu15/discovering-an-idor-in-hoppscotch-a-deep-dive-into-broken-access-control-3a337d4f3791?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability](https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
