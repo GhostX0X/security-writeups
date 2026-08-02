@@ -1,5 +1,8 @@
 ## 📅 01 August 2026
 
+- **[Portswigger Lab: Broken Brute-Force Protection, IP Block Write-up](https://medium.com/@qalukey/portswigger-lab-broken-brute-force-protection-ip-block-write-up-c290194a8459?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 August 2026
+
 - **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 August 2026
 
