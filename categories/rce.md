@@ -1,3 +1,6 @@
+## 📅 02 August 2026
+
+- **[Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass](https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 
 - **[Portswigger Lab: Broken Brute-Force Protection, IP Block Write-up](https://medium.com/@qalukey/portswigger-lab-broken-brute-force-protection-ip-block-write-up-c290194a8459?source=rss------pentesting-5)** _(Medium Pentesting)_

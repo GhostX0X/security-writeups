@@ -1,3 +1,6 @@
+## 📅 02 August 2026
+
+- **[Bug Bounty Hacking Recon Automation Bug Bounty Methodology](https://medium.com/@cyber-ninjaaa/bug-bounty-hacking-recon-automation-bug-bounty-methodology-09a741212ae7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 
 - **[Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs](https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------pentesting-5)** _(Medium Pentesting)_
