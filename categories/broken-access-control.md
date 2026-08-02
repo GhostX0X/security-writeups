@@ -1,3 +1,6 @@
+## 📅 02 August 2026
+
+- **[Broken Access Control: Guest User Could Modify Global Project View Settings](https://medium.com/@mahmoudelsadany51/broken-access-control-guest-user-could-modify-global-project-view-settings-22b33f39c35f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 
 - **[How Smart Lock Suppliers in Sharjah Deliver Safe and Convenient Access Control](https://medium.com/@v42665864/how-smart-lock-suppliers-in-sharjah-deliver-safe-and-convenient-access-control-8857c7b8e6ff?source=rss------security-5)** _(Medium Security)_

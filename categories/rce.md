@@ -1,5 +1,8 @@
 ## 📅 02 August 2026
 
+- **[WordPress Said “REST”; Attackers Heard “RCE” ️  ‍](https://medium.com/@sudarshan.defcon/wordpress-said-rest-attackers-heard-rce-%EF%B8%8F-163ae34f8686?source=rss------security-5)** _(Medium Security)_
+## 📅 02 August 2026
+
 - **[Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass](https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 

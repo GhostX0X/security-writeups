@@ -1,3 +1,6 @@
+## 📅 02 August 2026
+
+- **[Sqli-Header-Lab](https://medium.com/@youssefelbakrey0/sqli-header-lab-96db30987327?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 July 2026
 
 - **[Everything Is Input: SQL Injection Through Parameter Names](https://clarkvoss.medium.com/everything-is-input-sql-injection-through-parameter-names-83f517eee633?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
