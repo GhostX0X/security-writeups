@@ -1,9 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-08-02 12:57:39.808245 UTC
+Last updated: 2026-08-02 18:53:51.011522 UTC
 
-- rce: 3
-- oauth: 1
-- broken-access-control: 1
-- sqli: 1
 - idor: 1
+- rce: 1

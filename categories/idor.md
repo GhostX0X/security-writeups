@@ -1,3 +1,6 @@
+## 📅 02 August 2026
+
+- **[How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR](https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 
 - **[When the Lock Comes With the Key: Bypassing Client-Side Encryption to Find an IDOR](https://cybersecuritywriteups.com/when-the-lock-comes-with-the-key-6e1c8e0162cb?source=rss------pentesting-5)** _(Medium Pentesting)_
