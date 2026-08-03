@@ -1,3 +1,6 @@
+## 📅 03 August 2026
+
+- **[Vulnerability Assessment for Penetration Testing & Bug Bounty (Part 2): Deep Recon, Endpoint…](https://medium.com/@shrutishinde1319/vulnerability-assessment-for-penetration-testing-bug-bounty-part-2-deep-recon-endpoint-b66a9c0cb6f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 August 2026
 
 - **[DorkinatorAI: a calmer way to start recon using AI](https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
