@@ -1,3 +1,6 @@
+## 📅 03 August 2026
+
+- **[The Bug Bounty Playbook: OAuth Callback and Redirect Manipulation](https://medium.com/@Aacle/the-bug-bounty-playbook-oauth-callback-and-redirect-manipulation-b7227b6f3136?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 August 2026
 
 - **[How to Securely Store & Refresh OAuth2 PKCE Tokens in Flutter (WASM-Ready)](https://medium.com/@hashmib447/how-to-securely-store-refresh-oauth2-pkce-tokens-in-flutter-wasm-ready-a4838e64be30?source=rss------security-5)** _(Medium Security)_
