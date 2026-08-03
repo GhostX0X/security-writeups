@@ -1,5 +1,8 @@
 ## 📅 02 August 2026
 
+- **[DorkinatorAI: a calmer way to start recon using AI](https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 August 2026
+
 - **[Bug Bounty Hacking Recon Automation Bug Bounty Methodology](https://medium.com/@cyber-ninjaaa/bug-bounty-hacking-recon-automation-bug-bounty-methodology-09a741212ae7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 

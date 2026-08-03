@@ -1,3 +1,6 @@
+## 📅 02 August 2026
+
+- **[DorkinatorAI: a calmer way to start recon using AI](https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 
 - **[RSS, Atom And Others To Improve Our Privacy On The Internet](https://medium.com/@colin.sampler/rss-atom-and-others-to-improve-our-privacy-on-the-internet-2777a9c1caf7?source=rss------security-5)** _(Medium Security)_
