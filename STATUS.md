@@ -1,5 +1,5 @@
 # 📊 Status
 
-Last updated: 2026-08-04 13:46:30.484122 UTC
+Last updated: 2026-08-04 19:17:35.531090 UTC
 
-- ssrf: 1
+- rce: 1

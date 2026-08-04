@@ -1,5 +1,8 @@
 ## 📅 04 August 2026
 
+- **[The Debug Flag That Opened the Door: A Journey From Django Debug Mode to Critical RCE](https://medium.com/@forhad.dks/the-debug-flag-that-opened-the-door-a-journey-from-django-debug-mode-to-critical-rce-7f099512916c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 August 2026
+
 - **[All you need to know about CORS — Cross-Origin Resource Sharing](https://medium.com/@ycgoh99/all-you-need-to-know-about-cors-cross-origin-resource-sharing-f8bde94c7a44?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 August 2026
 
