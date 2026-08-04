@@ -1,3 +1,6 @@
+## 📅 04 August 2026
+
+- **[CRPX0 — SCAMMER TURNED RANSOMWARE OPERATOR](https://rakeshkrish.medium.com/crpx0-scammer-turned-ransomware-operator-62cf701a0fad?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 August 2026
 
 - **[DorkinatorAI: a calmer way to start recon using AI](https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

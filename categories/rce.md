@@ -1,3 +1,6 @@
+## 📅 04 August 2026
+
+- **[All you need to know about CORS — Cross-Origin Resource Sharing](https://medium.com/@ycgoh99/all-you-need-to-know-about-cors-cross-origin-resource-sharing-f8bde94c7a44?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 August 2026
 
 - **[WordPress Said “REST”; Attackers Heard “RCE” ️  ‍](https://medium.com/@sudarshan.defcon/wordpress-said-rest-attackers-heard-rce-%EF%B8%8F-163ae34f8686?source=rss------security-5)** _(Medium Security)_
