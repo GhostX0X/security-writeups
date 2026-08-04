@@ -1,3 +1,6 @@
+## 📅 04 August 2026
+
+- **[How I Landed My First $200 Bounty With One Unusual SSRF](https://meetcyber.net/how-i-landed-my-first-200-bounty-with-one-unusual-ssrf-9464df0720b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[Why Bug Hunters Skip Role-Based API Testing And How I Turned a Writer Token Into an SSRF](https://cyphernova1337.medium.com/why-bug-hunters-skip-role-based-api-testing-and-how-i-turned-a-writer-token-into-an-ssrf-55397afe9848?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
