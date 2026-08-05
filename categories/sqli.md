@@ -1,3 +1,6 @@
+## 📅 04 August 2026
+
+- **[From SQL Injection to Prompt Injection](https://alibabayev0.medium.com/from-sql-injection-to-prompt-injection-86e0f14ea28c?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 August 2026
 
 - **[Sqli-Header-Lab](https://medium.com/@youssefelbakrey0/sqli-header-lab-96db30987327?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

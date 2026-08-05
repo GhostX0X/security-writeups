@@ -1,3 +1,9 @@
+## 📅 04 August 2026
+
+- **[100 High-Value Files & Paths Every Bug Hunter Should Check During Recon](https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 August 2026
+
+- **[100 High-Value Files & Paths Every Bug Hunter Should Check During Recon](https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 August 2026
 
 - **[Vulnerability Assessment for Penetration Testing & Bug Bounty (Part 2): Deep Recon, Endpoint…](https://medium.com/@shrutishinde1319/vulnerability-assessment-for-penetration-testing-bug-bounty-part-2-deep-recon-endpoint-b66a9c0cb6f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
