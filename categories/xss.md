@@ -1,3 +1,6 @@
+## 📅 05 August 2026
+
+- **[I Found Basic XSS + Open Redirect in a Hidden Endpoint (And Got $100 For It)](https://0x3rab.medium.com/i-found-basic-xss-open-redirect-in-a-hidden-endpoint-and-got-100-for-it-3bf5a968d58f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 
 - **[How I found a blind stored XSS bug and got paid twice](https://jalwan.medium.com/how-i-found-a-blind-stored-xss-bug-and-got-paid-twice-3b4db4c84c23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

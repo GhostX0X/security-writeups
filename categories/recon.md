@@ -1,5 +1,11 @@
 ## 📅 05 August 2026
 
+- **[Introducing Ghost Engine v3.2: An Automated Bug Bounty Recon Suite](https://medium.com/@muhammed_shifan_kamalsha_tk/introducing-ghost-engine-v3-2-an-automated-bug-bounty-recon-suite-9900fe246fd4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 August 2026
+
+- **[API Recon — Mapping Every Hidden Endpoint](https://kd-200.medium.com/api-recon-mapping-every-hidden-endpoint-dc09936cc596?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 August 2026
+
 - **[A Beginner’s Guide to Faster Web Reconnaissance](https://medium.com/@bughuntingtips/a-beginners-guide-to-faster-web-reconnaissance-77951045e9ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 August 2026
 
