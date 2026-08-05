@@ -1,3 +1,6 @@
+## 📅 05 August 2026
+
+- **[Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone](https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 August 2026
 
 - **[Broken Access Control: Guest User Could Modify Global Project View Settings](https://medium.com/@mahmoudelsadany51/broken-access-control-guest-user-could-modify-global-project-view-settings-22b33f39c35f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 05 August 2026
+
+- **[A Beginner’s Guide to Faster Web Reconnaissance](https://medium.com/@bughuntingtips/a-beginners-guide-to-faster-web-reconnaissance-77951045e9ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 August 2026
 
 - **[100 High-Value Files & Paths Every Bug Hunter Should Check During Recon](https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------pentesting-5)** _(Medium Pentesting)_
