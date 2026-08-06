@@ -1,5 +1,8 @@
 ## 📅 05 August 2026
 
+- **[Bypassing a “Safe” Input Field: Reflected XSS via Unescaped HTML Attribute Injection](https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 August 2026
+
 - **[I Found Basic XSS + Open Redirect in a Hidden Endpoint (And Got $100 For It)](https://0x3rab.medium.com/i-found-basic-xss-open-redirect-in-a-hidden-endpoint-and-got-100-for-it-3bf5a968d58f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 August 2026
 

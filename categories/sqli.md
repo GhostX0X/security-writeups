@@ -1,3 +1,6 @@
+## 📅 06 August 2026
+
+- **[CVE-2026–65971: A Complete Walkthrough of the Livewire PowerGrid sortDirection SQL Injection](https://medium.com/@guidancewhite/cve-2026-65971-a-complete-walkthrough-of-the-livewire-powergrid-sortdirection-sql-injection-0ce9d641ed0c?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 August 2026
 
 - **[From SQL Injection to Prompt Injection](https://alibabayev0.medium.com/from-sql-injection-to-prompt-injection-86e0f14ea28c?source=rss------security-5)** _(Medium Security)_
