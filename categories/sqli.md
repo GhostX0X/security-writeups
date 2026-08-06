@@ -1,5 +1,11 @@
 ## 📅 06 August 2026
 
+- **[Getting SQL Injection Past AWS WAF: Two Structural Inspection Gaps](https://prathameshbagul.medium.com/getting-sql-injection-past-aws-waf-two-structural-inspection-gaps-5c1148f2e49d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 August 2026
+
+- **[SQL Injection: Complete Guide](https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
 - **[Python Web Penetration Testing — Day 9: Advanced SQL Injection — Beyond the Basics](https://osintteam.blog/python-web-penetration-testing-day-9-advanced-sql-injection-beyond-the-basics-613a0a0ee90e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 August 2026
 

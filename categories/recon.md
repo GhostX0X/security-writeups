@@ -1,5 +1,11 @@
 ## 📅 06 August 2026
 
+- **[My 2026 Recon Checklist That Finds Hidden Attack Surfaces](https://medium.com/@bugitrix/my-2026-recon-checklist-that-finds-hidden-attack-surfaces-550232cf6f0e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
+- **[External Recon 101: Why You Need to Map Before You Attack](https://medium.com/@Aacle/external-recon-101-why-you-need-to-map-before-you-attack-c7d087563d93?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
 - **[The Lesser-Known Art of Recon Using Favicon Hashes](https://medium.com/@cutfile89/the-lesser-known-art-of-recon-using-favicon-hashes-c26805330a03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 August 2026
 

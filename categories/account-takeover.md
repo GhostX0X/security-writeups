@@ -1,3 +1,6 @@
+## 📅 05 August 2026
+
+- **[Can AI do novel security research? Meet the HTTP Terminator](https://portswigger.net/research/can-ai-do-novel-security-research)** _(PortSwigger Research)_
 ## 📅 06 August 2026
 
 - **[OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks](https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
