@@ -1,3 +1,9 @@
+## 📅 06 August 2026
+
+- **[Cifrado de datos: Explicado de forma sencilla para empresarios preocupados por la confidencialidad](https://medium.com/@servicios_98368/cifrado-de-datos-explicado-de-forma-sencilla-para-empresarios-preocupados-por-la-confidencialidad-c5b840bc8c2c?source=rss------security-5)** _(Medium Security)_
+## 📅 05 August 2026
+
+- **[Can AI do novel security research? Meet the HTTP Terminator](https://portswigger.net/research/http-terminator)** _(PortSwigger Research)_
 ## 📅 04 August 2026
 
 - **[CRPX0 — SCAMMER TURNED RANSOMWARE OPERATOR](https://rakeshkrish.medium.com/crpx0-scammer-turned-ransomware-operator-62cf701a0fad?source=rss------security-5)** _(Medium Security)_

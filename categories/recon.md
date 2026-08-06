@@ -1,3 +1,6 @@
+## 📅 06 August 2026
+
+- **[Automating Recon with Python: 12 Scripts That Save Hours of Manual Work](https://medium.com/@verylazytech/automating-recon-with-python-12-scripts-that-save-hours-of-manual-work-e3e38f6d759b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 August 2026
 
 - **[Introducing Ghost Engine v3.2: An Automated Bug Bounty Recon Suite](https://medium.com/@muhammed_shifan_kamalsha_tk/introducing-ghost-engine-v3-2-an-automated-bug-bounty-recon-suite-9900fe246fd4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
