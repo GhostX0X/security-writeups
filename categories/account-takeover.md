@@ -1,5 +1,11 @@
 ## 📅 06 August 2026
 
+- **[OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks](https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
+- **[How I Almost Made $1,000 with a Pre-Account Takeover](https://medium.com/@zheverxploit/how-i-almost-made-1-000-with-a-pre-account-takeover-68e1b00742da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
 - **[Cifrado de datos: Explicado de forma sencilla para empresarios preocupados por la confidencialidad](https://medium.com/@servicios_98368/cifrado-de-datos-explicado-de-forma-sencilla-para-empresarios-preocupados-por-la-confidencialidad-c5b840bc8c2c?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 August 2026
 

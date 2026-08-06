@@ -1,3 +1,6 @@
+## 📅 06 August 2026
+
+- **[OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks](https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 August 2026
 
 - **[The Bug Bounty Playbook: OAuth Callback and Redirect Manipulation](https://medium.com/@Aacle/the-bug-bounty-playbook-oauth-callback-and-redirect-manipulation-b7227b6f3136?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

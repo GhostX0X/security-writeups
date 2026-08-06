@@ -1,5 +1,8 @@
 ## 📅 06 August 2026
 
+- **[Python Web Penetration Testing — Day 9: Advanced SQL Injection — Beyond the Basics](https://osintteam.blog/python-web-penetration-testing-day-9-advanced-sql-injection-beyond-the-basics-613a0a0ee90e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
 - **[CVE-2026–65971: A Complete Walkthrough of the Livewire PowerGrid sortDirection SQL Injection](https://medium.com/@guidancewhite/cve-2026-65971-a-complete-walkthrough-of-the-livewire-powergrid-sortdirection-sql-injection-0ce9d641ed0c?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 August 2026
 

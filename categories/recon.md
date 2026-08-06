@@ -1,5 +1,8 @@
 ## 📅 06 August 2026
 
+- **[The Lesser-Known Art of Recon Using Favicon Hashes](https://medium.com/@cutfile89/the-lesser-known-art-of-recon-using-favicon-hashes-c26805330a03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 August 2026
+
 - **[Automating Recon with Python: 12 Scripts That Save Hours of Manual Work](https://medium.com/@verylazytech/automating-recon-with-python-12-scripts-that-save-hours-of-manual-work-e3e38f6d759b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 August 2026
 

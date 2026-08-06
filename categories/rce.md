@@ -1,3 +1,6 @@
+## 📅 06 August 2026
+
+- **[5 Best Open-Source API and Web App Pentesting Tools](https://medium.com/@msbj/5-best-open-source-api-and-web-app-pentesting-tools-0504d264958b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 August 2026
 
 - **[The Debug Flag That Opened the Door: A Journey From Django Debug Mode to Critical RCE](https://medium.com/@forhad.dks/the-debug-flag-that-opened-the-door-a-journey-from-django-debug-mode-to-critical-rce-7f099512916c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
