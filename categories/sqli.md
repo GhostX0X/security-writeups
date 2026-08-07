@@ -1,3 +1,6 @@
+## 📅 07 August 2026
+
+- **[PortSwigger Web Security Academy: All NoSQL Injection Labs Solved (Full Walkthrough)](https://medium.com/@blueorionn/portswigger-web-security-academy-all-nosql-injection-labs-solved-full-walkthrough-c0c2bf201402?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 August 2026
 
 - **[Getting SQL Injection Past AWS WAF: Two Structural Inspection Gaps](https://prathameshbagul.medium.com/getting-sql-injection-past-aws-waf-two-structural-inspection-gaps-5c1148f2e49d?source=rss------pentesting-5)** _(Medium Pentesting)_
