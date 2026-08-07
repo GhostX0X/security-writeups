@@ -1,5 +1,11 @@
 ## 📅 07 August 2026
 
+- **[When Strong Password Hashing Isn’t Enough: Chaining SQL Injection into Account Takeover](https://medium.com/@hossein.za68/when-strong-password-hashing-isnt-enough-chaining-sql-injection-into-account-takeover-b3220a52edc1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 August 2026
+
+- **[Manual SQL Injection: Extracting Data with GET Search SQLI lab in bWAPP](https://medium.com/@llombarotll/manual-sql-injection-extracting-data-with-get-search-sqli-lab-in-bwapp-ca02acd64db5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 August 2026
+
 - **[PortSwigger Web Security Academy: All NoSQL Injection Labs Solved (Full Walkthrough)](https://medium.com/@blueorionn/portswigger-web-security-academy-all-nosql-injection-labs-solved-full-walkthrough-c0c2bf201402?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 August 2026
 

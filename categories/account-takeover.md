@@ -1,3 +1,6 @@
+## 📅 07 August 2026
+
+- **[When Strong Password Hashing Isn’t Enough: Chaining SQL Injection into Account Takeover](https://medium.com/@hossein.za68/when-strong-password-hashing-isnt-enough-chaining-sql-injection-into-account-takeover-b3220a52edc1?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 August 2026
 
 - **[Can AI do novel security research? Meet the HTTP Terminator](https://portswigger.net/research/can-ai-do-novel-security-research)** _(PortSwigger Research)_

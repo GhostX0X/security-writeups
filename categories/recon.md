@@ -1,3 +1,6 @@
+## 📅 07 August 2026
+
+- **[How to Build a Recon Workflow That Actually Finds Bugs (Not Just Data)](https://medium.com/@Aacle/how-to-build-a-recon-workflow-that-actually-finds-bugs-not-just-data-12167d2d93e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 August 2026
 
 - **[My 2026 Recon Checklist That Finds Hidden Attack Surfaces](https://medium.com/@bugitrix/my-2026-recon-checklist-that-finds-hidden-attack-surfaces-550232cf6f0e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
