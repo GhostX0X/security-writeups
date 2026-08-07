@@ -1,5 +1,11 @@
 ## 📅 07 August 2026
 
+- **[JWT Algorithm Confusion → Admin Account Takeover](https://medium.com/@mehrankiya272/jwt-algorithm-confusion-admin-account-takeover-fe3779fd026d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 August 2026
+
+- **[The Science of Creating an Uncrackable Password: How Modern Generators Work Under the Hood](https://medium.com/@venkateswararaosiribolu/the-science-of-creating-an-uncrackable-password-how-modern-generators-work-under-the-hood-411c931fc713?source=rss------security-5)** _(Medium Security)_
+## 📅 07 August 2026
+
 - **[When Strong Password Hashing Isn’t Enough: Chaining SQL Injection into Account Takeover](https://medium.com/@hossein.za68/when-strong-password-hashing-isnt-enough-chaining-sql-injection-into-account-takeover-b3220a52edc1?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 August 2026
 
