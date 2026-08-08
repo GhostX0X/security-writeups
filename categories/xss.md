@@ -1,5 +1,8 @@
 ## 📅 08 August 2026
 
+- **[The WAF Blocked My XSS — So I Rotated What It Was Reading](https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 August 2026
+
 - **[The WAF Blocked My XSS — So I Rotated What It Was Reading](https://kd-200.medium.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 August 2026
 
