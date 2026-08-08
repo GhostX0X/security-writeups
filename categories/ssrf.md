@@ -1,3 +1,12 @@
+## 📅 07 August 2026
+
+- **[The SSRF That Wasn’t Supposed to Work Twice](https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 August 2026
+
+- **[The SSRF That Wasn’t Supposed to Work Twice](https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 August 2026
+
+- **[The SSRF That Wasn’t Supposed to Work Twice](https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 August 2026
 
 - **[How I Landed My First $200 Bounty With One Unusual SSRF](https://meetcyber.net/how-i-landed-my-first-200-bounty-with-one-unusual-ssrf-9464df0720b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
