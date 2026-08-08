@@ -1,3 +1,6 @@
+## 📅 08 August 2026
+
+- **[CVE-2026–34486 Analysis — Apache Tomcat EncryptInterceptor Bypass](https://medium.com/@guidancewhite/cve-2026-34486-analysis-apache-tomcat-encryptinterceptor-bypass-c6ba2b0959bf?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 August 2026
 
 - **[5 Best Open-Source API and Web App Pentesting Tools](https://medium.com/@msbj/5-best-open-source-api-and-web-app-pentesting-tools-0504d264958b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

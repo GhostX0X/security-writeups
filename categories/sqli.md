@@ -1,3 +1,6 @@
+## 📅 08 August 2026
+
+- **[Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint](https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 August 2026
 
 - **[When Strong Password Hashing Isn’t Enough: Chaining SQL Injection into Account Takeover](https://medium.com/@hossein.za68/when-strong-password-hashing-isnt-enough-chaining-sql-injection-into-account-takeover-b3220a52edc1?source=rss------pentesting-5)** _(Medium Pentesting)_

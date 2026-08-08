@@ -1,3 +1,6 @@
+## 📅 08 August 2026
+
+- **[The WAF Blocked My XSS — So I Rotated What It Was Reading](https://kd-200.medium.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 August 2026
 
 - **[Bypassing a “Safe” Input Field: Reflected XSS via Unescaped HTML Attribute Injection](https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
