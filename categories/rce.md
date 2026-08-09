@@ -1,3 +1,9 @@
+## 📅 09 August 2026
+
+- **[RCE in 2026 Doesn’t Look Like RCE in 2020. Here’s What Actually Matters Now.](https://medium.com/@Aacle/rce-in-2026-doesnt-look-like-rce-in-2020-here-s-what-actually-matters-now-fedb5bee2c86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 August 2026
+
+- **[Running AI-Generated Code Safely: Field Notes on Vercel Sandbox](https://medium.com/@ahmed.bis.iti/running-ai-generated-code-safely-field-notes-on-vercel-sandbox-4bb121bb725f?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 August 2026
 
 - **[CVE-2026–34486 Analysis — Apache Tomcat EncryptInterceptor Bypass](https://medium.com/@guidancewhite/cve-2026-34486-analysis-apache-tomcat-encryptinterceptor-bypass-c6ba2b0959bf?source=rss------security-5)** _(Medium Security)_
