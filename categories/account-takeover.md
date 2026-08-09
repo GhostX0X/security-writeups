@@ -1,3 +1,6 @@
+## 📅 09 August 2026
+
+- **[How I Chained an Unauthenticated OAuth Registration Endpoint into Full Account Takeover](https://medium.com/@divakarvasani3938/how-i-chained-an-unauthenticated-oauth-registration-endpoint-into-full-account-takeover-a6bc41e93a62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 August 2026
 
 - **[JWT Algorithm Confusion → Admin Account Takeover](https://medium.com/@mehrankiya272/jwt-algorithm-confusion-admin-account-takeover-fe3779fd026d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

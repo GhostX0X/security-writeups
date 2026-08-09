@@ -1,3 +1,6 @@
+## 📅 09 August 2026
+
+- **[How I Chained an Unauthenticated OAuth Registration Endpoint into Full Account Takeover](https://medium.com/@divakarvasani3938/how-i-chained-an-unauthenticated-oauth-registration-endpoint-into-full-account-takeover-a6bc41e93a62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 August 2026
 
 - **[OAuth 2.0 Attack Surface: Redirect URIs, Token Leakage, and Account Takeover Risks](https://medium.com/@cybermindspace/oauth-2-0-attack-surface-redirect-uris-token-leakage-and-account-takeover-risks-7d0f0730168b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

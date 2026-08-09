@@ -1,3 +1,6 @@
+## 📅 09 August 2026
+
+- **[How I Prioritize Hundreds of Subdomains During Bug Bounty Recon](https://medium.com/@Rakeshjoshi7/how-i-prioritize-hundreds-of-subdomains-during-bug-bounty-recon-964b3dfd1f56?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 August 2026
 
 - **[How to Build a Recon Workflow That Actually Finds Bugs (Not Just Data)](https://medium.com/@Aacle/how-to-build-a-recon-workflow-that-actually-finds-bugs-not-just-data-12167d2d93e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
