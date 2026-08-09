@@ -1,5 +1,8 @@
 ## 📅 09 August 2026
 
+- **[RepoJacking: How 5 Unclaimed GitHub Usernames Enabled RCE on Self-Hosted Servers](https://medium.com/@tushar.from.cyber/repojacking-how-5-unclaimed-github-usernames-enabled-rce-on-self-hosted-servers-39be3078bc5a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 August 2026
+
 - **[RCE in 2026 Doesn’t Look Like RCE in 2020. Here’s What Actually Matters Now.](https://medium.com/@Aacle/rce-in-2026-doesnt-look-like-rce-in-2020-here-s-what-actually-matters-now-fedb5bee2c86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 August 2026
 
