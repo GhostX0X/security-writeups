@@ -1,5 +1,8 @@
 ## 📅 10 August 2026
 
+- **[GitLab account takeover, no clicks required — $35,000 bounty](https://pawanjswal.medium.com/gitlab-account-takeover-no-clicks-required-35-000-bounty-5eed7fcc467d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 August 2026
+
 - **[Childcare Centre Security in Australia: What Regulators Expect vs What Actually Happens](https://medium.com/@SecurityInsightsAU/childcare-centre-security-in-australia-what-regulators-expect-vs-what-actually-happens-26d0c1137180?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 August 2026
 
