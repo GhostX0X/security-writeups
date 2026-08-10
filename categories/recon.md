@@ -1,3 +1,6 @@
+## 📅 10 August 2026
+
+- **[The Fastest Way I Found to Discover Hidden URLs During Bug Bounty Recon](https://meetcyber.net/the-fastest-way-i-found-to-discover-hidden-urls-during-bug-bounty-recon-fdb3847999a4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 August 2026
 
 - **[How I Prioritize Hundreds of Subdomains During Bug Bounty Recon](https://medium.com/@Rakeshjoshi7/how-i-prioritize-hundreds-of-subdomains-during-bug-bounty-recon-964b3dfd1f56?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

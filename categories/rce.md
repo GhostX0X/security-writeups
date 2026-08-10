@@ -1,3 +1,9 @@
+## 📅 10 August 2026
+
+- **[Exploiting CVE-2021–42013: Apache HTTP Server 2.4.49/2.4.50 Path Traversal & RCE Walkthrough](https://medium.com/@fadlio231199/exploiting-cve-2021-42013-apache-http-server-2-4-49-2-4-50-path-traversal-rce-walkthrough-a86112fc0efb?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 August 2026
+
+- **[Salesforce Killed the Password. Here Is What Admins Need to Know](https://medium.com/@cloudespacio8/salesforce-killed-the-password-here-is-what-admins-need-to-know-ef2e9e45379c?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 August 2026
 
 - **[RepoJacking: How 5 Unclaimed GitHub Usernames Enabled RCE on Self-Hosted Servers](https://medium.com/@tushar.from.cyber/repojacking-how-5-unclaimed-github-usernames-enabled-rce-on-self-hosted-servers-39be3078bc5a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 10 August 2026
+
+- **[The Quiet SQLi Everyone Walks Past (And How to Catch It)](https://kd-200.medium.com/the-quiet-sqli-everyone-walks-past-and-how-to-catch-it-e21ff4ed0f51?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 August 2026
+
+- **[The Quiet SQLi Everyone Walks Past (And How to Catch It)](https://kd-200.medium.com/the-quiet-sqli-everyone-walks-past-and-how-to-catch-it-e21ff4ed0f51?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 August 2026
 
 - **[Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint](https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
