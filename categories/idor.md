@@ -1,3 +1,9 @@
+## 📅 09 August 2026
+
+- **[IDOR via Comma-Injection: How Concatenating Two IDs Leaked Cross-Tenant PII](https://medium.com/@s0ufm3l/idor-via-comma-injection-how-concatenating-two-ids-leaked-cross-tenant-pii-d5f003e594f9?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 August 2026
+
+- **[IDOR via Comma-Injection: How Concatenating Two IDs Leaked Cross-Tenant PII](https://medium.com/@s0ufm3l/idor-via-comma-injection-how-concatenating-two-ids-leaked-cross-tenant-pii-d5f003e594f9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 August 2026
 
 - **[How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR](https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
