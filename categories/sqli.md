@@ -1,3 +1,6 @@
+## 📅 11 August 2026
+
+- **[EasyStore (Joomla) filter_sortby Pre-Authentication SQL Injection (CVE-2026–65761)](https://medium.com/@guidancewhite/easystore-joomla-filter-sortby-pre-authentication-sql-injection-cve-2026-65761-cb0c0f3d5331?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 August 2026
 
 - **[The Quiet SQLi Everyone Walks Past (And How to Catch It)](https://kd-200.medium.com/the-quiet-sqli-everyone-walks-past-and-how-to-catch-it-e21ff4ed0f51?source=rss------pentesting-5)** _(Medium Pentesting)_
