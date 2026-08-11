@@ -1,5 +1,11 @@
 ## 📅 10 August 2026
 
+- **[How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 August 2026
+
+- **[Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 August 2026
+
 - **[The Fastest Way I Found to Discover Hidden URLs During Bug Bounty Recon](https://meetcyber.net/the-fastest-way-i-found-to-discover-hidden-urls-during-bug-bounty-recon-fdb3847999a4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 August 2026
 
