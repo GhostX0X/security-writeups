@@ -1,3 +1,6 @@
+## 📅 11 August 2026
+
+- **[ATO with Open Redirect](https://santhosh-adiga-u.medium.com/ato-with-open-redirect-e33fef0c9af2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 August 2026
 
 - **[GitLab account takeover, no clicks required — $35,000 bounty](https://pawanjswal.medium.com/gitlab-account-takeover-no-clicks-required-35-000-bounty-5eed7fcc467d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

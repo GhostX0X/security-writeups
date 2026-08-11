@@ -1,5 +1,8 @@
 ## 📅 11 August 2026
 
+- **[NoSQL Injection: The Vulnerability Hiding in Your “Modern” Database](https://riteshthorve.medium.com/nosql-injection-the-vulnerability-hiding-in-your-modern-database-6af6064c54f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 August 2026
+
 - **[EasyStore (Joomla) filter_sortby Pre-Authentication SQL Injection (CVE-2026–65761)](https://medium.com/@guidancewhite/easystore-joomla-filter-sortby-pre-authentication-sql-injection-cve-2026-65761-cb0c0f3d5331?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 August 2026
 

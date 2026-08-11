@@ -1,3 +1,9 @@
+## 📅 11 August 2026
+
+- **[How to Automate Bug Bounty Reconnaissance with Recon Hero](https://medium.com/@pasidcoderz/how-to-automate-bug-bounty-reconnaissance-with-recon-hero-acde1cc1ebb6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 August 2026
+
+- **[Ghost Engine v3.2: An All-in-One Bug Bounty Recon & Security Automation Tool](https://medium.com/@pentesterclubpvtltd/ghost-engine-v3-2-an-all-in-one-bug-bounty-recon-security-automation-tool-0532136f024f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 August 2026
 
 - **[How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
