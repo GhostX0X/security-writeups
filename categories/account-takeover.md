@@ -1,5 +1,8 @@
 ## 📅 11 August 2026
 
+- **[The Ultimate Guide to Using a Password Generator Free of Charge in 2026](https://medium.com/@venkateswararaosiribolu/the-ultimate-guide-to-using-a-password-generator-free-of-charge-in-2026-d272d51bae87?source=rss------security-5)** _(Medium Security)_
+## 📅 11 August 2026
+
 - **[ATO with Open Redirect](https://santhosh-adiga-u.medium.com/ato-with-open-redirect-e33fef0c9af2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 August 2026
 
