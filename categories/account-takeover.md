@@ -1,3 +1,6 @@
+## 📅 12 August 2026
+
+- **[How account takeover attacks actually work](https://medium.com/the-repo/how-account-takeover-attacks-actually-work-34d342787497?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 August 2026
 
 - **[The Ultimate Guide to Using a Password Generator Free of Charge in 2026](https://medium.com/@venkateswararaosiribolu/the-ultimate-guide-to-using-a-password-generator-free-of-charge-in-2026-d272d51bae87?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 12 August 2026
+
+- **[3 IDOR Bugs That Paid $113,000 Combined — Here’s the 5-Minute Pattern Behind All of Them](https://medium.com/codetodeploy/3-idor-bugs-that-paid-113-000-combined-heres-the-5-minute-pattern-behind-all-of-them-7255a84dde46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 August 2026
 
 - **[IDOR via Comma-Injection: How Concatenating Two IDs Leaked Cross-Tenant PII](https://medium.com/@s0ufm3l/idor-via-comma-injection-how-concatenating-two-ids-leaked-cross-tenant-pii-d5f003e594f9?source=rss------pentesting-5)** _(Medium Pentesting)_
