@@ -1,3 +1,6 @@
+## 📅 11 August 2026
+
+- **[Unrestricted Resource Consumption in APIs: From Unlimited File Uploads to SMS Bombing](https://medium.com/@emircannaltuntas/unrestricted-resource-consumption-in-apis-from-unlimited-file-uploads-to-sms-bombing-4411633d53af?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 10 August 2026
 
 - **[Exploiting CVE-2021–42013: Apache HTTP Server 2.4.49/2.4.50 Path Traversal & RCE Walkthrough](https://medium.com/@fadlio231199/exploiting-cve-2021-42013-apache-http-server-2-4-49-2-4-50-path-traversal-rce-walkthrough-a86112fc0efb?source=rss------pentesting-5)** _(Medium Pentesting)_
