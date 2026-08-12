@@ -1,5 +1,11 @@
 ## 📅 12 August 2026
 
+- **[Intercepting Flutter Android App Traffic with Burp Suite Using an Android Studio Emulator…](https://medium.com/@CyberMavala/intercepting-flutter-android-app-traffic-with-burp-suite-using-an-android-studio-emulator-b53637a33561?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 August 2026
+
+- **[Intercepting Flutter Android App Traffic with Burp Suite Using an Android Studio Emulator…](https://medium.com/@CyberMavala/intercepting-flutter-android-app-traffic-with-burp-suite-using-an-android-studio-emulator-b53637a33561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 August 2026
+
 - **[How account takeover attacks actually work](https://medium.com/the-repo/how-account-takeover-attacks-actually-work-34d342787497?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 August 2026
 

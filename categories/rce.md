@@ -1,3 +1,12 @@
+## 📅 12 August 2026
+
+- **[Intercepting Flutter Android App Traffic with Burp Suite Using an Android Studio Emulator…](https://medium.com/@CyberMavala/intercepting-flutter-android-app-traffic-with-burp-suite-using-an-android-studio-emulator-b53637a33561?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 12 August 2026
+
+- **[Intercepting Flutter Android App Traffic with Burp Suite Using an Android Studio Emulator…](https://medium.com/@CyberMavala/intercepting-flutter-android-app-traffic-with-burp-suite-using-an-android-studio-emulator-b53637a33561?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 August 2026
+
+- **[CrocTears or how I found an Arbitrary File Deletion that can be escalated to RCE in croc](https://medium.com/@anassouiri07/croctears-or-how-i-found-an-arbitrary-file-deletion-that-can-be-escalated-to-rce-in-croc-0a4146a94454?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 August 2026
 
 - **[Unrestricted Resource Consumption in APIs: From Unlimited File Uploads to SMS Bombing](https://medium.com/@emircannaltuntas/unrestricted-resource-consumption-in-apis-from-unlimited-file-uploads-to-sms-bombing-4411633d53af?source=rss------pentesting-5)** _(Medium Pentesting)_
