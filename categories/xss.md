@@ -1,3 +1,6 @@
+## 📅 12 August 2026
+
+- **[DOM XSS: The Bug Your WAF Will Never Catch](https://kd-200.medium.com/dom-xss-the-bug-your-waf-will-never-catch-84bf9dda96bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 August 2026
 
 - **[Why Your Best XSS Is on a Param You Can’t See](https://kd-200.medium.com/why-your-best-xss-is-on-a-param-you-cant-see-2a6e31034f5c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
