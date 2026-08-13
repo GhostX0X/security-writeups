@@ -1,3 +1,9 @@
+## 📅 13 August 2026
+
+- **[Bypassing Keyword and Character Filters to Achieve Reflected XSS](https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 August 2026
+
+- **[How I Systematically Find XSS Bugs in Bug Bounty Programs (Step-by-Step Method)](https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 August 2026
 
 - **[DOM XSS: The Bug Your WAF Will Never Catch](https://kd-200.medium.com/dom-xss-the-bug-your-waf-will-never-catch-84bf9dda96bb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
