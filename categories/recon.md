@@ -1,3 +1,6 @@
+## 📅 13 August 2026
+
+- **[Why Automating Your Recon Is Making You Slower — And the Workflow System That Actually Finds…](https://medium.com/@R.H_Rizvi/why-automating-your-recon-is-making-you-slower-and-the-workflow-system-that-actually-finds-a8fca02dd932?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 August 2026
 
 - **[How to Automate Bug Bounty Reconnaissance with Recon Hero](https://medium.com/@pasidcoderz/how-to-automate-bug-bounty-reconnaissance-with-recon-hero-acde1cc1ebb6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

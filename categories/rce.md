@@ -1,3 +1,6 @@
+## 📅 13 August 2026
+
+- **[OWASP BWA -DVWA: Brute Force Login](https://medium.com/@costycrabbe/owasp-bwa-dvwa-brute-force-login-e72d5f437976?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 12 August 2026
 
 - **[Intercepting Flutter Android App Traffic with Burp Suite Using an Android Studio Emulator…](https://medium.com/@CyberMavala/intercepting-flutter-android-app-traffic-with-burp-suite-using-an-android-studio-emulator-b53637a33561?source=rss------pentesting-5)** _(Medium Pentesting)_
