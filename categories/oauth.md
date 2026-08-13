@@ -1,3 +1,6 @@
+## 📅 13 August 2026
+
+- **[Hands-On with WSO2 API Manager — Part 2: Securing APIs with OAuth2](https://medium.com/@janakakumara.nsn/hands-on-with-wso2-api-manager-part-2-securing-apis-with-oauth2-182f569992e9?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 August 2026
 
 - **[How I Chained an Unauthenticated OAuth Registration Endpoint into Full Account Takeover](https://medium.com/@divakarvasani3938/how-i-chained-an-unauthenticated-oauth-registration-endpoint-into-full-account-takeover-a6bc41e93a62?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
