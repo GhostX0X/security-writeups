@@ -1,3 +1,9 @@
+## 📅 14 August 2026
+
+- **[Server-Side Template Injection (SSTI) to Remote Code Execution (RCE): A Visual Guide for Pentesters…](https://medium.com/@kondibajogdand123/server-side-template-injection-ssti-to-remote-code-execution-rce-a-visual-guide-for-pentesters-0542524f46fd?source=rss------security-5)** _(Medium Security)_
+## 📅 14 August 2026
+
+- **[Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts](https://medium.com/@jnchiminyi/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-c74e41884f54?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 August 2026
 
 - **[O que um projeto de segurança open source me ensinou sobre lógica de programação](https://medium.com/@gabrielmatheus478/o-que-um-projeto-de-seguran%C3%A7a-open-source-me-ensinou-sobre-l%C3%B3gica-de-programa%C3%A7%C3%A3o-41e969a881cb?source=rss------security-5)** _(Medium Security)_
