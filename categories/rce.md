@@ -1,5 +1,8 @@
 ## 📅 13 August 2026
 
+- **[O que um projeto de segurança open source me ensinou sobre lógica de programação](https://medium.com/@gabrielmatheus478/o-que-um-projeto-de-seguran%C3%A7a-open-source-me-ensinou-sobre-l%C3%B3gica-de-programa%C3%A7%C3%A3o-41e969a881cb?source=rss------security-5)** _(Medium Security)_
+## 📅 13 August 2026
+
 - **[Command Injection in an E-Commerce Website | Penetration Testing CTF](https://medium.com/@pentesterclubpvtltd/command-injection-in-an-e-commerce-website-penetration-testing-ctf-487e868dbac4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 August 2026
 
