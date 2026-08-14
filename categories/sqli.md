@@ -1,3 +1,6 @@
+## 📅 14 August 2026
+
+- **[THE DOOR Penetration Testing | SQLi → Authentication Bypass → Command Injection](https://medium.com/@pentesterclubpvtltd/the-door-penetration-testing-sqli-authentication-bypass-command-injection-d3049e81a15d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 August 2026
 
 - **[NoSQL Injection: The Vulnerability Hiding in Your “Modern” Database](https://riteshthorve.medium.com/nosql-injection-the-vulnerability-hiding-in-your-modern-database-6af6064c54f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 14 August 2026
+
+- **[[IDOR] The Ones Everyone Walks Past — Turning id=124 Into Account Takeover](https://kd-200.medium.com/idor-the-ones-everyone-walks-past-turning-id-124-into-account-takeover-4377a980f382?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 August 2026
 
 - **[3 IDOR Bugs That Paid $113,000 Combined — Here’s the 5-Minute Pattern Behind All of Them](https://medium.com/codetodeploy/3-idor-bugs-that-paid-113-000-combined-heres-the-5-minute-pattern-behind-all-of-them-7255a84dde46?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

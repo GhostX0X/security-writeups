@@ -1,5 +1,8 @@
 ## 📅 14 August 2026
 
+- **[How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://infosecwriteups.com/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 August 2026
+
 - **[How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://medium.com/@rajnamdev/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 August 2026
 

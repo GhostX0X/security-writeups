@@ -1,5 +1,14 @@
 ## 📅 14 August 2026
 
+- **[Free Resources Every Broke College Student Can Use to Learn Hacking](https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 14 August 2026
+
+- **[Free Resources Every Broke College Student Can Use to Learn Hacking](https://medium.com/@atnoforcybersecurity/free-resources-every-broke-college-student-can-use-to-learn-hacking-b0a65637929d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 August 2026
+
+- **[Top 10 Law Enforcement Platforms for Modern Police Departments in 2026](https://medium.com/@hajiraqoulomb/top-10-law-enforcement-platforms-for-modern-police-departments-in-2026-662e616de49c?source=rss------security-5)** _(Medium Security)_
+## 📅 14 August 2026
+
 - **[Server-Side Template Injection (SSTI) to Remote Code Execution (RCE): A Visual Guide for Pentesters…](https://medium.com/@kondibajogdand123/server-side-template-injection-ssti-to-remote-code-execution-rce-a-visual-guide-for-pentesters-0542524f46fd?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 August 2026
 
