@@ -1,5 +1,8 @@
 ## 📅 14 August 2026
 
+- **[How I Systematically Find SQL Injection Bugs in Bug Bounty Programs (Step-by-Step Method)](https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 August 2026
+
 - **[THE DOOR Penetration Testing | SQLi → Authentication Bypass → Command Injection](https://medium.com/@pentesterclubpvtltd/the-door-penetration-testing-sqli-authentication-bypass-command-injection-d3049e81a15d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 August 2026
 

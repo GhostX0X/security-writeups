@@ -1,5 +1,8 @@
 ## 📅 14 August 2026
 
+- **[One IDOR, Three Leaks, $3K in Payouts](https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 August 2026
+
 - **[[IDOR] The Ones Everyone Walks Past — Turning id=124 Into Account Takeover](https://kd-200.medium.com/idor-the-ones-everyone-walks-past-turning-id-124-into-account-takeover-4377a980f382?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 August 2026
 

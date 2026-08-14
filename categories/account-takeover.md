@@ -1,5 +1,8 @@
 ## 📅 14 August 2026
 
+- **[How Does Your Authenticator App Work Without Internet? Math Behind 2FA](https://medium.com/@maheshlangote/how-does-your-authenticator-app-work-without-internet-math-behind-2fa-b3487335fd28?source=rss------security-5)** _(Medium Security)_
+## 📅 14 August 2026
+
 - **[[IDOR] The Ones Everyone Walks Past — Turning id=124 Into Account Takeover](https://kd-200.medium.com/idor-the-ones-everyone-walks-past-turning-id-124-into-account-takeover-4377a980f382?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 August 2026
 
