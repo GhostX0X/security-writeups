@@ -1,3 +1,6 @@
+## 📅 15 August 2026
+
+- **[subfaster Review: The Subfinder Fork Built for Faster Bug Bounty Recon](https://medium.com/@xpert4cyber/subfaster-review-the-subfinder-fork-built-for-faster-bug-bounty-recon-1469b71aae41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 August 2026
 
 - **[Why Automating Your Recon Is Making You Slower — And the Workflow System That Actually Finds…](https://medium.com/@R.H_Rizvi/why-automating-your-recon-is-making-you-slower-and-the-workflow-system-that-actually-finds-a8fca02dd932?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
