@@ -1,3 +1,6 @@
+## 📅 15 August 2026
+
+- **[How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes](https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 August 2026
 
 - **[How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://infosecwriteups.com/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
