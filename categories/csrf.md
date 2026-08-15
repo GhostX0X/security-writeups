@@ -1,3 +1,6 @@
+## 📅 15 August 2026
+
+- **[Exploiting CSRF in GraphQL APIs: Achieving Unauthorized CRUD Operations ( $$$ Bounty )](https://medium.com/@divyanksitapara088/exploiting-csrf-in-graphql-apis-achieving-unauthorized-crud-operations-bounty-038522c39a40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 July 2026
 
 - **[I Was Hunting for an IDOR, but Ended Up Finding a CSRF Vulnerability](https://medium.com/@andrewdehghan/i-was-hunting-for-an-idor-but-ended-up-finding-a-csrf-vulnerability-91909b03822d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
