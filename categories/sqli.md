@@ -1,3 +1,6 @@
+## 📅 16 August 2026
+
+- **[FreePBX CVE-2025–57819: From Unauthenticated SQL Injection to Remote Code Execution](https://medium.com/@iamkumarraj/freepbx-cve-2025-57819-from-unauthenticated-sql-injection-to-remote-code-execution-21e87b8aec53?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 14 August 2026
 
 - **[How I Systematically Find SQL Injection Bugs in Bug Bounty Programs (Step-by-Step Method)](https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
