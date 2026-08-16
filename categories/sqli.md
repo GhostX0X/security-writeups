@@ -1,5 +1,8 @@
 ## 📅 16 August 2026
 
+- **[DVWA Vulnerability: SQL Injection (Blind)](https://medium.com/@Kamal_S/dvwa-vulnerability-sql-injection-blind-c2b4ae5706f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 August 2026
+
 - **[FreePBX CVE-2025–57819: From Unauthenticated SQL Injection to Remote Code Execution](https://medium.com/@iamkumarraj/freepbx-cve-2025-57819-from-unauthenticated-sql-injection-to-remote-code-execution-21e87b8aec53?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 14 August 2026
 
