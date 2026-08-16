@@ -1,3 +1,6 @@
+## 📅 15 August 2026
+
+- **[Active Directory Explained: The Backbone of Enterprise Access Control (And Why Attackers Love It)](https://medium.com/@b0dj0x/active-directory-explained-the-backbone-of-enterprise-access-control-and-why-attackers-love-it-4585e80deb1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 August 2026
 
 - **[Access Control by Web Security Academy: Last Part](https://medium.com/@.rai/access-control-by-web-security-academy-last-part-7541d54eb930?source=rss------security-5)** _(Medium Security)_

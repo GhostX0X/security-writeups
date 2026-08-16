@@ -1,5 +1,8 @@
 ## 📅 15 August 2026
 
+- **[Passive Income from Recon: Real Methods Hackers Use](https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 August 2026
+
 - **[subfaster Review: The Subfinder Fork Built for Faster Bug Bounty Recon](https://medium.com/@xpert4cyber/subfaster-review-the-subfinder-fork-built-for-faster-bug-bounty-recon-1469b71aae41?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 August 2026
 

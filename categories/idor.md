@@ -1,3 +1,6 @@
+## 📅 15 August 2026
+
+- **[I Read the Top 20 IDOR Reports on HackerOne.](https://medium.com/@Aacle/i-read-the-top-20-idor-reports-on-hackerone-8e6545c3a0e4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 August 2026
 
 - **[One IDOR, Three Leaks, $3K in Payouts](https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
