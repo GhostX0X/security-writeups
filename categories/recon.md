@@ -1,3 +1,6 @@
+## 📅 16 August 2026
+
+- **[reconFTW: The Automated Recon Framework Every Bug Bounty Hunter Should Know in 2026](https://medium.com/@xpert4cyber/reconftw-the-automated-recon-framework-every-bug-bounty-hunter-should-know-in-2026-f7d0d581d896?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 August 2026
 
 - **[Passive Income from Recon: Real Methods Hackers Use](https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
