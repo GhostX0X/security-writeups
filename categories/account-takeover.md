@@ -1,3 +1,6 @@
+## 📅 16 August 2026
+
+- **[TryHackMe SOC Simulator: Introduction to Phishing — Complete Triage & Incident Reporting Guide](https://medium.com/@0xSABRY/tryhackme-soc-simulator-introduction-to-phishing-complete-triage-incident-reporting-guide-3f7b9166a976?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 August 2026
 
 - **[How Does Your Authenticator App Work Without Internet? Math Behind 2FA](https://medium.com/@maheshlangote/how-does-your-authenticator-app-work-without-internet-math-behind-2fa-b3487335fd28?source=rss------security-5)** _(Medium Security)_

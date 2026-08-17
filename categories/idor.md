@@ -1,3 +1,6 @@
+## 📅 16 August 2026
+
+- **[Restoring Permanently Deleted Projects via IDOR](https://medium.com/@abdulrahmanreda660/restoring-permanently-deleted-projects-via-idor-7c8d8c2e3e94?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 August 2026
 
 - **[I Read the Top 20 IDOR Reports on HackerOne.](https://medium.com/@Aacle/i-read-the-top-20-idor-reports-on-hackerone-8e6545c3a0e4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
