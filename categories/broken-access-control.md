@@ -1,3 +1,6 @@
+## 📅 17 August 2026
+
+- **[Commercial Security System Market Growth in Access Control-as-a-Service](https://medium.com/@avinashgogawale14/commercial-security-system-market-growth-in-access-control-as-a-service-c4bd3a806055?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 August 2026
 
 - **[Active Directory Explained: The Backbone of Enterprise Access Control (And Why Attackers Love It)](https://medium.com/@b0dj0x/active-directory-explained-the-backbone-of-enterprise-access-control-and-why-attackers-love-it-4585e80deb1e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
