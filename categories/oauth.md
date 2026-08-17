@@ -1,3 +1,6 @@
+## 📅 17 August 2026
+
+- **[Why Open Redirects Become Critical Inside OAuth](https://kd-200.medium.com/why-open-redirects-become-critical-inside-oauth-35261b5d8b85?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 August 2026
 
 - **[GitHub OAuth Tokens Finally Expire - Here's What Your ASP.NET Core App Must Change](https://medium.com/@mikhail.petrusheuski/github-oauth-tokens-finally-expire-heres-what-your-asp-net-core-app-must-change-201c39ee7540?source=rss------security-5)** _(Medium Security)_
