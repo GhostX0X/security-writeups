@@ -1,7 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-08-17 12:21:15.998432 UTC
+Last updated: 2026-08-17 18:22:03.765489 UTC
 
 - account-takeover: 1
+- broken-access-control: 1
 - oauth: 1
 - sqli: 1

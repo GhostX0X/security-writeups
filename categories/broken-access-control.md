@@ -1,5 +1,8 @@
 ## 📅 17 August 2026
 
+- **[Access Control Guide: How to Configure RBAC for Production](https://levelup.gitconnected.com/access-control-guide-how-to-configure-rbac-for-production-45ef20f6ef50?source=rss------security-5)** _(Medium Security)_
+## 📅 17 August 2026
+
 - **[Commercial Security System Market Growth in Access Control-as-a-Service](https://medium.com/@avinashgogawale14/commercial-security-system-market-growth-in-access-control-as-a-service-c4bd3a806055?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 August 2026
 
