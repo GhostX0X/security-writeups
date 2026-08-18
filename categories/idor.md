@@ -1,3 +1,6 @@
+## 📅 18 August 2026
+
+- **[Chaining IDOR to Privilege Escalation: A $$$$ Microsoft Bug Bounty](https://medium.com/@dsmodi484/chaining-idor-to-privilege-escalation-a-microsoft-bug-bounty-936656cf47a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 August 2026
 
 - **[Restoring Permanently Deleted Projects via IDOR](https://medium.com/@abdulrahmanreda660/restoring-permanently-deleted-projects-via-idor-7c8d8c2e3e94?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
