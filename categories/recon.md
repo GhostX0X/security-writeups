@@ -1,3 +1,9 @@
+## 📅 17 August 2026
+
+- **[Bug Bounty Recon & Vulnerability Cheat Sheet](https://medium.com/@t3nv1/bug-bounty-recon-vulnerability-cheat-sheet-12d9db390d7f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 August 2026
+
+- **[Bug Bounty Recon & Vulnerability Cheat Sheet](https://medium.com/@t3nv1/bug-bounty-recon-vulnerability-cheat-sheet-12d9db390d7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 August 2026
 
 - **[reconFTW: The Automated Recon Framework Every Bug Bounty Hunter Should Know in 2026](https://medium.com/@xpert4cyber/reconftw-the-automated-recon-framework-every-bug-bounty-hunter-should-know-in-2026-f7d0d581d896?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
