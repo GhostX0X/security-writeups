@@ -1,3 +1,6 @@
+## 📅 18 August 2026
+
+- **[OAuth2 in 2026: PKCE, PAR, and the cookie nobody talks about](https://medium.com/@arashmohtarami.aa/oauth2-in-2026-pkce-par-and-the-cookie-nobody-talks-about-f223e355ccbb?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 August 2026
 
 - **[Why Open Redirects Become Critical Inside OAuth](https://kd-200.medium.com/why-open-redirects-become-critical-inside-oauth-35261b5d8b85?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

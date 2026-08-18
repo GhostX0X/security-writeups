@@ -1,5 +1,8 @@
 ## 📅 18 August 2026
 
+- **[$12,000 for one GraphQL field: unauthenticated RCE on the servers that build Firefox](https://pawanjswal.medium.com/12-000-for-one-graphql-field-unauthenticated-rce-on-the-servers-that-build-firefox-fc3ec1467fa0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 August 2026
+
 - **[Strix: The Open-Source AI Hacker That Finds and Fixes Your App and Website Vulnerabilities](https://medium.com/coding-nexus/strix-the-open-source-ai-hacker-that-finds-and-fixes-your-app-and-website-vulnerabilities-71546d5b30c9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 August 2026
 
