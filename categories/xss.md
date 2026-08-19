@@ -1,3 +1,6 @@
+## 📅 18 August 2026
+
+- **[1. Reflected XSS into HTML context with nothing encoded](https://medium.com/@sevinjrb/1-reflected-xss-into-html-context-with-nothing-encoded-e9131984ebe8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 August 2026
 
 - **[Bypassing Keyword and Character Filters to Achieve Reflected XSS](https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
