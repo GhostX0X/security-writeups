@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[Recon Automation: 12 OSINT Tools Every Hacker Needs for Lightning-Fast Enumeration](https://medium.com/@verylazytech/recon-automation-12-osint-tools-every-hacker-needs-for-lightning-fast-enumeration-f7e7a18c7202?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 August 2026
 
 - **[Bug Bounty Recon & Vulnerability Cheat Sheet](https://medium.com/@t3nv1/bug-bounty-recon-vulnerability-cheat-sheet-12d9db390d7f?source=rss------pentesting-5)** _(Medium Pentesting)_

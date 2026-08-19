@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[CORS and CSRF Explained Like You’re Five (Then Like You’re a Backend Engineer)](https://medium.com/@prasannakml005/cors-and-csrf-explained-like-youre-five-then-like-you-re-a-backend-engineer-595e0d66367a?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 August 2026
 
 - **[Exploiting CSRF in GraphQL APIs: Achieving Unauthorized CRUD Operations ( $$$ Bounty )](https://medium.com/@divyanksitapara088/exploiting-csrf-in-graphql-apis-achieving-unauthorized-crud-operations-bounty-038522c39a40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

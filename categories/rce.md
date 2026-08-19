@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[The Authorization Gap in AI Operations: Building a Policy-Enforced EKS Control Plane with Cedar…](https://medium.com/@pradeepkandepaneni/the-authorization-gap-in-ai-operations-building-a-policy-enforced-eks-control-plane-with-cedar-43d39951298d?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 August 2026
 
 - **[$12,000 for one GraphQL field: unauthenticated RCE on the servers that build Firefox](https://pawanjswal.medium.com/12-000-for-one-graphql-field-unauthenticated-rce-on-the-servers-that-build-firefox-fc3ec1467fa0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
