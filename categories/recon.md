@@ -1,5 +1,11 @@
 ## 📅 19 August 2026
 
+- **[From a Single Domain to Leaked Secrets: A Recon Walkthrough with TrinetLayer](https://medium.com/@swarooppatil3125/from-a-single-domain-to-leaked-secrets-a-recon-walkthrough-with-trinetlayer-e6758c08f33b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 August 2026
+
+- **[From a Single Domain to Leaked Secrets: A Recon Walkthrough with TrinetLayer](https://medium.com/@swarooppatil3125/from-a-single-domain-to-leaked-secrets-a-recon-walkthrough-with-trinetlayer-e6758c08f33b?source=rss------security-5)** _(Medium Security)_
+## 📅 19 August 2026
+
 - **[Recon Automation: 12 OSINT Tools Every Hacker Needs for Lightning-Fast Enumeration](https://medium.com/@verylazytech/recon-automation-12-osint-tools-every-hacker-needs-for-lightning-fast-enumeration-f7e7a18c7202?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 August 2026
 

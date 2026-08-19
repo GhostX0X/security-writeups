@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…](https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 August 2026
 
 - **[Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

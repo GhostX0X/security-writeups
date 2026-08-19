@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[Anatomy of a Sandbox Escape: How Literal Path Confusion Broke Claude Code’s Security Boundary](https://medium.com/@sonalisood0/anatomy-of-a-sandbox-escape-how-literal-path-confusion-broke-claude-codes-security-boundary-95ef9abbfa2e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 16 August 2026
 
 - **[TryHackMe SOC Simulator: Introduction to Phishing — Complete Triage & Incident Reporting Guide](https://medium.com/@0xSABRY/tryhackme-soc-simulator-introduction-to-phishing-complete-triage-incident-reporting-guide-3f7b9166a976?source=rss------security-5)** _(Medium Security)_
