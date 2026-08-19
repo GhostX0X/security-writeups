@@ -1,5 +1,8 @@
 ## 📅 19 August 2026
 
+- **[SSRF Hunting Methodology: From Entry Point Discovery to Internal Network Access](https://rootast.medium.com/ssrf-hunting-methodology-from-entry-point-discovery-to-internal-network-access-0232ed7366b0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 August 2026
+
 - **[A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…](https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 August 2026
 

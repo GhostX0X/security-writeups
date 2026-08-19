@@ -1,5 +1,8 @@
 ## 📅 19 August 2026
 
+- **[TryHackMe Easy Peasy: From Web Recon to Root Access](https://medium.com/@producktive01/tryhackme-easy-peasy-from-web-recon-to-root-access-ec51db064ac3?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 August 2026
+
 - **[From a Single Domain to Leaked Secrets: A Recon Walkthrough with TrinetLayer](https://medium.com/@swarooppatil3125/from-a-single-domain-to-leaked-secrets-a-recon-walkthrough-with-trinetlayer-e6758c08f33b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
