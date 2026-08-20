@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[How to Find IDOR Vulnerabilities in Bug Bounty](https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 August 2026
 
 - **[Chaining IDOR to Privilege Escalation: A $$$$ Microsoft Bug Bounty](https://medium.com/@dsmodi484/chaining-idor-to-privilege-escalation-a-microsoft-bug-bounty-936656cf47a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

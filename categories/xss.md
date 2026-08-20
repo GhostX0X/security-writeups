@@ -1,3 +1,6 @@
+## 📅 19 August 2026
+
+- **[I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.](https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 August 2026
 
 - **[1. Reflected XSS into HTML context with nothing encoded](https://medium.com/@sevinjrb/1-reflected-xss-into-html-context-with-nothing-encoded-e9131984ebe8?source=rss------pentesting-5)** _(Medium Pentesting)_

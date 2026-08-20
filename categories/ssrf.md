@@ -1,5 +1,8 @@
 ## 📅 19 August 2026
 
+- **[SSRF with filter bypass via open redirection vulnerability | portswigger writeup](https://medium.com/@ali_st0rm/ssrf-with-filter-bypass-via-open-redirection-vulnerability-portswigger-writeup-b09c9cdf0184?source=rss------security-5)** _(Medium Security)_
+## 📅 19 August 2026
+
 - **[SSRF Hunting Methodology: From Entry Point Discovery to Internal Network Access](https://rootast.medium.com/ssrf-hunting-methodology-from-entry-point-discovery-to-internal-network-access-0232ed7366b0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 

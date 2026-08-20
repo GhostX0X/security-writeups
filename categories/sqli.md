@@ -1,3 +1,9 @@
+## 📅 19 August 2026
+
+- **[SQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…](https://medium.com/@s0larpunk/sql-injection-em-order-by-sem-autentica%C3%A7%C3%A3o-contornando-o-waf-com-case-when-e-subqueries-em-uma-811896c60907?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 August 2026
+
+- **[SQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…](https://medium.com/@s0larpunk/sql-injection-em-order-by-sem-autentica%C3%A7%C3%A3o-contornando-o-waf-com-case-when-e-subqueries-em-uma-811896c60907?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 August 2026
 
 - **[DVWA Vulnerability: SQL Injection (Blind)](https://medium.com/@Kamal_S/dvwa-vulnerability-sql-injection-blind-c2b4ae5706f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

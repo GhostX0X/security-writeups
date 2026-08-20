@@ -1,5 +1,8 @@
 ## 📅 19 August 2026
 
+- **[When an Agent Changes the Wrong Record, Operators Own the Fallout](https://medium.com/kairi-ai/when-an-agent-changes-the-wrong-record-operators-own-the-fallout-56d2b8f6a149?source=rss------security-5)** _(Medium Security)_
+## 📅 19 August 2026
+
 - **[Anatomy of a Sandbox Escape: How Literal Path Confusion Broke Claude Code’s Security Boundary](https://medium.com/@sonalisood0/anatomy-of-a-sandbox-escape-how-literal-path-confusion-broke-claude-codes-security-boundary-95ef9abbfa2e?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 16 August 2026
 
