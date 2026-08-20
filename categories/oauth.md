@@ -1,3 +1,6 @@
+## 📅 20 August 2026
+
+- **[Authentication vs. Authorization: How a Misconfigured OAuth Chain Led to an Auth Bypass](https://medium.com/@priyanshbhadoria5/authentication-vs-authorization-how-a-misconfigured-oauth-chain-led-to-an-auth-bypass-b14d1c0d402a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 August 2026
 
 - **[OAuth2 in 2026: PKCE, PAR, and the cookie nobody talks about](https://medium.com/@arashmohtarami.aa/oauth2-in-2026-pkce-par-and-the-cookie-nobody-talks-about-f223e355ccbb?source=rss------security-5)** _(Medium Security)_
