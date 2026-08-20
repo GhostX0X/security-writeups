@@ -1,3 +1,6 @@
+## 📅 20 August 2026
+
+- **[Blind SSRF Without Callbacks: How I Used Timing to Prove Kubernetes and AWS Metadata Access](https://medium.com/@nizarkadiri70/blind-ssrf-without-callbacks-how-i-used-timing-to-prove-kubernetes-and-aws-metadata-access-ac1cc05af779?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
 - **[SSRF with filter bypass via open redirection vulnerability | portswigger writeup](https://medium.com/@ali_st0rm/ssrf-with-filter-bypass-via-open-redirection-vulnerability-portswigger-writeup-b09c9cdf0184?source=rss------security-5)** _(Medium Security)_

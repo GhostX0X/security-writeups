@@ -1,3 +1,6 @@
+## 📅 20 August 2026
+
+- **[Web Technology Fingerprinting: A Practical Recon Guide](https://medium.com/@ph620095/web-technology-fingerprinting-a-practical-recon-guide-d86711e65c30?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
 - **[TryHackMe Easy Peasy: From Web Recon to Root Access](https://medium.com/@producktive01/tryhackme-easy-peasy-from-web-recon-to-root-access-ec51db064ac3?source=rss------pentesting-5)** _(Medium Pentesting)_
