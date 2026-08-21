@@ -1,3 +1,9 @@
+## 📅 21 August 2026
+
+- **[Privilege Escalation: Modeler Can Grant Administrator Access to Any User](https://medium.com/@m.elsaidy35/privilege-escalation-modeler-can-grant-administrator-access-to-any-user-d655718211f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 August 2026
+
+- **[The Secret Math Behind Google Authenticator (And Why It Works Even Offline)](https://medium.com/@nandakishorep/the-secret-math-behind-google-authenticator-and-why-it-works-even-offline-a91b97125a66?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 August 2026
 
 - **[When an Agent Changes the Wrong Record, Operators Own the Fallout](https://medium.com/kairi-ai/when-an-agent-changes-the-wrong-record-operators-own-the-fallout-56d2b8f6a149?source=rss------security-5)** _(Medium Security)_

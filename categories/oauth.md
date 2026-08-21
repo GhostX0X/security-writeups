@@ -1,3 +1,6 @@
+## 📅 21 August 2026
+
+- **[Async APIs: OAuth 2.1 Is Changing How We Build Authentication](https://codingplainenglish.medium.com/async-apis-oauth-2-1-is-changing-how-we-build-authentication-263bf7f625ed?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 August 2026
 
 - **[OAuth 2.0 — Understanding the Journey from Authorization Request to Access Token](https://medium.com/@officialmohamedarshad/oauth-2-0-understanding-the-journey-from-authorization-request-to-access-token-847c5cd8ee2e?source=rss------security-5)** _(Medium Security)_
