@@ -1,3 +1,6 @@
+## 📅 21 August 2026
+
+- **[Web App Reconnaissance: Mapping the Attack Surface](https://medium.com/@ph620095/web-app-reconnaissance-mapping-the-attack-surface-2e4b8e0fe242?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 August 2026
 
 - **[Web Technology Fingerprinting: A Practical Recon Guide](https://medium.com/@ph620095/web-technology-fingerprinting-a-practical-recon-guide-d86711e65c30?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

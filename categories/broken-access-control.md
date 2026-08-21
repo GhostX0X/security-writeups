@@ -1,3 +1,9 @@
+## 📅 21 August 2026
+
+- **[Broken Access Control: A Practical Walkthrough of 13 PortSwigger Labs](https://medium.com/@nitishmukhiya/broken-access-control-a-practical-walkthrough-of-13-portswigger-labs-60354e4b2667?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 August 2026
+
+- **[What Is an Access Control System and How Does It Work?](https://medium.com/@alexbryn1/what-is-an-access-control-system-and-how-does-it-work-c33d6f649936?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 August 2026
 
 - **[Access Control Guide: How to Configure RBAC for Production](https://levelup.gitconnected.com/access-control-guide-how-to-configure-rbac-for-production-45ef20f6ef50?source=rss------security-5)** _(Medium Security)_
