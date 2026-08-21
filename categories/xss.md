@@ -1,3 +1,6 @@
+## 📅 20 August 2026
+
+- **[From Unauthenticated Upload to Stored XSS: Breaking a Production S3 Upload Flow](https://medium.com/@redhunter01/from-unauthenticated-upload-to-stored-xss-breaking-a-production-s3-upload-flow-ca585c920407?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
 - **[I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.](https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

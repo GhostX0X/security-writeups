@@ -1,3 +1,12 @@
+## 📅 20 August 2026
+
+- **[How I Got RCE Through a Simple Collaboration Invitation in a Desktop Application](https://medium.com/@0xvar/how-i-got-rce-through-a-simple-collaboration-invitation-in-a-desktop-application-8ca7a601dc84?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 20 August 2026
+
+- **[How I Got RCE Through a Simple Collaboration Invitation in a Desktop Application](https://medium.com/@0xvar/how-i-got-rce-through-a-simple-collaboration-invitation-in-a-desktop-application-8ca7a601dc84?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 August 2026
+
+- **[The Invisible Workforce: How North Korean Cyber Operatives Infiltrated American Tech Jobs, and What…](https://medium.com/@IvIeMph/the-invisible-workforce-how-north-korean-cyber-operatives-infiltrated-american-tech-jobs-and-what-be09586c8414?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 August 2026
 
 - **[From a Contact Form to RCE: How I Found Blind PHP Code Injection](https://medium.com/@hossein.za68/from-a-contact-form-to-rce-how-i-found-blind-php-code-injection-b56e51846ce8?source=rss------pentesting-5)** _(Medium Pentesting)_

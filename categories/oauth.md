@@ -1,5 +1,8 @@
 ## 📅 20 August 2026
 
+- **[OAuth 2.0 — Understanding the Journey from Authorization Request to Access Token](https://medium.com/@officialmohamedarshad/oauth-2-0-understanding-the-journey-from-authorization-request-to-access-token-847c5cd8ee2e?source=rss------security-5)** _(Medium Security)_
+## 📅 20 August 2026
+
 - **[Authentication vs. Authorization: How a Misconfigured OAuth Chain Led to an Auth Bypass](https://medium.com/@priyanshbhadoria5/authentication-vs-authorization-how-a-misconfigured-oauth-chain-led-to-an-auth-bypass-b14d1c0d402a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 August 2026
 
