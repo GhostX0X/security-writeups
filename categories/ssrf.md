@@ -1,3 +1,6 @@
+## 📅 21 August 2026
+
+- **[Make the Server Read Its Own Cloud Credentials (SSRF)](https://kd-200.medium.com/make-the-server-read-its-own-cloud-credentials-ssrf-0e3173ab3173?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 August 2026
 
 - **[Blind SSRF Without Callbacks: How I Used Timing to Prove Kubernetes and AWS Metadata Access](https://medium.com/@nizarkadiri70/blind-ssrf-without-callbacks-how-i-used-timing-to-prove-kubernetes-and-aws-metadata-access-ac1cc05af779?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

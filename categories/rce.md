@@ -1,3 +1,6 @@
+## 📅 21 August 2026
+
+- **[Is open source EMR like OpenEMR secure? What healthcare organizations should know](https://medium.com/@linkhms/is-open-source-emr-like-openemr-secure-what-healthcare-organizations-should-know-cda715cfc0ff?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 August 2026
 
 - **[How I Got RCE Through a Simple Collaboration Invitation in a Desktop Application](https://medium.com/@0xvar/how-i-got-rce-through-a-simple-collaboration-invitation-in-a-desktop-application-8ca7a601dc84?source=rss------pentesting-5)** _(Medium Pentesting)_
