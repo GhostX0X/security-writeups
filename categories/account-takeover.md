@@ -1,3 +1,6 @@
+## 📅 22 August 2026
+
+- **[How a Simple IDOR Led to Full Account Takeover](https://medium.com/@edemzayaniyt/how-a-simple-idor-led-to-full-account-takeover-c54ba9525301?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 August 2026
 
 - **[Privilege Escalation: Modeler Can Grant Administrator Access to Any User](https://medium.com/@m.elsaidy35/privilege-escalation-modeler-can-grant-administrator-access-to-any-user-d655718211f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

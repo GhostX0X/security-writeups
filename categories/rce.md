@@ -1,5 +1,8 @@
 ## 📅 22 August 2026
 
+- **[OpenRedirect + CSRF Leads To Forced Victime to login as Attacker Account](https://medium.com/@aminamrouch5/openredirect-csrf-leads-to-forced-victime-to-login-as-attacker-account-81b4c92d1c86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 August 2026
+
 - **[inhousecode: AI Code Review Tool That Enforces Your Team’s Own Rules](https://medium.com/@ifilimon26/inhousecode-ai-code-review-tool-that-enforces-your-teams-own-rules-17c56f277536?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 August 2026
 

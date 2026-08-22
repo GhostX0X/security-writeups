@@ -1,3 +1,6 @@
+## 📅 22 August 2026
+
+- **[OpenRedirect + CSRF Leads To Forced Victime to login as Attacker Account](https://medium.com/@aminamrouch5/openredirect-csrf-leads-to-forced-victime-to-login-as-attacker-account-81b4c92d1c86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
 - **[CORS and CSRF Explained Like You’re Five (Then Like You’re a Backend Engineer)](https://medium.com/@prasannakml005/cors-and-csrf-explained-like-youre-five-then-like-you-re-a-backend-engineer-595e0d66367a?source=rss------security-5)** _(Medium Security)_

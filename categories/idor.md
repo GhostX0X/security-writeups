@@ -1,3 +1,6 @@
+## 📅 22 August 2026
+
+- **[How a Simple IDOR Led to Full Account Takeover](https://medium.com/@edemzayaniyt/how-a-simple-idor-led-to-full-account-takeover-c54ba9525301?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
 - **[How to Find IDOR Vulnerabilities in Bug Bounty](https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
