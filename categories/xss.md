@@ -1,3 +1,6 @@
+## 📅 21 August 2026
+
+- **[Cross-Site Scripting (XSS): Understanding the Vulnerability and How to Mitigate It](https://medium.com/@Dev_Diary_by_Santhoshi/cross-site-scripting-xss-understanding-the-vulnerability-and-how-to-mitigate-it-b706c8b8e7a5?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 August 2026
 
 - **[From Unauthenticated Upload to Stored XSS: Breaking a Production S3 Upload Flow](https://medium.com/@redhunter01/from-unauthenticated-upload-to-stored-xss-breaking-a-production-s3-upload-flow-ca585c920407?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
