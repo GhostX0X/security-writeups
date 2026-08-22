@@ -1,3 +1,6 @@
+## 📅 22 August 2026
+
+- **[Dark web monitoring, including Telegram groups and resources](https://imran-niaz.medium.com/dark-web-monitoring-including-telegram-groups-and-resources-22bebfa10e5a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 21 August 2026
 
 - **[Is open source EMR like OpenEMR secure? What healthcare organizations should know](https://medium.com/@linkhms/is-open-source-emr-like-openemr-secure-what-healthcare-organizations-should-know-cda715cfc0ff?source=rss------security-5)** _(Medium Security)_
