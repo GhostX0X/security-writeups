@@ -1,3 +1,6 @@
+## 📅 23 August 2026
+
+- **[How Broken OAuth Flows Turn Into One-Click Account Takeovers](https://medium.com/@tanvir.infosec/how-broken-oauth-flows-turn-into-one-click-account-takeovers-a13a67aa36c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 August 2026
 
 - **[How a Simple IDOR Led to Full Account Takeover](https://medium.com/@edemzayaniyt/how-a-simple-idor-led-to-full-account-takeover-c54ba9525301?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

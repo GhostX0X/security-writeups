@@ -1,3 +1,6 @@
+## 📅 23 August 2026
+
+- **[How Broken OAuth Flows Turn Into One-Click Account Takeovers](https://medium.com/@tanvir.infosec/how-broken-oauth-flows-turn-into-one-click-account-takeovers-a13a67aa36c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 August 2026
 
 - **[Async APIs: OAuth 2.1 Is Changing How We Build Authentication](https://codingplainenglish.medium.com/async-apis-oauth-2-1-is-changing-how-we-build-authentication-263bf7f625ed?source=rss------security-5)** _(Medium Security)_
