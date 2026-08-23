@@ -1,3 +1,9 @@
+## 📅 23 August 2026
+
+- **[AgentGG Found 100+ Zero-Days in Open Source Software](https://infosecwriteups.com/agentgg-cli-found-100-zero-days-in-open-source-software-5269463d2e40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 August 2026
+
+- **[Cloud Compliance and Policy Enforcement: Automating Guardrails for Containerized Environments](https://medium.com/@cypanrisk/cloud-compliance-and-policy-enforcement-automating-guardrails-for-containerized-environments-4a238752cc15?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 August 2026
 
 - **[OpenRedirect + CSRF Leads To Forced Victime to login as Attacker Account](https://medium.com/@aminamrouch5/openredirect-csrf-leads-to-forced-victime-to-login-as-attacker-account-81b4c92d1c86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

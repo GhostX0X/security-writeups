@@ -1,3 +1,6 @@
+## 📅 23 August 2026
+
+- **[I Ranked 252 Disclosed IDOR Reports by Bounty. Severity Barely Mattered.](https://medium.com/@rajnamdev/i-ranked-252-disclosed-idor-reports-by-bounty-severity-barely-mattered-3ba306bfa595?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 August 2026
 
 - **[Google Classroom IDOR Vulnerability POC Video](https://marrijalikhan.medium.com/google-classroom-idor-vulnerability-poc-video-c0201d18dd04?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

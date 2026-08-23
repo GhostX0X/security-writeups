@@ -1,9 +1,8 @@
 # 📊 Status
 
-Last updated: 2026-08-23 00:40:49.306178 UTC
+Last updated: 2026-08-23 06:22:16.333611 UTC
 
 - account-takeover: 1
-- ssrf: 1
-- broken-access-control: 1
+- rce: 3
 - idor: 1
-- rce: 1
+- ssrf: 1
