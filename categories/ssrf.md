@@ -1,3 +1,6 @@
+## 📅 22 August 2026
+
+- **[How 8 of the Top 20 HackerOne SSRF Reports Escalated to Cloud Credentials Leaks](https://medium.com/@Aacle/ssrf-to-cloud-credentials-how-8-of-the-top-20-hackerone-reports-escalated-e453ab59887a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 August 2026
 
 - **[Make the Server Read Its Own Cloud Credentials (SSRF)](https://kd-200.medium.com/make-the-server-read-its-own-cloud-credentials-ssrf-0e3173ab3173?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 22 August 2026
 
+- **[Google Classroom IDOR Vulnerability POC Video](https://marrijalikhan.medium.com/google-classroom-idor-vulnerability-poc-video-c0201d18dd04?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 August 2026
+
 - **[How a Simple IDOR Led to Full Account Takeover](https://medium.com/@edemzayaniyt/how-a-simple-idor-led-to-full-account-takeover-c54ba9525301?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 

@@ -1,3 +1,6 @@
+## 📅 22 August 2026
+
+- **[Improper Access Control in Decathlon’s Booxi Integration Leads to Unauthorized Access to Internal…](https://medium.com/@arourmohamed22/improper-access-control-in-decathlons-booxi-integration-leads-to-unauthorized-access-to-internal-7770bc1e90b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 August 2026
 
 - **[Broken Access Control: A Practical Walkthrough of 13 PortSwigger Labs](https://medium.com/@nitishmukhiya/broken-access-control-a-practical-walkthrough-of-13-portswigger-labs-60354e4b2667?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
