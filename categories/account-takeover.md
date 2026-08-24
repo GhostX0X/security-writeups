@@ -1,5 +1,8 @@
 ## 📅 24 August 2026
 
+- **[The art of Race Condition:how a simple race condition can leads to ATO!](https://medium.com/@tomahawk0ctf/the-art-of-race-condition-how-a-simple-race-condition-can-leads-to-ato-f02157210897?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 August 2026
+
 - **[I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 August 2026
 
