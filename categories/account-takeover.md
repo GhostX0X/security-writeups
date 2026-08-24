@@ -1,3 +1,6 @@
+## 📅 24 August 2026
+
+- **[I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 August 2026
 
 - **[How Broken OAuth Flows Turn Into One-Click Account Takeovers](https://medium.com/@tanvir.infosec/how-broken-oauth-flows-turn-into-one-click-account-takeovers-a13a67aa36c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
