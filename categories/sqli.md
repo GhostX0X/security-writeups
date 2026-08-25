@@ -1,3 +1,6 @@
+## 📅 25 August 2026
+
+- **[The SQL Injection Money Ladder: From First Payload to $25,000](https://medium.com/@rajnamdev/the-sql-injection-money-ladder-from-first-payload-to-25-000-2496635e54b3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 August 2026
 
 - **[SQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…](https://medium.com/@s0larpunk/sql-injection-em-order-by-sem-autentica%C3%A7%C3%A3o-contornando-o-waf-com-case-when-e-subqueries-em-uma-811896c60907?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

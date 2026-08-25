@@ -1,3 +1,6 @@
+## 📅 25 August 2026
+
+- **[Securing Apps: Password Hashing, RBAC, OAuth, and OpenID Connect](https://medium.com/@chetan71/securing-apps-password-hashing-rbac-oauth-and-openid-connect-d0f18cc25994?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 August 2026
 
 - **[How Broken OAuth Flows Turn Into One-Click Account Takeovers](https://medium.com/@tanvir.infosec/how-broken-oauth-flows-turn-into-one-click-account-takeovers-a13a67aa36c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
