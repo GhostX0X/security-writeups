@@ -1,3 +1,6 @@
+## 📅 24 August 2026
+
+- **[Every word in AI agent access control, defined twice: once properly, once as a receptionist](https://medium.com/@ismail0karabas/every-word-in-ai-agent-access-control-defined-twice-once-properly-once-as-a-receptionist-62aa2277482e?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 August 2026
 
 - **[Improper Access Control in Decathlon’s Booxi Integration Leads to Unauthorized Access to Internal…](https://medium.com/@arourmohamed22/improper-access-control-in-decathlons-booxi-integration-leads-to-unauthorized-access-to-internal-7770bc1e90b1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

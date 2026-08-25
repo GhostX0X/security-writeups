@@ -1,3 +1,6 @@
+## 📅 24 August 2026
+
+- **[# Forced Team Membership via Invitation Token Leakage and Missing Email Ownership Verification](https://medium.com/@zyadatef2462003/forced-team-membership-via-invitation-token-leakage-and-missing-email-ownership-verification-918c587cf5d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 August 2026
 
 - **[AgentGG Found 100+ Zero-Days in Open Source Software](https://infosecwriteups.com/agentgg-cli-found-100-zero-days-in-open-source-software-5269463d2e40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
