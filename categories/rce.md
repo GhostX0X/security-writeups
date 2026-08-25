@@ -1,3 +1,9 @@
+## 📅 25 August 2026
+
+- **[Lab Write-up: Source Code Disclosure via Backup Files](https://medium.com/@ayeshaaghafoor48/lab-write-up-source-code-disclosure-via-backup-files-61b078b832d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 August 2026
+
+- **[Lab Write-up: Source Code Disclosure via Backup Files](https://medium.com/@ayeshaaghafoor48/lab-write-up-source-code-disclosure-via-backup-files-59372aedfe11?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 August 2026
 
 - **[# Forced Team Membership via Invitation Token Leakage and Missing Email Ownership Verification](https://medium.com/@zyadatef2462003/forced-team-membership-via-invitation-token-leakage-and-missing-email-ownership-verification-918c587cf5d8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

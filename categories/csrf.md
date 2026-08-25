@@ -1,3 +1,6 @@
+## 📅 25 August 2026
+
+- **[CVE-2026–73292 : Comment j’ai trouvé une faille CSRF dans Semaphore UI](https://medium.com/@gerinrozecamille/cve-2026-73292-comment-jai-trouv%C3%A9-une-faille-csrf-dans-semaphore-ui-10054dba1ff7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 August 2026
 
 - **[OpenRedirect + CSRF Leads To Forced Victime to login as Attacker Account](https://medium.com/@aminamrouch5/openredirect-csrf-leads-to-forced-victime-to-login-as-attacker-account-81b4c92d1c86?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
