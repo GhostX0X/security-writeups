@@ -1,3 +1,6 @@
+## 📅 26 August 2026
+
+- **[JWT Weak Secret Brute-Force — Write-up](https://medium.com/@ali_st0rm/jwt-weak-secret-brute-force-write-up-2b8f58da28ec?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 August 2026
 
 - **[Lab Write-up: Source Code Disclosure via Backup Files](https://medium.com/@ayeshaaghafoor48/lab-write-up-source-code-disclosure-via-backup-files-61b078b832d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

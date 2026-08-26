@@ -1,3 +1,6 @@
+## 📅 26 August 2026
+
+- **[How I Bypassed an Adaptive SQL Injection Filter](https://medium.com/fmisec/how-i-bypassed-an-adaptive-sql-injection-filter-739a64ee3222?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 August 2026
 
 - **[The SQL Injection Money Ladder: From First Payload to $25,000](https://medium.com/@rajnamdev/the-sql-injection-money-ladder-from-first-payload-to-25-000-2496635e54b3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
