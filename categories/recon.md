@@ -1,3 +1,6 @@
+## 📅 26 August 2026
+
+- **[20 Certificate Transparency Tricks for Recon: Master Advanced Asset Discovery for Ethical Hacking](https://medium.com/@verylazytech/20-certificate-transparency-tricks-for-recon-master-advanced-asset-discovery-for-ethical-hacking-0ba8bd8ecf45?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 August 2026
 
 - **[Web App Reconnaissance: Mapping the Attack Surface](https://medium.com/@ph620095/web-app-reconnaissance-mapping-the-attack-surface-2e4b8e0fe242?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

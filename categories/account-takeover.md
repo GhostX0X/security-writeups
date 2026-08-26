@@ -1,3 +1,6 @@
+## 📅 26 August 2026
+
+- **[Mass assignment led to ATO](https://medium.com/@ay01011017/mass-assignment-led-to-ato-6a9d0f081871?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 August 2026
 
 - **[The art of Race Condition:how a simple race condition can leads to ATO!](https://medium.com/@tomahawk0ctf/the-art-of-race-condition-how-a-simple-race-condition-can-leads-to-ato-f02157210897?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

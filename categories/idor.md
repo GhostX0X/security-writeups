@@ -1,3 +1,9 @@
+## 📅 26 August 2026
+
+- **[How I Earned a $1,000 Bounty by Exploiting a Simple IDOR](https://osintteam.blog/how-i-earned-a-1-000-bounty-by-exploiting-a-simple-idor-f4334f3edc00?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 August 2026
+
+- **[How I Manipulated One Parameter to Love Another User’s Comment -IDOR & Broken Authorization](https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 August 2026
 
 - **[I Ranked 252 Disclosed IDOR Reports by Bounty. Severity Barely Mattered.](https://medium.com/@rajnamdev/i-ranked-252-disclosed-idor-reports-by-bounty-severity-barely-mattered-3ba306bfa595?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,11 @@
 ## 📅 26 August 2026
 
+- **[How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty](https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 26 August 2026
+
+- **[How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty](https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 August 2026
+
 - **[Cloudflare WAF Bypass → DOM-Based XSS via Unsanitized iframe.src](https://medium.com/@redhunter01/cloudflare-waf-bypass-dom-based-xss-via-unsanitized-iframe-src-27a1520caac5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 August 2026
 

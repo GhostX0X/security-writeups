@@ -1,5 +1,8 @@
 ## 📅 26 August 2026
 
+- **[unhar | Extract JavaScript & HTML from HAR Files + Auto-Fetch Source Maps](https://medium.com/@pentesterclubpvtltd/unhar-extract-javascript-html-from-har-files-auto-fetch-source-maps-62669712c5b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 August 2026
+
 - **[How Can Door Reinforcement Toronto Help Protect Your Property’s Most Used Access Point?](https://medium.com/@fortknoxsolutionsca/how-can-door-reinforcement-toronto-help-protect-your-propertys-most-used-access-point-a9290f599441?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 August 2026
 
