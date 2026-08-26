@@ -1,3 +1,6 @@
+## 📅 25 August 2026
+
+- **[CVE-2026-75932 & CVE-2026-75933: Jet Admin Tenant Isolation Failure and Stored XSS](https://medium.com/@melkhaligy77/cve-2026-75932-cve-2026-75933-jet-admin-tenant-isolation-failure-and-stored-xss-8b8ae68e1737?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 August 2026
 
 - **[Cross-Site Scripting (XSS): Understanding the Vulnerability and How to Mitigate It](https://medium.com/@Dev_Diary_by_Santhoshi/cross-site-scripting-xss-understanding-the-vulnerability-and-how-to-mitigate-it-b706c8b8e7a5?source=rss------security-5)** _(Medium Security)_
