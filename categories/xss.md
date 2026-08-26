@@ -1,3 +1,6 @@
+## 📅 26 August 2026
+
+- **[Cloudflare WAF Bypass → DOM-Based XSS via Unsanitized iframe.src](https://medium.com/@redhunter01/cloudflare-waf-bypass-dom-based-xss-via-unsanitized-iframe-src-27a1520caac5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 August 2026
 
 - **[CVE-2026-75932 & CVE-2026-75933: Jet Admin Tenant Isolation Failure and Stored XSS](https://medium.com/@melkhaligy77/cve-2026-75932-cve-2026-75933-jet-admin-tenant-isolation-failure-and-stored-xss-8b8ae68e1737?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

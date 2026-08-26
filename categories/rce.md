@@ -1,5 +1,8 @@
 ## 📅 26 August 2026
 
+- **[How Can Door Reinforcement Toronto Help Protect Your Property’s Most Used Access Point?](https://medium.com/@fortknoxsolutionsca/how-can-door-reinforcement-toronto-help-protect-your-propertys-most-used-access-point-a9290f599441?source=rss------security-5)** _(Medium Security)_
+## 📅 26 August 2026
+
 - **[JWT Weak Secret Brute-Force — Write-up](https://medium.com/@ali_st0rm/jwt-weak-secret-brute-force-write-up-2b8f58da28ec?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 August 2026
 
