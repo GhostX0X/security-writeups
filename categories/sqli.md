@@ -1,3 +1,6 @@
+## 📅 27 August 2026
+
+- **[From SQL Injection to PCAP Analysis: My Hands-On Penetration Testing Capstone](https://medium.com/@cybersage0001/from-sql-injection-to-pcap-analysis-my-hands-on-penetration-testing-capstone-22be1276ced0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 August 2026
 
 - **[How I Bypassed an Adaptive SQL Injection Filter](https://medium.com/fmisec/how-i-bypassed-an-adaptive-sql-injection-filter-739a64ee3222?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

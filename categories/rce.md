@@ -1,3 +1,6 @@
+## 📅 27 August 2026
+
+- **[APK Impossible to Intercept: SSLHandshakeException, ProviderInstaller, and How We Got Burp Working…](https://infosecwriteups.com/apk-impossible-to-intercept-sslhandshakeexception-providerinstaller-and-how-we-got-burp-working-d756521b8c2a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 August 2026
 
 - **[unhar | Extract JavaScript & HTML from HAR Files + Auto-Fetch Source Maps](https://medium.com/@pentesterclubpvtltd/unhar-extract-javascript-html-from-har-files-auto-fetch-source-maps-62669712c5b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
