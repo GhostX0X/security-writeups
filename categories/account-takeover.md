@@ -1,3 +1,9 @@
+## 📅 27 August 2026
+
+- **[Account Takeover via Parameter Confusion in Login Authentication](https://medium.com/@amirhosseinvhd/account-takeover-via-parameter-confusion-in-login-authentication-d32cd692b8db?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 27 August 2026
+
+- **[How an OAuth 2.0 Redirect URI Bypass Led to Account Takeover and an $8,000 Bounty](https://medium.com/@t4nv1/how-an-oauth-2-0-redirect-uri-bypass-led-to-account-takeover-and-an-8-000-bounty-ad67ba4b0db6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 August 2026
 
 - **[Mass assignment led to ATO](https://medium.com/@ay01011017/mass-assignment-led-to-ato-6a9d0f081871?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

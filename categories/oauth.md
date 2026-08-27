@@ -1,3 +1,9 @@
+## 📅 27 August 2026
+
+- **[Sign Out Everywhere Bypass: How I Found a Session Revocation Vulnerability in OAuth & Password…](https://mhd101.medium.com/sign-out-everywhere-bypass-how-i-found-a-session-revocation-vulnerability-in-oauth-password-de076dc2b4c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 August 2026
+
+- **[How an OAuth 2.0 Redirect URI Bypass Led to Account Takeover and an $8,000 Bounty](https://medium.com/@t4nv1/how-an-oauth-2-0-redirect-uri-bypass-led-to-account-takeover-and-an-8-000-bounty-ad67ba4b0db6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 August 2026
 
 - **[Securing Apps: Password Hashing, RBAC, OAuth, and OpenID Connect](https://medium.com/@chetan71/securing-apps-password-hashing-rbac-oauth-and-openid-connect-d0f18cc25994?source=rss------security-5)** _(Medium Security)_
