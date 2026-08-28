@@ -1,3 +1,6 @@
+## 📅 28 August 2026
+
+- **[When logout becomes an OAuth attack](https://medium.com/@yagomartins30/when-logout-becomes-an-oauth-attack-8f1648f9c807?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 August 2026
 
 - **[Sign Out Everywhere Bypass: How I Found a Session Revocation Vulnerability in OAuth & Password…](https://mhd101.medium.com/sign-out-everywhere-bypass-how-i-found-a-session-revocation-vulnerability-in-oauth-password-de076dc2b4c0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

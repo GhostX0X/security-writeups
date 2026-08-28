@@ -1,3 +1,6 @@
+## 📅 28 August 2026
+
+- **[I Built 30 AWS Resources With One Command. Here Is What I Learned.](https://blog.stackademic.com/i-built-30-aws-resources-with-one-command-here-is-what-i-learned-29a44548a579?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 August 2026
 
 - **[Security Week: Gitea RCE Under Attack, Critical Web Flaws, and Tag-Name XSS](https://infosecwriteups.com/security-week-gitea-rce-under-attack-critical-web-flaws-and-tag-name-xss-6db2611da923?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
