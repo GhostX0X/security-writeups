@@ -1,3 +1,6 @@
+## 📅 27 August 2026
+
+- **[Security Week: Gitea RCE Under Attack, Critical Web Flaws, and Tag-Name XSS](https://infosecwriteups.com/security-week-gitea-rce-under-attack-critical-web-flaws-and-tag-name-xss-6db2611da923?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 August 2026
 
 - **[How an Unsanitized SVG Upload Led to Cross-Site Scripting (XSS) and a $3,500 Bounty](https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 27 August 2026
+
+- **[CSRF | How to Test  — Part 1](https://elusive1973.medium.com/csrf-how-to-test-part-1-7aec79191a5c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 August 2026
 
 - **[CVE-2026–73292 : Comment j’ai trouvé une faille CSRF dans Semaphore UI](https://medium.com/@gerinrozecamille/cve-2026-73292-comment-jai-trouv%C3%A9-une-faille-csrf-dans-semaphore-ui-10054dba1ff7?source=rss------pentesting-5)** _(Medium Pentesting)_

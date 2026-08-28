@@ -1,5 +1,8 @@
 ## 📅 27 August 2026
 
+- **[Security Week: Gitea RCE Under Attack, Critical Web Flaws, and Tag-Name XSS](https://infosecwriteups.com/security-week-gitea-rce-under-attack-critical-web-flaws-and-tag-name-xss-6db2611da923?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 August 2026
+
 - **[APK Impossible to Intercept: SSLHandshakeException, ProviderInstaller, and How We Got Burp Working…](https://infosecwriteups.com/apk-impossible-to-intercept-sslhandshakeexception-providerinstaller-and-how-we-got-burp-working-d756521b8c2a?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 August 2026
 
