@@ -1,3 +1,6 @@
+## 📅 29 August 2026
+
+- **[From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 August 2026
 
 - **[Account Takeover via Parameter Confusion in Login Authentication](https://medium.com/@amirhosseinvhd/account-takeover-via-parameter-confusion-in-login-authentication-d32cd692b8db?source=rss------pentesting-5)** _(Medium Pentesting)_

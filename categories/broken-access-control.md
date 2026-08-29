@@ -1,3 +1,6 @@
+## 📅 29 August 2026
+
+- **[15 Access Control Mistakes Developers Keep Making: Master Real-World Application Security](https://medium.com/@verylazytech/15-access-control-mistakes-developers-keep-making-master-real-world-application-security-34df61fb9741?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 August 2026
 
 - **[Every word in AI agent access control, defined twice: once properly, once as a receptionist](https://medium.com/@ismail0karabas/every-word-in-ai-agent-access-control-defined-twice-once-properly-once-as-a-receptionist-62aa2277482e?source=rss------security-5)** _(Medium Security)_
