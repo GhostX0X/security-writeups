@@ -1,5 +1,8 @@
 ## 📅 28 August 2026
 
+- **[The OAuth2 Secret That Was Never Supposed to Leave the Server — But Did](https://medium.com/@rs67iran/the-oauth2-secret-that-was-never-supposed-to-leave-the-server-but-did-4d4862194323?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 August 2026
+
 - **[When logout becomes an OAuth attack](https://medium.com/@yagomartins30/when-logout-becomes-an-oauth-attack-8f1648f9c807?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 August 2026
 
