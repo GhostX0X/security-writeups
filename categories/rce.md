@@ -1,3 +1,9 @@
+## 📅 29 August 2026
+
+- **[Buyer Verification Gate Not Enforced Server-Side: Unverified Buyer Wins Live Auction (High)](https://medium.com/@mohammed.hmeidat/buyer-verification-gate-not-enforced-server-side-unverified-buyer-wins-live-auction-high-ce362eccd975?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 August 2026
+
+- **[How I Caught a certutil Attack on My Open-Source SIEM](https://socfortress.medium.com/how-i-caught-a-certutil-attack-on-my-open-source-siem-ee65a58792fe?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 August 2026
 
 - **[I Built 30 AWS Resources With One Command. Here Is What I Learned.](https://blog.stackademic.com/i-built-30-aws-resources-with-one-command-here-is-what-i-learned-29a44548a579?source=rss------security-5)** _(Medium Security)_

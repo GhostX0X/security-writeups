@@ -1,3 +1,6 @@
+## 📅 29 August 2026
+
+- **[One parameter & Two IDORs](https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 August 2026
 
 - **[How I Earned a $1,000 Bounty by Exploiting a Simple IDOR](https://osintteam.blog/how-i-earned-a-1-000-bounty-by-exploiting-a-simple-idor-f4334f3edc00?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
