@@ -1,5 +1,8 @@
 ## 📅 29 August 2026
 
+- **[When HPKE Meets WebAssembly: Sealing Sensitive Data at the Source](https://medium.com/@dineshrajarajan.matheswaran/when-hpke-meets-webassembly-sealing-sensitive-data-at-the-source-8579ec3009a1?source=rss------security-5)** _(Medium Security)_
+## 📅 29 August 2026
+
 - **[Buyer Verification Gate Not Enforced Server-Side: Unverified Buyer Wins Live Auction (High)](https://medium.com/@mohammed.hmeidat/buyer-verification-gate-not-enforced-server-side-unverified-buyer-wins-live-auction-high-ce362eccd975?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 August 2026
 

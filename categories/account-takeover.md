@@ -1,5 +1,8 @@
 ## 📅 29 August 2026
 
+- **[Password Reset Vulnerability: How I Found a Full Account Takeover.](https://medium.com/@darshanmesper13/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 August 2026
+
 - **[From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 August 2026
 
