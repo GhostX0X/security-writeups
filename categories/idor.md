@@ -1,3 +1,6 @@
+## 📅 30 August 2026
+
+- **[From IDOR to AI Manipulation: How I Poisoned Another User’s Persistent Chat Context](https://medium.com/@manojxshrestha/from-idor-to-ai-manipulation-how-i-poisoned-another-users-persistent-chat-context-602bf0fa26fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 August 2026
 
 - **[One parameter & Two IDORs](https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

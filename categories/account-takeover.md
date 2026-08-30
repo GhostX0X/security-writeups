@@ -1,3 +1,6 @@
+## 📅 30 August 2026
+
+- **[I sent one HTTP request and hijacked a password reset link → ATO](https://bugwraith.medium.com/i-sent-one-http-request-and-hijacked-a-password-reset-link-ato-1f2d04de4d1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 August 2026
 
 - **[Password Reset Vulnerability: How I Found a Full Account Takeover.](https://medium.com/@darshanmesper13/password-reset-vulnerability-how-i-found-a-full-account-takeover-868496710521?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

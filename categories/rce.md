@@ -1,3 +1,6 @@
+## 📅 30 August 2026
+
+- **[CAPTCHA Bypass Testing: A Practical Guide to Testing Server-Side CAPTCHA Enforcement](https://medium.com/@subhash_pathak/captcha-bypass-testing-a-practical-guide-to-testing-server-side-captcha-enforcement-d51fcbd9c0dc?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 August 2026
 
 - **[When HPKE Meets WebAssembly: Sealing Sensitive Data at the Source](https://medium.com/@dineshrajarajan.matheswaran/when-hpke-meets-webassembly-sealing-sensitive-data-at-the-source-8579ec3009a1?source=rss------security-5)** _(Medium Security)_

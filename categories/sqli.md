@@ -1,3 +1,6 @@
+## 📅 30 August 2026
+
+- **[I Turned One Tiny SQL Injection Into a Full Database Walkthrough — DVWA SQLi Lab](https://z3r0-day.medium.com/i-turned-one-tiny-sql-injection-into-a-full-database-walkthrough-dvwa-sqli-lab-009a6579e65d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 August 2026
 
 - **[From SQL Injection to PCAP Analysis: My Hands-On Penetration Testing Capstone](https://medium.com/@cybersage0001/from-sql-injection-to-pcap-analysis-my-hands-on-penetration-testing-capstone-22be1276ced0?source=rss------pentesting-5)** _(Medium Pentesting)_
