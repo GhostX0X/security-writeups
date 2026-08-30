@@ -1,5 +1,8 @@
 ## 📅 30 August 2026
 
+- **[How Rogue Agents Pwned Their Own Creators](https://medium.com/@soltrinox/how-rogue-agents-pwned-their-own-creators-df1993218e77?source=rss------security-5)** _(Medium Security)_
+## 📅 30 August 2026
+
 - **[I sent one HTTP request and hijacked a password reset link → ATO](https://bugwraith.medium.com/i-sent-one-http-request-and-hijacked-a-password-reset-link-ato-1f2d04de4d1b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 August 2026
 
