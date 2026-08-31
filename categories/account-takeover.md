@@ -1,5 +1,8 @@
 ## 📅 30 August 2026
 
+- **[Super Calculator: Calculate Your Way In](https://isv0x1.medium.com/super-calculator-calculate-your-way-in-3cc30fc3d75b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 August 2026
+
 - **[How Rogue Agents Pwned Their Own Creators](https://medium.com/@soltrinox/how-rogue-agents-pwned-their-own-creators-df1993218e77?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 August 2026
 

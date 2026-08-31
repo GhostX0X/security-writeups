@@ -1,5 +1,8 @@
 ## 📅 30 August 2026
 
+- **[5 Real World XSS Bypasses I Discovered in 2026](https://medium.com/@hossein.za68/5-real-world-xss-bypasses-i-discovered-in-2026-910b8420d8f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 August 2026
+
 - **[How I Landed in IISc’s Hall of Fame: Stored XSS via SVG Upload](https://medium.com/@zishanfiroz/how-i-landed-in-iiscs-hall-of-fame-stored-xss-via-svg-upload-194edc071f8a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 August 2026
 
