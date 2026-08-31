@@ -1,5 +1,8 @@
 ## 📅 31 August 2026
 
+- **[Django Pickle RCE Explained | Understanding Remote Code Execution Risks](https://medium.com/@pentesterclubpvtltd/django-pickle-rce-explained-understanding-remote-code-execution-risks-d4e8e3dc35bf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 August 2026
+
 - **[The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App](https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 

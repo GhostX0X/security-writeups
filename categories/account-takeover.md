@@ -1,5 +1,8 @@
 ## 📅 31 August 2026
 
+- **[How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)](https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 August 2026
+
 - **[Think Like an Attacker, Act Like an Auditor: Membedah Anatomi Data Breach dari Dua Sisi](https://medium.com/@muhammadathoillahmuthisyah/think-like-an-attacker-act-like-an-auditor-membedah-anatomi-data-breach-dari-dua-sisi-2650c39b5b57?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 31 August 2026
 

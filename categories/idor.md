@@ -1,5 +1,11 @@
 ## 📅 31 August 2026
 
+- **[A Senior Pentester’ Approach to IDOR and Authorization Testing](https://medium.com/@clipp3r/a-senior-pentester-approach-to-idor-and-authorization-testing-9b40f7dca9f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 August 2026
+
+- **[I Thought I Found a Critical IDOR. I Was Wrong.](https://medium.com/@Lh1l0v3/i-thought-i-found-a-critical-idor-i-was-wrong-36fb7ad6bc03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 August 2026
+
 - **[Insecure Direct Object References (IDOR) — PortSwigger Lab Walkthrough](https://vivek0x.medium.com/insecure-direct-object-references-idor-portswigger-lab-walkthrough-e1c61dba9090?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 

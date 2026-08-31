@@ -1,3 +1,6 @@
+## 📅 31 August 2026
+
+- **[My Autonomous Bug Hunting Harness Found an SSRF Filter Bypass Hidden Behind a Redirect](https://medium.com/@redhunter01/my-autonomous-bug-hunting-harness-found-an-ssrf-filter-bypass-hidden-behind-a-redirect-affb4ecc8cc6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 
 - **[How I Bypassed an SSRF Filter Using an IPv6 Address](https://medium.com/@chavanamit120/how-i-bypassed-an-ssrf-filter-using-an-ipv6-address-56268ea7acb9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
