@@ -1,3 +1,9 @@
+## 📅 31 August 2026
+
+- **[Think Like an Attacker, Act Like an Auditor: Membedah Anatomi Data Breach dari Dua Sisi](https://medium.com/@muhammadathoillahmuthisyah/think-like-an-attacker-act-like-an-auditor-membedah-anatomi-data-breach-dari-dua-sisi-2650c39b5b57?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 31 August 2026
+
+- **[Breaking a Healthcare Platform : Payment Bypass → Account Takeover](https://anupamsimonmasih.medium.com/breaking-a-healthcare-platform-payment-bypass-account-takeover-a4decf1065a9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 
 - **[Super Calculator: Calculate Your Way In](https://isv0x1.medium.com/super-calculator-calculate-your-way-in-3cc30fc3d75b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

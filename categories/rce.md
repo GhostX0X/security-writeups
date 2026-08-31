@@ -1,3 +1,6 @@
+## 📅 31 August 2026
+
+- **[The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App](https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 
 - **[CAPTCHA Bypass Testing: A Practical Guide to Testing Server-Side CAPTCHA Enforcement](https://medium.com/@subhash_pathak/captcha-bypass-testing-a-practical-guide-to-testing-server-side-captcha-enforcement-d51fcbd9c0dc?source=rss------security-5)** _(Medium Security)_
