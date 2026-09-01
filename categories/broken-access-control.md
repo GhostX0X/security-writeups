@@ -1,3 +1,6 @@
+## 📅 01 September 2026
+
+- **[Bypassing URL-Based Access Control with the X-Original-URL Header — PortSwigger Lab Walkthrough](https://vivek0x.medium.com/bypassing-url-based-access-control-with-the-x-original-url-header-portswigger-lab-walkthrough-98abbbe1c4db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 August 2026
 
 - **[15 Access Control Mistakes Developers Keep Making: Master Real-World Application Security](https://medium.com/@verylazytech/15-access-control-mistakes-developers-keep-making-master-real-world-application-security-34df61fb9741?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

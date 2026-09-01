@@ -1,3 +1,6 @@
+## 📅 01 September 2026
+
+- **[From a Hidden Directory to Admin Account Takeover: A Password Reset Story](https://medium.com/@Yousuf_Almezughi/from-a-hidden-directory-to-admin-account-takeover-a-password-reset-story-c6d3264f84dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 August 2026
 
 - **[How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)](https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
