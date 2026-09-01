@@ -1,3 +1,9 @@
+## 📅 01 September 2026
+
+- **[Blind SQL Injection with Conditional Responses](https://medium.com/@eng.lucascedro/blind-sql-injection-with-conditional-responses-edd9daeb975f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 September 2026
+
+- **[From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://0x7ipher.medium.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 
 - **[I Turned One Tiny SQL Injection Into a Full Database Walkthrough — DVWA SQLi Lab](https://z3r0-day.medium.com/i-turned-one-tiny-sql-injection-into-a-full-database-walkthrough-dvwa-sqli-lab-009a6579e65d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

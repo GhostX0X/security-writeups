@@ -1,3 +1,6 @@
+## 📅 01 September 2026
+
+- **[Spoofing Super Admins: An IDOR Vulnerability in Enterprise Message Forwarding By Savan Chotaliya](https://medium.com/@chotaliyasavan754/spoofing-super-admins-an-idor-vulnerability-in-enterprise-message-forwarding-by-savan-chotaliya-cd9da67f7b2d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 August 2026
 
 - **[A Senior Pentester’ Approach to IDOR and Authorization Testing](https://medium.com/@clipp3r/a-senior-pentester-approach-to-idor-and-authorization-testing-9b40f7dca9f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
