@@ -1,3 +1,6 @@
+## 📅 01 September 2026
+
+- **[Spring Security 6 + OAuth2/OIDC: Stop Rolling Your Own Auth](https://medium.com/@hianupamsinha/spring-security-6-oauth2-oidc-stop-rolling-your-own-auth-00032a3e9d3f?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 August 2026
 
 - **[The OAuth2 Secret That Was Never Supposed to Leave the Server — But Did](https://medium.com/@rs67iran/the-oauth2-secret-that-was-never-supposed-to-leave-the-server-but-did-4d4862194323?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

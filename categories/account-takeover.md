@@ -1,5 +1,8 @@
 ## 📅 01 September 2026
 
+- **[Satoshi’s Lost Million: Are Bitcoin’s Oldest Coins Really Vulnerable to Quantum Computing?](https://medium.com/@orlaresearcher/satoshis-lost-million-are-bitcoin-s-oldest-coins-really-vulnerable-to-quantum-computing-e797b16caa3b?source=rss------security-5)** _(Medium Security)_
+## 📅 01 September 2026
+
 - **[From a Hidden Directory to Admin Account Takeover: A Password Reset Story](https://medium.com/@Yousuf_Almezughi/from-a-hidden-directory-to-admin-account-takeover-a-password-reset-story-c6d3264f84dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 August 2026
 
