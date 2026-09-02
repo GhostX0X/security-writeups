@@ -1,3 +1,6 @@
+## 📅 02 September 2026
+
+- **[How I Found a Missing Authorization Bug in an Open-Source Gym Management System —…](https://medium.com/@muhamadfadhilfaturohman/how-i-found-a-missing-authorization-bug-in-an-open-source-gym-management-system-696f43a24278?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 August 2026
 
 - **[Django Pickle RCE Explained | Understanding Remote Code Execution Risks](https://medium.com/@pentesterclubpvtltd/django-pickle-rce-explained-understanding-remote-code-execution-risks-d4e8e3dc35bf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
