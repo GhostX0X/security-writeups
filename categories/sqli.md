@@ -1,5 +1,8 @@
 ## 📅 01 September 2026
 
+- **[SQLi Without SQLi: I Asked the AI, It Queried the Database](https://medium.com/@Tyrion404/sqli-without-sqli-i-asked-the-ai-it-queried-the-database-1f02a4166619?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 September 2026
+
 - **[Blind SQL Injection with Conditional Responses](https://medium.com/@eng.lucascedro/blind-sql-injection-with-conditional-responses-edd9daeb975f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 September 2026
 
