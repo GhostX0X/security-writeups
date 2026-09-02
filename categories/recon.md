@@ -1,3 +1,6 @@
+## 📅 02 September 2026
+
+- **[20 Amass Techniques for Advanced Attack Surface Discovery: Master Recon Like a Pro](https://medium.com/@verylazytech/20-amass-techniques-for-advanced-attack-surface-discovery-master-recon-like-a-pro-c64f2483f6c8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 
 - **[The Subdomain Recon Chain: subfinder → httpx → dnsx](https://medium.com/@muneebahmedkhan0903/the-subdomain-recon-chain-subfinder-httpx-dnsx-ac771e3ac04c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
