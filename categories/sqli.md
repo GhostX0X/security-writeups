@@ -1,3 +1,6 @@
+## 📅 03 September 2026
+
+- **[PortSwigger SQL Injection Lab: Login Bypass — Write-up](https://medium.com/@elkholeyahmed27/portswigger-sql-injection-lab-login-bypass-write-up-9df3eb8559d4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 September 2026
 
 - **[SQLi Without SQLi: I Asked the AI, It Queried the Database](https://medium.com/@Tyrion404/sqli-without-sqli-i-asked-the-ai-it-queried-the-database-1f02a4166619?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

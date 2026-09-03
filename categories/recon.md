@@ -1,3 +1,6 @@
+## 📅 03 September 2026
+
+- **[Systematic JavaScript Reconnaissance](https://medium.com/@taoqui.verse/systematic-javascript-reconnaissance-f1153add7893?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 September 2026
 
 - **[20 Amass Techniques for Advanced Attack Surface Discovery: Master Recon Like a Pro](https://medium.com/@verylazytech/20-amass-techniques-for-advanced-attack-surface-discovery-master-recon-like-a-pro-c64f2483f6c8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
