@@ -1,5 +1,8 @@
 ## 📅 03 September 2026
 
+- **[I Automated My Bug Bounty Recon Stack — Here’s the Exact Toolchain (2026)](https://medium.com/@bugitrix/i-automated-my-bug-bounty-recon-stack-heres-the-exact-toolchain-2026-fb8df3b6c0ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 September 2026
+
 - **[Systematic JavaScript Reconnaissance](https://medium.com/@taoqui.verse/systematic-javascript-reconnaissance-f1153add7893?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 September 2026
 

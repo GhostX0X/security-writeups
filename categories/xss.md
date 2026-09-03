@@ -1,5 +1,8 @@
 ## 📅 03 September 2026
 
+- **[Portswigger XSS Lab : Reflected XSS into HTML context with nothing encoded — Writup](https://medium.com/@elkholeyahmed27/portswigger-xss-lab-reflected-xss-into-html-context-with-nothing-encoded-writup-ee7126ed07d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 September 2026
+
 - **[PortSwigger XSS Labs Walkthrough: Reflected, Stored, DOM & CSP Bypass](https://medium.com/@0xroot/portswigger-xss-labs-walkthrough-reflected-stored-dom-csp-bypass-adaee459ff5c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 

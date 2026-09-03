@@ -1,3 +1,6 @@
+## 📅 03 September 2026
+
+- **[Broken Access Control (A01): Your Route Guard Won’t Stop an Attacker](https://javascript.plainenglish.io/broken-access-control-a01-your-route-guard-wont-stop-an-attacker-8d606aa7ea1d?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 September 2026
 
 - **[Bypassing URL-Based Access Control with the X-Original-URL Header — PortSwigger Lab Walkthrough](https://vivek0x.medium.com/bypassing-url-based-access-control-with-the-x-original-url-header-portswigger-lab-walkthrough-98abbbe1c4db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,9 @@
+## 📅 03 September 2026
+
+- **[From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)](https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 September 2026
+
+- **[From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)](https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 September 2026
 
 - **[Spring Security 6 + OAuth2/OIDC: Stop Rolling Your Own Auth](https://medium.com/@hianupamsinha/spring-security-6-oauth2-oidc-stop-rolling-your-own-auth-00032a3e9d3f?source=rss------security-5)** _(Medium Security)_

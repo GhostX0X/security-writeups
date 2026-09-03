@@ -1,3 +1,6 @@
+## 📅 03 September 2026
+
+- **[IDOR to BOLA — Mastering Authorization Bugs in Bug Bounty](https://mahfujwhh.medium.com/idor-to-bola-mastering-authorization-bugs-in-bug-bounty-d04cbddf8cf8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 September 2026
 
 - **[Spoofing Super Admins: An IDOR Vulnerability in Enterprise Message Forwarding By Savan Chotaliya](https://medium.com/@chotaliyasavan754/spoofing-super-admins-an-idor-vulnerability-in-enterprise-message-forwarding-by-savan-chotaliya-cd9da67f7b2d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

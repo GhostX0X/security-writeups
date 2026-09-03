@@ -1,3 +1,6 @@
+## 📅 03 September 2026
+
+- **[From React2Shell to the Hall of Fame | How I Exploited a React RCE](https://medium.com/@aliayaz65/from-react2shell-to-the-hall-of-fame-how-i-exploited-a-react-rce-ea385fa31042?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 September 2026
 
 - **[How I Found a Missing Authorization Bug in an Open-Source Gym Management System —…](https://medium.com/@muhamadfadhilfaturohman/how-i-found-a-missing-authorization-bug-in-an-open-source-gym-management-system-696f43a24278?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
