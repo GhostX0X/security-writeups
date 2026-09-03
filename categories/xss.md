@@ -1,3 +1,9 @@
+## 📅 03 September 2026
+
+- **[PortSwigger XSS Labs Walkthrough: Reflected, Stored, DOM & CSP Bypass](https://medium.com/@0xroot/portswigger-xss-labs-walkthrough-reflected-stored-dom-csp-bypass-adaee459ff5c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 September 2026
+
+- **[My Autonomous Hunt Harness Found a Reflected XSS That Could Expose a Billing Session](https://medium.com/@redhunter01/my-autonomous-hunt-harness-found-a-reflected-xss-that-could-expose-a-billing-session-99307160f217?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 August 2026
 
 - **[5 Real World XSS Bypasses I Discovered in 2026](https://medium.com/@hossein.za68/5-real-world-xss-bypasses-i-discovered-in-2026-910b8420d8f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
