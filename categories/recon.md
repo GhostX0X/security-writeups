@@ -1,3 +1,6 @@
+## 📅 04 September 2026
+
+- **[5 recon habits that still land your first $500 bug bounty](https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 
 - **[I Automated My Bug Bounty Recon Stack — Here’s the Exact Toolchain (2026)](https://medium.com/@bugitrix/i-automated-my-bug-bounty-recon-stack-heres-the-exact-toolchain-2026-fb8df3b6c0ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

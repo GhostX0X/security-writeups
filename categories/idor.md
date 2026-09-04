@@ -1,3 +1,6 @@
+## 📅 04 September 2026
+
+- **[From IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover](https://medium.com/@pankaj_73968/from-idor-to-admin-how-a-simple-id-parameter-led-to-full-platform-takeover-cdc21b989a21?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 
 - **[IDOR to BOLA — Mastering Authorization Bugs in Bug Bounty](https://mahfujwhh.medium.com/idor-to-bola-mastering-authorization-bugs-in-bug-bounty-d04cbddf8cf8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
