@@ -1,5 +1,14 @@
 ## 📅 04 September 2026
 
+- **[The Bug Bounty Recon Cheat Sheet: A Practical Workflow From Domain to Attack Surface](https://infosecwriteups.com/the-bug-bounty-recon-cheat-sheet-a-practical-workflow-from-domain-to-attack-surface-6ff3b44a00d0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 September 2026
+
+- **[The Bug Bounty Recon Cheat Sheet: A Practical Workflow From Domain to Attack Surface](https://infosecwriteups.com/the-bug-bounty-recon-cheat-sheet-a-practical-workflow-from-domain-to-attack-surface-6ff3b44a00d0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 September 2026
+
+- **[The Bug Bounty Recon Cheat Sheet: A Practical Workflow From Domain to Attack Surface](https://infosecwriteups.com/the-bug-bounty-recon-cheat-sheet-a-practical-workflow-from-domain-to-attack-surface-6ff3b44a00d0?source=rss------security-5)** _(Medium Security)_
+## 📅 04 September 2026
+
 - **[5 recon habits that still land your first $500 bug bounty](https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 

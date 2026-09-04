@@ -1,5 +1,8 @@
 ## 📅 04 September 2026
 
+- **[From Auth Bypass to IDOR to Stored XSS: Completing the Attack Chain (PART 3)](https://medium.com/@viralecho/from-auth-bypass-to-idor-to-stored-xss-completing-the-attack-chain-part-3-5e679b299fd7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 September 2026
+
 - **[From IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover](https://medium.com/@pankaj_73968/from-idor-to-admin-how-a-simple-id-parameter-led-to-full-platform-takeover-cdc21b989a21?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 

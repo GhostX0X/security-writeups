@@ -1,3 +1,6 @@
+## 📅 04 September 2026
+
+- **[From Auth Bypass to IDOR to Stored XSS: Completing the Attack Chain (PART 3)](https://medium.com/@viralecho/from-auth-bypass-to-idor-to-stored-xss-completing-the-attack-chain-part-3-5e679b299fd7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 
 - **[Portswigger XSS Lab : Reflected XSS into HTML context with nothing encoded — Writup](https://medium.com/@elkholeyahmed27/portswigger-xss-lab-reflected-xss-into-html-context-with-nothing-encoded-writup-ee7126ed07d1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
