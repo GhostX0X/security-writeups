@@ -1,5 +1,14 @@
 ## 📅 05 September 2026
 
+- **[From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)](https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 05 September 2026
+
+- **[From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)](https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 September 2026
+
+- **[From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)](https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------security-5)** _(Medium Security)_
+## 📅 05 September 2026
+
 - **[Bypass de WAF IMPERVA pra SSRF: quando o parser do WAF não entende o mesmo que o backend](https://medium.com/@yuri.defciber/bypass-de-waf-imperva-pra-ssrf-quando-o-parser-do-waf-n%C3%A3o-entende-o-mesmo-que-o-backend-75d352fb3307?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 31 August 2026
 

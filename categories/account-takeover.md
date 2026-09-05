@@ -1,3 +1,6 @@
+## 📅 05 September 2026
+
+- **[Everyone Chains SSTI to RCE. I Chained It to Account Takeover.](https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 September 2026
 
 - **[Satoshi’s Lost Million: Are Bitcoin’s Oldest Coins Really Vulnerable to Quantum Computing?](https://medium.com/@orlaresearcher/satoshis-lost-million-are-bitcoin-s-oldest-coins-really-vulnerable-to-quantum-computing-e797b16caa3b?source=rss------security-5)** _(Medium Security)_

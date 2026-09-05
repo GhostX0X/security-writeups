@@ -1,5 +1,8 @@
 ## 📅 05 September 2026
 
+- **[Everyone Chains SSTI to RCE. I Chained It to Account Takeover.](https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 September 2026
+
 - **[Remote Code Execution (RCE) in 2026: From Zero to Understanding How Hackers Take Control](https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 September 2026
 
