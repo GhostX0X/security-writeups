@@ -1,3 +1,6 @@
+## 📅 05 September 2026
+
+- **[How I Found an SQL Injection Vulnerability at Universitas Negeri Jakarta (UNJ)](https://medium.com/@adtynll/how-i-found-an-sql-injection-vulnerability-at-universitas-negeri-jakarta-unj-f372203ffa71?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 
 - **[PortSwigger SQL Injection Lab: Login Bypass — Write-up](https://medium.com/@elkholeyahmed27/portswigger-sql-injection-lab-login-bypass-write-up-9df3eb8559d4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

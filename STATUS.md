@@ -1,11 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-09-05 01:58:05.110137 UTC
+Last updated: 2026-09-05 09:37:50.978451 UTC
 
 - account-takeover: 1
-- rce: 1
-- recon: 2
-- xss: 1
-- idor: 1
+- rce: 2
+- sqli: 1
 - ssrf: 1
-- oauth: 1
+- recon: 1

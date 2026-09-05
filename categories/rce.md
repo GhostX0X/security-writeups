@@ -1,3 +1,6 @@
+## 📅 05 September 2026
+
+- **[Remote Code Execution (RCE) in 2026: From Zero to Understanding How Hackers Take Control](https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 September 2026
 
 - **[Belajar dari Celah RCE di NASA VDP: Dokumentasi dan Analisis Teknis](https://medium.com/@radith614/belajar-dari-celah-rce-di-nasa-vdp-dokumentasi-dan-analisis-teknis-0a61473cab43?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
