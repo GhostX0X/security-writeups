@@ -1,3 +1,6 @@
+## 📅 05 September 2026
+
+- **[Bypass de WAF IMPERVA pra SSRF: quando o parser do WAF não entende o mesmo que o backend](https://medium.com/@yuri.defciber/bypass-de-waf-imperva-pra-ssrf-quando-o-parser-do-waf-n%C3%A3o-entende-o-mesmo-que-o-backend-75d352fb3307?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 31 August 2026
 
 - **[My Autonomous Bug Hunting Harness Found an SSRF Filter Bypass Hidden Behind a Redirect](https://medium.com/@redhunter01/my-autonomous-bug-hunting-harness-found-an-ssrf-filter-bypass-hidden-behind-a-redirect-affb4ecc8cc6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
