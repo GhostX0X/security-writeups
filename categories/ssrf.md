@@ -1,3 +1,6 @@
+## 📅 06 September 2026
+
+- **[How One OIDC URL Turned Into a Much Bigger SSRF](https://nozarshi1.medium.com/how-one-oidc-url-turned-into-a-much-bigger-ssrf-4bd2ef83c597?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 September 2026
 
 - **[From a PDF Export Button to Full AWS Credential Theft: An SSRF Writeup ($7,200 Bounty)](https://medium.com/@t4nv1/from-a-pdf-export-button-to-full-aws-credential-theft-an-ssrf-writeup-7-200-bounty-de8fd2868310?source=rss------pentesting-5)** _(Medium Pentesting)_

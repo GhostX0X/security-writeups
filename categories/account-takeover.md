@@ -1,3 +1,6 @@
+## 📅 06 September 2026
+
+- **[When Three “Small” Bugs Become a Critical Account Takeover](https://medium.com/@anchalrajawat009/when-three-small-bugs-become-a-critical-account-takeover-04f03ee57e03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 September 2026
 
 - **[Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss------pentesting-5)** _(Medium Pentesting)_
