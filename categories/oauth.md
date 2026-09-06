@@ -1,3 +1,6 @@
+## 📅 06 September 2026
+
+- **[OAuth Attacks: Where Authentication Goes Wrong](https://medium.com/@paritoshblogs/oauth-attacks-where-authentication-goes-wrong-d16f8fca28ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 
 - **[From a Forgotten Config Endpoint to Full OAuth2 Takeover (Critical)](https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------pentesting-5)** _(Medium Pentesting)_
