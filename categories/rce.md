@@ -1,3 +1,6 @@
+## 📅 06 September 2026
+
+- **[SQLi2RCE: my small research ️](https://medium.com/@zatikyan.sevada/sqli2rce-my-small-research-%EF%B8%8F-b92aa08164cf?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 September 2026
 
 - **[Everyone Chains SSTI to RCE. I Chained It to Account Takeover.](https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

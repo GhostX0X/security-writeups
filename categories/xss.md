@@ -1,5 +1,8 @@
 ## 📅 06 September 2026
 
+- **[Turning a Harmless Self-XSS Into a Full Profile Takeover](https://medium.com/@oopssec-store/turning-a-harmless-self-xss-into-a-full-profile-takeover-d06cac1c50c3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 September 2026
+
 - **[Stored XSS: Mapping Where User Content Actually Renders](https://kd-200.medium.com/stored-xss-mapping-where-user-content-actually-renders-a50910f76045?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 September 2026
 

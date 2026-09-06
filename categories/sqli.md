@@ -1,3 +1,9 @@
+## 📅 06 September 2026
+
+- **[SQLi2RCE: my small research ️](https://medium.com/@zatikyan.sevada/sqli2rce-my-small-research-%EF%B8%8F-b92aa08164cf?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 September 2026
+
+- **[What is SQL Injection (SQLi)?](https://medium.com/@m.abdullah06272/what-is-sql-injection-sqli-7ce75d91432a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 September 2026
 
 - **[How I Found an SQL Injection Vulnerability at Universitas Negeri Jakarta (UNJ)](https://medium.com/@adtynll/how-i-found-an-sql-injection-vulnerability-at-universitas-negeri-jakarta-unj-f372203ffa71?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
