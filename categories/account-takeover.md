@@ -1,3 +1,6 @@
+## 📅 07 September 2026
+
+- **[Password Reset Vulnerability to Full Account Takeover](https://medium.com/@Darkshadow24/password-reset-vulnerability-to-full-account-takeover-a7e58ac3c1ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 
 - **[When Three “Small” Bugs Become a Critical Account Takeover](https://medium.com/@anchalrajawat009/when-three-small-bugs-become-a-critical-account-takeover-04f03ee57e03?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

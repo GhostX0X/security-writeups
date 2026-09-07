@@ -1,3 +1,6 @@
+## 📅 07 September 2026
+
+- **[Lab #1 SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@m.abdullah06272/lab-1-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3b20e10df71d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 
 - **[SQLi2RCE: my small research ️](https://medium.com/@zatikyan.sevada/sqli2rce-my-small-research-%EF%B8%8F-b92aa08164cf?source=rss------pentesting-5)** _(Medium Pentesting)_
