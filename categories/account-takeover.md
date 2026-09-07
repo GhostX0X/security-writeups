@@ -1,5 +1,14 @@
 ## 📅 07 September 2026
 
+- **[Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 September 2026
+
+- **[Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 September 2026
+
+- **[Zero-Custody Crypto Routing: How We Eliminated Counterparty Risk with Edge Aggregators and OpenPGP](https://medium.com/coinmonks/zero-custody-crypto-routing-how-we-eliminated-counterparty-risk-with-edge-aggregators-and-openpgp-55d0b5543201?source=rss------security-5)** _(Medium Security)_
+## 📅 07 September 2026
+
 - **[Password Reset Vulnerability to Full Account Takeover](https://medium.com/@Darkshadow24/password-reset-vulnerability-to-full-account-takeover-a7e58ac3c1ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 

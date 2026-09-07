@@ -1,3 +1,9 @@
+## 📅 07 September 2026
+
+- **[Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 September 2026
+
+- **[Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 
 - **[OAuth Attacks: Where Authentication Goes Wrong](https://medium.com/@paritoshblogs/oauth-attacks-where-authentication-goes-wrong-d16f8fca28ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
