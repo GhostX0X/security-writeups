@@ -1,3 +1,6 @@
+## 📅 07 September 2026
+
+- **[Common Sensitive Files You Should Look For During Web Recon](https://medium.com/h7w/common-sensitive-files-you-should-look-for-during-web-recon-d4ff35e3d7f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 
 - **[Why APIs Are the New Battleground: A Bug Hunter’s Guide to API Recon](https://osintteam.blog/why-apis-are-the-new-battleground-a-bug-hunters-guide-to-api-recon-1be2d24546f9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,8 @@
 ## 📅 07 September 2026
 
+- **[SQL Server 2022'de Unutulan SA Parolasını Kurtarma: Windows Administrator’ı SYSADMIN Yapmak](https://emrahsmz.medium.com/sql-server-2022de-unutulan-sa-parolas%C4%B1n%C4%B1-kurtarma-windows-administrator%C4%B1-sysadmin-yapmak-9dc347fe75b3?source=rss------security-5)** _(Medium Security)_
+## 📅 07 September 2026
+
 - **[Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 September 2026
 
