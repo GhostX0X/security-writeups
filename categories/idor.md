@@ -1,3 +1,6 @@
+## 📅 08 September 2026
+
+- **[The Victim Paid. The Attacker Used Their Subscription (IDOR).](https://medium.com/@ma6632174/the-victim-paid-the-attacker-used-their-subscription-41364e379a22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 September 2026
 
 - **[From Auth Bypass to IDOR to Stored XSS: Completing the Attack Chain (PART 3)](https://medium.com/@viralecho/from-auth-bypass-to-idor-to-stored-xss-completing-the-attack-chain-part-3-5e679b299fd7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

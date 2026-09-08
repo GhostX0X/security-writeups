@@ -1,3 +1,6 @@
+## 📅 08 September 2026
+
+- **[DOM XSS Deep Dive: Sources, Sinks, and Backwards Tracing](https://kd-200.medium.com/dom-xss-deep-dive-sources-sinks-and-backwards-tracing-9253fdb8975c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 
 - **[Turning a Harmless Self-XSS Into a Full Profile Takeover](https://medium.com/@oopssec-store/turning-a-harmless-self-xss-into-a-full-profile-takeover-d06cac1c50c3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

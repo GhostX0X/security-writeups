@@ -1,3 +1,6 @@
+## 📅 08 September 2026
+
+- **[DOM XSS Deep Dive: Sources, Sinks, and Backwards Tracing](https://kd-200.medium.com/dom-xss-deep-dive-sources-sinks-and-backwards-tracing-9253fdb8975c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 September 2026
 
 - **[SQLi2RCE: another discovery ️ (part 2)](https://medium.com/@zatikyan.sevada/sqli2rce-another-discovery-%EF%B8%8F-part-2-683365d9d6bd?source=rss------pentesting-5)** _(Medium Pentesting)_

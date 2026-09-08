@@ -1,3 +1,6 @@
+## 📅 08 September 2026
+
+- **[I Wasn’t Hunting an Email Bug. I Just Changed One Word (ATO).](https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 September 2026
 
 - **[SQL Server 2022'de Unutulan SA Parolasını Kurtarma: Windows Administrator’ı SYSADMIN Yapmak](https://emrahsmz.medium.com/sql-server-2022de-unutulan-sa-parolas%C4%B1n%C4%B1-kurtarma-windows-administrator%C4%B1-sysadmin-yapmak-9dc347fe75b3?source=rss------security-5)** _(Medium Security)_

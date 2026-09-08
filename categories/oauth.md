@@ -1,3 +1,6 @@
+## 📅 08 September 2026
+
+- **[Advanced Spring Boot Security: OAuth2, Multi-Tenancy, and Zero-Trust in Practice](https://medium.com/@vimukthiwakwella/advanced-spring-boot-security-oauth2-multi-tenancy-and-zero-trust-in-practice-e1f82fb77dea?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 September 2026
 
 - **[Breaking “Login with Google” Without Touching Google: An OAuth redirect_uri Account Takeover…](https://medium.com/@t4nv1/breaking-login-with-google-without-touching-google-an-oauth-redirect-uri-account-takeover-f706e881e237?source=rss------pentesting-5)** _(Medium Pentesting)_
