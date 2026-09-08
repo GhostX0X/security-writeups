@@ -1,5 +1,8 @@
 ## 📅 08 September 2026
 
+- **[When Pre-Account Takeover Actually Means Pre-Account Takeover](https://medium.com/@mostvvfv/when-pre-account-takeover-actually-means-pre-account-takeover-84ee9dd2263c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 September 2026
+
 - **[I Wasn’t Hunting an Email Bug. I Just Changed One Word (ATO).](https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 September 2026
 
