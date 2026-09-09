@@ -1,5 +1,11 @@
 ## 📅 09 September 2026
 
+- **[What Is Granular Access Control? RBAC, ABAC, and AI](https://swapnoneel.medium.com/what-is-granular-access-control-68870c925e53?source=rss------security-5)** _(Medium Security)_
+## 📅 09 September 2026
+
+- **[Role-Based Access Control in Next.js: A Practical Guide for SaaS Dashboards](https://medium.com/@connect2syam/role-based-access-control-in-next-js-a-practical-guide-for-saas-dashboards-d812748279f0?source=rss------security-5)** _(Medium Security)_
+## 📅 09 September 2026
+
 - **[My First Paid Bug Bounty: A Broken Access Control Vulnerability](https://medium.com/@omaralgbry1/my-first-paid-bug-bounty-a-broken-access-control-vulnerability-aff35ac83718?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 

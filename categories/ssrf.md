@@ -1,3 +1,6 @@
+## 📅 09 September 2026
+
+- **[Finding an SSRF in Next.js Server Actions](https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 September 2026
 
 - **[How One OIDC URL Turned Into a Much Bigger SSRF](https://nozarshi1.medium.com/how-one-oidc-url-turned-into-a-much-bigger-ssrf-4bd2ef83c597?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

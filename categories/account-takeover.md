@@ -1,3 +1,6 @@
+## 📅 09 September 2026
+
+- **[The $0 Exploit: Account Takeover via a Single HTTP Redirect](https://medium.com/@harshchaudhari1972004/the-0-exploit-account-takeover-via-a-single-http-redirect-2c0896c6298c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 September 2026
 
 - **[When Pre-Account Takeover Actually Means Pre-Account Takeover](https://medium.com/@mostvvfv/when-pre-account-takeover-actually-means-pre-account-takeover-84ee9dd2263c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
