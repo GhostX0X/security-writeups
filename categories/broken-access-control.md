@@ -1,3 +1,6 @@
+## 📅 09 September 2026
+
+- **[My First Paid Bug Bounty: A Broken Access Control Vulnerability](https://medium.com/@omaralgbry1/my-first-paid-bug-bounty-a-broken-access-control-vulnerability-aff35ac83718?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 September 2026
 
 - **[Broken Access Control (A01): Your Route Guard Won’t Stop an Attacker](https://javascript.plainenglish.io/broken-access-control-a01-your-route-guard-wont-stop-an-attacker-8d606aa7ea1d?source=rss------security-5)** _(Medium Security)_
