@@ -1,3 +1,9 @@
+## 📅 09 September 2026
+
+- **[From HTTP to SSL Pinning Bypass: Android Traffic Interception with Frida](https://medium.com/@salo.hermosilla7/from-http-to-ssl-pinning-bypass-android-traffic-interception-with-frida-6e0297a2bbe8?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 September 2026
+
+- **[Reading the Bundle: Source Maps, Webpack Chunks, and Sink Grepping](https://kd-200.medium.com/reading-the-bundle-source-maps-webpack-chunks-and-sink-grepping-8432bf7c85d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 September 2026
 
 - **[DOM XSS Deep Dive: Sources, Sinks, and Backwards Tracing](https://kd-200.medium.com/dom-xss-deep-dive-sources-sinks-and-backwards-tracing-9253fdb8975c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

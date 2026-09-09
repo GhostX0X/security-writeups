@@ -1,3 +1,6 @@
+## 📅 09 September 2026
+
+- **[I Almost Failed Google OAuth Verification Because I Requested Too Much Access](https://muozez.medium.com/i-almost-failed-google-oauth-verification-because-i-requested-too-much-access-985d1471cf3d?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 September 2026
 
 - **[Advanced Spring Boot Security: OAuth2, Multi-Tenancy, and Zero-Trust in Practice](https://medium.com/@vimukthiwakwella/advanced-spring-boot-security-oauth2-multi-tenancy-and-zero-trust-in-practice-e1f82fb77dea?source=rss------security-5)** _(Medium Security)_
