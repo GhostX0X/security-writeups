@@ -1,3 +1,6 @@
+## 📅 10 September 2026
+
+- **[From File Upload to Account Takeover: Chaining Stored XSS for Credential Exposure and Privilege…](https://medium.com/@iamshivamdwivedi410/from-file-upload-to-account-takeover-chaining-stored-xss-for-credential-exposure-and-privilege-c13d80e909d0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 09 September 2026
 
 - **[The $0 Exploit: Account Takeover via a Single HTTP Redirect](https://medium.com/@harshchaudhari1972004/the-0-exploit-account-takeover-via-a-single-http-redirect-2c0896c6298c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

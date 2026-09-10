@@ -1,5 +1,8 @@
 ## 📅 10 September 2026
 
+- **[From File Upload to Account Takeover: Chaining Stored XSS for Credential Exposure and Privilege…](https://medium.com/@iamshivamdwivedi410/from-file-upload-to-account-takeover-chaining-stored-xss-for-credential-exposure-and-privilege-c13d80e909d0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 September 2026
+
 - **[postMessage XSS: The Listener Nobody Audits](https://kd-200.medium.com/postmessage-xss-the-listener-nobody-audits-ba587d1b208e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 September 2026
 
