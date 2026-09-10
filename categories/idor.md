@@ -1,3 +1,6 @@
+## 📅 10 September 2026
+
+- **[I Wasn’t Looking for PII. I Just Cancelled an Invite. (IDOR → PII)](https://medium.com/@ma6632174/i-wasnt-looking-for-pii-i-just-cancelled-an-invite-idor-pii-41d1df546edf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 September 2026
 
 - **[Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

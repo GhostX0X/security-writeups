@@ -1,3 +1,15 @@
+## 📅 10 September 2026
+
+- **[GeForce NOW bypassing Kiosk Mode on Free Tier](https://medium.com/@serhii.summer/geforce-now-bypassing-kiosk-mode-on-free-tier-00d1ce2ab78e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 September 2026
+
+- **[I Found a Real-Time “God’s Eye” OSINT Tool — And It’s Open Source!](https://medium.com/@pentesterclubpvtltd/i-found-a-real-time-gods-eye-osint-tool-and-it-s-open-source-a56b064ec08b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 September 2026
+
+- **[Enterprise Security Explained for Ecommerce Stores](https://medium.com/@crynhoyddao/enterprise-security-explained-for-ecommerce-stores-0ef02bf42a1b?source=rss------security-5)** _(Medium Security)_
+## 📅 10 September 2026
+
+- **[Enterprise Security Explained for Ecommerce Stores](https://medium.com/@crynhoyddao/enterprise-security-explained-for-ecommerce-stores-6aaebaf07fde?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 September 2026
 
 - **[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE](https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------pentesting-5)** _(Medium Pentesting)_
