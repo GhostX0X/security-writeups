@@ -1,3 +1,6 @@
+## 📅 10 September 2026
+
+- **[How I Got Regular Users to Bypass Admin Approval and Accept Live Shares (Broken Access Control) —…](https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 September 2026
 
 - **[What Is Granular Access Control? RBAC, ABAC, and AI](https://swapnoneel.medium.com/what-is-granular-access-control-68870c925e53?source=rss------security-5)** _(Medium Security)_

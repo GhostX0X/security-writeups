@@ -1,10 +1,10 @@
 # 📊 Status
 
-Last updated: 2026-09-10 02:03:18.220276 UTC
+Last updated: 2026-09-10 10:14:12.346222 UTC
 
-- account-takeover: 2
-- broken-access-control: 2
+- account-takeover: 1
+- ssrf: 3
+- broken-access-control: 1
 - idor: 1
-- sqli: 3
-- rce: 3
-- ssrf: 1
+- sqli: 1
+- rce: 2
