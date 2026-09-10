@@ -1,3 +1,12 @@
+## 📅 09 September 2026
+
+- **[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE](https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 September 2026
+
+- **[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE](https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 September 2026
+
+- **[Blind SQL Injection Behind a WAF: Bypassing Filters with a NOT IN + CASE WHEN SLEEP Oracle](https://medium.com/@donghcoder/blind-sql-injection-behind-a-waf-bypassing-filters-with-a-not-in-case-when-sleep-oracle-081b7eb48d50?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 September 2026
 
 - **[SQLi2RCE: another discovery ️ (part 2)](https://medium.com/@zatikyan.sevada/sqli2rce-another-discovery-%EF%B8%8F-part-2-683365d9d6bd?source=rss------pentesting-5)** _(Medium Pentesting)_

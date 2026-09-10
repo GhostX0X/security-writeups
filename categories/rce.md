@@ -1,5 +1,11 @@
 ## 📅 09 September 2026
 
+- **[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE](https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 September 2026
+
+- **[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE](https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 September 2026
+
 - **[From HTTP to SSL Pinning Bypass: Android Traffic Interception with Frida](https://medium.com/@salo.hermosilla7/from-http-to-ssl-pinning-bypass-android-traffic-interception-with-frida-6e0297a2bbe8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 09 September 2026
 

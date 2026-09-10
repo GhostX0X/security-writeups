@@ -1,3 +1,6 @@
+## 📅 09 September 2026
+
+- **[Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 September 2026
 
 - **[The Victim Paid. The Attacker Used Their Subscription (IDOR).](https://medium.com/@ma6632174/the-victim-paid-the-attacker-used-their-subscription-41364e379a22?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
