@@ -1,3 +1,12 @@
+## 📅 11 September 2026
+
+- **[From a Broken Error Message to Full Server RCE: A Jinja2 SSTI Writeup ($9,000 Bounty)](https://medium.com/@t4nv1/from-a-broken-error-message-to-full-server-rce-a-jinja2-ssti-writeup-9-000-bounty-b08e7e67ab55?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 11 September 2026
+
+- **[From a Broken Error Message to Full Server RCE: A Jinja2 SSTI Writeup ($9,000 Bounty)](https://medium.com/@t4nv1/from-a-broken-error-message-to-full-server-rce-a-jinja2-ssti-writeup-9-000-bounty-b08e7e67ab55?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 September 2026
+
+- **[From a Broken Error Message to Full Server RCE: A Jinja2 SSTI Writeup ($9,000 Bounty)](https://medium.com/@t4nv1/from-a-broken-error-message-to-full-server-rce-a-jinja2-ssti-writeup-9-000-bounty-b08e7e67ab55?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 September 2026
 
 - **[GeForce NOW bypassing Kiosk Mode on Free Tier](https://medium.com/@serhii.summer/geforce-now-bypassing-kiosk-mode-on-free-tier-00d1ce2ab78e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

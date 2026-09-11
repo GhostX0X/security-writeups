@@ -1,3 +1,6 @@
+## 📅 11 September 2026
+
+- **[Vibe-Coded Apps Are the New Bug Bounty Goldmine: Complete Recon Workflow for AI-Built Applications](https://medium.com/@thenewdate24/vibe-coded-apps-are-the-new-bug-bounty-goldmine-complete-recon-workflow-for-ai-built-applications-d61de16e494d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 September 2026
 
 - **[VoidRecon: Recon the Way an Attacker Actually Does It](https://cyphernova1337.medium.com/voidrecon-recon-the-way-an-attacker-actually-does-it-bbbac1dd91e4?source=rss------pentesting-5)** _(Medium Pentesting)_
