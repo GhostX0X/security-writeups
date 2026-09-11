@@ -1,3 +1,9 @@
+## 📅 10 September 2026
+
+- **[VoidRecon: Recon the Way an Attacker Actually Does It](https://cyphernova1337.medium.com/voidrecon-recon-the-way-an-attacker-actually-does-it-bbbac1dd91e4?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 September 2026
+
+- **[VoidRecon: Recon the Way an Attacker Actually Does It](https://cyphernova1337.medium.com/voidrecon-recon-the-way-an-attacker-actually-does-it-bbbac1dd91e4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 September 2026
 
 - **[Common Sensitive Files You Should Look For During Web Recon](https://medium.com/h7w/common-sensitive-files-you-should-look-for-during-web-recon-d4ff35e3d7f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
