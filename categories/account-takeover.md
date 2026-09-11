@@ -1,3 +1,6 @@
+## 📅 11 September 2026
+
+- **[Make Every Indicator Tell You More: VirusTotal Enrichment in OpenCTI](https://socfortress.medium.com/make-every-indicator-tell-you-more-virustotal-enrichment-in-opencti-86d17e42d1f7?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 September 2026
 
 - **[From File Upload to Account Takeover: Chaining Stored XSS for Credential Exposure and Privilege…](https://medium.com/@iamshivamdwivedi410/from-file-upload-to-account-takeover-chaining-stored-xss-for-credential-exposure-and-privilege-c13d80e909d0?source=rss------pentesting-5)** _(Medium Pentesting)_

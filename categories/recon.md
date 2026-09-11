@@ -1,5 +1,8 @@
 ## 📅 11 September 2026
 
+- **[⚡ BugScanner Explained | Automated Web Recon & Vulnerability Scanning for Bug Bounty](https://medium.com/@pentesterclubpvtltd/bugscanner-explained-automated-web-recon-vulnerability-scanning-for-bug-bounty-e035d71b6796?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 September 2026
+
 - **[Vibe-Coded Apps Are the New Bug Bounty Goldmine: Complete Recon Workflow for AI-Built Applications](https://medium.com/@thenewdate24/vibe-coded-apps-are-the-new-bug-bounty-goldmine-complete-recon-workflow-for-ai-built-applications-d61de16e494d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 September 2026
 
