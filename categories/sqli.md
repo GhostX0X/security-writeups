@@ -1,3 +1,6 @@
+## 📅 11 September 2026
+
+- **[From Dead SQLi To Live Session Hijack.](https://medium.com/@Darkshadow24/from-dead-sqli-to-live-session-hijack-c30a07fe2f20?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 September 2026
 
 - **[TryHackMe Injectics CTF Writeup: From SQL Injection to RCE](https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------pentesting-5)** _(Medium Pentesting)_
