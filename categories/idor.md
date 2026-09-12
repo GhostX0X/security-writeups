@@ -1,3 +1,6 @@
+## 📅 12 September 2026
+
+- **[The Rise of AI-Led Security in Newcastle’s Tech Corridor](https://medium.com/@henrycarter19930/the-rise-of-ai-led-security-in-newcastles-tech-corridor-8e4ff7878c27?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 September 2026
 
 - **[I Wasn’t Looking for PII. I Just Cancelled an Invite. (IDOR → PII)](https://medium.com/@ma6632174/i-wasnt-looking-for-pii-i-just-cancelled-an-invite-idor-pii-41d1df546edf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
