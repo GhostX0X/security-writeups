@@ -1,3 +1,6 @@
+## 📅 12 September 2026
+
+- **[How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://anuragmewar.medium.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 September 2026
 
 - **[$4,200 Bug Bounty: Escalating Blind SSRF to Internal Cloud Metadata & Credential Exfiltration](https://medium.com/@t4nv1/4-200-bug-bounty-escalating-blind-ssrf-to-internal-cloud-metadata-credential-exfiltration-987f3c0ab032?source=rss------pentesting-5)** _(Medium Pentesting)_

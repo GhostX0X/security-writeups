@@ -1,5 +1,8 @@
 ## 📅 12 September 2026
 
+- **[CORS: Cross-Origin Resource Sharing](https://medium.com/@robert.broeckelmann/cors-cross-origin-resource-sharing-8091c31d91e1?source=rss------security-5)** _(Medium Security)_
+## 📅 12 September 2026
+
 - **[Client-Side Prototype Pollution: Find the Source, Then Find the Gadget](https://kd-200.medium.com/client-side-prototype-pollution-find-the-source-then-find-the-gadget-6b07b33ce734?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 September 2026
 
