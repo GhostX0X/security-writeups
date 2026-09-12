@@ -1,3 +1,9 @@
+## 📅 12 September 2026
+
+- **[Web Reconnaissance 101: A Practical Passive-to-Active Methodology](https://meetcyber.net/web-reconnaissance-101-a-practical-passive-to-active-methodology-2a3464f77026?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 September 2026
+
+- **[The Art of Persistence: Scaling Recon to a High-Severity Stored XSS on iFixit Community](https://medium.com/@ziadabdo1255/the-art-of-persistence-scaling-recon-to-a-high-severity-stored-xss-on-ifixit-community-dbf1a822b4af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 September 2026
 
 - **[⚡ BugScanner Explained | Automated Web Recon & Vulnerability Scanning for Bug Bounty](https://medium.com/@pentesterclubpvtltd/bugscanner-explained-automated-web-recon-vulnerability-scanning-for-bug-bounty-e035d71b6796?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

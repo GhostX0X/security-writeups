@@ -1,3 +1,9 @@
+## 📅 12 September 2026
+
+- **[CVE-2026–82019: How a Random Ad Led to DOM XSS While Testing chess.com](https://hussein-mahmoud7.medium.com/cve-2026-82019-how-a-random-ad-led-to-dom-xss-while-testing-chess-com-f043584e1e68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 September 2026
+
+- **[The Art of Persistence: Scaling Recon to a High-Severity Stored XSS on iFixit Community](https://medium.com/@ziadabdo1255/the-art-of-persistence-scaling-recon-to-a-high-severity-stored-xss-on-ifixit-community-dbf1a822b4af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 September 2026
 
 - **[A small error destroyed the protection against XSS vulnerability.](https://medium.com/@omarelza3im44/a-small-error-destroyed-the-protection-against-xss-vulnerability-f5ba2066f730?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

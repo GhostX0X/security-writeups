@@ -1,3 +1,6 @@
+## 📅 12 September 2026
+
+- **[Client-Side Prototype Pollution: Find the Source, Then Find the Gadget](https://kd-200.medium.com/client-side-prototype-pollution-find-the-source-then-find-the-gadget-6b07b33ce734?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 September 2026
 
 - **[From a Broken Error Message to Full Server RCE: A Jinja2 SSTI Writeup ($9,000 Bounty)](https://medium.com/@t4nv1/from-a-broken-error-message-to-full-server-rce-a-jinja2-ssti-writeup-9-000-bounty-b08e7e67ab55?source=rss------pentesting-5)** _(Medium Pentesting)_

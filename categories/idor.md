@@ -1,5 +1,8 @@
 ## 📅 12 September 2026
 
+- **[My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section](https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 12 September 2026
+
 - **[The Rise of AI-Led Security in Newcastle’s Tech Corridor](https://medium.com/@henrycarter19930/the-rise-of-ai-led-security-in-newcastles-tech-corridor-8e4ff7878c27?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 September 2026
 
