@@ -1,3 +1,6 @@
+## 📅 13 September 2026
+
+- **[TERMINATOR — A Threat Intelligence Tool for Phishing Detection (project)](https://mahidulhq.medium.com/terminator-a-threat-intelligence-tool-for-phishing-detection-project-996b21e1878c?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 September 2026
 
 - **[Make Every Indicator Tell You More: VirusTotal Enrichment in OpenCTI](https://socfortress.medium.com/make-every-indicator-tell-you-more-virustotal-enrichment-in-opencti-86d17e42d1f7?source=rss------security-5)** _(Medium Security)_
