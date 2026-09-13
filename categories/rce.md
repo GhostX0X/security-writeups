@@ -1,3 +1,6 @@
+## 📅 13 September 2026
+
+- **[When Authorization Runs Too Late: RCE via Insecure Deserialization in Feast (CVE-2026–56121)](https://medium.com/@guidancewhite/when-authorization-runs-too-late-rce-via-insecure-deserialization-in-feast-cve-2026-56121-7f428685a6e0?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 September 2026
 
 - **[CORS: Cross-Origin Resource Sharing](https://medium.com/@robert.broeckelmann/cors-cross-origin-resource-sharing-8091c31d91e1?source=rss------security-5)** _(Medium Security)_
