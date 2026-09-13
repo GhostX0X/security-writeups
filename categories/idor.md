@@ -1,3 +1,6 @@
+## 📅 13 September 2026
+
+- **[OTP IDOR: When One Code Verifies the Wrong Phone Number](https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 September 2026
 
 - **[My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section](https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

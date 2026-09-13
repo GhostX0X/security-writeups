@@ -1,3 +1,6 @@
+## 📅 13 September 2026
+
+- **[What Closing 9 High-Severity Security Findings Taught Me About Auth, CSRF, and SSRF](https://medium.com/@mdfarazhaq/what-closing-9-high-severity-security-findings-taught-me-about-auth-csrf-and-ssrf-37a741bceb99?source=rss------security-5)** _(Medium Security)_
 ## 📅 27 August 2026
 
 - **[CSRF | How to Test  — Part 1](https://elusive1973.medium.com/csrf-how-to-test-part-1-7aec79191a5c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
