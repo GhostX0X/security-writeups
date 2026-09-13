@@ -1,5 +1,11 @@
 ## 📅 13 September 2026
 
+- **[Exotic Sources: window.name, History State, Storage, Cookies, Referrer](https://kd-200.medium.com/exotic-sources-window-name-history-state-storage-cookies-referrer-efbc23fa1367?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 September 2026
+
+- **[The Wix-Vercel Weapon: Unmasking the High Severity XWORM Attack Shredding the Modern Perimeter](https://meetcyber.net/the-wix-vercel-weapon-unmasking-the-high-severity-xworm-attack-shredding-the-modern-perimeter-1d4ce17761b9?source=rss------security-5)** _(Medium Security)_
+## 📅 13 September 2026
+
 - **[When Authorization Runs Too Late: RCE via Insecure Deserialization in Feast (CVE-2026–56121)](https://medium.com/@guidancewhite/when-authorization-runs-too-late-rce-via-insecure-deserialization-in-feast-cve-2026-56121-7f428685a6e0?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 September 2026
 

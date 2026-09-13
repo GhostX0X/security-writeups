@@ -1,3 +1,9 @@
+## 📅 13 September 2026
+
+- **[Regex for Hackers: Using Regex for Recon & Broken Validation](https://medium.com/@raissiamir797/regex-for-hackers-using-regex-for-recon-broken-validation-cb660c2de877?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 13 September 2026
+
+- **[Regex for Hackers: Using Regex for Recon & Broken Validation](https://medium.com/@raissiamir797/regex-for-hackers-using-regex-for-recon-broken-validation-cb660c2de877?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 September 2026
 
 - **[Web Reconnaissance 101: A Practical Passive-to-Active Methodology](https://meetcyber.net/web-reconnaissance-101-a-practical-passive-to-active-methodology-2a3464f77026?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

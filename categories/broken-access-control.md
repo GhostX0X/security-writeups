@@ -1,3 +1,6 @@
+## 📅 13 September 2026
+
+- **[RBAC in Angular + Spring Boot: How We Handled Role-Based Access Control](https://blog.stackademic.com/rbac-in-angular-spring-boot-how-we-handled-role-based-access-control-d57d9a06eb6a?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 September 2026
 
 - **[How I Got Regular Users to Bypass Admin Approval and Accept Live Shares (Broken Access Control) —…](https://medium.com/@tonmoydatta495/how-i-got-regular-users-to-bypass-admin-approval-and-accept-live-shares-broken-access-control-c4e086da86ec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
