@@ -1,3 +1,6 @@
+## 📅 14 September 2026
+
+- **[A Second Brain for Your Pentests — Free & Open Source](https://infosecwriteups.com/a-second-brain-for-your-pentests-free-open-source-dfff44623c38?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 September 2026
 
 - **[Introducing Aresius: A Modern, Open-Source Interception Proxy for Web Security](https://bonsaiis-lessons.medium.com/introducing-aresius-a-modern-open-source-interception-proxy-for-web-security-2788488e7473?source=rss------pentesting-5)** _(Medium Pentesting)_
