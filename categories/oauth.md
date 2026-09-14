@@ -1,3 +1,6 @@
+## 📅 14 September 2026
+
+- **[Spring AI Recipe: Securing an MCP Server with OAuth](https://thetalkingapp.medium.com/spring-ai-recipe-securing-an-mcp-server-with-oauth-01496ca9e17e?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 September 2026
 
 - **[I Almost Failed Google OAuth Verification Because I Requested Too Much Access](https://muozez.medium.com/i-almost-failed-google-oauth-verification-because-i-requested-too-much-access-985d1471cf3d?source=rss------security-5)** _(Medium Security)_
