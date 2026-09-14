@@ -1,3 +1,6 @@
+## 📅 13 September 2026
+
+- **[How a Sort Parmeter Became Blind SQL Injection](https://medium.com/@edemzayaniyt/how-a-sort-parmeter-became-blind-sql-injection-6c2ffe0ec457?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 September 2026
 
 - **[I Tried to Hack a Small Web Store. The Vulnerability Wasn’t SQL Injection.](https://medium.com/@armanp/i-tried-to-hack-a-small-web-store-the-vulnerability-wasnt-sql-injection-fb98eb5cb1b3?source=rss------security-5)** _(Medium Security)_

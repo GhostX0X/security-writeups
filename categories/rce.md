@@ -1,5 +1,11 @@
 ## 📅 13 September 2026
 
+- **[Introducing Aresius: A Modern, Open-Source Interception Proxy for Web Security](https://bonsaiis-lessons.medium.com/introducing-aresius-a-modern-open-source-interception-proxy-for-web-security-2788488e7473?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 13 September 2026
+
+- **[Introducing Aresius: A Modern, Open-Source Interception Proxy for Web Security](https://bonsaiis-lessons.medium.com/introducing-aresius-a-modern-open-source-interception-proxy-for-web-security-2788488e7473?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 September 2026
+
 - **[Exotic Sources: window.name, History State, Storage, Cookies, Referrer](https://kd-200.medium.com/exotic-sources-window-name-history-state-storage-cookies-referrer-efbc23fa1367?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 September 2026
 
