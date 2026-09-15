@@ -1,3 +1,9 @@
+## 📅 15 September 2026
+
+- **[Spynel Explained | The Open-Source AI Orchestrator for Cybersecurity Researchers](https://medium.com/@pentesterclubpvtltd/spynel-explained-the-open-source-ai-orchestrator-for-cybersecurity-researchers-d183290a46cc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 September 2026
+
+- **[Killing the “Keys to the Kingdom”: Automated Just-In-Time Policy Elevator on Google Cloud](https://medium.com/@rwintrob_31595/killing-the-keys-to-the-kingdom-automated-just-in-time-policy-elevator-on-google-cloud-d4a54184238d?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 September 2026
 
 - **[TERMINATOR — A Threat Intelligence Tool for Phishing Detection (project)](https://mahidulhq.medium.com/terminator-a-threat-intelligence-tool-for-phishing-detection-project-996b21e1878c?source=rss------security-5)** _(Medium Security)_

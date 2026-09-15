@@ -1,3 +1,6 @@
+## 📅 15 September 2026
+
+- **[Spynel Explained | The Open-Source AI Orchestrator for Cybersecurity Researchers](https://medium.com/@pentesterclubpvtltd/spynel-explained-the-open-source-ai-orchestrator-for-cybersecurity-researchers-d183290a46cc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 September 2026
 
 - **[A Second Brain for Your Pentests — Free & Open Source](https://infosecwriteups.com/a-second-brain-for-your-pentests-free-open-source-dfff44623c38?source=rss------pentesting-5)** _(Medium Pentesting)_

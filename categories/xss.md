@@ -1,5 +1,8 @@
 ## 📅 15 September 2026
 
+- **[Abuse of Third-Party Hosting Platforms: From XSS to “Fake Customer Support” Phishing](https://medium.com/@M4p7n4./abuse-of-third-party-hosting-platforms-from-xss-to-fake-customer-support-phishing-c3ff0ae48dd1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 15 September 2026
+
 - **[Telegram Asked Us to Stay Silent About an XSS. We Published It Anyway.](https://medium.com/@expatch/telegram-asked-us-to-stay-silent-about-an-xss-we-published-it-anyway-7bee8d2027a1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 September 2026
 
