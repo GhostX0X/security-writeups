@@ -1,5 +1,14 @@
 ## 📅 15 September 2026
 
+- **[$14,200 for an SSRF That Shouldn’t Have Existed: Turning a Link Preview Feature Into Full AWS…](https://medium.com/@t4nv1/14-200-for-an-ssrf-that-shouldnt-have-existed-turning-a-link-preview-feature-into-full-aws-0161573bc64b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 15 September 2026
+
+- **[$14,200 for an SSRF That Shouldn’t Have Existed: Turning a Link Preview Feature Into Full AWS…](https://medium.com/@t4nv1/14-200-for-an-ssrf-that-shouldnt-have-existed-turning-a-link-preview-feature-into-full-aws-0161573bc64b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 September 2026
+
+- **[$14,200 for an SSRF That Shouldn’t Have Existed: Turning a Link Preview Feature Into Full AWS…](https://medium.com/@t4nv1/14-200-for-an-ssrf-that-shouldnt-have-existed-turning-a-link-preview-feature-into-full-aws-0161573bc64b?source=rss------security-5)** _(Medium Security)_
+## 📅 15 September 2026
+
 - **[SSRF: The Vulnerability Hiding in Every “Paste a URL” Feature](https://medium.com/@jnchiminyi/ssrf-the-vulnerability-hiding-in-every-paste-a-url-feature-5b4309ff5193?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 September 2026
 
