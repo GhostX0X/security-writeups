@@ -1,3 +1,6 @@
+## 📅 15 September 2026
+
+- **[How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles](https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 September 2026
 
 - **[OTP IDOR: When One Code Verifies the Wrong Phone Number](https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

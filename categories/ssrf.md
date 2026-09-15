@@ -1,3 +1,6 @@
+## 📅 15 September 2026
+
+- **[SSRF: The Vulnerability Hiding in Every “Paste a URL” Feature](https://medium.com/@jnchiminyi/ssrf-the-vulnerability-hiding-in-every-paste-a-url-feature-5b4309ff5193?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 September 2026
 
 - **[What Closing 9 High-Severity Security Findings Taught Me About Auth, CSRF, and SSRF](https://medium.com/@mdfarazhaq/what-closing-9-high-severity-security-findings-taught-me-about-auth-csrf-and-ssrf-37a741bceb99?source=rss------security-5)** _(Medium Security)_

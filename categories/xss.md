@@ -1,3 +1,6 @@
+## 📅 15 September 2026
+
+- **[Telegram Asked Us to Stay Silent About an XSS. We Published It Anyway.](https://medium.com/@expatch/telegram-asked-us-to-stay-silent-about-an-xss-we-published-it-anyway-7bee8d2027a1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 September 2026
 
 - **[CVE-2026–82019: How a Random Ad Led to DOM XSS While Testing chess.com](https://hussein-mahmoud7.medium.com/cve-2026-82019-how-a-random-ad-led-to-dom-xss-while-testing-chess-com-f043584e1e68?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
