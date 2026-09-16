@@ -1,5 +1,8 @@
 ## 📅 16 September 2026
 
+- **[From “Won’t Fix” to $$$$: How I Bypassed Google’s SSRF Filters Using an IPv6-Mapped Address](https://medium.com/@technicalattri/from-wont-fix-to-how-i-bypassed-google-s-ssrf-filters-using-an-ipv6-mapped-address-a64ca42a039d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 September 2026
+
 - **[Four SSRF Bypasses in Four Months](https://medium.com/@mostafamoradian/four-ssrf-bypasses-in-four-months-5545895efb15?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 September 2026
 

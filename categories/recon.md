@@ -1,5 +1,8 @@
 ## 📅 16 September 2026
 
+- **[AI-Powered Bug Bounty Hunting | From Recon to Report in Your Terminal](https://medium.com/@pentesterclubpvtltd/ai-powered-bug-bounty-hunting-from-recon-to-report-in-your-terminal-a7aad7603663?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 September 2026
+
 - **[Stop Scanning Blindly: The Beginner’s Guide to Stealthy Network Recon](https://meetcyber.net/stop-scanning-blindly-the-beginners-guide-to-stealthy-network-recon-33bbebba7c8b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 September 2026
 
