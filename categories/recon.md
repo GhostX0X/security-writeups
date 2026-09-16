@@ -1,3 +1,6 @@
+## 📅 16 September 2026
+
+- **[Stop Scanning Blindly: The Beginner’s Guide to Stealthy Network Recon](https://meetcyber.net/stop-scanning-blindly-the-beginners-guide-to-stealthy-network-recon-33bbebba7c8b?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 September 2026
 
 - **[Regex for Hackers: Using Regex for Recon & Broken Validation](https://medium.com/@raissiamir797/regex-for-hackers-using-regex-for-recon-broken-validation-cb660c2de877?source=rss------pentesting-5)** _(Medium Pentesting)_

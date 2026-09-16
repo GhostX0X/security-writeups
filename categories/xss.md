@@ -1,3 +1,6 @@
+## 📅 16 September 2026
+
+- **[Mutation XSS: Attacking the Second Parse](https://kd-200.medium.com/mutation-xss-attacking-the-second-parse-8e9033e1c1bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 September 2026
 
 - **[Abuse of Third-Party Hosting Platforms: From XSS to “Fake Customer Support” Phishing](https://medium.com/@M4p7n4./abuse-of-third-party-hosting-platforms-from-xss-to-fake-customer-support-phishing-c3ff0ae48dd1?source=rss------pentesting-5)** _(Medium Pentesting)_
