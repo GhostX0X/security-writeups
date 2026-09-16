@@ -1,3 +1,6 @@
+## 📅 16 September 2026
+
+- **[Four SSRF Bypasses in Four Months](https://medium.com/@mostafamoradian/four-ssrf-bypasses-in-four-months-5545895efb15?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 September 2026
 
 - **[$14,200 for an SSRF That Shouldn’t Have Existed: Turning a Link Preview Feature Into Full AWS…](https://medium.com/@t4nv1/14-200-for-an-ssrf-that-shouldnt-have-existed-turning-a-link-preview-feature-into-full-aws-0161573bc64b?source=rss------pentesting-5)** _(Medium Pentesting)_

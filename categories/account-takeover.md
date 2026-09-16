@@ -1,3 +1,6 @@
+## 📅 16 September 2026
+
+- **[The Anatomy of Good Faith Security Research](https://cswasif.medium.com/the-anatomy-of-good-faith-security-research-d8ccb853ffc7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 September 2026
 
 - **[Spynel Explained | The Open-Source AI Orchestrator for Cybersecurity Researchers](https://medium.com/@pentesterclubpvtltd/spynel-explained-the-open-source-ai-orchestrator-for-cybersecurity-researchers-d183290a46cc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
