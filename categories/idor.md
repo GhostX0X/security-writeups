@@ -1,3 +1,6 @@
+## 📅 17 September 2026
+
+- **[The escalation of the conflict in Yemen and the vulnerability of energy corridors](https://medium.com/@gulfupdates/the-escalation-of-the-conflict-in-yemen-and-the-vulnerability-of-energy-corridors-c38de09e7425?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 September 2026
 
 - **[How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles](https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

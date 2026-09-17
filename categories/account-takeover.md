@@ -1,5 +1,8 @@
 ## 📅 16 September 2026
 
+- **[Unauthenticated Next.js Server Actions Leading to Zero Click Account Takeover](https://medium.com/@mahmoudfarag.rm4/unauthenticated-next-js-server-actions-leading-to-zero-click-account-takeover-0b7d3d5a1039?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 September 2026
+
 - **[The Anatomy of Good Faith Security Research](https://cswasif.medium.com/the-anatomy-of-good-faith-security-research-d8ccb853ffc7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 September 2026
 
