@@ -1,3 +1,6 @@
+## 📅 17 September 2026
+
+- **[Recon for Pentesters Part 1: Finding the Attack Surface Before Hunting for Bugs](https://medium.com/@humairadamu/recon-for-pentesters-part-1-finding-the-attack-surface-before-hunting-for-bugs-a83676d298f7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 16 September 2026
 
 - **[AI-Powered Bug Bounty Hunting | From Recon to Report in Your Terminal](https://medium.com/@pentesterclubpvtltd/ai-powered-bug-bounty-hunting-from-recon-to-report-in-your-terminal-a7aad7603663?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

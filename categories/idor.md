@@ -1,5 +1,14 @@
 ## 📅 17 September 2026
 
+- **[From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform](https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 September 2026
+
+- **[From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform](https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 September 2026
+
+- **[Modern IDOR Hunting Techniques That Still Work](https://medium.com/@espadar.julian/modern-idor-hunting-techniques-that-still-work-b39c78f64345?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 September 2026
+
 - **[The escalation of the conflict in Yemen and the vulnerability of energy corridors](https://medium.com/@gulfupdates/the-escalation-of-the-conflict-in-yemen-and-the-vulnerability-of-energy-corridors-c38de09e7425?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 September 2026
 

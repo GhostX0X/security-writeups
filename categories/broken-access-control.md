@@ -1,3 +1,9 @@
+## 📅 17 September 2026
+
+- **[From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform](https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 17 September 2026
+
+- **[From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform](https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 September 2026
 
 - **[RBAC in Angular + Spring Boot: How We Handled Role-Based Access Control](https://blog.stackademic.com/rbac-in-angular-spring-boot-how-we-handled-role-based-access-control-d57d9a06eb6a?source=rss------security-5)** _(Medium Security)_
