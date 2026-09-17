@@ -1,3 +1,6 @@
+## 📅 17 September 2026
+
+- **[EXPLOITING STORED XSS TO STEAL COOKIES](https://medium.com/@I_am_Saint/exploiting-stored-xss-to-steal-cookies-846ea13887bd?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 September 2026
 
 - **[Mutation XSS: Attacking the Second Parse](https://kd-200.medium.com/mutation-xss-attacking-the-second-parse-8e9033e1c1bd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

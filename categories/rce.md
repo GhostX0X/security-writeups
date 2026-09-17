@@ -1,3 +1,6 @@
+## 📅 17 September 2026
+
+- **[Behind the Scenes: Two RCEs in a Single OBS Scene Collection Import](https://infosecwriteups.com/behind-the-scenes-two-rces-in-a-single-obs-scene-collection-import-44a4e185b011?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 September 2026
 
 - **[Leaked account lead to RCE](https://medium.com/@1moonlightlabs/leaked-account-lead-to-rce-d4206a772083?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
