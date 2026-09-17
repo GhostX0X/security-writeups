@@ -1,3 +1,6 @@
+## 📅 17 September 2026
+
+- **[How SQL Injection Actually Works](https://medium.com/@nikhilvarun001/how-sql-injection-actually-works-8e14540864ed?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 September 2026
 
 - **[How a Sort Parmeter Became Blind SQL Injection](https://medium.com/@edemzayaniyt/how-a-sort-parmeter-became-blind-sql-injection-6c2ffe0ec457?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
