@@ -1,5 +1,11 @@
 ## 📅 18 September 2026
 
+- **[Cloud, Cybersecurity, AI & IT Certification Practice Resources for 2026](https://medium.com/@daywalkernyc141/cloud-cybersecurity-ai-it-certification-practice-resources-for-2026-eaac4cb57075?source=rss------security-5)** _(Medium Security)_
+## 📅 18 September 2026
+
+- **[Qué significa “rotar” una variable de entorno (y por qué Vercel te lo está pidiendo)](https://medium.com/@jrdelriodom/qu%C3%A9-significa-rotar-una-variable-de-entorno-y-por-qu%C3%A9-vercel-te-lo-est%C3%A1-pidiendo-fbb08c72f555?source=rss------security-5)** _(Medium Security)_
+## 📅 18 September 2026
+
 - **[$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 18 September 2026
 

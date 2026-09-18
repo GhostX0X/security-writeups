@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[Bypassing Access Controls: How I Found an Unauthenticated Payment Processing Endpoint (CVSS 8.5)](https://medium.com/@mgsa112233/bypassing-access-controls-how-i-found-an-unauthenticated-payment-processing-endpoint-cvss-8-5-02d972bcd57c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 September 2026
 
 - **[From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform](https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------pentesting-5)** _(Medium Pentesting)_

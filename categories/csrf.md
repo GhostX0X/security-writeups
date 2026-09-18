@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[CSRF Explained | Find Cross-Site Request Forgery Bugs in Bug Bounties](https://medium.com/@pentesterclubpvtltd/csrf-explained-find-cross-site-request-forgery-bugs-in-bug-bounties-99fb6985fbc3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 September 2026
 
 - **[What Closing 9 High-Severity Security Findings Taught Me About Auth, CSRF, and SSRF](https://medium.com/@mdfarazhaq/what-closing-9-high-severity-security-findings-taught-me-about-auth-csrf-and-ssrf-37a741bceb99?source=rss------security-5)** _(Medium Security)_
