@@ -1,5 +1,14 @@
 ## 📅 18 September 2026
 
+- **[The Anatomy of an Open Redirect: What I Learned from Analyzing 80+ HackerOne Reports](https://infosecwriteups.com/the-anatomy-of-an-open-redirect-what-i-learned-from-analyzing-80-hackerone-reports-ec801d256201?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 September 2026
+
+- **[How a Random Password-less “SSO Token” Let a Full Account Takeover](https://osintteam.blog/how-a-random-password-less-sso-token-let-a-full-account-takeover-fd2bb1782a66?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 September 2026
+
+- **[Mass Assignment to Admin: How a Missing Allow-List Let Me Self-Promote to Administrator](https://medium.com/@neel.chauhan09/mass-assignment-to-admin-how-a-missing-allow-list-let-me-self-promote-to-administrator-4d30dfcf8c04?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 September 2026
+
 - **[How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 September 2026
 
