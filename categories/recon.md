@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[Recon for Pentesters Part 2: From APIs to Real Vulnerability Hunting](https://medium.com/@humairadamu/recon-for-pentesters-part-2-from-apis-to-real-vulnerability-hunting-4f809c6a72fd?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 September 2026
 
 - **[Recon for Pentesters Part 1: Finding the Attack Surface Before Hunting for Bugs](https://medium.com/@humairadamu/recon-for-pentesters-part-1-finding-the-attack-surface-before-hunting-for-bugs-a83676d298f7?source=rss------pentesting-5)** _(Medium Pentesting)_

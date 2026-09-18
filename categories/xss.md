@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[Markdown Renderers: The XSS Factory Hiding in Every Modern App](https://kd-200.medium.com/markdown-renderers-the-xss-factory-hiding-in-every-modern-app-5ef6a4c5e1b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 September 2026
 
 - **[EXPLOITING STORED XSS TO STEAL COOKIES](https://medium.com/@I_am_Saint/exploiting-stored-xss-to-steal-cookies-846ea13887bd?source=rss------security-5)** _(Medium Security)_

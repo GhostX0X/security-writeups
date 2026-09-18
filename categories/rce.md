@@ -1,3 +1,15 @@
+## 📅 18 September 2026
+
+- **[$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 September 2026
+
+- **[$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 September 2026
+
+- **[Inside Jira’s Authorization Service: RBAC Enforcement Across Every Layer](https://umesh0492.medium.com/inside-jiras-authorization-service-rbac-enforcement-across-every-layer-3b8cbb23de28?source=rss------security-5)** _(Medium Security)_
+## 📅 18 September 2026
+
+- **[$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 September 2026
 
 - **[Behind the Scenes: Two RCEs in a Single OBS Scene Collection Import](https://infosecwriteups.com/behind-the-scenes-two-rces-in-a-single-obs-scene-collection-import-44a4e185b011?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

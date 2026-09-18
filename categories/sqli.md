@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[PortSwigger Web Security Academy: SQL Injection in WHERE Clause Allowing Retrieval of Hidden Data](https://sudeepthp.medium.com/portswigger-web-security-academy-sql-injection-in-where-clause-allowing-retrieval-of-hidden-data-b6548d29336e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 September 2026
 
 - **[How SQL Injection Actually Works](https://medium.com/@nikhilvarun001/how-sql-injection-actually-works-8e14540864ed?source=rss------pentesting-5)** _(Medium Pentesting)_
