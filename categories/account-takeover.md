@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 September 2026
 
 - **[Unauthenticated Next.js Server Actions Leading to Zero Click Account Takeover](https://medium.com/@mahmoudfarag.rm4/unauthenticated-next-js-server-actions-leading-to-zero-click-account-takeover-0b7d3d5a1039?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

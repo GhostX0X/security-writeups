@@ -1,3 +1,6 @@
+## 📅 18 September 2026
+
+- **[How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 September 2026
 
 - **[Spring AI Recipe: Securing an MCP Server with OAuth](https://thetalkingapp.medium.com/spring-ai-recipe-securing-an-mcp-server-with-oauth-01496ca9e17e?source=rss------security-5)** _(Medium Security)_
