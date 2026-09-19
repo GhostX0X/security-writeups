@@ -1,3 +1,12 @@
+## 📅 19 September 2026
+
+- **[Robots — Stored XSS + RFI to RCE, Double-MD5 Cracking, Sudo Curl and Apache2 Chains to Root |…](https://meetcyber.net/robots-stored-xss-rfi-to-rce-double-md5-cracking-sudo-curl-and-apache2-chains-to-root-475f2abd40be?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
+- **[How a Simple Stored XSS Turned Into an Account Action Chain](https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
+- **[How a Simple Stored XSS Turned Into an Account Action Chain](https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 September 2026
 
 - **[Mutation XSS (mXSS): How to hunt it](https://medium.com/@espadar.julian/mutation-xss-mxss-how-to-hunt-it-32fec751c566?source=rss------pentesting-5)** _(Medium Pentesting)_

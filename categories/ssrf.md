@@ -1,3 +1,9 @@
+## 📅 19 September 2026
+
+- **[One Redirect Was Enough: Bypassing a Strict SSRF Filter to Breach the Internal Network](https://infosecwriteups.com/one-redirect-was-enough-bypassing-a-strict-ssrf-filter-to-breach-the-internal-network-0fb70de8aa38?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
+- **[One Redirect Was Enough: Bypassing a Strict SSRF Filter to Breach the Internal Network](https://infosecwriteups.com/one-redirect-was-enough-bypassing-a-strict-ssrf-filter-to-breach-the-internal-network-0fb70de8aa38?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 September 2026
 
 - **[From “Won’t Fix” to $$$$: How I Bypassed Google’s SSRF Filters Using an IPv6-Mapped Address](https://medium.com/@technicalattri/from-wont-fix-to-how-i-bypassed-google-s-ssrf-filters-using-an-ipv6-mapped-address-a64ca42a039d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

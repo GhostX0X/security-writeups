@@ -1,3 +1,9 @@
+## 📅 19 September 2026
+
+- **[Robots — Stored XSS + RFI to RCE, Double-MD5 Cracking, Sudo Curl and Apache2 Chains to Root |…](https://meetcyber.net/robots-stored-xss-rfi-to-rce-double-md5-cracking-sudo-curl-and-apache2-chains-to-root-475f2abd40be?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
+- **[One Source, Many Destinations: Why Batch Distribution Gets Flagged, and What a Tree-Shaped Path…](https://medium.com/@lightningmm2016/one-source-many-destinations-why-batch-distribution-gets-flagged-and-what-a-tree-shaped-path-cc699ea85d6e?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 September 2026
 
 - **[High-Velocity Recon: Top 5 Extensions to Intercept and Extract Attack Surfaces](https://medium.com/@bughunt3r1985/high-velocity-recon-top-5-extensions-to-intercept-and-extract-attack-surfaces-00c04fa28e4f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
