@@ -1,5 +1,8 @@
 ## 📅 18 September 2026
 
+- **[High-Velocity Recon: Top 5 Extensions to Intercept and Extract Attack Surfaces](https://medium.com/@bughunt3r1985/high-velocity-recon-top-5-extensions-to-intercept-and-extract-attack-surfaces-00c04fa28e4f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 September 2026
+
 - **[Recon for Pentesters Part 2: From APIs to Real Vulnerability Hunting](https://medium.com/@humairadamu/recon-for-pentesters-part-2-from-apis-to-real-vulnerability-hunting-4f809c6a72fd?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 17 September 2026
 

@@ -1,5 +1,11 @@
 ## 📅 18 September 2026
 
+- **[Mutation XSS (mXSS): How to hunt it](https://medium.com/@espadar.julian/mutation-xss-mxss-how-to-hunt-it-32fec751c566?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 September 2026
+
+- **[Mutation XSS (mXSS): How to hunt it](https://medium.com/@espadar.julian/mutation-xss-mxss-how-to-hunt-it-32fec751c566?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 September 2026
+
 - **[Markdown Renderers: The XSS Factory Hiding in Every Modern App](https://kd-200.medium.com/markdown-renderers-the-xss-factory-hiding-in-every-modern-app-5ef6a4c5e1b5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 September 2026
 
