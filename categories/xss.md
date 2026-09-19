@@ -1,5 +1,8 @@
 ## 📅 19 September 2026
 
+- **[$7,000 for Poisoning a Cache: Turning One Request Into Stored XSS for Everyone Behind It](https://medium.com/@t4nv1/7-000-for-poisoning-a-cache-turning-one-request-into-stored-xss-for-everyone-behind-it-964ace4cad95?source=rss------security-5)** _(Medium Security)_
+## 📅 19 September 2026
+
 - **[WAF Bypass Methodology for XSS](https://kd-200.medium.com/waf-bypass-methodology-for-xss-37032a15a014?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 September 2026
 

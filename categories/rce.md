@@ -1,5 +1,14 @@
 ## 📅 19 September 2026
 
+- **[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
+- **[AI Legion Explained | Open-Source AI-Powered Network Penetration Testing](https://medium.com/@pentesterclubpvtltd/ai-legion-explained-open-source-ai-powered-network-penetration-testing-0aac1e0519e4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
+- **[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
 - **[Reactor: Sıfır Tıklamalı Bir RCE'den Root Shell'e](https://medium.com/@burakkirac177/reactor-s%C4%B1f%C4%B1r-t%C4%B1klamal%C4%B1-bir-rceden-root-shell-e-d8828c23e6f7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 September 2026
 

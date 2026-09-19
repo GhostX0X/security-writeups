@@ -1,5 +1,11 @@
 ## 📅 19 September 2026
 
+- **[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
+- **[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
 - **[From a Blocked Login Screen to Full Data Chain — How I Exploited Broken Access Control on Schneider…](https://medium.com/@ahmed1sedeeq/from-a-blocked-login-screen-to-full-data-chain-how-i-exploited-broken-access-control-on-schneider-39d31132b2ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 September 2026
 

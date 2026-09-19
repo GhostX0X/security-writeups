@@ -1,3 +1,9 @@
+## 📅 19 September 2026
+
+- **[Critical Account Takeover via JWT Public Key Injection (JKU Hijacking) & Algoritmo Null Alignment](https://medium.com/@t4nv1/critical-account-takeover-via-jwt-public-key-injection-jku-hijacking-algoritmo-null-alignment-bcbbf051dc67?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
+- **[Critical Account Takeover via JWT Public Key Injection (JKU Hijacking) & Algoritmo Null Alignment](https://medium.com/@t4nv1/critical-account-takeover-via-jwt-public-key-injection-jku-hijacking-algoritmo-null-alignment-bcbbf051dc67?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 September 2026
 
 - **[The Anatomy of an Open Redirect: What I Learned from Analyzing 80+ HackerOne Reports](https://infosecwriteups.com/the-anatomy-of-an-open-redirect-what-i-learned-from-analyzing-80-hackerone-reports-ec801d256201?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

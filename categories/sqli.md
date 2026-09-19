@@ -1,3 +1,6 @@
+## 📅 19 September 2026
+
+- **[SQL Injection: Time-Based Blind Detection Payload](https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 September 2026
 
 - **[PortSwigger Web Security Academy: SQL Injection in WHERE Clause Allowing Retrieval of Hidden Data](https://sudeepthp.medium.com/portswigger-web-security-academy-sql-injection-in-where-clause-allowing-retrieval-of-hidden-data-b6548d29336e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
