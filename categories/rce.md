@@ -1,5 +1,8 @@
 ## 📅 19 September 2026
 
+- **[Reactor: Sıfır Tıklamalı Bir RCE'den Root Shell'e](https://medium.com/@burakkirac177/reactor-s%C4%B1f%C4%B1r-t%C4%B1klamal%C4%B1-bir-rceden-root-shell-e-d8828c23e6f7?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 19 September 2026
+
 - **[Robots — Stored XSS + RFI to RCE, Double-MD5 Cracking, Sudo Curl and Apache2 Chains to Root |…](https://meetcyber.net/robots-stored-xss-rfi-to-rce-double-md5-cracking-sudo-curl-and-apache2-chains-to-root-475f2abd40be?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 September 2026
 

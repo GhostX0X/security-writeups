@@ -1,3 +1,6 @@
+## 📅 19 September 2026
+
+- **[From a Blocked Login Screen to Full Data Chain — How I Exploited Broken Access Control on Schneider…](https://medium.com/@ahmed1sedeeq/from-a-blocked-login-screen-to-full-data-chain-how-i-exploited-broken-access-control-on-schneider-39d31132b2ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 September 2026
 
 - **[Bypassing Access Controls: How I Found an Unauthenticated Payment Processing Endpoint (CVSS 8.5)](https://medium.com/@mgsa112233/bypassing-access-controls-how-i-found-an-unauthenticated-payment-processing-endpoint-cvss-8-5-02d972bcd57c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

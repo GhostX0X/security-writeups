@@ -1,3 +1,6 @@
+## 📅 19 September 2026
+
+- **[Beginner-Friendly Vulnerabilities: IDOR, XSS, and Open Redirects](https://sukhveersingh97997.medium.com/beginner-friendly-vulnerabilities-idor-xss-and-open-redirects-b75ae13ef1ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 September 2026
 
 - **[From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform](https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------pentesting-5)** _(Medium Pentesting)_

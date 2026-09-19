@@ -1,5 +1,11 @@
 ## 📅 19 September 2026
 
+- **[WAF Bypass Methodology for XSS](https://kd-200.medium.com/waf-bypass-methodology-for-xss-37032a15a014?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
+- **[Beginner-Friendly Vulnerabilities: IDOR, XSS, and Open Redirects](https://sukhveersingh97997.medium.com/beginner-friendly-vulnerabilities-idor-xss-and-open-redirects-b75ae13ef1ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
 - **[Robots — Stored XSS + RFI to RCE, Double-MD5 Cracking, Sudo Curl and Apache2 Chains to Root |…](https://meetcyber.net/robots-stored-xss-rfi-to-rce-double-md5-cracking-sudo-curl-and-apache2-chains-to-root-475f2abd40be?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 September 2026
 
