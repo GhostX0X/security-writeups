@@ -1,3 +1,6 @@
+## 📅 20 September 2026
+
+- **[SQL Injection Lab 1 — How I Retrieved Hidden Data With One Line of Input](https://medium.com/@sabarinathkv369/sql-injection-lab-1-how-i-retrieved-hidden-data-with-one-line-of-input-16be48267cf6?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 September 2026
 
 - **[SQL Injection: Time-Based Blind Detection Payload](https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

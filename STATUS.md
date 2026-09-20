@@ -1,9 +1,9 @@
 # 📊 Status
 
-Last updated: 2026-09-20 15:04:35.048897 UTC
+Last updated: 2026-09-20 19:57:41.458303 UTC
 
-- account-takeover: 2
-- xss: 2
+- account-takeover: 1
+- xss: 1
 - csrf: 1
 - recon: 1
 - sqli: 1
