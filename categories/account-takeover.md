@@ -1,5 +1,8 @@
 ## 📅 19 September 2026
 
+- **[My First Bug Bounty Finding Was Critical: Exploiting a Weak JWT Secret for Account Takeover](https://medium.com/@yOnly_/my-first-bug-bounty-finding-was-critical-exploiting-a-weak-jwt-secret-for-account-takeover-dd56a07b5c92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 September 2026
+
 - **[Critical Account Takeover via JWT Public Key Injection (JKU Hijacking) & Algoritmo Null Alignment](https://medium.com/@t4nv1/critical-account-takeover-via-jwt-public-key-injection-jku-hijacking-algoritmo-null-alignment-bcbbf051dc67?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 September 2026
 
