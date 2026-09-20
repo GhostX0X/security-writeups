@@ -1,3 +1,6 @@
+## 📅 20 September 2026
+
+- **[CSP Recon: Reading a Policy Like a Hunter](https://kd-200.medium.com/csp-recon-reading-a-policy-like-a-hunter-efe1340cc3c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 September 2026
 
 - **[High-Velocity Recon: Top 5 Extensions to Intercept and Extract Attack Surfaces](https://medium.com/@bughunt3r1985/high-velocity-recon-top-5-extensions-to-intercept-and-extract-attack-surfaces-00c04fa28e4f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 20 September 2026
+
+- **[Lab: Exploiting XSS to bypass CSRF defenses](https://medium.com/@amrsmooke321/lab-exploiting-xss-to-bypass-csrf-defenses-c45e387bb30f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 September 2026
 
 - **[$7,000 for Poisoning a Cache: Turning One Request Into Stored XSS for Everyone Behind It](https://medium.com/@t4nv1/7-000-for-poisoning-a-cache-turning-one-request-into-stored-xss-for-everyone-behind-it-964ace4cad95?source=rss------security-5)** _(Medium Security)_

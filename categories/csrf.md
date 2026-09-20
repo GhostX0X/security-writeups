@@ -1,3 +1,6 @@
+## 📅 20 September 2026
+
+- **[Lab: Exploiting XSS to bypass CSRF defenses](https://medium.com/@amrsmooke321/lab-exploiting-xss-to-bypass-csrf-defenses-c45e387bb30f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 September 2026
 
 - **[CSRF Explained | Find Cross-Site Request Forgery Bugs in Bug Bounties](https://medium.com/@pentesterclubpvtltd/csrf-explained-find-cross-site-request-forgery-bugs-in-bug-bounties-99fb6985fbc3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
