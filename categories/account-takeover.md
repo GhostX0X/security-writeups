@@ -1,3 +1,12 @@
+## 📅 21 September 2026
+
+- **[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…](https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 September 2026
+
+- **[Unauthenticated Account Takeover: When the Password Reset API Hands You the Token](https://medium.com/@neel.chauhan09/unauthenticated-account-takeover-when-the-password-reset-api-hands-you-the-token-11a62b9d4cf8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 September 2026
+
+- **[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…](https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 September 2026
 
 - **[My First Bug Bounty Finding Was Critical: Exploiting a Weak JWT Secret for Account Takeover](https://medium.com/@yOnly_/my-first-bug-bounty-finding-was-critical-exploiting-a-weak-jwt-secret-for-account-takeover-dd56a07b5c92?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

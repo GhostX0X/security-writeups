@@ -1,3 +1,9 @@
+## 📅 21 September 2026
+
+- **[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…](https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 September 2026
+
+- **[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…](https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------security-5)** _(Medium Security)_
 ## 📅 18 September 2026
 
 - **[How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
