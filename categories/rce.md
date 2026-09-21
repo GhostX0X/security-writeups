@@ -1,3 +1,9 @@
+## 📅 21 September 2026
+
+- **[Python Web Penetration Testing — Day 12: Post-Exploitation — What Happens After You Get RCE](https://osintteam.blog/python-web-penetration-testing-day-12-post-exploitation-what-happens-after-you-get-rce-2d76332e696e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 September 2026
+
+- **[Claude Code Now Approves Its Own Commands by Default. The 13.6 Percent Is the Number About Me.](https://medium.com/@andy.a.g/claude-code-now-approves-its-own-commands-by-default-the-13-6-percent-is-the-number-about-me-037c15a6e217?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 September 2026
 
 - **[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------pentesting-5)** _(Medium Pentesting)_

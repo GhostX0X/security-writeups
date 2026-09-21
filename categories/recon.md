@@ -1,3 +1,6 @@
+## 📅 21 September 2026
+
+- **[External Recon Master Methodology](https://huntbyabhix.medium.com/external-recon-master-methodology-9fcdabaa9338?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 September 2026
 
 - **[CSP Recon: Reading a Policy Like a Hunter](https://kd-200.medium.com/csp-recon-reading-a-policy-like-a-hunter-efe1340cc3c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

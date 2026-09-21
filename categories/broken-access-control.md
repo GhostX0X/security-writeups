@@ -1,3 +1,6 @@
+## 📅 21 September 2026
+
+- **[Bypassing Access Control by Simply Changing the HTTP Method — A PortSwigger Lab Walkthrough](https://vivek0x.medium.com/bypassing-access-control-by-simply-changing-the-http-method-a-portswigger-lab-walkthrough-55084d92fa70?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 September 2026
 
 - **[ipspoof: An Open Source Tool for Automated Testing of HTTP Header-Based Access Controls](https://exript.medium.com/ipspoof-an-open-source-tool-for-automated-testing-of-http-header-based-access-controls-15fe11b9cace?source=rss------pentesting-5)** _(Medium Pentesting)_
