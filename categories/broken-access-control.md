@@ -1,3 +1,6 @@
+## 📅 22 September 2026
+
+- **[AWS OpenSearch Fine-Grained Access Control (FGAC)](https://medium.com/@varchaswiaman14/aws-opensearch-fine-grained-access-control-fgac-5b741e95c7e4?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 September 2026
 
 - **[Bypassing Access Control by Simply Changing the HTTP Method — A PortSwigger Lab Walkthrough](https://vivek0x.medium.com/bypassing-access-control-by-simply-changing-the-http-method-a-portswigger-lab-walkthrough-55084d92fa70?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

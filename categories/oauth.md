@@ -1,3 +1,6 @@
+## 📅 22 September 2026
+
+- **[Finding a $200 CRLF Injection Bug: A Walkthrough of Mozilla’s OAuth Redirect Flaw](https://meetcyber.net/finding-a-200-crlf-injection-bug-a-walkthrough-of-mozillas-oauth-redirect-flaw-eb6c861bb8d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 September 2026
 
 - **[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…](https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
