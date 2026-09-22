@@ -1,3 +1,6 @@
+## 📅 22 September 2026
+
+- **[Attackers Stopped Phishing. They’re Hitting the App Directly Now — And SQL Injection Is Back.](https://medium.com/@riyalimba/attackers-stopped-phishing-theyre-hitting-the-app-directly-now-and-sql-injection-is-back-5e2aa7019d55?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 September 2026
 
 - **[SQL Injection Lab 1 — How I Retrieved Hidden Data With One Line of Input](https://medium.com/@sabarinathkv369/sql-injection-lab-1-how-i-retrieved-hidden-data-with-one-line-of-input-16be48267cf6?source=rss------pentesting-5)** _(Medium Pentesting)_
