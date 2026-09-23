@@ -1,3 +1,6 @@
+## 📅 23 September 2026
+
+- **[QR Code Generators](https://srivishal27.medium.com/qr-code-generators-b444947892e8?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 September 2026
 
 - **[$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…](https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
