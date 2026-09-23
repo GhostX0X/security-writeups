@@ -1,3 +1,9 @@
+## 📅 23 September 2026
+
+- **[I Found an Unauthenticated XSS in a WordPress Hotel Plugin — Then Someone Beat Me to It by a Week](https://osintteam.blog/i-found-an-unauthenticated-xss-in-a-wordpress-hotel-plugin-then-someone-beat-me-to-it-by-a-week-580906008ac5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 September 2026
+
+- **[How I Found a DOM XSS Through a JWT alg:none — and Earned a $400 Bounty](https://medium.com/@yOnly_/how-i-found-a-dom-xss-through-a-jwt-alg-none-and-earned-a-400-bounty-3595093eacec?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 September 2026
 
 - **[Lab: Exploiting XSS to bypass CSRF defenses](https://medium.com/@amrsmooke321/lab-exploiting-xss-to-bypass-csrf-defenses-c45e387bb30f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
