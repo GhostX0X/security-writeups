@@ -1,5 +1,11 @@
 ## 📅 23 September 2026
 
+- **[File Upload XSS Beyond SVG: Four Vectors Validation Misses](https://kd-200.medium.com/file-upload-xss-beyond-svg-four-vectors-validation-misses-3d1cc9df3311?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 September 2026
+
+- **[File Upload XSS Beyond SVG: Four Vectors Validation Misses](https://kd-200.medium.com/file-upload-xss-beyond-svg-four-vectors-validation-misses-3d1cc9df3311?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 September 2026
+
 - **[I Found an Unauthenticated XSS in a WordPress Hotel Plugin — Then Someone Beat Me to It by a Week](https://osintteam.blog/i-found-an-unauthenticated-xss-in-a-wordpress-hotel-plugin-then-someone-beat-me-to-it-by-a-week-580906008ac5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 September 2026
 

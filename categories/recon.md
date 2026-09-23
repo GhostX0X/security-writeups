@@ -1,3 +1,6 @@
+## 📅 23 September 2026
+
+- **[I Found a Tax PDF While Reconning a Private Company](https://medium.com/@mansigolecha84_17480/i-found-a-tax-pdf-while-reconning-a-private-company-026b5556a05b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 September 2026
 
 - **[Part 4 — Wireshark: Follow TCP Stream & Reconstructing Network Conversations](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/part-4-wireshark-follow-tcp-stream-reconstructing-network-conversations-e6f3e51ffe23?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
