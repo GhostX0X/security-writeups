@@ -1,3 +1,9 @@
+## 📅 22 September 2026
+
+- **[The Bug Bounty Blindspot: Why Crowdsourced Triage Leaves You More Exposed (and Costs You More) Than…](https://cyphernova1337.medium.com/the-bug-bounty-blindspot-why-crowdsourced-triage-leaves-you-more-exposed-and-costs-you-more-than-f08ba0981492?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 September 2026
+
+- **[I Entered -100 in an E-Commerce Cart. The Server Accepted It.](https://fenilsheta.medium.com/i-entered-100-in-an-e-commerce-cart-the-server-accepted-it-1d1ab1c5df21?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 September 2026
 
 - **[Python Web Penetration Testing — Day 12: Post-Exploitation — What Happens After You Get RCE](https://osintteam.blog/python-web-penetration-testing-day-12-post-exploitation-what-happens-after-you-get-rce-2d76332e696e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
