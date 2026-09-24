@@ -1,3 +1,6 @@
+## 📅 24 September 2026
+
+- **[SQL Injection Lab 3 — Before You Extract Data, You Need to Understand the Structure](https://medium.com/@sabarinathkv369/sql-injection-lab-3-before-you-extract-data-you-need-to-understand-the-structure-87db7332c983?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 September 2026
 
 - **[Attackers Stopped Phishing. They’re Hitting the App Directly Now — And SQL Injection Is Back.](https://medium.com/@riyalimba/attackers-stopped-phishing-theyre-hitting-the-app-directly-now-and-sql-injection-is-back-5e2aa7019d55?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
