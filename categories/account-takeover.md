@@ -1,5 +1,8 @@
 ## 📅 24 September 2026
 
+- **[The Removed Email That Led to a $500 Account Takeover](https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 September 2026
+
 - **[From Open Redirect to Account Takeover: How I Turned a "Low" Bug into a $1,500 Critical](https://medium.com/@whitedevil2kghost/from-open-redirect-to-account-takeover-how-i-turned-a-low-bug-into-a-1-500-critical-0b38ffdf6435?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 September 2026
 
