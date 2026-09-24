@@ -1,3 +1,6 @@
+## 📅 24 September 2026
+
+- **[From Open Redirect to Account Takeover: How I Turned a "Low" Bug into a $1,500 Critical](https://medium.com/@whitedevil2kghost/from-open-redirect-to-account-takeover-how-i-turned-a-low-bug-into-a-1-500-critical-0b38ffdf6435?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 September 2026
 
 - **[QR Code Generators](https://srivishal27.medium.com/qr-code-generators-b444947892e8?source=rss------security-5)** _(Medium Security)_
