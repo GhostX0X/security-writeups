@@ -1,3 +1,6 @@
+## 📅 25 September 2026
+
+- **[A Hardware Wallet Shipped a Broken Random Number Generator for Five Years.](https://medium.com/@andy.a.g/a-hardware-wallet-shipped-a-broken-random-number-generator-for-five-years-0830b95b803d?source=rss------security-5)** _(Medium Security)_
 ## 📅 24 September 2026
 
 - **[The Removed Email That Led to a $500 Account Takeover](https://medium.com/@muralidharan1530/the-removed-email-that-led-to-a-500-account-takeover-acb60b10b106?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

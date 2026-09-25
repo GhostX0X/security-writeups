@@ -1,3 +1,9 @@
+## 📅 25 September 2026
+
+- **[Mastering grep for JavaScript Recon: A Complete Guide to Find Sensitive Data](https://osintteam.blog/mastering-grep-for-javascript-recon-a-complete-guide-to-find-sensitive-data-63f8c34ec50b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 September 2026
+
+- **[Top 10 Recon Tools Every Hacker Must Use](https://osintteam.blog/top-10-recon-tools-every-hacker-must-use-19089f9b2baa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 September 2026
 
 - **[I Found a Tax PDF While Reconning a Private Company](https://medium.com/@mansigolecha84_17480/i-found-a-tax-pdf-while-reconning-a-private-company-026b5556a05b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
