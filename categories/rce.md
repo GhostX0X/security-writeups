@@ -1,5 +1,8 @@
 ## 📅 25 September 2026
 
+- **[Telegram Desktop: From Proxy to RCE in 35 Seconds](https://medium.com/@expatch/telegram-desktop-from-proxy-to-rce-in-35-seconds-64de025fb0b4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 September 2026
+
 - **[Google cloud IAM access | resource hierarchy | part 2 |. v1.0](https://medium.com/niveus-solutions/google-cloud-iam-access-resource-hierarchy-part-2-v1-0-db662d17b8fc?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 September 2026
 

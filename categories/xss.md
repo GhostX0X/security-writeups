@@ -1,3 +1,6 @@
+## 📅 25 September 2026
+
+- **[Blind XSS: Stop Thinking About Payloads, Start Thinking About People](https://kd-200.medium.com/blind-xss-stop-thinking-about-payloads-start-thinking-about-people-ea6650d2b85d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 September 2026
 
 - **[File Upload XSS Beyond SVG: Four Vectors Validation Misses](https://kd-200.medium.com/file-upload-xss-beyond-svg-four-vectors-validation-misses-3d1cc9df3311?source=rss------pentesting-5)** _(Medium Pentesting)_
