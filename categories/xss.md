@@ -1,3 +1,6 @@
+## 📅 26 September 2026
+
+- **[CVE-2026–64638 (XSS2Shell): From a WordPress Login-Page XSS to Remote Code Execution](https://medium.com/@guidancewhite/cve-2026-64638-xss2shell-from-a-wordpress-login-page-xss-to-remote-code-execution-bcb843a26651?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 September 2026
 
 - **[Blind XSS: Stop Thinking About Payloads, Start Thinking About People](https://kd-200.medium.com/blind-xss-stop-thinking-about-payloads-start-thinking-about-people-ea6650d2b85d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

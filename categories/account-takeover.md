@@ -1,3 +1,6 @@
+## 📅 26 September 2026
+
+- **[From Leaked API Key to Full Account Takeover: Uncovering a Mass PII Vulnerability](https://medium.com/@Brian_Bange/from-leaked-api-key-to-full-account-takeover-uncovering-a-mass-pii-vulnerability-228a4a3d6bef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 September 2026
 
 - **[A Hardware Wallet Shipped a Broken Random Number Generator for Five Years.](https://medium.com/@andy.a.g/a-hardware-wallet-shipped-a-broken-random-number-generator-for-five-years-0830b95b803d?source=rss------security-5)** _(Medium Security)_

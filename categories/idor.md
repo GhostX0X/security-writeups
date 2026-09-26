@@ -1,3 +1,6 @@
+## 📅 26 September 2026
+
+- **[One ID Was All It Took: How I Found an Unauthenticated IDOR](https://medium.com/@anchalrajawat009/one-id-was-all-it-took-how-i-found-an-unauthenticated-idor-826256195b2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 September 2026
 
 - **[Beginner-Friendly Vulnerabilities: IDOR, XSS, and Open Redirects](https://sukhveersingh97997.medium.com/beginner-friendly-vulnerabilities-idor-xss-and-open-redirects-b75ae13ef1ac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
