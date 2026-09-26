@@ -1,5 +1,8 @@
 ## 📅 26 September 2026
 
+- **[DVWA Vulnerability: DOM Based Cross Site Scripting (XSS)](https://medium.com/@Kamal_S/dvwa-vulnerability-dom-based-cross-site-scripting-xss-062959c8254e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 September 2026
+
 - **[CVE-2026–64638 (XSS2Shell): From a WordPress Login-Page XSS to Remote Code Execution](https://medium.com/@guidancewhite/cve-2026-64638-xss2shell-from-a-wordpress-login-page-xss-to-remote-code-execution-bcb843a26651?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 September 2026
 
