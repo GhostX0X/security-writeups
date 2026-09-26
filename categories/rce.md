@@ -1,3 +1,6 @@
+## 📅 26 September 2026
+
+- **[A .git Folder Is Not Data: Inside the Forgejo Template RCE, and How to Audit Your Own Instance](https://medium.com/@jamilxt/a-git-folder-is-not-data-inside-the-forgejo-template-rce-and-how-to-audit-your-own-instance-ca5c2411a1c5?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 September 2026
 
 - **[$17,000 for Walking a Class Hierarchy: Escaping a Template Sandbox to Full RCE](https://medium.com/@t4nv1/17-000-for-walking-a-class-hierarchy-escaping-a-template-sandbox-to-full-rce-2c8483e62935?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

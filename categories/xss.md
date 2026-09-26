@@ -1,5 +1,8 @@
 ## 📅 26 September 2026
 
+- **[Real World XSS Escalation & Impact](https://medium.com/@viodex02/real-world-xss-escalation-impact-1c5f5e17240e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 September 2026
+
 - **[DVWA Vulnerability: DOM Based Cross Site Scripting (XSS)](https://medium.com/@Kamal_S/dvwa-vulnerability-dom-based-cross-site-scripting-xss-062959c8254e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 September 2026
 
