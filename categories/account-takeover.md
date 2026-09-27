@@ -1,3 +1,6 @@
+## 📅 27 September 2026
+
+- **[The Anatomy of Exposure: Why the Market Cannot Agree on What It Is Counting](https://meetcyber.net/the-anatomy-of-exposure-why-the-market-cannot-agree-on-what-it-is-counting-9cea2809eef6?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 September 2026
 
 - **[From Leaked API Key to Full Account Takeover: Uncovering a Mass PII Vulnerability](https://medium.com/@Brian_Bange/from-leaked-api-key-to-full-account-takeover-uncovering-a-mass-pii-vulnerability-228a4a3d6bef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

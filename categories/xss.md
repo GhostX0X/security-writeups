@@ -1,5 +1,8 @@
 ## 📅 27 September 2026
 
+- **[Building an XSS Scanner That I Can Actually Trust](https://arthurjww.medium.com/building-an-xss-scanner-that-i-can-actually-trust-f0a796821baa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 September 2026
+
 - **[Self-XSS Is Not a Dead End: Five Ways to Deliver It to Someone Else](https://kd-200.medium.com/self-xss-is-not-a-dead-end-five-ways-to-deliver-it-to-someone-else-bd5732e0232a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 September 2026
 
