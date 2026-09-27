@@ -1,3 +1,6 @@
+## 📅 27 September 2026
+
+- **[The Complete Guide to Reconnaissance: From Passive OSINT to Active Enumeration | by Samadhan…](https://medium.com/@samadhanshimple222/the-complete-guide-to-reconnaissance-from-passive-osint-to-active-enumeration-e62644456781?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 September 2026
 
 - **[Mastering grep for JavaScript Recon: A Complete Guide to Find Sensitive Data](https://osintteam.blog/mastering-grep-for-javascript-recon-a-complete-guide-to-find-sensitive-data-63f8c34ec50b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
