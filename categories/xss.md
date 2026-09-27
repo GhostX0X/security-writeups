@@ -1,3 +1,6 @@
+## 📅 27 September 2026
+
+- **[Self-XSS Is Not a Dead End: Five Ways to Deliver It to Someone Else](https://kd-200.medium.com/self-xss-is-not-a-dead-end-five-ways-to-deliver-it-to-someone-else-bd5732e0232a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 September 2026
 
 - **[Real World XSS Escalation & Impact](https://medium.com/@viodex02/real-world-xss-escalation-impact-1c5f5e17240e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
