@@ -1,3 +1,9 @@
+## 📅 28 September 2026
+
+- **[SQL Injection — Lab #2 SQL injection vulnerability allowing login bypass](https://m-abdullah-lab.medium.com/sql-injection-lab-2-sql-injection-vulnerability-allowing-login-bypass-2bf1279c3d5d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 September 2026
+
+- **[SQL Injection — Lab #2 SQL injection vulnerability allowing login bypass](https://m-abdullah-lab.medium.com/sql-injection-lab-2-sql-injection-vulnerability-allowing-login-bypass-2bf1279c3d5d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 September 2026
 
 - **[Breaking the Silence: Blind SQL Injection, WAF Bypass, and SQLite](https://medium.com/@neel.chauhan09/breaking-the-silence-blind-sql-injection-waf-bypass-and-sqlite-f7ddf7c02426?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

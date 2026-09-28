@@ -1,3 +1,9 @@
+## 📅 28 September 2026
+
+- **[From a Public FileBucket to Full Account Takeover via Stored XSS](https://medium.com/@mammad0xrz/from-a-public-filebucket-to-full-account-takeover-via-stored-xss-5d10bcae49b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 September 2026
+
+- **[How a Flawed OTP Flow Led to Full Account Takeover](https://medium.com/@kingsamoray50/how-a-flawed-otp-flow-led-to-full-account-takeover-3a398b4df5ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 September 2026
 
 - **[The Anatomy of Exposure: Why the Market Cannot Agree on What It Is Counting](https://meetcyber.net/the-anatomy-of-exposure-why-the-market-cannot-agree-on-what-it-is-counting-9cea2809eef6?source=rss------security-5)** _(Medium Security)_

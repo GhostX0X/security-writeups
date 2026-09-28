@@ -1,5 +1,8 @@
 ## 📅 28 September 2026
 
+- **[From a Public FileBucket to Full Account Takeover via Stored XSS](https://medium.com/@mammad0xrz/from-a-public-filebucket-to-full-account-takeover-via-stored-xss-5d10bcae49b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 September 2026
+
 - **[HttpOnly Is Not a Wall: What to Do in the First Ten Seconds After XSS Fires](https://kd-200.medium.com/httponly-is-not-a-wall-what-to-do-in-the-first-ten-seconds-after-xss-fires-ac8137e5d1d5?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 September 2026
 
