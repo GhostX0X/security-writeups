@@ -1,3 +1,6 @@
+## 📅 28 September 2026
+
+- **[Broken Access Control Leading to Exposure of 7,000+ PII Records on a Jakarta Government Subdomain.](https://medium.com/@adtynll/broken-access-control-leading-to-exposure-of-7-000-pii-records-on-a-jakarta-government-subdomain-8ebcee110ceb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 September 2026
 
 - **[AWS OpenSearch Fine-Grained Access Control (FGAC)](https://medium.com/@varchaswiaman14/aws-opensearch-fine-grained-access-control-fgac-5b741e95c7e4?source=rss------security-5)** _(Medium Security)_

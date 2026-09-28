@@ -1,3 +1,6 @@
+## 📅 28 September 2026
+
+- **[HackerRecon: Cybersecurity Toolkit, Specialized Web Software, Pentest Tools & Security Services](https://infosecwriteups.com/hackerrecon-cybersecurity-toolkit-specialized-web-software-pentest-tools-security-services-f83de45d7848?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 September 2026
 
 - **[The Complete Guide to Reconnaissance: From Passive OSINT to Active Enumeration | by Samadhan…](https://medium.com/@samadhanshimple222/the-complete-guide-to-reconnaissance-from-passive-osint-to-active-enumeration-e62644456781?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

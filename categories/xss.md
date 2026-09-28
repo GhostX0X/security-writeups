@@ -1,3 +1,9 @@
+## 📅 28 September 2026
+
+- **[HttpOnly Is Not a Wall: What to Do in the First Ten Seconds After XSS Fires](https://kd-200.medium.com/httponly-is-not-a-wall-what-to-do-in-the-first-ten-seconds-after-xss-fires-ac8137e5d1d5?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 September 2026
+
+- **[HttpOnly Is Not a Wall: What to Do in the First Ten Seconds After XSS Fires](https://kd-200.medium.com/httponly-is-not-a-wall-what-to-do-in-the-first-ten-seconds-after-xss-fires-ac8137e5d1d5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 September 2026
 
 - **[Building an XSS Scanner That I Can Actually Trust](https://arthurjww.medium.com/building-an-xss-scanner-that-i-can-actually-trust-f0a796821baa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
