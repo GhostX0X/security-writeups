@@ -1,5 +1,11 @@
 ## 📅 29 September 2026
 
+- **[XSS in pdf upload](https://medium.com/@belalmohamed3690/xss-in-pdf-upload-d0e795c161f5?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 September 2026
+
+- **[XSS in pdf upload](https://medium.com/@belalmohamed3690/xss-in-pdf-upload-d0e795c161f5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 September 2026
+
 - **[My XSS Was Rated Low. The Payload Never Changed. The Rating Became Critical.](https://kd-200.medium.com/my-xss-was-rated-low-the-payload-never-changed-the-rating-became-critical-cd42746502d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 September 2026
 

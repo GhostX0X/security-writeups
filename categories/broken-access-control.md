@@ -1,5 +1,11 @@
 ## 📅 29 September 2026
 
+- **[How I Made €200 Bypassing Cross-Portal Access Control](https://medium.com/@mhrdkaa._/how-i-made-200-bypassing-cross-portal-access-control-209644918546?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 29 September 2026
+
+- **[Broken Access Control OWASP Top 10 (2025): The #1 Web Security Risk](https://medium.com/@shrutishinde1319/broken-access-control-owasp-top-10-2025-the-1-web-security-risk-d843bd36ef5e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 September 2026
+
 - **[Broken Access Control: Unauthenticated Read/Write Access to Every Conversation in an Tiktok AI…](https://medium.com/@ayedmostafa330/broken-access-control-unauthenticated-read-write-access-to-every-conversation-in-an-tiktok-ai-0a6eb481f5fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 September 2026
 
