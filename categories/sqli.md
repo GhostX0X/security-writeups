@@ -1,3 +1,9 @@
+## 📅 29 September 2026
+
+- **[How a Cute Fox Led to SQL Injection: Hacking Intigriti’s September Challenge 0926](https://medium.com/@amankunwar283/how-a-cute-fox-led-to-sql-injection-hacking-intigritis-september-challenge-0926-a513a80c7c81?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 September 2026
+
+- **[Intigriti CTF -Critter Gallery SQL Injection to Flag](https://blackmambaa.medium.com/intigriti-ctf-critter-gallery-sql-injection-to-flag-6208496d6516?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 September 2026
 
 - **[Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery](https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

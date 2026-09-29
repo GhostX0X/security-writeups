@@ -1,3 +1,9 @@
+## 📅 29 September 2026
+
+- **[My XSS Was Rated Low. The Payload Never Changed. The Rating Became Critical.](https://kd-200.medium.com/my-xss-was-rated-low-the-payload-never-changed-the-rating-became-critical-cd42746502d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 September 2026
+
+- **[My XSS Was Rated Low. The Payload Never Changed. The Rating Became Critical.](https://kd-200.medium.com/my-xss-was-rated-low-the-payload-never-changed-the-rating-became-critical-cd42746502d6?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 September 2026
 
 - **[From a Public FileBucket to Full Account Takeover via Stored XSS](https://medium.com/@mammad0xrz/from-a-public-filebucket-to-full-account-takeover-via-stored-xss-5d10bcae49b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
