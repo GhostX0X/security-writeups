@@ -1,5 +1,8 @@
 ## 📅 28 September 2026
 
+- **[The Recon Habit That Separates Paid Hackers From Tool Users](https://osintteam.blog/the-recon-habit-that-separates-paid-hackers-from-tool-users-187a6245d545?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 September 2026
+
 - **[HackerRecon: Cybersecurity Toolkit, Specialized Web Software, Pentest Tools & Security Services](https://infosecwriteups.com/hackerrecon-cybersecurity-toolkit-specialized-web-software-pentest-tools-security-services-f83de45d7848?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 September 2026
 

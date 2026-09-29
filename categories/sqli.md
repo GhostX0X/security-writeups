@@ -1,5 +1,8 @@
 ## 📅 28 September 2026
 
+- **[Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery](https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 September 2026
+
 - **[SQL Injection — Lab #2 SQL injection vulnerability allowing login bypass](https://m-abdullah-lab.medium.com/sql-injection-lab-2-sql-injection-vulnerability-allowing-login-bypass-2bf1279c3d5d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 September 2026
 

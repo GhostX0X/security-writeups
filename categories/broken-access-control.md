@@ -1,3 +1,6 @@
+## 📅 29 September 2026
+
+- **[Broken Access Control: Unauthenticated Read/Write Access to Every Conversation in an Tiktok AI…](https://medium.com/@ayedmostafa330/broken-access-control-unauthenticated-read-write-access-to-every-conversation-in-an-tiktok-ai-0a6eb481f5fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 September 2026
 
 - **[Broken Access Control Leading to Exposure of 7,000+ PII Records on a Jakarta Government Subdomain.](https://medium.com/@adtynll/broken-access-control-leading-to-exposure-of-7-000-pii-records-on-a-jakarta-government-subdomain-8ebcee110ceb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
