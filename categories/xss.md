@@ -1,3 +1,6 @@
+## 📅 30 September 2026
+
+- **[Reflected XSS in a Public Event Waitlist Application](https://medium.com/@redhunter01/reflected-xss-in-a-public-event-waitlist-application-d1ef92f10e21?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 September 2026
 
 - **[XSS in pdf upload](https://medium.com/@belalmohamed3690/xss-in-pdf-upload-d0e795c161f5?source=rss------pentesting-5)** _(Medium Pentesting)_

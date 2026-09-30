@@ -1,3 +1,6 @@
+## 📅 30 September 2026
+
+- **[Global Access Control Market To Surpass $30 Billion By 2030 Driven By Cloud Adoption And Mobile…](https://medium.com/@santhoshtbrc111/global-access-control-market-to-surpass-30-billion-by-2030-driven-by-cloud-adoption-and-mobile-798abd8c9c9b?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 September 2026
 
 - **[How I Made €200 Bypassing Cross-Portal Access Control](https://medium.com/@mhrdkaa._/how-i-made-200-bypassing-cross-portal-access-control-209644918546?source=rss------pentesting-5)** _(Medium Pentesting)_

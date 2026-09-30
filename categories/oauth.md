@@ -1,3 +1,6 @@
+## 📅 30 September 2026
+
+- **[OAuth Exploitation](https://medium.com/@amrsmooke321/oauth-exploiting-2e05013a8afe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 September 2026
 
 - **[Finding a $200 CRLF Injection Bug: A Walkthrough of Mozilla’s OAuth Redirect Flaw](https://meetcyber.net/finding-a-200-crlf-injection-bug-a-walkthrough-of-mozillas-oauth-redirect-flaw-eb6c861bb8d7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
