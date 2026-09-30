@@ -1,5 +1,8 @@
 ## 📅 30 September 2026
 
+- **[Broken Access Control: Multi-Step Admin Role Change — PortSwigger Lab Walkthrough](https://vivek0x.medium.com/broken-access-control-multi-step-admin-role-change-portswigger-lab-walkthrough-6fa5f7672a1c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 September 2026
+
 - **[Global Access Control Market To Surpass $30 Billion By 2030 Driven By Cloud Adoption And Mobile…](https://medium.com/@santhoshtbrc111/global-access-control-market-to-surpass-30-billion-by-2030-driven-by-cloud-adoption-and-mobile-798abd8c9c9b?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 September 2026
 
