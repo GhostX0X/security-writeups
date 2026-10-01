@@ -1,3 +1,9 @@
+## 📅 01 October 2026
+
+- **[SQL Injection — Lab #3 SQLi UNION attack determining the number of columns returned by the query](https://m-abdullah-lab.medium.com/sql-injection-lab-3-sqli-union-attack-determining-the-number-of-columns-returned-by-the-query-3bc844343b40?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 01 October 2026
+
+- **[SQL Injection — Lab #3 SQLi UNION attack determining the number of columns returned by the query](https://m-abdullah-lab.medium.com/sql-injection-lab-3-sqli-union-attack-determining-the-number-of-columns-returned-by-the-query-3bc844343b40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 September 2026
 
 - **[How a Cute Fox Led to SQL Injection: Hacking Intigriti’s September Challenge 0926](https://medium.com/@amankunwar283/how-a-cute-fox-led-to-sql-injection-hacking-intigritis-september-challenge-0926-a513a80c7c81?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

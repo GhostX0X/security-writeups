@@ -1,3 +1,9 @@
+## 📅 01 October 2026
+
+- **[The Bug That Needs No Hacking: IDOR and Broken Access Control](https://medium.com/@faizan8717/the-bug-that-needs-no-hacking-idor-and-broken-access-control-3232ecc2108d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 October 2026
+
+- **[Access Control Systems for Small Businesses](https://medium.com/@alexbryn1/access-control-systems-for-small-businesses-7dfa37c4aec6?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 September 2026
 
 - **[Broken Access Control: Multi-Step Admin Role Change — PortSwigger Lab Walkthrough](https://vivek0x.medium.com/broken-access-control-multi-step-admin-role-change-portswigger-lab-walkthrough-6fa5f7672a1c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

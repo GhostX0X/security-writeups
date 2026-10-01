@@ -1,3 +1,6 @@
+## 📅 01 October 2026
+
+- **[XSS | The Definitive Guide to Cross-Site Scripting](https://elusive1973.medium.com/xss-the-definitive-guide-to-cross-site-scripting-2f79650dfbb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 September 2026
 
 - **[Reflected XSS in a Public Event Waitlist Application](https://medium.com/@redhunter01/reflected-xss-in-a-public-event-waitlist-application-d1ef92f10e21?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

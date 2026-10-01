@@ -1,3 +1,6 @@
+## 📅 01 October 2026
+
+- **[The Equity Problem in Mandatory Two-Step Verification: A Socio-Technical Critique of Authentication…](https://rabbirothschild.medium.com/the-equity-problem-in-mandatory-two-step-verification-a-socio-technical-critique-of-authentication-79a72b7c7827?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 September 2026
 
 - **[From a Public FileBucket to Full Account Takeover via Stored XSS](https://medium.com/@mammad0xrz/from-a-public-filebucket-to-full-account-takeover-via-stored-xss-5d10bcae49b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

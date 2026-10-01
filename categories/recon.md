@@ -1,3 +1,6 @@
+## 📅 01 October 2026
+
+- **[Bug Bounty Recon : My Step-by-Step Methodology](https://medium.com/@d1vy4n5hu27t/bug-bounty-recon-my-step-by-step-methodology-bd2e915cc5a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 September 2026
 
 - **[The Recon Habit That Separates Paid Hackers From Tool Users](https://osintteam.blog/the-recon-habit-that-separates-paid-hackers-from-tool-users-187a6245d545?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

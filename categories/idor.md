@@ -1,3 +1,6 @@
+## 📅 01 October 2026
+
+- **[The Bug That Needs No Hacking: IDOR and Broken Access Control](https://medium.com/@faizan8717/the-bug-that-needs-no-hacking-idor-and-broken-access-control-3232ecc2108d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 September 2026
 
 - **[One ID Was All It Took: How I Found an Unauthenticated IDOR](https://medium.com/@anchalrajawat009/one-id-was-all-it-took-how-i-found-an-unauthenticated-idor-826256195b2e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
