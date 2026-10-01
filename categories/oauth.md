@@ -1,3 +1,6 @@
+## 📅 01 October 2026
+
+- **[AI Agents Need Identities Too: Passkeys, OAuth 2.1, and Zero Trust for AI-First Applications](https://medium.com/data-reply-it-datatech/ai-agents-need-identities-too-passkeys-oauth-2-1-and-zero-trust-for-ai-first-applications-7937e14dd762?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 September 2026
 
 - **[OAuth Exploitation](https://medium.com/@amrsmooke321/oauth-exploiting-2e05013a8afe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
