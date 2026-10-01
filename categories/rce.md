@@ -1,3 +1,9 @@
+## 📅 30 September 2026
+
+- **[GroovyGate RCE: Root Access Despite a 403](https://medium.com/@Vulnetic-CEO/groovygate-rce-root-access-despite-a-403-54eb41a53e25?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 September 2026
+
+- **[GroovyGate RCE: Root Access Despite a 403](https://medium.com/@Vulnetic-CEO/groovygate-rce-root-access-despite-a-403-54eb41a53e25?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 September 2026
 
 - **[A .git Folder Is Not Data: Inside the Forgejo Template RCE, and How to Audit Your Own Instance](https://medium.com/@jamilxt/a-git-folder-is-not-data-inside-the-forgejo-template-rce-and-how-to-audit-your-own-instance-ca5c2411a1c5?source=rss------security-5)** _(Medium Security)_
