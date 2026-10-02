@@ -1,3 +1,9 @@
+## 📅 02 October 2026
+
+- **[$6,200 for an Invisible Button: Clickjacking an OAuth Consent Screen Into Account Takeover](https://medium.com/@t4nv1/6-200-for-an-invisible-button-clickjacking-an-oauth-consent-screen-into-account-takeover-7216042c6264?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 October 2026
+
+- **[$6,200 for an Invisible Button: Clickjacking an OAuth Consent Screen Into Account Takeover](https://medium.com/@t4nv1/6-200-for-an-invisible-button-clickjacking-an-oauth-consent-screen-into-account-takeover-7216042c6264?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 October 2026
 
 - **[The Equity Problem in Mandatory Two-Step Verification: A Socio-Technical Critique of Authentication…](https://rabbirothschild.medium.com/the-equity-problem-in-mandatory-two-step-verification-a-socio-technical-critique-of-authentication-79a72b7c7827?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,9 @@
+## 📅 02 October 2026
+
+- **[$6,200 for an Invisible Button: Clickjacking an OAuth Consent Screen Into Account Takeover](https://medium.com/@t4nv1/6-200-for-an-invisible-button-clickjacking-an-oauth-consent-screen-into-account-takeover-7216042c6264?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 October 2026
+
+- **[$6,200 for an Invisible Button: Clickjacking an OAuth Consent Screen Into Account Takeover](https://medium.com/@t4nv1/6-200-for-an-invisible-button-clickjacking-an-oauth-consent-screen-into-account-takeover-7216042c6264?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 October 2026
 
 - **[AI Agents Need Identities Too: Passkeys, OAuth 2.1, and Zero Trust for AI-First Applications](https://medium.com/data-reply-it-datatech/ai-agents-need-identities-too-passkeys-oauth-2-1-and-zero-trust-for-ai-first-applications-7937e14dd762?source=rss------security-5)** _(Medium Security)_
