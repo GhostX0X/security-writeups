@@ -1,3 +1,6 @@
+## 📅 02 October 2026
+
+- **[2. Biometric Access Control & Time Attendance Solutions](https://medium.com/@eliasngigi369/2-biometric-access-control-time-attendance-solutions-2629f79c62a7?source=rss------security-5)** _(Medium Security)_
 ## 📅 01 October 2026
 
 - **[The Bug That Needs No Hacking: IDOR and Broken Access Control](https://medium.com/@faizan8717/the-bug-that-needs-no-hacking-idor-and-broken-access-control-3232ecc2108d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
