@@ -1,3 +1,6 @@
+## 📅 02 October 2026
+
+- **[$$$: How a Simple IDOR Turned Into a Full Organization Takeover](https://medium.com/@xoemekk1/how-a-simple-idor-turned-into-a-full-organization-takeover-545f9d522672?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 October 2026
 
 - **[The Bug That Needs No Hacking: IDOR and Broken Access Control](https://medium.com/@faizan8717/the-bug-that-needs-no-hacking-idor-and-broken-access-control-3232ecc2108d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

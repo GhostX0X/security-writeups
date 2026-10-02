@@ -1,3 +1,6 @@
+## 📅 02 October 2026
+
+- **[Security Guard Scheduling Software for Better Workforce Management](https://medium.com/@futureminutes16/security-guard-scheduling-software-for-better-workforce-management-3288f9dcef10?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 September 2026
 
 - **[GroovyGate RCE: Root Access Despite a 403](https://medium.com/@Vulnetic-CEO/groovygate-rce-root-access-despite-a-403-54eb41a53e25?source=rss------pentesting-5)** _(Medium Pentesting)_

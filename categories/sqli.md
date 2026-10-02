@@ -1,3 +1,6 @@
+## 📅 02 October 2026
+
+- **[SQLMap Turns One SQL Injection Into a Full Database Dump](https://awais-sec.medium.com/sqlmap-turns-one-sql-injection-into-a-full-database-dump-83339dfa36eb?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 October 2026
 
 - **[SQL Injection — Lab #3 SQLi UNION attack determining the number of columns returned by the query](https://m-abdullah-lab.medium.com/sql-injection-lab-3-sqli-union-attack-determining-the-number-of-columns-returned-by-the-query-3bc844343b40?source=rss------pentesting-5)** _(Medium Pentesting)_
