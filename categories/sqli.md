@@ -1,3 +1,9 @@
+## 📅 03 October 2026
+
+- **[SQL Injection — Lab #4 SQL injection UNION attack, finding a column containing text](https://m-abdullah-lab.medium.com/sql-injection-lab-4-sql-injection-union-attack-finding-a-column-containing-text-55a9f685aaa1?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 October 2026
+
+- **[SQL Injection — Lab #4 SQL injection UNION attack, finding a column containing text](https://m-abdullah-lab.medium.com/sql-injection-lab-4-sql-injection-union-attack-finding-a-column-containing-text-55a9f685aaa1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 October 2026
 
 - **[Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”](https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
