@@ -1,3 +1,6 @@
+## 📅 03 October 2026
+
+- **[Open Your Authenticator App and Count the Accounts. Now Assume the Phone Is Gone.](https://medium.com/@AIbatros/open-your-authenticator-app-and-count-the-accounts-now-assume-the-phone-is-gone-4de27d258b69?source=rss------security-5)** _(Medium Security)_
 ## 📅 02 October 2026
 
 - **[$6,200 for an Invisible Button: Clickjacking an OAuth Consent Screen Into Account Takeover](https://medium.com/@t4nv1/6-200-for-an-invisible-button-clickjacking-an-oauth-consent-screen-into-account-takeover-7216042c6264?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

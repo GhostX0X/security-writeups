@@ -1,5 +1,11 @@
 ## 📅 03 October 2026
 
+- **[Attacking Enterprise Networks (HTB) #1 Reconnaissance](https://medium.com/@hay.chrifi/attacking-enterprise-networks-htb-1-reconnaissance-84d48d8c5cd4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 October 2026
+
+- **[I Found the Endpoint, But Missed the Vulnerability: A Recon Mistake](https://medium.com/@clipp3r/i-found-the-endpoint-but-missed-the-vulnerability-a-recon-mistake-21851fd83de8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 October 2026
+
 - **[I Got Tired of Being Middleware for My Own Recon Tools, So I Built a Pipeline](https://nullyblissful.medium.com/i-got-tired-of-being-middleware-for-my-own-recon-tools-so-i-built-a-pipeline-a34f694a64ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 October 2026
 

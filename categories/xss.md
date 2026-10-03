@@ -1,3 +1,9 @@
+## 📅 03 October 2026
+
+- **[Stored XSS lead to full account take over](https://medium.com/@mo.muwafak2001/stored-xss-lead-to-full-account-take-over-d530e7f6b26a?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 03 October 2026
+
+- **[Stored XSS lead to full account take over](https://medium.com/@mo.muwafak2001/stored-xss-lead-to-full-account-take-over-d530e7f6b26a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 October 2026
 
 - **[XSS | The Definitive Guide to Cross-Site Scripting](https://elusive1973.medium.com/xss-the-definitive-guide-to-cross-site-scripting-2f79650dfbb3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
