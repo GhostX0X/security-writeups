@@ -1,5 +1,11 @@
 ## 📅 02 October 2026
 
+- **[Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”](https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 October 2026
+
+- **[Production Java Security as a System of Enforced Invariants](https://medium.com/@weissmann.tobi/production-java-security-as-a-system-of-enforced-invariants-ac13de5778f0?source=rss------security-5)** _(Medium Security)_
+## 📅 02 October 2026
+
 - **[Security Guard Scheduling Software for Better Workforce Management](https://medium.com/@futureminutes16/security-guard-scheduling-software-for-better-workforce-management-3288f9dcef10?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 September 2026
 

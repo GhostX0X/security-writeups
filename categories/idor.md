@@ -1,5 +1,8 @@
 ## 📅 02 October 2026
 
+- **[Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”](https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 October 2026
+
 - **[$$$: How a Simple IDOR Turned Into a Full Organization Takeover](https://medium.com/@xoemekk1/how-a-simple-idor-turned-into-a-full-organization-takeover-545f9d522672?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 October 2026
 

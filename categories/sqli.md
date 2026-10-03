@@ -1,5 +1,8 @@
 ## 📅 02 October 2026
 
+- **[Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”](https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 02 October 2026
+
 - **[SQLMap Turns One SQL Injection Into a Full Database Dump](https://awais-sec.medium.com/sqlmap-turns-one-sql-injection-into-a-full-database-dump-83339dfa36eb?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 October 2026
 

@@ -1,3 +1,6 @@
+## 📅 02 October 2026
+
+- **[Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”](https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 September 2026
 
 - **[Full-Read SSRF via DNS Rebinding & AWS IMDSv2 Token Relay in Multi-Tenant Webhooks](https://medium.com/@t4nv1/full-read-ssrf-via-dns-rebinding-aws-imdsv2-token-relay-in-multi-tenant-webhooks-a8e14adf9b0a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
