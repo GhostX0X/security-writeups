@@ -1,3 +1,6 @@
+## 📅 03 October 2026
+
+- **[I Got Tired of Being Middleware for My Own Recon Tools, So I Built a Pipeline](https://nullyblissful.medium.com/i-got-tired-of-being-middleware-for-my-own-recon-tools-so-i-built-a-pipeline-a34f694a64ad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 October 2026
 
 - **[Bug Bounty Recon : My Step-by-Step Methodology](https://medium.com/@d1vy4n5hu27t/bug-bounty-recon-my-step-by-step-methodology-bd2e915cc5a5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
