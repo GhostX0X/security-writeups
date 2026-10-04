@@ -1,3 +1,6 @@
+## 📅 04 October 2026
+
+- **[SSRF to S3: Stealing IAM Credentials Through a Vulnerable Proxy (Phase 2-b)](https://medium.com/@gmptg5311/ssrf-to-s3-stealing-iam-credentials-through-a-vulnerable-proxy-phase-2-b-76e6f91dae98?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 02 October 2026
 
 - **[Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”](https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
