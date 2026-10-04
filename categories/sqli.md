@@ -1,5 +1,8 @@
 ## 📅 03 October 2026
 
+- **[A Beginner’s Guide to SQL Injection](https://medium.com/@adelekeismailifeoluwa/a-beginners-guide-to-sql-injection-d91a738bee3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 October 2026
+
 - **[SQL Injection — Lab #4 SQL injection UNION attack, finding a column containing text](https://m-abdullah-lab.medium.com/sql-injection-lab-4-sql-injection-union-attack-finding-a-column-containing-text-55a9f685aaa1?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 October 2026
 
