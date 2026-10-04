@@ -1,3 +1,6 @@
+## 📅 04 October 2026
+
+- **[DVWA Vulnerability: Reflected Cross Site Scripting (XSS)](https://medium.com/@Kamal_S/dvwa-vulnerability-reflected-cross-site-scripting-xss-e9dfe6e15025?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 October 2026
 
 - **[Stored XSS lead to full account take over](https://medium.com/@mo.muwafak2001/stored-xss-lead-to-full-account-take-over-d530e7f6b26a?source=rss------pentesting-5)** _(Medium Pentesting)_

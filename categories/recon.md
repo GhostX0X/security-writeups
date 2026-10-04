@@ -1,3 +1,6 @@
+## 📅 04 October 2026
+
+- **[5 Recon Mistakes That Waste Hours in Bug Bounty](https://medium.com/@Rakeshjoshi7/5-recon-mistakes-that-waste-hours-in-bug-bounty-7b530d2d19b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 October 2026
 
 - **[Attacking Enterprise Networks (HTB) #1 Reconnaissance](https://medium.com/@hay.chrifi/attacking-enterprise-networks-htb-1-reconnaissance-84d48d8c5cd4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 04 October 2026
+
+- **[SQL Injection — Lab #5 SQL injection UNION attack, retrieving data from other tables](https://m-abdullah-lab.medium.com/sql-injection-lab-5-sql-injection-union-attack-retrieving-data-from-other-tables-82500db264ae?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 October 2026
 
 - **[A Beginner’s Guide to SQL Injection](https://medium.com/@adelekeismailifeoluwa/a-beginners-guide-to-sql-injection-d91a738bee3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

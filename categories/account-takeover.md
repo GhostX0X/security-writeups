@@ -1,3 +1,15 @@
+## 📅 04 October 2026
+
+- **[UPSC Portal: From API Flaw to Account Takeover](https://medium.com/@rip_engineer/upsc-portal-from-api-flaw-to-account-takeover-4562a6cea006?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 October 2026
+
+- **[$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover](https://medium.com/@t4nv1/6-500-for-sending-an-object-instead-of-a-string-mongodb-operator-injection-to-account-takeover-e1cc81754c8c?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 04 October 2026
+
+- **[$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover](https://medium.com/@t4nv1/6-500-for-sending-an-object-instead-of-a-string-mongodb-operator-injection-to-account-takeover-e1cc81754c8c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 October 2026
+
+- **[$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover](https://medium.com/@t4nv1/6-500-for-sending-an-object-instead-of-a-string-mongodb-operator-injection-to-account-takeover-e1cc81754c8c?source=rss------security-5)** _(Medium Security)_
 ## 📅 03 October 2026
 
 - **[Open Your Authenticator App and Count the Accounts. Now Assume the Phone Is Gone.](https://medium.com/@AIbatros/open-your-authenticator-app-and-count-the-accounts-now-assume-the-phone-is-gone-4de27d258b69?source=rss------security-5)** _(Medium Security)_
