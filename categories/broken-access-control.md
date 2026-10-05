@@ -1,3 +1,6 @@
+## 📅 05 October 2026
+
+- **[Hashgate — picoCTF Write-up | Understanding MD5 Hashes and Access Control](https://medium.com/@affanhaxor/hashgate-picoctf-write-up-understanding-md5-hashes-and-access-control-ad27e5873715?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 October 2026
 
 - **[2. Biometric Access Control & Time Attendance Solutions](https://medium.com/@eliasngigi369/2-biometric-access-control-time-attendance-solutions-2629f79c62a7?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,9 @@
+## 📅 05 October 2026
+
+- **[$13,500 for a File That Was Two Things At Once: Polyglot Upload Bypass to RCE](https://medium.com/@t4nv1/13-500-for-a-file-that-was-two-things-at-once-polyglot-upload-bypass-to-rce-5b1ca4f0b5de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 October 2026
+
+- **[Is Your App Really on HTTPS? Testing “HTTPS Not Enabled” vs “HTTPS Not Enforced”](https://medium.com/@pavankumarck684/is-your-app-really-on-https-testing-https-not-enabled-vs-https-not-enforced-508b6cd31b0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 October 2026
 
 - **[Trailing-Space ASP Source Disclosure: An Old Trick Still at Work](https://hcibo.medium.com/trailing-space-asp-source-disclosure-an-old-trick-still-at-work-d2b61164a946?source=rss------pentesting-5)** _(Medium Pentesting)_
