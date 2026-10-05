@@ -1,3 +1,6 @@
+## 📅 04 October 2026
+
+- **[Trailing-Space ASP Source Disclosure: An Old Trick Still at Work](https://hcibo.medium.com/trailing-space-asp-source-disclosure-an-old-trick-still-at-work-d2b61164a946?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 02 October 2026
 
 - **[Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”](https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
