@@ -1,3 +1,6 @@
+## 📅 05 October 2026
+
+- **[Account Takeover: How Attackers Actually Steal Accounts](https://medium.com/@raksharoot/account-takeover-how-attackers-actually-steal-accounts-1f02fb71b86d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 04 October 2026
 
 - **[UPSC Portal: From API Flaw to Account Takeover](https://medium.com/@rip_engineer/upsc-portal-from-api-flaw-to-account-takeover-4562a6cea006?source=rss------pentesting-5)** _(Medium Pentesting)_

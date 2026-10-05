@@ -1,5 +1,8 @@
 ## 📅 05 October 2026
 
+- **[Referer-based access control — A portswigger lab walkthrough](https://vivek0x.medium.com/referer-based-access-control-a-portswigger-lab-walkthrough-6a273c21db3f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 October 2026
+
 - **[Hashgate — picoCTF Write-up | Understanding MD5 Hashes and Access Control](https://medium.com/@affanhaxor/hashgate-picoctf-write-up-understanding-md5-hashes-and-access-control-ad27e5873715?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 October 2026
 

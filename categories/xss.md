@@ -1,3 +1,6 @@
+## 📅 05 October 2026
+
+- **[[TR] Cross-Site Scripting (XSS) Nedir ve Nasıl Bulunur?](https://medium.com/@nurullaHangul/tr-cross-site-scripting-xss-nedir-ve-nas%C4%B1l-bulunur-4daec6eddd0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 October 2026
 
 - **[DVWA Vulnerability: Reflected Cross Site Scripting (XSS)](https://medium.com/@Kamal_S/dvwa-vulnerability-reflected-cross-site-scripting-xss-e9dfe6e15025?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
