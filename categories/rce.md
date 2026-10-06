@@ -1,3 +1,6 @@
+## 📅 06 October 2026
+
+- **[How a Line Counter Gave Us RCE in NASA](https://medium.com/@belalmohamed3690/how-a-line-counter-gave-us-rce-in-nasa-0c92a1083e7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 October 2026
 
 - **[$13,500 for a File That Was Two Things At Once: Polyglot Upload Bypass to RCE](https://medium.com/@t4nv1/13-500-for-a-file-that-was-two-things-at-once-polyglot-upload-bypass-to-rce-5b1ca4f0b5de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

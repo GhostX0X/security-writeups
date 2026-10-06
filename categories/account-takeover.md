@@ -1,3 +1,6 @@
+## 📅 06 October 2026
+
+- **[From statical site on up-to-date governement CMS to 0-click Administrator Account Takeover – a Bug…](https://medium.com/@sadinfinite/from-statical-site-on-up-to-date-governement-cms-to-0-click-administrator-account-takeover-a-bug-993a11d89e64?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 October 2026
 
 - **[Account Takeover: How Attackers Actually Steal Accounts](https://medium.com/@raksharoot/account-takeover-how-attackers-actually-steal-accounts-1f02fb71b86d?source=rss------pentesting-5)** _(Medium Pentesting)_

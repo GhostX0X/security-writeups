@@ -1,6 +1,6 @@
 # 📊 Status
 
-Last updated: 2026-10-06 12:24:16.704592 UTC
+Last updated: 2026-10-06 22:00:15.767682 UTC
 
 - account-takeover: 2
-- xss: 1
+- rce: 1
