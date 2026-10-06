@@ -1,3 +1,9 @@
+## 📅 06 October 2026
+
+- **[Cross-Origin postMessage DOM XSS: From a Missing Origin Check to Authenticated Account Compromise](https://medium.com/@redhunter01/cross-origin-postmessage-dom-xss-from-a-missing-origin-check-to-authenticated-account-compromise-759589196176?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 October 2026
+
+- **[CVE-2026–94504 Analysis: Ninja Forms Stored XSS — Bypassing the Admin Screen with a Single…](https://medium.com/@guidancewhite/cve-2026-94504-analysis-ninja-forms-stored-xss-bypassing-the-admin-screen-with-a-single-771312bb66af?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 October 2026
 
 - **[[TR] Cross-Site Scripting (XSS) Nedir ve Nasıl Bulunur?](https://medium.com/@nurullaHangul/tr-cross-site-scripting-xss-nedir-ve-nas%C4%B1l-bulunur-4daec6eddd0c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
