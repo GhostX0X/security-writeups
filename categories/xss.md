@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[I Moved My Token to Dodge CSRF. XSS Said Thank You.](https://medium.com/@svkulkarni23/i-moved-my-token-to-dodge-csrf-xss-said-thank-you-5d3b3c077c53?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 October 2026
 
 - **[Cross-Origin postMessage DOM XSS: From a Missing Origin Check to Authenticated Account Compromise](https://medium.com/@redhunter01/cross-origin-postmessage-dom-xss-from-a-missing-origin-check-to-authenticated-account-compromise-759589196176?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

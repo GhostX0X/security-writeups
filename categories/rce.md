@@ -1,5 +1,8 @@
 ## 📅 07 October 2026
 
+- **[How I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE](https://mostafa0x.medium.com/how-i-discovered-blind-ssrf-in-gitlab-leading-to-localhost-access-and-rce-3cf075c22364?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
 - **[CVE-2026–6951 — Bypassing simple-git’s Blocklist via the — config Flag (RCE Analysis)](https://medium.com/@guidancewhite/cve-2026-6951-bypassing-simple-gits-blocklist-via-the-config-flag-rce-analysis-02ceefee09f1?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 October 2026
 

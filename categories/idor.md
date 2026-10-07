@@ -1,5 +1,11 @@
 ## 📅 07 October 2026
 
+- **[How I Found an IDOR Bug That Exposed Other Users’ Account Information | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-found-an-idor-bug-that-exposed-other-users-account-information-by-samadhan-shimple-dbea18d00ccd?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 07 October 2026
+
+- **[Unauthenticated IDOR in Marketing Consent Management: From Enumerable IDs to Unauthorized…](https://medium.com/@redhunter01/unauthenticated-idor-in-marketing-consent-management-from-enumerable-ids-to-unauthorized-f1ef66dda8ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
 - **[IDOR Trick Leads to Damage Across the Entire Business](https://medium.com/@mahmoudfarag.rm4/idor-trick-leads-to-damage-across-the-entire-business-3ef86b1507aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 October 2026
 

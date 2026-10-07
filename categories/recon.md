@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[Build Your Own Recon Tool in Python in Under 100 Lines](https://medium.com/@bughuntersjournal/build-your-own-recon-tool-in-python-in-under-100-lines-0d32dced26a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 October 2026
 
 - **[5 Recon Mistakes That Waste Hours in Bug Bounty](https://medium.com/@Rakeshjoshi7/5-recon-mistakes-that-waste-hours-in-bug-bounty-7b530d2d19b8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

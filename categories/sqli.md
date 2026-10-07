@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[From a Single Quote to SQL Injection: How I Discovered a Vulnerability in a University Web…](https://medium.com/@vignesh12/from-a-single-quote-to-sql-injection-how-i-discovered-a-vulnerability-in-a-university-web-752359f93cf9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 October 2026
 
 - **[SQL Injection — Lab #5 SQL injection UNION attack, retrieving data from other tables](https://m-abdullah-lab.medium.com/sql-injection-lab-5-sql-injection-union-attack-retrieving-data-from-other-tables-82500db264ae?source=rss------pentesting-5)** _(Medium Pentesting)_

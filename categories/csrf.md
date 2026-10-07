@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[I Moved My Token to Dodge CSRF. XSS Said Thank You.](https://medium.com/@svkulkarni23/i-moved-my-token-to-dodge-csrf-xss-said-thank-you-5d3b3c077c53?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 October 2026
 
 - **[From WAF Bypass to Account Takeover: Chaining Logic Flaws & CSRF in Stock Photo Platform](https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[Broken Access Control OWASP Top 10 (2025): A Practical Checklist (Part 2)](https://medium.com/@shrutishinde1319/broken-access-control-owasp-top-10-2025-a-practical-checklist-part-2-c22c078e0cae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 October 2026
 
 - **[Referer-based access control — A portswigger lab walkthrough](https://vivek0x.medium.com/referer-based-access-control-a-portswigger-lab-walkthrough-6a273c21db3f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

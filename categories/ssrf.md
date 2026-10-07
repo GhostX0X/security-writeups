@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[How I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE](https://mostafa0x.medium.com/how-i-discovered-blind-ssrf-in-gitlab-leading-to-localhost-access-and-rce-3cf075c22364?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 October 2026
 
 - **[SSRF to S3: Stealing IAM Credentials Through a Vulnerable Proxy (Phase 2-b)](https://medium.com/@gmptg5311/ssrf-to-s3-stealing-iam-credentials-through-a-vulnerable-proxy-phase-2-b-76e6f91dae98?source=rss------pentesting-5)** _(Medium Pentesting)_
