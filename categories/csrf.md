@@ -1,3 +1,12 @@
+## 📅 06 October 2026
+
+- **[From WAF Bypass to Account Takeover: Chaining Logic Flaws & CSRF in Stock Photo Platform](https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 October 2026
+
+- **[From WAF Bypass to Account Takeover: Chaining Logic Flaws & CSRF in Stock Photo Platform](https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
+- **[CSRF Explained ️](https://medium.com/the-60-second-programmer/csrf-explained-%EF%B8%8F-8734b2620eb6?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 September 2026
 
 - **[Lab: Exploiting XSS to bypass CSRF defenses](https://medium.com/@amrsmooke321/lab-exploiting-xss-to-bypass-csrf-defenses-c45e387bb30f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

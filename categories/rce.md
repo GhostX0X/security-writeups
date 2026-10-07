@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[CVE-2026–6951 — Bypassing simple-git’s Blocklist via the — config Flag (RCE Analysis)](https://medium.com/@guidancewhite/cve-2026-6951-bypassing-simple-gits-blocklist-via-the-config-flag-rce-analysis-02ceefee09f1?source=rss------security-5)** _(Medium Security)_
 ## 📅 06 October 2026
 
 - **[How a Line Counter Gave Us RCE in NASA](https://medium.com/@belalmohamed3690/how-a-line-counter-gave-us-rce-in-nasa-0c92a1083e7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

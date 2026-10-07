@@ -1,5 +1,14 @@
 ## 📅 06 October 2026
 
+- **[From WAF Bypass to Account Takeover: Chaining Logic Flaws & CSRF in Stock Photo Platform](https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 October 2026
+
+- **[From WAF Bypass to Account Takeover: Chaining Logic Flaws & CSRF in Stock Photo Platform](https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
+- **[Passwords vs. Passkeys vs. MFA: How CVS Health Cut Account Takeover Fraud by 98%](https://medium.com/@ciphemicacademia/passwords-vs-passkeys-vs-mfa-how-cvs-health-cut-account-takeover-fraud-by-98-6647e2546b33?source=rss------security-5)** _(Medium Security)_
+## 📅 06 October 2026
+
 - **[From statical site on up-to-date governement CMS to 0-click Administrator Account Takeover – a Bug…](https://medium.com/@sadinfinite/from-statical-site-on-up-to-date-governement-cms-to-0-click-administrator-account-takeover-a-bug-993a11d89e64?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 October 2026
 

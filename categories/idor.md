@@ -1,3 +1,6 @@
+## 📅 07 October 2026
+
+- **[IDOR Trick Leads to Damage Across the Entire Business](https://medium.com/@mahmoudfarag.rm4/idor-trick-leads-to-damage-across-the-entire-business-3ef86b1507aa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 October 2026
 
 - **[Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”](https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
