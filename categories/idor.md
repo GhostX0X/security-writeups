@@ -1,5 +1,11 @@
 ## 📅 07 October 2026
 
+- **[Critical BAC: IDOR + Weak Appointment Code Enables Unauthorized Appointment Cancellation…](https://kjulius.medium.com/critical-bac-idor-weak-appointment-code-enables-unauthorized-appointment-cancellation-5e145ced50ca?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
+- **[How a Simple IDOR Earned $5,000 on Reddit](https://meetcyber.net/how-a-simple-idor-earned-5-000-on-reddit-8d1b15857b2b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
 - **[How I Found an IDOR Bug That Exposed Other Users’ Account Information | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-found-an-idor-bug-that-exposed-other-users-account-information-by-samadhan-shimple-dbea18d00ccd?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 October 2026
 

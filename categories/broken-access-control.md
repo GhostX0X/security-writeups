@@ -1,5 +1,11 @@
 ## 📅 07 October 2026
 
+- **[PortSwigger Notes: Access Control Zafiyet Türleri ve Analizi (Bölüm 1)](https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-zafiyet-t%C3%BCrleri-ve-analizi-b%C3%B6l%C3%BCm-1-f446c7e0d54e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
+- **[PortSwigger Notes: Access Control Vulnerability Types and Analysis (Part 1)](https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-vulnerability-types-and-analysis-part-1-47aaf04f6188?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 October 2026
+
 - **[Broken Access Control OWASP Top 10 (2025): A Practical Checklist (Part 2)](https://medium.com/@shrutishinde1319/broken-access-control-owasp-top-10-2025-a-practical-checklist-part-2-c22c078e0cae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 October 2026
 

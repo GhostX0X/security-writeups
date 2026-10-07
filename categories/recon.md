@@ -1,5 +1,8 @@
 ## 📅 07 October 2026
 
+- **[My Practical Bug Hunting Checklist: From Recon to Real-World Web, API & Mobile Testing](https://medium.com/@shamzen96/my-practical-bug-hunting-checklist-from-recon-to-real-world-web-api-mobile-testing-0ebc6bce670b?source=rss------security-5)** _(Medium Security)_
+## 📅 07 October 2026
+
 - **[Build Your Own Recon Tool in Python in Under 100 Lines](https://medium.com/@bughuntersjournal/build-your-own-recon-tool-in-python-in-under-100-lines-0d32dced26a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 October 2026
 
