@@ -1,3 +1,6 @@
+## 📅 08 October 2026
+
+- **[How I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-found-a-session-hijacking-bug-that-could-lead-to-account-takeover-by-samadhan-shimple-99f63c58ca7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 October 2026
 
 - **[From WAF Bypass to Account Takeover: Chaining Logic Flaws & CSRF in Stock Photo Platform](https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d?source=rss------pentesting-5)** _(Medium Pentesting)_

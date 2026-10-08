@@ -1,3 +1,6 @@
+## 📅 08 October 2026
+
+- **[$13,000 for a Filename Inside a Zip: Path Traversal During Archive Extraction to RCE](https://medium.com/@t4nv1/13-000-for-a-filename-inside-a-zip-path-traversal-during-archive-extraction-to-rce-d195aeb732ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 October 2026
 
 - **[How I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE](https://mostafa0x.medium.com/how-i-discovered-blind-ssrf-in-gitlab-leading-to-localhost-access-and-rce-3cf075c22364?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
