@@ -1,5 +1,8 @@
 ## 📅 09 October 2026
 
+- **[From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON](https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 October 2026
+
 - **[List of all Popular XSS Payloads](https://medium.com/@deependrasinghumath07/list-of-all-popular-xss-payloads-879994177468?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 October 2026
 

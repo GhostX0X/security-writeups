@@ -1,3 +1,9 @@
+## 📅 09 October 2026
+
+- **[PortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri](https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-mass-assignment-ve-idor-%C3%A7e%C5%9Fitleri-440255ab46e4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 October 2026
+
+- **[PortSwigger Access Control Notes: Mass Assignment and IDOR Variants](https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-mass-assignment-and-idor-variants-c10b2a70cd50?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 October 2026
 
 - **[PortSwigger Notes: Access Control Zafiyet Türleri ve Analizi (Bölüm 1)](https://medium.com/@furkannyildiizz05/portswigger-notes-access-control-zafiyet-t%C3%BCrleri-ve-analizi-b%C3%B6l%C3%BCm-1-f446c7e0d54e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 09 October 2026
+
+- **[ReconForge v3: Automating 33 Phases of Bug Bounty Reconnaissance — Zero Install, 13,600+ Search…](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 October 2026
 
 - **[My Practical Bug Hunting Checklist: From Recon to Real-World Web, API & Mobile Testing](https://medium.com/@shamzen96/my-practical-bug-hunting-checklist-from-recon-to-real-world-web-api-mobile-testing-0ebc6bce670b?source=rss------security-5)** _(Medium Security)_
