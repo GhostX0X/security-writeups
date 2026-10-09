@@ -1,3 +1,6 @@
+## 📅 09 October 2026
+
+- **[List of all Popular XSS Payloads](https://medium.com/@deependrasinghumath07/list-of-all-popular-xss-payloads-879994177468?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 October 2026
 
 - **[I Moved My Token to Dodge CSRF. XSS Said Thank You.](https://medium.com/@svkulkarni23/i-moved-my-token-to-dodge-csrf-xss-said-thank-you-5d3b3c077c53?source=rss------security-5)** _(Medium Security)_

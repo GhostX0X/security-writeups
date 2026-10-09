@@ -1,3 +1,6 @@
+## 📅 09 October 2026
+
+- **[PortSwigger's SQL Injection Labs: Complete Walkthrough (All 18 Labs)](https://medium.com/@muhammad-ayan-cyber/portswiggers-sql-injection-labs-complete-walkthrough-all-18-labs-18613e7c7aa0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 October 2026
 
 - **[From a Single Quote to SQL Injection: How I Discovered a Vulnerability in a University Web…](https://medium.com/@vignesh12/from-a-single-quote-to-sql-injection-how-i-discovered-a-vulnerability-in-a-university-web-752359f93cf9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

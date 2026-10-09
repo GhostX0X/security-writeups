@@ -1,3 +1,12 @@
+## 📅 09 October 2026
+
+- **[DockerLabs Writeup — Force (Spanish)](https://pyth0nk1d.medium.com/dockerlabs-writeup-force-spanish-00b716a7d265?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 October 2026
+
+- **[Google suspend son bug bounty open source submergé par l’IA](https://marcbarbezat.medium.com/google-suspend-son-bug-bounty-open-source-submerg%C3%A9-par-lia-8cb8f7724742?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 October 2026
+
+- **[Free AI Security Audits for Open Source Come With an Open Question](https://switch2mac.medium.com/free-ai-security-audits-for-open-source-come-with-an-open-question-01504a018a9d?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 October 2026
 
 - **[$13,000 for a Filename Inside a Zip: Path Traversal During Archive Extraction to RCE](https://medium.com/@t4nv1/13-000-for-a-filename-inside-a-zip-path-traversal-during-archive-extraction-to-rce-d195aeb732ff?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
