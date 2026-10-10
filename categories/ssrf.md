@@ -1,3 +1,6 @@
+## 📅 10 October 2026
+
+- **[Cohort — SSRF’den Root’a Bir HTB Yolculuğu](https://medium.com/@burakkirac177/cohort-ssrfden-root-a-bir-htb-yolculu%C4%9Fu-319e323e420c?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 07 October 2026
 
 - **[How I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE](https://mostafa0x.medium.com/how-i-discovered-blind-ssrf-in-gitlab-leading-to-localhost-access-and-rce-3cf075c22364?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
