@@ -1,3 +1,6 @@
+## 📅 10 October 2026
+
+- **[Forced Browsing Explained | Find Hidden Pages & Access Control Bugs](https://medium.com/@pentesterclubpvtltd/forced-browsing-explained-find-hidden-pages-access-control-bugs-d014eff7cd72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 October 2026
 
 - **[PortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri](https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-mass-assignment-ve-idor-%C3%A7e%C5%9Fitleri-440255ab46e4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

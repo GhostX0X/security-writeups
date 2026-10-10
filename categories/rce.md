@@ -1,3 +1,9 @@
+## 📅 10 October 2026
+
+- **[Forced Browsing Explained | Find Hidden Pages & Access Control Bugs](https://medium.com/@pentesterclubpvtltd/forced-browsing-explained-find-hidden-pages-access-control-bugs-d014eff7cd72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 October 2026
+
+- **[Verify the Source Before You Trust It: What the Ledger Reseller Drains Teach Every Crypto User and…](https://tokenkickstarter.medium.com/verify-the-source-before-you-trust-it-what-the-ledger-reseller-drains-teach-every-crypto-user-and-ab7de1f45f0c?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 October 2026
 
 - **[DockerLabs Writeup — Force (Spanish)](https://pyth0nk1d.medium.com/dockerlabs-writeup-force-spanish-00b716a7d265?source=rss------pentesting-5)** _(Medium Pentesting)_
