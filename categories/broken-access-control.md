@@ -1,3 +1,9 @@
+## 📅 11 October 2026
+
+- **[PortSwigger Access Control Masterclass: Veri Sızıntıları, Şifre İfşası ve Dosya IDOR Zafiyetleri](https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-veri-s%C4%B1z%C4%B1nt%C4%B1lar%C4%B1-%C5%9Fifre-i%CC%87f%C5%9Fas%C4%B1-ve-dosya-idor-zafiyetleri-cfa51d445481?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 October 2026
+
+- **[PortSwigger Access Control Notes: Data Leakage, Password Disclosure, and File-Based IDOR](https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-data-leakage-password-disclosure-and-file-based-idor-e1728925bba0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 October 2026
 
 - **[Forced Browsing Explained | Find Hidden Pages & Access Control Bugs](https://medium.com/@pentesterclubpvtltd/forced-browsing-explained-find-hidden-pages-access-control-bugs-d014eff7cd72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

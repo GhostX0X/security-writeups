@@ -1,5 +1,8 @@
 ## 📅 11 October 2026
 
+- **[Beyond Latency: Eliminating False Positives in Time-Based Blind SQLi with Empirical 3σ Baselining &…](https://pratik-khairnar-sec.medium.com/beyond-latency-eliminating-false-positives-in-time-based-blind-sqli-with-empirical-3%CF%83-baselining-f457501f3c0d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 October 2026
+
 - **[Visible Error-Based SQL Injection: A PortSwigger Lab Walkthrough](https://medium.com/@tagmadiyadhrupal10/visible-error-based-sql-injection-a-portswigger-lab-walkthrough-4fbb0c13d9cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 October 2026
 
