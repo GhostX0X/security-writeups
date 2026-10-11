@@ -1,3 +1,6 @@
+## 📅 11 October 2026
+
+- **[$2,500 Bug Bounty Lesson in OAuth: How Race Conditions Can Break Token Revocation](https://meetcyber.net/2-500-bug-bounty-lesson-in-oauth-how-race-conditions-can-break-token-revocation-b5fede3a4d32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 October 2026
 
 - **[$6,200 for an Invisible Button: Clickjacking an OAuth Consent Screen Into Account Takeover](https://medium.com/@t4nv1/6-200-for-an-invisible-button-clickjacking-an-oauth-consent-screen-into-account-takeover-7216042c6264?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

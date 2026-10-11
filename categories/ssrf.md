@@ -1,3 +1,6 @@
+## 📅 11 October 2026
+
+- **[Preventing SSRF in Spring Boot: The Security Mistake Behind Dangerous URL Fetching](https://medium.com/@theturtlecode/preventing-ssrf-in-spring-boot-the-security-mistake-behind-dangerous-url-fetching-b44171438123?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 October 2026
 
 - **[Cohort — SSRF’den Root’a Bir HTB Yolculuğu](https://medium.com/@burakkirac177/cohort-ssrfden-root-a-bir-htb-yolculu%C4%9Fu-319e323e420c?source=rss------pentesting-5)** _(Medium Pentesting)_
