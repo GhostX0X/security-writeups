@@ -1,3 +1,6 @@
+## 📅 11 October 2026
+
+- **[From HTTP Requests to Web Reconnaissance: Understanding the Foundations of Web Security](https://medium.com/@alaakhalafallah25/from-http-requests-to-web-reconnaissance-understanding-the-foundations-of-web-security-d6514ed58597?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 October 2026
 
 - **[ReconForge v3: Automating 33 Phases of Bug Bounty Reconnaissance — Zero Install, 13,600+ Search…](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

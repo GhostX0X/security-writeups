@@ -1,3 +1,6 @@
+## 📅 11 October 2026
+
+- **[Visible Error-Based SQL Injection: A PortSwigger Lab Walkthrough](https://medium.com/@tagmadiyadhrupal10/visible-error-based-sql-injection-a-portswigger-lab-walkthrough-4fbb0c13d9cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 October 2026
 
 - **[PortSwigger's SQL Injection Labs: Complete Walkthrough (All 18 Labs)](https://medium.com/@muhammad-ayan-cyber/portswiggers-sql-injection-labs-complete-walkthrough-all-18-labs-18613e7c7aa0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
