@@ -1,5 +1,8 @@
 ## 📅 10 October 2026
 
+- **[How I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds](https://medium.com/@molapomanuel709/how-i-identified-a-potential-subscription-payment-enforcement-issue-despite-insufficient-funds-f4bb0a9dc46c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 10 October 2026
+
 - **[Forced Browsing Explained | Find Hidden Pages & Access Control Bugs](https://medium.com/@pentesterclubpvtltd/forced-browsing-explained-find-hidden-pages-access-control-bugs-d014eff7cd72?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 October 2026
 
