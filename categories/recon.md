@@ -1,5 +1,8 @@
 ## 📅 11 October 2026
 
+- **[From Recon to Full Read/Write DB Access — A Bug Bounty Story](https://medium.com/@sadinfinite/from-recon-to-full-read-write-db-access-a-bug-bounty-story-ce1197a0983c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 11 October 2026
+
 - **[From HTTP Requests to Web Reconnaissance: Understanding the Foundations of Web Security](https://medium.com/@alaakhalafallah25/from-http-requests-to-web-reconnaissance-understanding-the-foundations-of-web-security-d6514ed58597?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 October 2026
 
