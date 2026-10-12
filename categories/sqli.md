@@ -1,3 +1,6 @@
+## 📅 12 October 2026
+
+- **[SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…](https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 October 2026
 
 - **[Beyond Latency: Eliminating False Positives in Time-Based Blind SQLi with Empirical 3σ Baselining &…](https://pratik-khairnar-sec.medium.com/beyond-latency-eliminating-false-positives-in-time-based-blind-sqli-with-empirical-3%CF%83-baselining-f457501f3c0d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

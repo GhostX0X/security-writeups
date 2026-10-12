@@ -1,3 +1,6 @@
+## 📅 12 October 2026
+
+- **[Blind XSS Accepted, No Payout: A Bug Bounty Lesson.](https://kjulius.medium.com/blind-xss-accepted-no-payout-a-bug-bounty-lesson-d06bd623dca5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 October 2026
 
 - **[From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON](https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

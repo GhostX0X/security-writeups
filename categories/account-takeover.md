@@ -1,3 +1,6 @@
+## 📅 12 October 2026
+
+- **[Improper Authorization Allows Account Takeover via Unlinked Phone Number and Email Change Without…](https://medium.com/@o.mohmed.ascii/improper-authorization-allows-account-takeover-via-unlinked-phone-number-and-email-change-without-aecdca02e2eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 08 October 2026
 
 - **[Hack The Box Scaffold — Hard Active Directory Walkthrough: From Initial Foothold to Administrator](https://medium.com/@bil3l/hack-the-box-scaffold-hard-active-directory-walkthrough-from-initial-foothold-to-administrator-43cdeb696852?source=rss------pentesting-5)** _(Medium Pentesting)_
