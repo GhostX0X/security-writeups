@@ -1,3 +1,9 @@
+## 📅 13 October 2026
+
+- **[Brute Force Attacks: A Practical Methodology for Detection, Testing, and Prevention](https://medium.com/@N0aziXss/brute-force-attacks-a-practical-methodology-for-detection-testing-and-prevention-09bdcd63d36d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 13 October 2026
+
+- **[Brute Force Attacks: A Practical Methodology for Detection, Testing, and Prevention](https://medium.com/@N0aziXss/brute-force-attacks-a-practical-methodology-for-detection-testing-and-prevention-09bdcd63d36d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 October 2026
 
 - **[How I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds](https://medium.com/@molapomanuel709/how-i-identified-a-potential-subscription-payment-enforcement-issue-despite-insufficient-funds-f4bb0a9dc46c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

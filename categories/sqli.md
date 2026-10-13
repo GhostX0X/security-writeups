@@ -1,3 +1,6 @@
+## 📅 13 October 2026
+
+- **[$11,500 for a Payload That Waited: Second-Order SQL Injection in an Admin Report](https://medium.com/@t4nv1/11-500-for-a-payload-that-waited-second-order-sql-injection-in-an-admin-report-44bab854bbe1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 October 2026
 
 - **[SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…](https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
