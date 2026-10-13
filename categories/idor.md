@@ -1,3 +1,6 @@
+## 📅 13 October 2026
+
+- **[15 Copy-Paste cURL One-Liners to Test an API for IDOR, Auth Bypass and CORS](https://medium.com/@bughuntersjournal/15-copy-paste-curl-one-liners-to-test-an-api-for-idor-auth-bypass-and-cors-db436bd7120b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 October 2026
 
 - **[PortSwigger Access Control Masterclass: Veri Sızıntıları, Şifre İfşası ve Dosya IDOR Zafiyetleri](https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-veri-s%C4%B1z%C4%B1nt%C4%B1lar%C4%B1-%C5%9Fifre-i%CC%87f%C5%9Fas%C4%B1-ve-dosya-idor-zafiyetleri-cfa51d445481?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

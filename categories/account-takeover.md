@@ -1,3 +1,6 @@
+## 📅 13 October 2026
+
+- **[0-Click Account Takeover via Cookie Switching](https://medium.com/@l4zz3rj0d/0-click-account-takeover-via-cookie-switching-cb90cd68cbed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 October 2026
 
 - **[Improper Authorization Allows Account Takeover via Unlinked Phone Number and Email Change Without…](https://medium.com/@o.mohmed.ascii/improper-authorization-allows-account-takeover-via-unlinked-phone-number-and-email-change-without-aecdca02e2eb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

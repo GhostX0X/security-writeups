@@ -1,3 +1,6 @@
+## 📅 13 October 2026
+
+- **[OAuth Hardening Your Spring Boot APIs: What issuer-uri Doesn’t Check](https://medium.com/@vgzxkgmrpn/oauth-hardening-your-spring-boot-apis-what-issuer-uri-doesnt-check-d1c83302b2ce?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 October 2026
 
 - **[$2,500 Bug Bounty Lesson in OAuth: How Race Conditions Can Break Token Revocation](https://meetcyber.net/2-500-bug-bounty-lesson-in-oauth-how-race-conditions-can-break-token-revocation-b5fede3a4d32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

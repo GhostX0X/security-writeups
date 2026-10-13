@@ -1,3 +1,6 @@
+## 📅 13 October 2026
+
+- **[How I Found a DOM XSS on a Major Brand’s Community Site (and Got Swag for It)](https://medium.com/@subadevanc/how-i-found-a-dom-xss-on-a-major-brands-community-site-and-got-swag-for-it-958cb5d1d7d9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 October 2026
 
 - **[Blind XSS Accepted, No Payout: A Bug Bounty Lesson.](https://kjulius.medium.com/blind-xss-accepted-no-payout-a-bug-bounty-lesson-d06bd623dca5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
