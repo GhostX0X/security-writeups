@@ -1,3 +1,6 @@
+## 📅 13 October 2026
+
+- **[10 GitHub OSINT Tools I Actually Reach For During Recon](https://nitingavhane.medium.com/10-github-osint-tools-i-actually-reach-for-during-recon-d192149f82e6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 October 2026
 
 - **[From Recon to Full Read/Write DB Access — A Bug Bounty Story](https://medium.com/@sadinfinite/from-recon-to-full-read-write-db-access-a-bug-bounty-story-ce1197a0983c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
