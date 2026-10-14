@@ -1,3 +1,6 @@
+## 📅 14 October 2026
+
+- **[Irish-Name-Repo 1 : CTF Write-up | SQL Injection Authentication Bypass](https://medium.com/@affanhaxor/irish-name-repo-1-ctf-write-up-sql-injection-authentication-bypass-0460b16fd146?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
 - **[$11,500 for a Payload That Waited: Second-Order SQL Injection in an Admin Report](https://medium.com/@t4nv1/11-500-for-a-payload-that-waited-second-order-sql-injection-in-an-admin-report-44bab854bbe1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

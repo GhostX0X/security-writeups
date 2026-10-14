@@ -1,3 +1,6 @@
+## 📅 14 October 2026
+
+- **[Harmless Link Becomes RCE](https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
 - **[Brute Force Attacks: A Practical Methodology for Detection, Testing, and Prevention](https://medium.com/@N0aziXss/brute-force-attacks-a-practical-methodology-for-detection-testing-and-prevention-09bdcd63d36d?source=rss------pentesting-5)** _(Medium Pentesting)_
