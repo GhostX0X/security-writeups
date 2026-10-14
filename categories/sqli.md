@@ -1,5 +1,8 @@
 ## 📅 14 October 2026
 
+- **[Bypassing Login with SQL Injection: PortSwigger Lab Walkthrough.](https://vivek0x.medium.com/bypassing-login-with-sql-injection-portswigger-lab-walkthrough-210087fb87cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 October 2026
+
 - **[Irish-Name-Repo 1 : CTF Write-up | SQL Injection Authentication Bypass](https://medium.com/@affanhaxor/irish-name-repo-1-ctf-write-up-sql-injection-authentication-bypass-0460b16fd146?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
