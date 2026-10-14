@@ -1,5 +1,8 @@
 ## 📅 13 October 2026
 
+- **[CVE-2026–94545 Explained: What Happens When an OG-Image Generator Forgets to Escape](https://medium.com/@guidancewhite/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-e80779533d73?source=rss------security-5)** _(Medium Security)_
+## 📅 13 October 2026
+
 - **[0-Click Account Takeover via Cookie Switching](https://medium.com/@l4zz3rj0d/0-click-account-takeover-via-cookie-switching-cb90cd68cbed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 October 2026
 
