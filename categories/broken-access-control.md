@@ -1,3 +1,6 @@
+## 📅 15 October 2026
+
+- **[Privileged Access Management (PAM): Strengthening Enterprise Security and Access Control](https://medium.com/@umangp5029/privileged-access-management-pam-strengthening-enterprise-security-and-access-control-180b2d7ed36f?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 October 2026
 
 - **[PortSwigger Access Control Masterclass: Veri Sızıntıları, Şifre İfşası ve Dosya IDOR Zafiyetleri](https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-veri-s%C4%B1z%C4%B1nt%C4%B1lar%C4%B1-%C5%9Fifre-i%CC%87f%C5%9Fas%C4%B1-ve-dosya-idor-zafiyetleri-cfa51d445481?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

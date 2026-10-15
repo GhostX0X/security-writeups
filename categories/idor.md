@@ -1,3 +1,9 @@
+## 📅 15 October 2026
+
+- **[$9,000 for a Bucket That Trusted the Wrong Thing: Cloud Storage IDOR Exposing Every User’s Files](https://medium.com/@t4nv1/9-000-for-a-bucket-that-trusted-the-wrong-thing-cloud-storage-idor-exposing-every-users-files-a8d70c95bd25?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 October 2026
+
+- **[$9,000 for a Bucket That Trusted the Wrong Thing: Cloud Storage IDOR Exposing Every User’s Files](https://medium.com/@t4nv1/9-000-for-a-bucket-that-trusted-the-wrong-thing-cloud-storage-idor-exposing-every-users-files-a8d70c95bd25?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 October 2026
 
 - **[15 Copy-Paste cURL One-Liners to Test an API for IDOR, Auth Bypass and CORS](https://medium.com/@bughuntersjournal/15-copy-paste-curl-one-liners-to-test-an-api-for-idor-auth-bypass-and-cors-db436bd7120b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 15 October 2026
+
+- **[The Anatomy of a Data Leak: Extracting GPS Coordinates from Image Metadata | by Samadhan Shimple](https://samadhanshimple.medium.com/the-anatomy-of-a-data-leak-extracting-gps-coordinates-from-image-metadata-by-samadhan-shimple-ac9b60f8c35a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
 - **[CVE-2026–94545 Explained: What Happens When an OG-Image Generator Forgets to Escape](https://medium.com/@guidancewhite/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-e80779533d73?source=rss------security-5)** _(Medium Security)_
