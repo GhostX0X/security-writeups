@@ -1,3 +1,6 @@
+## 📅 14 October 2026
+
+- **[RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$](https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
 - **[10 GitHub OSINT Tools I Actually Reach For During Recon](https://nitingavhane.medium.com/10-github-osint-tools-i-actually-reach-for-during-recon-d192149f82e6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
