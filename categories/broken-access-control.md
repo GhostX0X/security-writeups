@@ -1,5 +1,11 @@
 ## 📅 15 October 2026
 
+- **[How a Free Trial Led to Broken Access Control](https://medium.com/@a7medsalah169/how-a-free-trial-led-to-broken-access-control-537488544be0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 October 2026
+
+- **[PortSwigger Web Security Academy Access Control Expert Labs Detailed Solution Series](https://medium.com/@furkannyildiizz05/portswigger-web-security-academy-access-control-expert-labs-detailed-solution-series-d5fbbbd7bdbb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 October 2026
+
 - **[Privileged Access Management (PAM): Strengthening Enterprise Security and Access Control](https://medium.com/@umangp5029/privileged-access-management-pam-strengthening-enterprise-security-and-access-control-180b2d7ed36f?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 October 2026
 

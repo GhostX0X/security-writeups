@@ -1,3 +1,6 @@
+## 📅 15 October 2026
+
+- **[Supercharging Wayback Machine Recon: Why Terminal Tools Fall Short and How I Built Wayback Lens v2.0](https://pratik-khairnar-sec.medium.com/supercharging-wayback-machine-recon-why-terminal-tools-fall-short-and-how-i-built-wayback-lens-v2-0-7c29c0efde6b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 October 2026
 
 - **[RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$](https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

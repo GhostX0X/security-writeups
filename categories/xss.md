@@ -1,3 +1,9 @@
+## 📅 15 October 2026
+
+- **[Bypass the Bypass (XSS)](https://medium.com/@belalmohamed3690/bypass-the-bypass-xss-53c8d55a8fa8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 October 2026
+
+- **[Bypass the Bypass (XSS)](https://medium.com/@belalmohamed3690/bypass-the-bypass-xss-53c8d55a8fa8?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 October 2026
 
 - **[How I Found a DOM XSS on a Major Brand’s Community Site (and Got Swag for It)](https://medium.com/@subadevanc/how-i-found-a-dom-xss-on-a-major-brands-community-site-and-got-swag-for-it-958cb5d1d7d9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
