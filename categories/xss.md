@@ -1,5 +1,8 @@
 ## 📅 15 October 2026
 
+- **[Stored XSS in an Admin Alert Component via an Admin-Editable Store Name](https://medium.com/@zyadatef2462003/stored-xss-in-an-admin-alert-component-via-an-admin-editable-store-name-2bbc910e2fe4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 15 October 2026
+
 - **[Bypass the Bypass (XSS)](https://medium.com/@belalmohamed3690/bypass-the-bypass-xss-53c8d55a8fa8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
