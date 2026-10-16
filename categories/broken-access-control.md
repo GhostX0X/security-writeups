@@ -1,3 +1,6 @@
+## 📅 16 October 2026
+
+- **[Your CCTV Can Record an Intruder. But Can Your Access Control System Help Stop Them?](https://medium.com/@infosafetycustodian2/your-cctv-can-record-an-intruder-but-can-your-access-control-system-help-stop-them-813074efa1cb?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 October 2026
 
 - **[Broken Access Control in a Study Platform’s Class Materials API When “Delete My Own Stuff” Became “D](https://medium.com/@yasser0hamoda1/broken-access-control-in-a-study-platforms-class-materials-api-when-delete-my-own-stuff-became-d-89160bd2c583?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

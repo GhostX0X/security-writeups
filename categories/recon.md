@@ -1,3 +1,6 @@
+## 📅 16 October 2026
+
+- **[I Automated My Reconnaissance Workflow With Python — Here’s What I Learned](https://medium.com/codetodeploy/i-automated-my-reconnaissance-workflow-with-python-heres-what-i-learned-064d4cb5de99?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
 - **[Supercharging Wayback Machine Recon: Why Terminal Tools Fall Short and How I Built Wayback Lens v2.0](https://pratik-khairnar-sec.medium.com/supercharging-wayback-machine-recon-why-terminal-tools-fall-short-and-how-i-built-wayback-lens-v2-0-7c29c0efde6b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
