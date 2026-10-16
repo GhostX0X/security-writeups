@@ -1,3 +1,6 @@
+## 📅 16 October 2026
+
+- **[IDOR + RBAC Vulnerability: Finding the Attack Scenario That Earned Me $100](https://medium.com/@Muhammad_Wageh/idor-rbac-vulnerability-finding-the-attack-scenario-that-earned-me-100-b4bcb20c3223?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
 - **[$9,000 for a Bucket That Trusted the Wrong Thing: Cloud Storage IDOR Exposing Every User’s Files](https://medium.com/@t4nv1/9-000-for-a-bucket-that-trusted-the-wrong-thing-cloud-storage-idor-exposing-every-users-files-a8d70c95bd25?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

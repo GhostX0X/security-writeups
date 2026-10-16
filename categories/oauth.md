@@ -1,3 +1,6 @@
+## 📅 16 October 2026
+
+- **[Exposed MCP Server: From Recon to OAuth Security Flaws](https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
 - **[OAuth Hardening Your Spring Boot APIs: What issuer-uri Doesn’t Check](https://medium.com/@vgzxkgmrpn/oauth-hardening-your-spring-boot-apis-what-issuer-uri-doesnt-check-d1c83302b2ce?source=rss------security-5)** _(Medium Security)_

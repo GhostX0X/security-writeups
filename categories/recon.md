@@ -1,5 +1,8 @@
 ## 📅 16 October 2026
 
+- **[Exposed MCP Server: From Recon to OAuth Security Flaws](https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 October 2026
+
 - **[I Automated My Reconnaissance Workflow With Python — Here’s What I Learned](https://medium.com/codetodeploy/i-automated-my-reconnaissance-workflow-with-python-heres-what-i-learned-064d4cb5de99?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
