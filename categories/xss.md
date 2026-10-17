@@ -1,3 +1,6 @@
+## 📅 17 October 2026
+
+- **[Toxssin: Exploring XSS Exploitation with an Open-Source Security Tool](https://medium.com/@bensec/toxssin-exploring-xss-exploitation-with-an-open-source-security-tool-04c5b66a1577?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
 - **[Stored XSS in an Admin Alert Component via an Admin-Editable Store Name](https://medium.com/@zyadatef2462003/stored-xss-in-an-admin-alert-component-via-an-admin-editable-store-name-2bbc910e2fe4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

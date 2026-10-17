@@ -1,3 +1,9 @@
+## 📅 17 October 2026
+
+- **[Web Reconnaissance & Enumeration: A Practical Guide for Penetration Testers](https://medium.com/@mdripon667702/web-reconnaissance-enumeration-a-practical-guide-for-penetration-testers-71e2688c7580?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 October 2026
+
+- **[Inside a Bug Bounty Investigation : From Reconnaissance to a Reproducible Security Finding](https://medium.com/@Akarsh_Chaturvedi/inside-a-bug-bounty-investigation-from-reconnaissance-to-a-reproducible-security-finding-1b7c3cce9165?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 October 2026
 
 - **[My Complete Hunting Methodology: From First Recon to First Bounty](https://osintteam.blog/my-complete-hunting-methodology-from-first-recon-to-first-bounty-eb5a3c5bb6e8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
