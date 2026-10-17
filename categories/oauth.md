@@ -1,3 +1,6 @@
+## 📅 17 October 2026
+
+- **[Build a Multi-Tenant MCP Server with OAuth (Clerk + Arcade)](https://medium.com/ai-agent-engineering/multi-tenant-mcp-server-oauth-0f298a46121c?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 October 2026
 
 - **[Exposed MCP Server: From Recon to OAuth Security Flaws](https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

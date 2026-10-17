@@ -1,3 +1,9 @@
+## 📅 17 October 2026
+
+- **[Perplexity open-sourced SPACE: the VM held, the network rules did not](https://medium.com/@clydara/perplexity-open-sourced-space-the-vm-held-the-network-rules-did-not-a11ca89356a3?source=rss------security-5)** _(Medium Security)_
+## 📅 17 October 2026
+
+- **[Perplexity open-sourced SPACE: the VM held, the network rules did not](https://medium.com/@clydara/perplexity-open-sourced-space-the-vm-held-the-network-rules-did-not-ec7e4cd991f6?source=rss------security-5)** _(Medium Security)_
 ## 📅 14 October 2026
 
 - **[Harmless Link Becomes RCE](https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
