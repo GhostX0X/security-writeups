@@ -1,3 +1,6 @@
+## 📅 18 October 2026
+
+- **[The Logistics of Attrition: How the Black Sea Grain Corridor Collapse Reshapes Global Food Security…](https://medium.com/@The_Geopolitical_Brief/the-logistics-of-attrition-how-the-black-sea-grain-corridor-collapse-reshapes-global-food-security-be5ded4a8932?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 October 2026
 
 - **[IDOR + RBAC Vulnerability: Finding the Attack Scenario That Earned Me $100](https://medium.com/@Muhammad_Wageh/idor-rbac-vulnerability-finding-the-attack-scenario-that-earned-me-100-b4bcb20c3223?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

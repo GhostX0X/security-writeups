@@ -1,3 +1,6 @@
+## 📅 18 October 2026
+
+- **[How I Turned a Language Parameter Into DOM-Based XSS Across Multiple Affiliate Portals](https://medium.com/@redhunter01/how-i-turned-a-language-parameter-into-dom-based-xss-across-multiple-affiliate-portals-9111364b7678?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 October 2026
 
 - **[Toxssin: Exploring XSS Exploitation with an Open-Source Security Tool](https://medium.com/@bensec/toxssin-exploring-xss-exploitation-with-an-open-source-security-tool-04c5b66a1577?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
