@@ -1,5 +1,8 @@
 ## 📅 18 October 2026
 
+- **[Hardware Security Keys in 2026: Why YubiKeys Stop 100% of Account Takeovers (And How to Set Them…](https://medium.com/@defenderr0809/hardware-security-keys-in-2026-why-yubikeys-stop-100-of-account-takeovers-and-how-to-set-them-8a11a51d6585?source=rss------security-5)** _(Medium Security)_
+## 📅 18 October 2026
+
 - **[I Analyzed 12 IDOR-to-ATO Reports. The Email-Change Endpoint Wins.](https://infosecwriteups.com/i-analyzed-12-idor-to-ato-reports-the-email-change-endpoint-wins-483e24b6aa8c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
