@@ -1,3 +1,6 @@
+## 📅 18 October 2026
+
+- **[I Analyzed 12 IDOR-to-ATO Reports. The Email-Change Endpoint Wins.](https://infosecwriteups.com/i-analyzed-12-idor-to-ato-reports-the-email-change-endpoint-wins-483e24b6aa8c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 October 2026
 
 - **[The Anatomy of a Data Leak: Extracting GPS Coordinates from Image Metadata | by Samadhan Shimple](https://samadhanshimple.medium.com/the-anatomy-of-a-data-leak-extracting-gps-coordinates-from-image-metadata-by-samadhan-shimple-ac9b60f8c35a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

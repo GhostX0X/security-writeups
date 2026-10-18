@@ -1,5 +1,8 @@
 ## 📅 18 October 2026
 
+- **[I Analyzed 12 IDOR-to-ATO Reports. The Email-Change Endpoint Wins.](https://infosecwriteups.com/i-analyzed-12-idor-to-ato-reports-the-email-change-endpoint-wins-483e24b6aa8c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 October 2026
+
 - **[The Logistics of Attrition: How the Black Sea Grain Corridor Collapse Reshapes Global Food Security…](https://medium.com/@The_Geopolitical_Brief/the-logistics-of-attrition-how-the-black-sea-grain-corridor-collapse-reshapes-global-food-security-be5ded4a8932?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 October 2026
 
