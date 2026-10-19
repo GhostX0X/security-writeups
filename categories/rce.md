@@ -1,3 +1,9 @@
+## 📅 19 October 2026
+
+- **[Intercept HTTP Traffic Using Bettercap | Ethical Hacking Tutorial](https://medium.com/@pentesterclubpvtltd/intercept-http-traffic-using-bettercap-ethical-hacking-tutorial-bf060a447371?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 October 2026
+
+- **[I Built the Harness Tkachuk Describes: Approvals Enforced Outside the Model, in .NET](https://pub.towardsai.net/i-built-the-harness-tkachuk-describes-approvals-enforced-outside-the-model-in-net-12582701e3fc?source=rss------security-5)** _(Medium Security)_
 ## 📅 17 October 2026
 
 - **[Toxssin: Exploring XSS Exploitation with an Open-Source Security Tool](https://medium.com/@bensec/toxssin-exploring-xss-exploitation-with-an-open-source-security-tool-04c5b66a1577?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

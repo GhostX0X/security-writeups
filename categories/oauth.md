@@ -1,3 +1,6 @@
+## 📅 19 October 2026
+
+- **[When PKCE Isn’t Enough: How an OAuth Redirect URI Flaw Can Lead to Account Takeover](https://sanaullahamankorai.medium.com/when-pkce-isnt-enough-how-an-oauth-redirect-uri-flaw-can-lead-to-account-takeover-e81bf8f909c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 October 2026
 
 - **[Upgrading Your MCP SDK Won’t Close the OAuth Hole on Its Own](https://medium.com/@waseemaofficial/upgrading-your-mcp-sdk-wont-close-the-oauth-hole-on-its-own-df6637b93c38?source=rss------security-5)** _(Medium Security)_

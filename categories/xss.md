@@ -1,3 +1,9 @@
+## 📅 19 October 2026
+
+- **[How I Triggered XSS in an AI Image Generator Using Image Recreation Feature](https://medium.com/@masangamike07/how-i-triggered-xss-in-an-ai-image-generator-using-image-recreation-feature-47b2f69f020c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 October 2026
+
+- **[XSS by Proxy: “Tricking the AI Into Reading Its Own Death Sentence Out Loud ”](https://meetcyber.net/xss-by-proxy-tricking-the-ai-into-reading-its-own-death-sentence-out-loud-2ae1811a4f88?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 October 2026
 
 - **[How I Turned a Language Parameter Into DOM-Based XSS Across Multiple Affiliate Portals](https://medium.com/@redhunter01/how-i-turned-a-language-parameter-into-dom-based-xss-across-multiple-affiliate-portals-9111364b7678?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

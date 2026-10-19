@@ -1,3 +1,9 @@
+## 📅 19 October 2026
+
+- **[How I Triggered XSS in an AI Image Generator Using Image Recreation Feature](https://medium.com/@masangamike07/how-i-triggered-xss-in-an-ai-image-generator-using-image-recreation-feature-47b2f69f020c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 October 2026
+
+- **[When PKCE Isn’t Enough: How an OAuth Redirect URI Flaw Can Lead to Account Takeover](https://sanaullahamankorai.medium.com/when-pkce-isnt-enough-how-an-oauth-redirect-uri-flaw-can-lead-to-account-takeover-e81bf8f909c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 October 2026
 
 - **[Hardware Security Keys in 2026: Why YubiKeys Stop 100% of Account Takeovers (And How to Set Them…](https://medium.com/@defenderr0809/hardware-security-keys-in-2026-why-yubikeys-stop-100-of-account-takeovers-and-how-to-set-them-8a11a51d6585?source=rss------security-5)** _(Medium Security)_
