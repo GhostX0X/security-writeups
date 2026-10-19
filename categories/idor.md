@@ -1,3 +1,6 @@
+## 📅 19 October 2026
+
+- **[Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification](https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 October 2026
 
 - **[I Analyzed 12 IDOR-to-ATO Reports. The Email-Change Endpoint Wins.](https://infosecwriteups.com/i-analyzed-12-idor-to-ato-reports-the-email-change-endpoint-wins-483e24b6aa8c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
