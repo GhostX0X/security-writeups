@@ -1,3 +1,6 @@
+## 📅 19 October 2026
+
+- **[I Tried Using Claude Code for Bug Bounty Recon. Here’s What I Learned](https://medium.com/codetodeploy/i-tried-using-claude-code-for-bug-bounty-recon-heres-what-i-learned-e11b2c966177?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 October 2026
 
 - **[Web Reconnaissance & Enumeration: A Practical Guide for Penetration Testers](https://medium.com/@mdripon667702/web-reconnaissance-enumeration-a-practical-guide-for-penetration-testers-71e2688c7580?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

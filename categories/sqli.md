@@ -1,3 +1,9 @@
+## 📅 19 October 2026
+
+- **[Irish-Name-Repo 2 : picoCTF Write-up | SQL Injection Authentication Bypass](https://medium.com/@affanhaxor/irish-name-repo-2-picoctf-write-up-sql-injection-authentication-bypass-c717575e9154?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 October 2026
+
+- **[Business Logic Flaws That Pay More Than SQLi — And How to Find Them](https://medium.com/@bughuntersjournal/business-logic-flaws-that-pay-more-than-sqli-and-how-to-find-them-29de26b3cc93?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 October 2026
 
 - **[Bypassing Login with SQL Injection: PortSwigger Lab Walkthrough.](https://vivek0x.medium.com/bypassing-login-with-sql-injection-portswigger-lab-walkthrough-210087fb87cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
