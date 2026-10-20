@@ -1,3 +1,9 @@
+## 📅 20 October 2026
+
+- **[6 Hours = 25 Reflected XSS and 2 Open Redirects](https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 20 October 2026
+
+- **[6 Hours = 25 Reflected XSS and 2 Open Redirects](https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 October 2026
 
 - **[How I Triggered XSS in an AI Image Generator Using Image Recreation Feature](https://medium.com/@masangamike07/how-i-triggered-xss-in-an-ai-image-generator-using-image-recreation-feature-47b2f69f020c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
