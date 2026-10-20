@@ -1,3 +1,6 @@
+## 📅 20 October 2026
+
+- **[IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure](https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 October 2026
 
 - **[Insecure Direct Object Reference (IDOR) — Unauthorized Product Price Modification](https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
