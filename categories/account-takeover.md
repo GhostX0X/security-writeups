@@ -1,3 +1,6 @@
+## 📅 20 October 2026
+
+- **[The Black Sea’s Silent Blockade: How Drone Economics Is Redrawing NATO’s Eastern Flank.](https://medium.com/@The_Geopolitical_Brief/the-black-seas-silent-blockade-how-drone-economics-is-redrawing-nato-s-eastern-flank-81ebe6de296c?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 October 2026
 
 - **[How I Triggered XSS in an AI Image Generator Using Image Recreation Feature](https://medium.com/@masangamike07/how-i-triggered-xss-in-an-ai-image-generator-using-image-recreation-feature-47b2f69f020c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
