@@ -1,5 +1,8 @@
 ## 📅 21 October 2026
 
+- **[Critical PHP RCE Flaws: CVE-2026–109618 and CVE-2026–109619 — Is Your Business Website at Risk?](https://mhmmuneef.medium.com/critical-php-rce-flaws-cve-2026-109618-and-cve-2026-109619-is-your-business-website-at-risk-875a58992f5b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 October 2026
+
 - **[Critical PHP Security Update: Fix Two RCE Vulnerabilities](https://medium.com/@andreatadioli/critical-php-security-update-fix-two-rce-vulnerabilities-332ca06aa15e?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 October 2026
 
