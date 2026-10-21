@@ -1,3 +1,6 @@
+## 📅 21 October 2026
+
+- **[URLScan.io for Bug Hunters: Practical Search Queries for Web Reconnaissance](https://medium.com/@bughunt3r1985/urlscan-io-for-bug-hunters-practical-search-queries-for-web-reconnaissance-974d6a21fea1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 October 2026
 
 - **[I Tried Using Claude Code for Bug Bounty Recon. Here’s What I Learned](https://medium.com/codetodeploy/i-tried-using-claude-code-for-bug-bounty-recon-heres-what-i-learned-e11b2c966177?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

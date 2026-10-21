@@ -1,3 +1,9 @@
+## 📅 21 October 2026
+
+- **[Critical PHP Security Update: Fix Two RCE Vulnerabilities](https://medium.com/@andreatadioli/critical-php-security-update-fix-two-rce-vulnerabilities-332ca06aa15e?source=rss------security-5)** _(Medium Security)_
+## 📅 21 October 2026
+
+- **[PHP Patched the Two Critical RCE Flaws: Versions, Risk by SAPI, and Stopgaps](https://medium.com/@jamilxt/php-patched-the-two-critical-rce-flaws-versions-risk-by-sapi-and-stopgaps-e69fea104b8f?source=rss------security-5)** _(Medium Security)_
 ## 📅 19 October 2026
 
 - **[Intercept HTTP Traffic Using Bettercap | Ethical Hacking Tutorial](https://medium.com/@pentesterclubpvtltd/intercept-http-traffic-using-bettercap-ethical-hacking-tutorial-bf060a447371?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
