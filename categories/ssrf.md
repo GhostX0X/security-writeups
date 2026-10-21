@@ -1,3 +1,6 @@
+## 📅 21 October 2026
+
+- **[️‍♂️ SSRF Deep Dive: Turning a Harmless URL Field into Full Cloud Takeover](https://xalgord.medium.com/%EF%B8%8F-%EF%B8%8F-ssrf-deep-dive-turning-a-harmless-url-field-into-full-cloud-takeover-aacc38c0fa5f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 October 2026
 
 - **[Preventing SSRF in Spring Boot: The Security Mistake Behind Dangerous URL Fetching](https://medium.com/@theturtlecode/preventing-ssrf-in-spring-boot-the-security-mistake-behind-dangerous-url-fetching-b44171438123?source=rss------security-5)** _(Medium Security)_

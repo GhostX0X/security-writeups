@@ -1,3 +1,6 @@
+## 📅 21 October 2026
+
+- **[IDOR / BOLA: How to Find the #1 API Vulnerability — and Actually Prove It](https://xalgord.medium.com/idor-bola-how-to-find-the-1-api-vulnerability-and-actually-prove-it-cfb5cff0ba80?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 October 2026
 
 - **[IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure](https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
