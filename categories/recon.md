@@ -1,3 +1,6 @@
+## 📅 22 October 2026
+
+- **[I Started Learning Bug Bounty, and I Realized Recon Is Half the Battle](https://medium.com/@krishikachellappandian/i-started-learning-bug-bounty-and-i-realized-recon-is-half-the-battle-fee2a5ff940f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 October 2026
 
 - **[URLScan.io for Bug Hunters: Practical Search Queries for Web Reconnaissance](https://medium.com/@bughunt3r1985/urlscan-io-for-bug-hunters-practical-search-queries-for-web-reconnaissance-974d6a21fea1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
