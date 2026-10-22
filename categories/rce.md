@@ -1,5 +1,14 @@
 ## 📅 21 October 2026
 
+- **[PHP2Shell: Dissecting the Memory Overloads Behind PHP’s Critical 9.2 RCE Vulnerabilities](https://medium.com/@rj_crypt/php2shell-dissecting-the-memory-overloads-behind-phps-critical-9-2-rce-vulnerabilities-cfcd5b1115ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 October 2026
+
+- **[Six Open-Source Bug Bounties Went Dark in 2026. It Wasn’t the Money.](https://rajnamdev.medium.com/six-open-source-bug-bounties-went-dark-in-2026-it-wasnt-the-money-f944098238a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 October 2026
+
+- **[CVE-2026–103889: One Commented-Out Security Check Led to Fully Unauthenticated RCE (CVSS 9.8)](https://medium.com/@guidancewhite/cve-2026-103889-one-commented-out-security-check-led-to-fully-unauthenticated-rce-cvss-9-8-e5210bcce340?source=rss------security-5)** _(Medium Security)_
+## 📅 21 October 2026
+
 - **[Critical PHP RCE Flaws: CVE-2026–109618 and CVE-2026–109619 — Is Your Business Website at Risk?](https://mhmmuneef.medium.com/critical-php-rce-flaws-cve-2026-109618-and-cve-2026-109619-is-your-business-website-at-risk-875a58992f5b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 October 2026
 

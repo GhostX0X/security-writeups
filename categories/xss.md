@@ -1,3 +1,9 @@
+## 📅 22 October 2026
+
+- **[No Click, No Login: A Reflected DOM XSS in a Documentation Search Box](https://medium.com/@0xforgetmenot/no-click-no-login-a-reflected-dom-xss-in-a-documentation-search-box-c4471365af49?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 October 2026
+
+- **[No Click, No Login: A Reflected DOM XSS in a Documentation Search Box](https://medium.com/@0xforgetmenot/no-click-no-login-a-reflected-dom-xss-in-a-documentation-search-box-c4471365af49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 October 2026
 
 - **[6 Hours = 25 Reflected XSS and 2 Open Redirects](https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------pentesting-5)** _(Medium Pentesting)_
