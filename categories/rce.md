@@ -1,3 +1,9 @@
+## 📅 22 October 2026
+
+- **[Six Open-Source Bug Bounties Went Dark in 2026. It Wasn’t the Money.](https://meetcyber.net/six-open-source-bug-bounties-went-dark-in-2026-it-wasnt-the-money-f944098238a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 October 2026
+
+- **[Enforce Kubernetes Security with Kyverno — A Hands-on Guide](https://harsh05.medium.com/enforce-kubernetes-security-with-kyverno-a-hands-on-guide-bd5b8341ae57?source=rss------security-5)** _(Medium Security)_
 ## 📅 21 October 2026
 
 - **[PHP2Shell: Dissecting the Memory Overloads Behind PHP’s Critical 9.2 RCE Vulnerabilities](https://medium.com/@rj_crypt/php2shell-dissecting-the-memory-overloads-behind-phps-critical-9-2-rce-vulnerabilities-cfcd5b1115ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

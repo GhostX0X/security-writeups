@@ -1,3 +1,6 @@
+## 📅 22 October 2026
+
+- **[OpenBao on Kubernetes: Agent Injector vs CSI Provider vs External Secrets Operator](https://medium.com/@mahernaija/openbao-on-kubernetes-agent-injector-vs-csi-provider-vs-external-secrets-operator-fa1b45b9606f?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 October 2026
 
 - **[The Black Sea’s Silent Blockade: How Drone Economics Is Redrawing NATO’s Eastern Flank.](https://medium.com/@The_Geopolitical_Brief/the-black-seas-silent-blockade-how-drone-economics-is-redrawing-nato-s-eastern-flank-81ebe6de296c?source=rss------security-5)** _(Medium Security)_
