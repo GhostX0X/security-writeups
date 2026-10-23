@@ -1,3 +1,6 @@
+## 📅 23 October 2026
+
+- **[The Complete Bug Bounty Recon Methodology: From Subdomain Enumeration to Vulnerability Discovery |…](https://samadhanshimple.medium.com/the-complete-bug-bounty-recon-methodology-from-subdomain-enumeration-to-vulnerability-discovery-25ac56ee1d1d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 
 - **[I Started Learning Bug Bounty, and I Realized Recon Is Half the Battle](https://medium.com/@krishikachellappandian/i-started-learning-bug-bounty-and-i-realized-recon-is-half-the-battle-fee2a5ff940f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

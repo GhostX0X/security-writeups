@@ -1,3 +1,9 @@
+## 📅 23 October 2026
+
+- **[How I found BAC leads to De-escalate the Administrator privilege](https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 October 2026
+
+- **[Web Cache Deception: How a Harmless .css Becomes Full Account Takeover](https://xalgord.medium.com/web-cache-deception-how-a-harmless-css-becomes-full-account-takeover-ff1b55ca8922?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 
 - **[OpenBao on Kubernetes: Agent Injector vs CSI Provider vs External Secrets Operator](https://medium.com/@mahernaija/openbao-on-kubernetes-agent-injector-vs-csi-provider-vs-external-secrets-operator-fa1b45b9606f?source=rss------security-5)** _(Medium Security)_

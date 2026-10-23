@@ -1,3 +1,6 @@
+## 📅 23 October 2026
+
+- **[PHP2Shell: AI Uncovers Critical RCE Vulnerabilities Affecting 70% of the Internet](https://shaifsec.medium.com/php2shell-ai-uncovers-critical-rce-vulnerabilities-affecting-70-of-the-internet-aaf4e04d8008?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 
 - **[Six Open-Source Bug Bounties Went Dark in 2026. It Wasn’t the Money.](https://meetcyber.net/six-open-source-bug-bounties-went-dark-in-2026-it-wasnt-the-money-f944098238a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
