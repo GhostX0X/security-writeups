@@ -1,5 +1,8 @@
 ## 📅 23 October 2026
 
+- **[TryHackMe Include: From BOPLA to LFI and RCE](https://medium.com/@ziy4d0x/tryhackme-include-from-bopla-to-lfi-and-rce-1283ebf3a90f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 October 2026
+
 - **[PHP2Shell: AI Uncovers Critical RCE Vulnerabilities Affecting 70% of the Internet](https://shaifsec.medium.com/php2shell-ai-uncovers-critical-rce-vulnerabilities-affecting-70-of-the-internet-aaf4e04d8008?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 
