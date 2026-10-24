@@ -1,3 +1,6 @@
+## 📅 24 October 2026
+
+- **[How Find IDOR & Broken Access Control Bugs: Using Endpoints Found From JS Files](https://osintteam.blog/how-find-idor-broken-access-control-bugs-using-endpoints-found-from-js-files-6ab11af7562a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 October 2026
 
 - **[Your CCTV Can Record an Intruder. But Can Your Access Control System Help Stop Them?](https://medium.com/@infosafetycustodian2/your-cctv-can-record-an-intruder-but-can-your-access-control-system-help-stop-them-813074efa1cb?source=rss------security-5)** _(Medium Security)_

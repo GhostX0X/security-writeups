@@ -1,3 +1,6 @@
+## 📅 24 October 2026
+
+- **[When cert-manager’s Ready Condition Runs Past Expiry Until a Reconcile](https://whenitruns.medium.com/when-cert-managers-ready-condition-runs-past-expiry-until-a-reconcile-b0262e2dacb6?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 October 2026
 
 - **[The Complete Bug Bounty Recon Methodology: From Subdomain Enumeration to Vulnerability Discovery |…](https://samadhanshimple.medium.com/the-complete-bug-bounty-recon-methodology-from-subdomain-enumeration-to-vulnerability-discovery-25ac56ee1d1d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

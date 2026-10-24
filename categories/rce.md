@@ -1,5 +1,11 @@
 ## 📅 23 October 2026
 
+- **[OSINT Without Paid APIs: 5 Free Sources to Start With](https://osintteam.blog/osint-without-paid-apis-5-free-sources-to-start-with-46d8d4d24ca3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 October 2026
+
+- **[A source map published half a million lines of Claude Code](https://osintteam.blog/a-source-map-published-half-a-million-lines-of-claude-code-4c313126a271?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 October 2026
+
 - **[TryHackMe Include: From BOPLA to LFI and RCE](https://medium.com/@ziy4d0x/tryhackme-include-from-bopla-to-lfi-and-rce-1283ebf3a90f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 23 October 2026
 

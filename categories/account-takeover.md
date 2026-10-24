@@ -1,5 +1,11 @@
 ## 📅 23 October 2026
 
+- **[Insufficient Session Expiration leads to Account Takeover via Password Change](https://medium.com/@xlr99/insufficient-session-expiration-leads-to-account-takeover-via-password-change-8ba38191df52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 October 2026
+
+- **[Anatomy of “PHP2Shell”: Dissecting Core PHP’s Critical Memory-Safety Vulnerabilities…](https://medium.com/@aliahmed2005266/anatomy-of-php2shell-dissecting-core-phps-critical-memory-safety-vulnerabilities-9ec9f2ea2b84?source=rss------security-5)** _(Medium Security)_
+## 📅 23 October 2026
+
 - **[How I found BAC leads to De-escalate the Administrator privilege](https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 October 2026
 
