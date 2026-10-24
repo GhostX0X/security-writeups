@@ -1,3 +1,12 @@
+## 📅 24 October 2026
+
+- **[The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://lostsec.medium.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 24 October 2026
+
+- **[Blind SSRF Isn’t Blind If You Build the Channel Back](https://rajnamdev.medium.com/blind-ssrf-isnt-blind-if-you-build-the-channel-back-e66d317f606a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 October 2026
+
+- **[The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://lostsec.medium.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 October 2026
 
 - **[️‍♂️ SSRF Deep Dive: Turning a Harmless URL Field into Full Cloud Takeover](https://xalgord.medium.com/%EF%B8%8F-%EF%B8%8F-ssrf-deep-dive-turning-a-harmless-url-field-into-full-cloud-takeover-aacc38c0fa5f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
