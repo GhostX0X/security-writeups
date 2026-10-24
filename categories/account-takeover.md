@@ -1,3 +1,6 @@
+## 📅 24 October 2026
+
+- **[The Anatomy of CVE-2024–4577: Why You Shouldn’t Abandon PHP Over a CGI Best-Fit Code Page Exploit](https://medium.com/@bluevisionary3/the-anatomy-of-cve-2024-4577-why-you-shouldnt-abandon-php-over-a-cgi-best-fit-code-page-exploit-663dd308c255?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 October 2026
 
 - **[Insufficient Session Expiration leads to Account Takeover via Password Change](https://medium.com/@xlr99/insufficient-session-expiration-leads-to-account-takeover-via-password-change-8ba38191df52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

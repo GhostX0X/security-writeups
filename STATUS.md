@@ -1,7 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-10-24 15:02:26.495141 UTC
+Last updated: 2026-10-24 19:57:58.052188 UTC
 
-- account-takeover: 1
-- ssrf: 2
+- account-takeover: 2
+- ssrf: 1
 - rce: 1
