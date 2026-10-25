@@ -1,3 +1,6 @@
+## 📅 25 October 2026
+
+- **[PHP2Shell Vulnerabilities: Critical RCE Flaws That Could Put Websites and User Data at Risk](https://medium.com/@skaushal.gen/php2shell-vulnerabilities-critical-rce-flaws-that-could-put-websites-and-user-data-at-risk-fe1261cd1be1?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 October 2026
 
 - **[OSINT Without Paid APIs: 5 Free Sources to Start With](https://osintteam.blog/osint-without-paid-apis-5-free-sources-to-start-with-46d8d4d24ca3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,5 +1,11 @@
 ## 📅 25 October 2026
 
+- **[How I Use AI to Find Potential IDOR Vulnerabilities: A Practical 6-Step Guide | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-use-ai-to-find-potential-idor-vulnerabilities-a-practical-6-step-guide-by-samadhan-shimple-54b873c7d560?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 25 October 2026
+
+- **[How I Use AI to Find Potential IDOR Vulnerabilities: A Practical 6-Step Guide | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-use-ai-to-find-potential-idor-vulnerabilities-a-practical-6-step-guide-by-samadhan-shimple-54b873c7d560?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 October 2026
+
 - **[P2 Vulnerability : IDOR Exposes Other Users’ Personal Data](https://medium.com/@akashmotkar001/p2-vulnerability-idor-exposes-other-users-personal-data-69eaeeeb6b97?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 

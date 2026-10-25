@@ -1,5 +1,11 @@
 ## 📅 25 October 2026
 
+- **[Web LLM Attacks: Turning a Chatbot’s “Helpfulness” Into Account Takeover](https://infosecwriteups.com/web-llm-attacks-turning-a-chatbots-helpfulness-into-account-takeover-bc04952804db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 October 2026
+
+- **[Eight Doors, One Key: Chaining Misconfigurations into Full Account Takeover](https://medium.com/@atifwrite/eight-doors-one-key-chaining-misconfigurations-into-full-account-takeover-d39b638ec00d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 October 2026
+
 - **[Web LLM Attacks: Turning a Chatbot’s “Helpfulness” Into Account Takeover](https://xalgord.medium.com/web-llm-attacks-turning-a-chatbots-helpfulness-into-account-takeover-bc04952804db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 

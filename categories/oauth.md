@@ -1,3 +1,6 @@
+## 📅 25 October 2026
+
+- **[Open Redirect in Employer OAuth Flow via Backslash Validation Bypass](https://medium.com/@apop69166/open-redirect-in-employer-oauth-flow-via-backslash-validation-bypass-0fe571e0d9cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 October 2026
 
 - **[When PKCE Isn’t Enough: How an OAuth Redirect URI Flaw Can Lead to Account Takeover](https://sanaullahamankorai.medium.com/when-pkce-isnt-enough-how-an-oauth-redirect-uri-flaw-can-lead-to-account-takeover-e81bf8f909c6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
