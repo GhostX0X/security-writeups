@@ -1,3 +1,6 @@
+## 📅 25 October 2026
+
+- **[P2 Vulnerability : IDOR Exposes Other Users’ Personal Data](https://medium.com/@akashmotkar001/p2-vulnerability-idor-exposes-other-users-personal-data-69eaeeeb6b97?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 
 - **[How Find IDOR & Broken Access Control Bugs: Using Endpoints Found From JS Files](https://osintteam.blog/how-find-idor-broken-access-control-bugs-using-endpoints-found-from-js-files-6ab11af7562a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

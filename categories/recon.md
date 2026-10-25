@@ -1,3 +1,6 @@
+## 📅 25 October 2026
+
+- **[I Automated My Entire Bug Bounty Recon :One Script, Start to Finish](https://osintteam.blog/i-automated-my-entire-bug-bounty-recon-one-script-start-to-finish-d3f45a628b59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 
 - **[When cert-manager’s Ready Condition Runs Past Expiry Until a Reconcile](https://whenitruns.medium.com/when-cert-managers-ready-condition-runs-past-expiry-until-a-reconcile-b0262e2dacb6?source=rss------security-5)** _(Medium Security)_

@@ -1,3 +1,6 @@
+## 📅 25 October 2026
+
+- **[Web LLM Attacks: Turning a Chatbot’s “Helpfulness” Into Account Takeover](https://xalgord.medium.com/web-llm-attacks-turning-a-chatbots-helpfulness-into-account-takeover-bc04952804db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 
 - **[The Anatomy of CVE-2024–4577: Why You Shouldn’t Abandon PHP Over a CGI Best-Fit Code Page Exploit](https://medium.com/@bluevisionary3/the-anatomy-of-cve-2024-4577-why-you-shouldnt-abandon-php-over-a-cgi-best-fit-code-page-exploit-663dd308c255?source=rss------security-5)** _(Medium Security)_
