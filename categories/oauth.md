@@ -1,5 +1,8 @@
 ## 📅 25 October 2026
 
+- **[Databricks now deletes unused OAuth secrets after 90 days](https://medium.com/@m.malikquazi/databricks-now-deletes-unused-oauth-secrets-after-90-days-1da5577f5902?source=rss------security-5)** _(Medium Security)_
+## 📅 25 October 2026
+
 - **[Open Redirect in Employer OAuth Flow via Backslash Validation Bypass](https://medium.com/@apop69166/open-redirect-in-employer-oauth-flow-via-backslash-validation-bypass-0fe571e0d9cf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 October 2026
 

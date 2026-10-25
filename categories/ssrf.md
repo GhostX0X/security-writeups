@@ -1,3 +1,6 @@
+## 📅 25 October 2026
+
+- **[SSRF: A Sneaky Way to Bypass URL Filters Using HTTP Redirects](https://medium.com/@shadow_28/ssrf-a-sneaky-way-to-bypass-url-filters-using-http-redirects-046ff54ce667?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 
 - **[The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://lostsec.medium.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,5 +1,11 @@
 ## 📅 25 October 2026
 
+- **[Brute Force: The Least Clever Attack That Still Wins](https://medium.com/@raksharoot/brute-force-the-least-clever-attack-that-still-wins-a1353a1508cd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 October 2026
+
+- **[Detecting and Defending Against SSH Brute-Force Attempts](https://medium.com/@frankmw/detecting-and-defending-against-ssh-brute-force-attempts-0c042d148557?source=rss------security-5)** _(Medium Security)_
+## 📅 25 October 2026
+
 - **[PHP2Shell Vulnerabilities: Critical RCE Flaws That Could Put Websites and User Data at Risk](https://medium.com/@skaushal.gen/php2shell-vulnerabilities-critical-rce-flaws-that-could-put-websites-and-user-data-at-risk-fe1261cd1be1?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 October 2026
 
