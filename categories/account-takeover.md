@@ -1,3 +1,15 @@
+## 📅 26 October 2026
+
+- **[Critical Account Takeover via CSRF Header Bypass](https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 October 2026
+
+- **[Predicting the Unpredictable: How a Weak Random Number Generator Let Me Forge Password Reset Tokens](https://medium.com/@t4nv1/predicting-the-unpredictable-how-a-weak-random-number-generator-let-me-forge-password-reset-tokens-366b46d73b4f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 October 2026
+
+- **[12 Red Team OPSEC Principles Every Operator Should Know (and Actually Use)](https://medium.com/@verylazytech/12-red-team-opsec-principles-every-operator-should-know-and-actually-use-0042a535afc4?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 October 2026
+
+- **[Predicting the Unpredictable: How a Weak Random Number Generator Let Me Forge Password Reset Tokens](https://medium.com/@t4nv1/predicting-the-unpredictable-how-a-weak-random-number-generator-let-me-forge-password-reset-tokens-366b46d73b4f?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 October 2026
 
 - **[Web LLM Attacks: Turning a Chatbot’s “Helpfulness” Into Account Takeover](https://infosecwriteups.com/web-llm-attacks-turning-a-chatbots-helpfulness-into-account-takeover-bc04952804db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

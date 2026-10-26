@@ -1,3 +1,6 @@
+## 📅 26 October 2026
+
+- **[Critical Account Takeover via CSRF Header Bypass](https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 October 2026
 
 - **[CSRF Misconfigurations: Analyzing a Logout Vulnerability and Its Impact | by Samadhan Shimple](https://medium.com/penetration-testing-and-different-vulnerabilities/csrf-misconfigurations-analyzing-a-logout-vulnerability-and-its-impact-by-samadhan-shimple-82b0dab2b5f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

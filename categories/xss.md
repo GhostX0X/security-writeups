@@ -1,5 +1,8 @@
 ## 📅 26 October 2026
 
+- **[What Real HackerOne XSS Reports Teach You That Tutorials Don’t](https://medium.com/h7w/what-real-hackerone-xss-reports-teach-you-that-tutorials-dont-edff6388e14d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 October 2026
+
 - **[Finding Stored Cross-Site Scripting (XSS) in a Live Chat Feature | Bug Bounty Research](https://medium.com/@RAHUL-Nj/finding-stored-cross-site-scripting-xss-in-a-live-chat-feature-bug-bounty-research-181de99369ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 

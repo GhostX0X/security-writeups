@@ -1,3 +1,9 @@
+## 📅 26 October 2026
+
+- **[SSRF Attacks Explained: From Zero to Cloud Credential Theft Complete Bug Bounty Guide](https://osintteam.blog/ssrf-attacks-explained-from-zero-to-cloud-credential-theft-complete-bug-bounty-guide-bbf3d78f5391?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 October 2026
+
+- **[Four Server-Side Attacks Every Pentester Should Know: SSRF, SSTI, SSI & XSLT Injection.](https://medium.com/@kheang.sowat32/four-server-side-attacks-every-pentester-should-know-ssrf-ssti-ssi-xslt-injection-9f2106a17cdc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 October 2026
 
 - **[SSRF: A Sneaky Way to Bypass URL Filters Using HTTP Redirects](https://medium.com/@shadow_28/ssrf-a-sneaky-way-to-bypass-url-filters-using-http-redirects-046ff54ce667?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
