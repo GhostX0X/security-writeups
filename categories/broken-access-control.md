@@ -1,3 +1,6 @@
+## 📅 26 October 2026
+
+- **[Session Swap: Exploiting Client-Side Role Cookies in Access Control](https://oxdzubair.medium.com/session-swap-exploiting-client-side-role-cookies-in-access-control-b38189f98165?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 October 2026
 
 - **[How Find IDOR & Broken Access Control Bugs: Using Endpoints Found From JS Files](https://osintteam.blog/how-find-idor-broken-access-control-bugs-using-endpoints-found-from-js-files-6ab11af7562a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
