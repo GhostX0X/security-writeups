@@ -1,3 +1,6 @@
+## 📅 26 October 2026
+
+- **[Finding Stored Cross-Site Scripting (XSS) in a Live Chat Feature | Bug Bounty Research](https://medium.com/@RAHUL-Nj/finding-stored-cross-site-scripting-xss-in-a-live-chat-feature-bug-bounty-research-181de99369ef?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 
 - **[No Click, No Login: A Reflected DOM XSS in a Documentation Search Box](https://medium.com/@0xforgetmenot/no-click-no-login-a-reflected-dom-xss-in-a-documentation-search-box-c4471365af49?source=rss------pentesting-5)** _(Medium Pentesting)_
