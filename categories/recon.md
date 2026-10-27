@@ -1,3 +1,6 @@
+## 📅 27 October 2026
+
+- **[The WAF Said No: Finding XSS Through JavaScript Recon](https://0xgh4zy.medium.com/the-waf-said-no-finding-xss-through-javascript-recon-2225ef137b52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 October 2026
 
 - **[I Automated My Entire Bug Bounty Recon :One Script, Start to Finish](https://osintteam.blog/i-automated-my-entire-bug-bounty-recon-one-script-start-to-finish-d3f45a628b59?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 27 October 2026
+
+- **[When External Secrets Operator’s Manual Refresh Runs Into `refreshInterval: 0`](https://whenitruns.medium.com/when-external-secrets-operators-manual-refresh-runs-into-refreshinterval-0-f520d787a63a?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 October 2026
 
 - **[Critical Account Takeover via CSRF Header Bypass](https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

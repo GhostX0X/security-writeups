@@ -1,3 +1,6 @@
+## 📅 27 October 2026
+
+- **[The WAF Said No: Finding XSS Through JavaScript Recon](https://0xgh4zy.medium.com/the-waf-said-no-finding-xss-through-javascript-recon-2225ef137b52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 October 2026
 
 - **[What Real HackerOne XSS Reports Teach You That Tutorials Don’t](https://medium.com/h7w/what-real-hackerone-xss-reports-teach-you-that-tutorials-dont-edff6388e14d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
