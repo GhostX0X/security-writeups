@@ -1,5 +1,11 @@
 ## 📅 27 October 2026
 
+- **[Pre Account Takeover via Missing Email Verification on Update Email && Missing Session Invalidation…](https://medium.com/@v01d19/pre-account-takeover-via-missing-email-verification-on-update-email-missing-session-invalidation-1eeb4d4f668e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 October 2026
+
+- **[Microsoft Authenticator Had One Job, and It Trusted the Wrong App](https://viveknaskar.medium.com/microsoft-authenticator-had-one-job-and-it-trusted-the-wrong-app-25e99b45cb9a?source=rss------security-5)** _(Medium Security)_
+## 📅 27 October 2026
+
 - **[How Stale Reset Tokens Led to Full Account Takeover (Even After Changing Email)](https://aboutal3b.medium.com/how-stale-reset-tokens-led-to-full-account-takeover-even-after-changing-email-2f5c984e39b0?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 October 2026
 

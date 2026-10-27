@@ -1,5 +1,8 @@
 ## 📅 27 October 2026
 
+- **[At Mercedes-Benz Stadium, Fixed Cameras Hold the View While PTZs Investigate](https://medium.com/@andreyslobodskoy_19772/at-mercedes-benz-stadium-fixed-cameras-hold-the-view-while-ptzs-investigate-24d9c62fc586?source=rss------security-5)** _(Medium Security)_
+## 📅 27 October 2026
+
 - **[The Feature From 2003 Nobody Disabled: SSRF and Distributed Brute-Force via XML-RPC Pingback](https://medium.com/@t4nv1/the-feature-from-2003-nobody-disabled-ssrf-and-distributed-brute-force-via-xml-rpc-pingback-ee9ebecb1e40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 

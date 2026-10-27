@@ -1,5 +1,8 @@
 ## 📅 27 October 2026
 
+- **[I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough](https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 October 2026
+
 - **[The Feature From 2003 Nobody Disabled: SSRF and Distributed Brute-Force via XML-RPC Pingback](https://medium.com/@t4nv1/the-feature-from-2003-nobody-disabled-ssrf-and-distributed-brute-force-via-xml-rpc-pingback-ee9ebecb1e40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 

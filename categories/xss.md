@@ -1,5 +1,8 @@
 ## 📅 27 October 2026
 
+- **[6 of 8 SVG Sanitizers Got Broken: How a "Safe" Image Upload Can Run JavaScript (SVG XSS)](https://sudor-io.medium.com/6-of-8-svg-sanitizers-got-broken-how-a-safe-image-upload-can-run-javascript-svg-xss-82c00560441d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 October 2026
+
 - **[The WAF Said No: Finding XSS Through JavaScript Recon](https://0xgh4zy.medium.com/the-waf-said-no-finding-xss-through-javascript-recon-2225ef137b52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 October 2026
 
