@@ -1,5 +1,8 @@
 ## 📅 27 October 2026
 
+- **[Skipfish Tutorial | Web Server Reconnaissance & Security Testing](https://medium.com/@pentesterclubpvtltd/skipfish-tutorial-web-server-reconnaissance-security-testing-10afeccec234?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 October 2026
+
 - **[The WAF Said No: Finding XSS Through JavaScript Recon](https://0xgh4zy.medium.com/the-waf-said-no-finding-xss-through-javascript-recon-2225ef137b52?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 October 2026
 

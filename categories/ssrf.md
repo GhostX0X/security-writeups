@@ -1,3 +1,9 @@
+## 📅 27 October 2026
+
+- **[The Feature From 2003 Nobody Disabled: SSRF and Distributed Brute-Force via XML-RPC Pingback](https://medium.com/@t4nv1/the-feature-from-2003-nobody-disabled-ssrf-and-distributed-brute-force-via-xml-rpc-pingback-ee9ebecb1e40?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 October 2026
+
+- **[The Feature From 2003 Nobody Disabled: SSRF and Distributed Brute-Force via XML-RPC Pingback](https://medium.com/@t4nv1/the-feature-from-2003-nobody-disabled-ssrf-and-distributed-brute-force-via-xml-rpc-pingback-ee9ebecb1e40?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 October 2026
 
 - **[How I Found SSRF in 6 Known Companies Using One Methodology in 2026](https://medium.com/@shawkat7h/how-i-found-ssrf-in-6-known-companies-using-one-methodology-in-2026-987d79b27620?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

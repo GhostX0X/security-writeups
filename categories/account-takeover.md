@@ -1,5 +1,11 @@
 ## 📅 27 October 2026
 
+- **[How Stale Reset Tokens Led to Full Account Takeover (Even After Changing Email)](https://aboutal3b.medium.com/how-stale-reset-tokens-led-to-full-account-takeover-even-after-changing-email-2f5c984e39b0?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 27 October 2026
+
+- **[How Stale Reset Tokens Led to Full Account Takeover (Even After Changing Email)](https://aboutal3b.medium.com/how-stale-reset-tokens-led-to-full-account-takeover-even-after-changing-email-2f5c984e39b0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 27 October 2026
+
 - **[When External Secrets Operator’s Manual Refresh Runs Into `refreshInterval: 0`](https://whenitruns.medium.com/when-external-secrets-operators-manual-refresh-runs-into-refreshinterval-0-f520d787a63a?source=rss------security-5)** _(Medium Security)_
 ## 📅 26 October 2026
 
