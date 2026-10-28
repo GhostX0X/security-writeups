@@ -1,5 +1,8 @@
 ## 📅 28 October 2026
 
+- **[How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…](https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
 - **[I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…](https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 October 2026
 

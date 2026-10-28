@@ -1,3 +1,9 @@
+## 📅 28 October 2026
+
+- **[Authorization Is the Attack Surface: An Expert Field Guide to Breaking Modern Access Control](https://cyphernova1337.medium.com/authorization-is-the-attack-surface-an-expert-field-guide-to-breaking-modern-access-control-47881b889333?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 October 2026
+
+- **[Authorization Is the Attack Surface: An Expert Field Guide to Breaking Modern Access Control](https://cyphernova1337.medium.com/authorization-is-the-attack-surface-an-expert-field-guide-to-breaking-modern-access-control-47881b889333?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 October 2026
 
 - **[Session Swap: Exploiting Client-Side Role Cookies in Access Control](https://oxdzubair.medium.com/session-swap-exploiting-client-side-role-cookies-in-access-control-b38189f98165?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
