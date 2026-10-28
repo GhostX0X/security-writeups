@@ -1,5 +1,8 @@
 ## 📅 28 October 2026
 
+- **[Account Takeover via Password Reset Poisoning : Step-by-Step Bug Bounty Guide](https://meetcyber.net/account-takeover-via-password-reset-poisoning-step-by-step-bug-bounty-guide-7f6a9dc0b33c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
 - **[From POST-Based XSS to Full Account Takeover](https://medium.com/@Alharbe0/from-post-based-xss-to-full-account-takeover-9cb72be5da0d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 28 October 2026
 

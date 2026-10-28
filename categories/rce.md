@@ -1,5 +1,11 @@
 ## 📅 28 October 2026
 
+- **[Pwning 15M+ Systems by Renaming a Song: From a CMS Audit to an Upstream RCE in getID3…](https://medium.com/@shaikikram2005/pwning-15m-systems-by-renaming-a-song-from-a-cms-audit-to-an-upstream-rce-in-getid3-180e8fe8ac80?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
+- **[Ninja Forms and WooCommerce Plugin Attack: How to Check Your WordPress Site for Hidden Admins](https://medium.com/write-your-world/ninja-forms-and-woocommerce-plugin-attack-how-to-check-your-wordpress-site-for-hidden-admins-861377213738?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
 - **[How Pentesters Hunt for Secrets in Page Source (Real-World Walkthrough Using a Lab)](https://oxdzubair.medium.com/how-pentesters-hunt-for-secrets-in-page-source-real-world-walkthrough-using-a-lab-c34005382deb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 

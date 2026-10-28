@@ -1,3 +1,6 @@
+## 📅 28 October 2026
+
+- **[Recon with a Purpose: Turning Small Clues into Hidden Attack Surfaces](https://medium.com/@mostafaelhlag1/recon-with-a-purpose-turning-small-clues-into-hidden-attack-surfaces-68101ef906c7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 
 - **[Skipfish Tutorial | Web Server Reconnaissance & Security Testing](https://medium.com/@pentesterclubpvtltd/skipfish-tutorial-web-server-reconnaissance-security-testing-10afeccec234?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

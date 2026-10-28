@@ -1,3 +1,6 @@
+## 📅 28 October 2026
+
+- **[How a Sneaker Order Led Me to an IDOR Vulnerability (and $50)](https://medium.com/@0xnexus0xfault0x/how-a-sneaker-order-led-me-to-an-idor-vulnerability-and-50-d3553a9f9136?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 October 2026
 
 - **[How I Use AI to Find Potential IDOR Vulnerabilities: A Practical 6-Step Guide | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-use-ai-to-find-potential-idor-vulnerabilities-a-practical-6-step-guide-by-samadhan-shimple-54b873c7d560?source=rss------pentesting-5)** _(Medium Pentesting)_
