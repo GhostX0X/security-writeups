@@ -1,3 +1,6 @@
+## 📅 28 October 2026
+
+- **[I Found SSRF in 30 Minutes: Here’s My Exact Bug Bounty Workflow (Complete Guide) | by Samadhan…](https://samadhanshimple.medium.com/i-found-ssrf-in-30-minutes-heres-my-exact-bug-bounty-workflow-complete-guide-by-samadhan-b205af41c420?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 October 2026
 
 - **[I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough](https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

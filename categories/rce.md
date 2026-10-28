@@ -1,3 +1,6 @@
+## 📅 28 October 2026
+
+- **[How Pentesters Hunt for Secrets in Page Source (Real-World Walkthrough Using a Lab)](https://oxdzubair.medium.com/how-pentesters-hunt-for-secrets-in-page-source-real-world-walkthrough-using-a-lab-c34005382deb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 
 - **[At Mercedes-Benz Stadium, Fixed Cameras Hold the View While PTZs Investigate](https://medium.com/@andreyslobodskoy_19772/at-mercedes-benz-stadium-fixed-cameras-hold-the-view-while-ptzs-investigate-24d9c62fc586?source=rss------security-5)** _(Medium Security)_

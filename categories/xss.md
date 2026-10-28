@@ -1,3 +1,12 @@
+## 📅 28 October 2026
+
+- **[From POST-Based XSS to Full Account Takeover](https://medium.com/@Alharbe0/from-post-based-xss-to-full-account-takeover-9cb72be5da0d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 October 2026
+
+- **[From POST-Based XSS to Full Account Takeover](https://medium.com/@Alharbe0/from-post-based-xss-to-full-account-takeover-9cb72be5da0d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
+- **[From POST-Based XSS to Full Account Takeover](https://medium.com/@duckeg97/from-post-based-xss-to-full-account-takeover-73e6aba4e458?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 
 - **[6 of 8 SVG Sanitizers Got Broken: How a "Safe" Image Upload Can Run JavaScript (SVG XSS)](https://sudor-io.medium.com/6-of-8-svg-sanitizers-got-broken-how-a-safe-image-upload-can-run-javascript-svg-xss-82c00560441d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

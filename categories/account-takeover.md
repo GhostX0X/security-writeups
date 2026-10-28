@@ -1,3 +1,15 @@
+## 📅 28 October 2026
+
+- **[From POST-Based XSS to Full Account Takeover](https://medium.com/@Alharbe0/from-post-based-xss-to-full-account-takeover-9cb72be5da0d?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 28 October 2026
+
+- **[From POST-Based XSS to Full Account Takeover](https://medium.com/@Alharbe0/from-post-based-xss-to-full-account-takeover-9cb72be5da0d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
+- **[From POST-Based XSS to Full Account Takeover](https://medium.com/@duckeg97/from-post-based-xss-to-full-account-takeover-73e6aba4e458?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 28 October 2026
+
+- **[How Stale Reset Tokens Led to Full Account Takeover (Even After Changing Email)](https://aboutal3b.medium.com/how-stale-reset-tokens-led-to-full-account-takeover-even-after-changing-email-d28d7ef45c94?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 27 October 2026
 
 - **[Pre Account Takeover via Missing Email Verification on Update Email && Missing Session Invalidation…](https://medium.com/@v01d19/pre-account-takeover-via-missing-email-verification-on-update-email-missing-session-invalidation-1eeb4d4f668e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
