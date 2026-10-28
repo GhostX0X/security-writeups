@@ -1,3 +1,6 @@
+## 📅 27 October 2026
+
+- **[Discovering and Reporting SQL Injection: A Technical Walkthrough of CAN-2026–2040978](https://medium.com/@mjoker22mjoker22/discovering-and-reporting-sql-injection-a-technical-walkthrough-of-can-2026-2040978-f3d52aabcdb1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 October 2026
 
 - **[Irish-Name-Repo 3 : CyLab Security Academy Write-up | Understanding ROT13 and SQL Injection](https://medium.com/@affanhaxor/irish-name-repo-3-cylab-security-academy-write-up-understanding-rot13-and-sql-injection-39f6f0681833?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
