@@ -1,3 +1,6 @@
+## 📅 29 October 2026
+
+- **[NoSQL Injection](https://medium.com/@nadana12155/nosql-injection-0f976e5c1d13?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 27 October 2026
 
 - **[Discovering and Reporting SQL Injection: A Technical Walkthrough of CAN-2026–2040978](https://medium.com/@mjoker22mjoker22/discovering-and-reporting-sql-injection-a-technical-walkthrough-of-can-2026-2040978-f3d52aabcdb1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

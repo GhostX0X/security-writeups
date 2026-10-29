@@ -1,3 +1,6 @@
+## 📅 29 October 2026
+
+- **[SSRF Vulnerability on Major Gaming Company](https://medium.com/@l4zz3rj0d/ssrf-vulnerability-on-major-gaming-company-60f2936dc3fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
 - **[How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…](https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

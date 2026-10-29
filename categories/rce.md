@@ -1,3 +1,6 @@
+## 📅 29 October 2026
+
+- **[Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files](https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
 - **[The 23-Year-Old Flaw at the Heart of CPAN: An RCE in the Perl Infrastructure](https://irsl.medium.com/the-23-year-old-flaw-at-the-heart-of-cpan-an-rce-in-the-perl-infrastructure-fba07a773c6f?source=rss------security-5)** _(Medium Security)_
