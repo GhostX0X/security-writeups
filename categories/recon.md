@@ -1,3 +1,6 @@
+## 📅 29 October 2026
+
+- **[6 Methods of Automating the Reconnaissance Method of Bug Bounty](https://meetcyber.net/6-methods-of-automating-the-reconnaissance-method-of-bug-bounty-583f9ce0d983?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
 - **[Recon with a Purpose: Turning Small Clues into Hidden Attack Surfaces](https://medium.com/@mostafaelhlag1/recon-with-a-purpose-turning-small-clues-into-hidden-attack-surfaces-68101ef906c7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
