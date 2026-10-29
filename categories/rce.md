@@ -1,5 +1,8 @@
 ## 📅 29 October 2026
 
+- **[PHP2Shell Explained: Two Critical PHP Flaws, the RCE Risk, and How to Protect Your Server](https://medium.com/@vipulsonule71/php2shell-explained-two-critical-php-flaws-the-rce-risk-and-how-to-protect-your-server-15265fad2b64?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 29 October 2026
+
 - **[Search Source ~ CyLab Security Academy Write-up | Finding Hidden Information in Website Files](https://medium.com/@affanhaxor/search-source-cylab-security-academy-write-up-finding-hidden-information-in-website-files-060b51bbeebb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 

@@ -1,3 +1,6 @@
+## 📅 29 October 2026
+
+- **[How to give an orchestrator an approval step](https://medium.com/@jeshua_46811/how-to-give-an-orchestrator-an-approval-step-34f21fa6eaa8?source=rss------security-5)** _(Medium Security)_
 ## 📅 28 October 2026
 
 - **[Account Takeover via Password Reset Poisoning : Step-by-Step Bug Bounty Guide](https://meetcyber.net/account-takeover-via-password-reset-poisoning-step-by-step-bug-bounty-guide-7f6a9dc0b33c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
