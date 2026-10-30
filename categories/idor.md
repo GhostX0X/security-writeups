@@ -1,5 +1,8 @@
 ## 📅 30 October 2026
 
+- **[IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread](https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 October 2026
+
 - **[GraphQL IDOR: How a Missing Org Check Let Me Edit Another Tenant’s Permissions](https://medium.com/@Mohamed3adel/graphql-idor-how-a-missing-org-check-let-me-edit-another-tenants-permissions-55c8488a232f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 30 October 2026
 

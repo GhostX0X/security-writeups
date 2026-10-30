@@ -1,5 +1,8 @@
 ## 📅 30 October 2026
 
+- **[How I Solved PortSwigger SQLi Labs 1–6 (Part 1 Walkthrough)](https://medium.com/@learnerobs/how-i-solved-portswigger-sqli-labs-1-6-part-1-walkthrough-042819f24352?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 October 2026
+
 - **[SQLMap 1 ~ CyLab Security Academy Write-up | Exploiting SQL Injection and Accessing Protected Data](https://medium.com/@affanhaxor/sqlmap-1-cylab-security-academy-write-up-exploiting-sql-injection-and-accessing-protected-data-b86c4fa5955f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 

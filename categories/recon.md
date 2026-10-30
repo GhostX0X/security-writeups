@@ -1,5 +1,8 @@
 ## 📅 30 October 2026
 
+- **[XSS Hunting Methodology: My Complete Recon to Validation Workflow | by Samadhan Shimple](https://samadhanshimple.medium.com/xss-hunting-methodology-my-complete-recon-to-validation-workflow-by-samadhan-shimple-d82bd537aaf2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 October 2026
+
 - **[DAST and Web Recon Explained: An End-to-End Methodology for Understanding Any Web Application](https://medium.com/@vigneshkumaroffsec/dast-and-web-recon-explained-an-end-to-end-methodology-for-understanding-any-web-application-33b78079603e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 

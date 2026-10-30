@@ -1,5 +1,8 @@
 ## 📅 30 October 2026
 
+- **[Outsourced your app? Don’t hand over the signing key](https://medium.com/@liminalkeys/outsourced-your-app-dont-hand-over-the-signing-key-39760fe0539f?source=rss------security-5)** _(Medium Security)_
+## 📅 30 October 2026
+
 - **[Bypassing Organization-Wide 2FA Enforcement with a Single API Request](https://medium.com/@yassentaalab51/bypassing-organization-wide-2fa-enforcement-with-a-single-api-request-0243487644f2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 

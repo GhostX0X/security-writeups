@@ -1,5 +1,8 @@
 ## 📅 30 October 2026
 
+- **[XSS Hunting Methodology: My Complete Recon to Validation Workflow | by Samadhan Shimple](https://samadhanshimple.medium.com/xss-hunting-methodology-my-complete-recon-to-validation-workflow-by-samadhan-shimple-d82bd537aaf2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 October 2026
+
 - **[Stored XSS in Munshi: A Purchase Inquiry Message Could Rewrite the Page](https://medium.com/@TheWildEye/stored-xss-in-munshi-a-purchase-inquiry-message-could-rewrite-the-page-6b8ef14f9999?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
