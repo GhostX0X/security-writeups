@@ -1,3 +1,6 @@
+## 📅 29 October 2026
+
+- **[Access Control Vulnerabilities: A Practical Guide to Broken Authorization](https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
 - **[Authorization Is the Attack Surface: An Expert Field Guide to Breaking Modern Access Control](https://cyphernova1337.medium.com/authorization-is-the-attack-surface-an-expert-field-guide-to-breaking-modern-access-control-47881b889333?source=rss------pentesting-5)** _(Medium Pentesting)_

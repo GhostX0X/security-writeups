@@ -1,3 +1,6 @@
+## 📅 30 October 2026
+
+- **[DAST and Web Recon Explained: An End-to-End Methodology for Understanding Any Web Application](https://medium.com/@vigneshkumaroffsec/dast-and-web-recon-explained-an-end-to-end-methodology-for-understanding-any-web-application-33b78079603e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 
 - **[6 Methods of Automating the Reconnaissance Method of Bug Bounty](https://meetcyber.net/6-methods-of-automating-the-reconnaissance-method-of-bug-bounty-583f9ce0d983?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

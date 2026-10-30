@@ -1,3 +1,6 @@
+## 📅 30 October 2026
+
+- **[The Geometric Trap: Why One Small Strip of Land Could End NATO.](https://medium.com/@The_Geopolitical_Brief/the-geometric-trap-why-one-small-strip-of-land-could-end-nato-37618778c680?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 October 2026
 
 - **[How to give an orchestrator an approval step](https://medium.com/@jeshua_46811/how-to-give-an-orchestrator-an-approval-step-34f21fa6eaa8?source=rss------security-5)** _(Medium Security)_
