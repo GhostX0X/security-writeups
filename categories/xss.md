@@ -1,3 +1,6 @@
+## 📅 30 October 2026
+
+- **[Stored XSS in Munshi: A Purchase Inquiry Message Could Rewrite the Page](https://medium.com/@TheWildEye/stored-xss-in-munshi-a-purchase-inquiry-message-could-rewrite-the-page-6b8ef14f9999?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
 - **[From POST-Based XSS to Full Account Takeover](https://medium.com/@Alharbe0/from-post-based-xss-to-full-account-takeover-9cb72be5da0d?source=rss------pentesting-5)** _(Medium Pentesting)_

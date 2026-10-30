@@ -1,5 +1,8 @@
 ## 📅 30 October 2026
 
+- **[Unauthenticated Spring Boot Actuator: Credential-Shaped Secrets Leaking from /actuator/env and…](https://medium.com/@abdoalkaser53/unauthenticated-spring-boot-actuator-credential-shaped-secrets-leaking-from-actuator-env-and-4f9649a41656?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 October 2026
+
 - **[The Geometric Trap: Why One Small Strip of Land Could End NATO.](https://medium.com/@The_Geopolitical_Brief/the-geometric-trap-why-one-small-strip-of-land-could-end-nato-37618778c680?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 October 2026
 

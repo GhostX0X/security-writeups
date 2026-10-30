@@ -1,3 +1,6 @@
+## 📅 30 October 2026
+
+- **[SQLMap 1 ~ CyLab Security Academy Write-up | Exploiting SQL Injection and Accessing Protected Data](https://medium.com/@affanhaxor/sqlmap-1-cylab-security-academy-write-up-exploiting-sql-injection-and-accessing-protected-data-b86c4fa5955f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 
 - **[NoSQL Injection](https://medium.com/@nadana12155/nosql-injection-0f976e5c1d13?source=rss------pentesting-5)** _(Medium Pentesting)_

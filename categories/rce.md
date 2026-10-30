@@ -1,3 +1,6 @@
+## 📅 30 October 2026
+
+- **[Bypassing Organization-Wide 2FA Enforcement with a Single API Request](https://medium.com/@yassentaalab51/bypassing-organization-wide-2fa-enforcement-with-a-single-api-request-0243487644f2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 
 - **[PHP2Shell Explained: Two Critical PHP Flaws, the RCE Risk, and How to Protect Your Server](https://osintteam.blog/php2shell-explained-two-critical-php-flaws-the-rce-risk-and-how-to-protect-your-server-44bb9efed06a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

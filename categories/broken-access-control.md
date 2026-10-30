@@ -1,3 +1,6 @@
+## 📅 30 October 2026
+
+- **[Turnstile Access Control System: Four Decisions That Decide Whether It Works](https://surajinformatics.medium.com/turnstile-access-control-system-four-decisions-that-decide-whether-it-works-7f86c1c67bf5?source=rss------security-5)** _(Medium Security)_
 ## 📅 29 October 2026
 
 - **[Access Control Vulnerabilities: A Practical Guide to Broken Authorization](https://medium.com/@xalpha032/access-control-vulnerabilities-a-practical-guide-to-broken-authorization-23759c8d879b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

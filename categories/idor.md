@@ -1,3 +1,12 @@
+## 📅 30 October 2026
+
+- **[GraphQL IDOR: How a Missing Org Check Let Me Edit Another Tenant’s Permissions](https://medium.com/@Mohamed3adel/graphql-idor-how-a-missing-org-check-let-me-edit-another-tenants-permissions-55c8488a232f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 30 October 2026
+
+- **[From P4 to P1 — Day 7: IDOR and Broken Object-Level Authorization (BOLA) in Bug Bounty Hunting](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-7-idor-and-broken-object-level-authorization-bola-in-bug-bounty-hunting-753591f3405a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 30 October 2026
+
+- **[GraphQL IDOR: How a Missing Org Check Let Me Edit Another Tenant’s Permissions](https://medium.com/@Mohamed3adel/graphql-idor-how-a-missing-org-check-let-me-edit-another-tenants-permissions-55c8488a232f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 28 October 2026
 
 - **[How a Sneaker Order Led Me to an IDOR Vulnerability (and $50)](https://medium.com/@0xnexus0xfault0x/how-a-sneaker-order-led-me-to-an-idor-vulnerability-and-50-d3553a9f9136?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
