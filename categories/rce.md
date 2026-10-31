@@ -1,5 +1,11 @@
 ## 📅 31 October 2026
 
+- **[The Debugging File Nobody Removed Before Shipping: Secrets Exposed Through a Public Source Map](https://medium.com/@t4nv1/the-debugging-file-nobody-removed-before-shipping-secrets-exposed-through-a-public-source-map-420ce5afddcc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 31 October 2026
+
+- **[I open-sourced Upzy: uptime monitoring and attack-surface security in one tool](https://medium.com/@codebyaadi/i-open-sourced-upzy-uptime-monitoring-and-attack-surface-security-in-one-tool-18b3fd9e54f6?source=rss------security-5)** _(Medium Security)_
+## 📅 31 October 2026
+
 - **[Open-Source Security and Code Analysis Tools](https://medium.com/clickbait-programming/open-source-security-and-code-analysis-tools-37f892a6115d?source=rss------security-5)** _(Medium Security)_
 ## 📅 31 October 2026
 
