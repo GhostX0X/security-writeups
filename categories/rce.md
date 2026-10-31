@@ -1,3 +1,6 @@
+## 📅 31 October 2026
+
+- **[Giving an AI Agent a File Reader Without a Fence: Arbitrary File Read in an AWS Open-Source Tool](https://medium.com/@vigneshkumaroffsec/giving-an-ai-agent-a-file-reader-without-a-fence-arbitrary-file-read-in-an-aws-open-source-tool-5d9d0525443c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 October 2026
 
 - **[Outsourced your app? Don’t hand over the signing key](https://medium.com/@liminalkeys/outsourced-your-app-dont-hand-over-the-signing-key-39760fe0539f?source=rss------security-5)** _(Medium Security)_
