@@ -1,3 +1,6 @@
+## 📅 31 October 2026
+
+- **[Modern XSS Payloads and Filter Bypass Techniques ️](https://osintteam.blog/modern-xss-payloads-and-filter-bypass-techniques-%EF%B8%8F-414ef2366b19?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 October 2026
 
 - **[XSS Hunting Methodology: My Complete Recon to Validation Workflow | by Samadhan Shimple](https://samadhanshimple.medium.com/xss-hunting-methodology-my-complete-recon-to-validation-workflow-by-samadhan-shimple-d82bd537aaf2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
