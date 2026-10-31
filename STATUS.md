@@ -1,8 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-10-31 03:13:39.997889 UTC
+Last updated: 2026-10-31 11:24:15.985012 UTC
 
 - account-takeover: 1
-- rce: 1
-- sqli: 1
+- rce: 2
 - idor: 1

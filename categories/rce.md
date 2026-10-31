@@ -1,5 +1,8 @@
 ## 📅 31 October 2026
 
+- **[Open-Source Security and Code Analysis Tools](https://medium.com/clickbait-programming/open-source-security-and-code-analysis-tools-37f892a6115d?source=rss------security-5)** _(Medium Security)_
+## 📅 31 October 2026
+
 - **[Giving an AI Agent a File Reader Without a Fence: Arbitrary File Read in an AWS Open-Source Tool](https://medium.com/@vigneshkumaroffsec/giving-an-ai-agent-a-file-reader-without-a-fence-arbitrary-file-read-in-an-aws-open-source-tool-5d9d0525443c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 October 2026
 
