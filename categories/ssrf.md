@@ -1,3 +1,6 @@
+## 📅 01 November 2026
+
+- **[SSRF Bug Bounty Methodology: A Practical Hunting Guide | by Samadhan Shimple](https://samadhanshimple.medium.com/ssrf-bug-bounty-methodology-a-practical-hunting-guide-by-samadhan-shimple-f4c0c63909fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 29 October 2026
 
 - **[SSRF Vulnerability on Major Gaming Company](https://medium.com/@l4zz3rj0d/ssrf-vulnerability-on-major-gaming-company-60f2936dc3fd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
