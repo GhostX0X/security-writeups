@@ -1,3 +1,6 @@
+## 📅 01 November 2026
+
+- **[Unauthenticated SQL Injection in Code-Projects Simple School Management System 1.0](https://medium.com/@jatin.security/unauthenticated-sql-injection-in-code-projects-simple-school-management-system-1-0-0f3fc20c331a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 October 2026
 
 - **[How I Solved PortSwigger SQLi Labs 1–6 (Part 1 Walkthrough)](https://medium.com/@learnerobs/how-i-solved-portswigger-sqli-labs-1-6-part-1-walkthrough-042819f24352?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

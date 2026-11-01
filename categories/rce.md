@@ -1,3 +1,6 @@
+## 📅 01 November 2026
+
+- **[OpenTRAP Explained | Free Open-Source AI Alternative to Burp Suite](https://medium.com/@pentesterclubpvtltd/opentrap-explained-free-open-source-ai-alternative-to-burp-suite-26c18ff75068?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 October 2026
 
 - **[The Debugging File Nobody Removed Before Shipping: Secrets Exposed Through a Public Source Map](https://medium.com/@t4nv1/the-debugging-file-nobody-removed-before-shipping-secrets-exposed-through-a-public-source-map-420ce5afddcc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
