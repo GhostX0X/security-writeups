@@ -1,3 +1,6 @@
+## 📅 01 November 2026
+
+- **[The Hidden IDOR Vulnerability in /me/ API Endpoints](https://medium.com/@Dark_Boss/the-hidden-idor-vulnerability-in-me-api-endpoints-5cf126fd29a7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 October 2026
 
 - **[IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread](https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
