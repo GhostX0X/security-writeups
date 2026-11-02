@@ -1,3 +1,9 @@
+## 📅 01 November 2026
+
+- **[GraphQL API Security: Reconnaissance, Common Vulnerabilities, Exploitation Techniques, and…](https://medium.com/@xalpha032/graphql-api-security-reconnaissance-common-vulnerabilities-exploitation-techniques-and-cb422d9aed78?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 November 2026
+
+- **[API Security Testing: A Complete Guide to Reconnaissance, Hidden Endpoints, Mass Assignment, and…](https://medium.com/@xalpha032/api-security-testing-a-complete-guide-to-reconnaissance-hidden-endpoints-mass-assignment-and-de89b28b2b3c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 30 October 2026
 
 - **[XSS Hunting Methodology: My Complete Recon to Validation Workflow | by Samadhan Shimple](https://samadhanshimple.medium.com/xss-hunting-methodology-my-complete-recon-to-validation-workflow-by-samadhan-shimple-d82bd537aaf2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

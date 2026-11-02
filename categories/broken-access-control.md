@@ -1,3 +1,12 @@
+## 📅 02 November 2026
+
+- **[Broken Access Control via Direct URL Navigation: Bypassing Premium Feature Restrictions](https://medium.com/@aytha324568/broken-access-control-via-direct-url-navigation-bypassing-premium-feature-restrictions-6a190457ddfe?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 02 November 2026
+
+- **[Broken Access Control via Direct URL Navigation: Bypassing Premium Feature Restrictions](https://medium.com/@aytha324568/broken-access-control-via-direct-url-navigation-bypassing-premium-feature-restrictions-6a190457ddfe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 01 November 2026
+
+- **[Access Control Decides Who Can See Data, Data Movement Policies Decide Where It Goes.](https://rajivgupta780184.medium.com/access-control-decides-who-can-see-data-data-movement-policies-decide-where-it-goes-ff9d94da8dee?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 October 2026
 
 - **[Turnstile Access Control System: Four Decisions That Decide Whether It Works](https://surajinformatics.medium.com/turnstile-access-control-system-four-decisions-that-decide-whether-it-works-7f86c1c67bf5?source=rss------security-5)** _(Medium Security)_
