@@ -1,3 +1,6 @@
+## 📅 02 November 2026
+
+- **[From P4 to P1: Day 10 — Server-Side Request Forgery (SSRF): Finding and Validating Server-Side…](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-10-server-side-request-forgery-ssrf-finding-and-validating-server-side-c76e4c785bd2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 November 2026
 
 - **[SSRF Bug Bounty Methodology: A Practical Hunting Guide | by Samadhan Shimple](https://samadhanshimple.medium.com/ssrf-bug-bounty-methodology-a-practical-hunting-guide-by-samadhan-shimple-f4c0c63909fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
