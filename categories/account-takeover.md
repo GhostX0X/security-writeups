@@ -1,3 +1,9 @@
+## 📅 03 November 2026
+
+- **[Intent Redirection to One-Click Account Takeover (But It’s a Duplicate)](https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 November 2026
+
+- **[Stop Pasting Production Secrets Into Web Calculators: Subnet, chmod and Cron Math You Can Do…](https://medium.com/@aa7661538/stop-pasting-production-secrets-into-web-calculators-subnet-chmod-and-cron-math-you-can-do-2be646c46a95?source=rss------security-5)** _(Medium Security)_
 ## 📅 30 October 2026
 
 - **[Unauthenticated Spring Boot Actuator: Credential-Shaped Secrets Leaking from /actuator/env and…](https://medium.com/@abdoalkaser53/unauthenticated-spring-boot-actuator-credential-shaped-secrets-leaking-from-actuator-env-and-4f9649a41656?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

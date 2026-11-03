@@ -1,3 +1,6 @@
+## 📅 03 November 2026
+
+- **[CSRF: The Bug Everyone Declared Dead and Nobody Actually Fixed](https://medium.com/@raksharoot/csrf-the-bug-everyone-declared-dead-and-nobody-actually-fixed-614643212b94?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 26 October 2026
 
 - **[Critical Account Takeover via CSRF Header Bypass](https://medium.com/@Alharbe0/critical-account-takeover-via-csrf-header-bypass-ccd65910c51c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

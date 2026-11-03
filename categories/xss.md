@@ -1,5 +1,8 @@
 ## 📅 03 November 2026
 
+- **[One-Click Cookie Theft via Deep Link XSS (But Deep Links Are Out of Scope)](https://abdelnasserr.medium.com/one-click-cookie-theft-via-deep-link-xss-but-deep-links-are-out-of-scope-b9cb1b43dacb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 03 November 2026
+
 - **[Intigriti XSS Challenge: Beyond the Sanitizer](https://medium.com/@vulnix.dev/intigriti-xss-challenge-beyond-the-sanitizer-46c9ac229119?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 October 2026
 
