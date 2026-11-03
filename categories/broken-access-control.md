@@ -1,3 +1,6 @@
+## 📅 03 November 2026
+
+- **[The Three-Request IDOR Method: How I Find Broken Access Control Before Breakfast](https://thexssrat.medium.com/the-three-request-idor-method-how-i-find-broken-access-control-before-breakfast-aaf30335f3d2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 November 2026
 
 - **[Broken Access Control via Direct URL Navigation: Bypassing Premium Feature Restrictions](https://medium.com/@aytha324568/broken-access-control-via-direct-url-navigation-bypassing-premium-feature-restrictions-6a190457ddfe?source=rss------pentesting-5)** _(Medium Pentesting)_

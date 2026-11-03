@@ -1,3 +1,6 @@
+## 📅 03 November 2026
+
+- **[Intigriti XSS Challenge: Beyond the Sanitizer](https://medium.com/@vulnix.dev/intigriti-xss-challenge-beyond-the-sanitizer-46c9ac229119?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 31 October 2026
 
 - **[Modern XSS Payloads and Filter Bypass Techniques ️](https://osintteam.blog/modern-xss-payloads-and-filter-bypass-techniques-%EF%B8%8F-414ef2366b19?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 03 November 2026
+
+- **[The Three-Request IDOR Method: How I Find Broken Access Control Before Breakfast](https://thexssrat.medium.com/the-three-request-idor-method-how-i-find-broken-access-control-before-breakfast-aaf30335f3d2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 November 2026
 
 - **[The Hidden IDOR Vulnerability in /me/ API Endpoints](https://medium.com/@Dark_Boss/the-hidden-idor-vulnerability-in-me-api-endpoints-5cf126fd29a7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
