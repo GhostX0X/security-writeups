@@ -1,5 +1,8 @@
 ## 📅 04 November 2026
 
+- **[From a Profile Picture Upload to RCE: Hunting an ASP.NET/IIS Vulnerability](https://medium.com/@gj20052007/from-a-profile-picture-upload-to-rce-hunting-an-asp-net-iis-vulnerability-7fc2c4cd0132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 04 November 2026
+
 - **[From PHP Source Code Disclosure to Privilege Escalation: Morpheus:1 VulnHub CTF Walkthrough](https://evaneguzozie.medium.com/from-php-source-code-disclosure-to-privilege-escalation-morpheus-1-vulnhub-ctf-walkthrough-82384d1c74f7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 November 2026
 

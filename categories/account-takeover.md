@@ -1,3 +1,6 @@
+## 📅 04 November 2026
+
+- **[One Deep Link, Zero Validation, Full ATO (Again)](https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 November 2026
 
 - **[Intent Redirection to One-Click Account Takeover (But It’s a Duplicate)](https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

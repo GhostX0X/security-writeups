@@ -1,3 +1,6 @@
+## 📅 04 November 2026
+
+- **[I Found an Interesting DOM-Based XSS Issue in Contact Form | by Samadhan Shimple](https://samadhanshimple.medium.com/i-found-an-interesting-dom-based-xss-issue-in-contact-form-by-samadhan-shimple-58938293c605?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 November 2026
 
 - **[One-Click Cookie Theft via Deep Link XSS (But Deep Links Are Out of Scope)](https://abdelnasserr.medium.com/one-click-cookie-theft-via-deep-link-xss-but-deep-links-are-out-of-scope-b9cb1b43dacb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

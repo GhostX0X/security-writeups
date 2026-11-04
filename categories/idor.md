@@ -1,3 +1,6 @@
+## 📅 04 November 2026
+
+- **[IDOR allows cross account workspace metadata disclosure](https://medium.com/@v01d19/idor-allows-cross-account-workspace-metadata-disclosure-db01e52b1180?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 03 November 2026
 
 - **[The Three-Request IDOR Method: How I Find Broken Access Control Before Breakfast](https://thexssrat.medium.com/the-three-request-idor-method-how-i-find-broken-access-control-before-breakfast-aaf30335f3d2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
