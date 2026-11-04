@@ -1,3 +1,6 @@
+## 📅 04 November 2026
+
+- **[From PHP Source Code Disclosure to Privilege Escalation: Morpheus:1 VulnHub CTF Walkthrough](https://evaneguzozie.medium.com/from-php-source-code-disclosure-to-privilege-escalation-morpheus-1-vulnhub-ctf-walkthrough-82384d1c74f7?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 01 November 2026
 
 - **[OpenTRAP Explained | Free Open-Source AI Alternative to Burp Suite](https://medium.com/@pentesterclubpvtltd/opentrap-explained-free-open-source-ai-alternative-to-burp-suite-26c18ff75068?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
