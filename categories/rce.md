@@ -1,3 +1,6 @@
+## 📅 05 November 2026
+
+- **[PortSwigger lab: Broken brute-force protection, IP block](https://medium.com/@spoorthi002/portswigger-lab-broken-brute-force-protection-ip-block-b8e80f2ad12b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 November 2026
 
 - **[From a Profile Picture Upload to RCE: Hunting an ASP.NET/IIS Vulnerability](https://medium.com/@gj20052007/from-a-profile-picture-upload-to-rce-hunting-an-asp-net-iis-vulnerability-7fc2c4cd0132?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 05 November 2026
+
+- **[JWT Authentication Explained in Depth: Public Keys, Private Keys, HS256 vs RS256, OAuth 2.0,](https://medium.com/@pavan-pithdiya/jwt-authentication-explained-in-depth-public-keys-private-keys-hs256-vs-rs256-oauth-2-0-b5f33d664952?source=rss------security-5)** _(Medium Security)_
 ## 📅 25 October 2026
 
 - **[Databricks now deletes unused OAuth secrets after 90 days](https://medium.com/@m.malikquazi/databricks-now-deletes-unused-oauth-secrets-after-90-days-1da5577f5902?source=rss------security-5)** _(Medium Security)_

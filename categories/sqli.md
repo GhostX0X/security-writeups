@@ -1,3 +1,6 @@
+## 📅 05 November 2026
+
+- **[Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass](https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 01 November 2026
 
 - **[Unauthenticated SQL Injection in Code-Projects Simple School Management System 1.0](https://medium.com/@jatin.security/unauthenticated-sql-injection-in-code-projects-simple-school-management-system-1-0-0f3fc20c331a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

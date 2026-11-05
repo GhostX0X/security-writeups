@@ -1,3 +1,6 @@
+## 📅 05 November 2026
+
+- **[IDOR: The Vulnerability That Hides Behind a Simple Request](https://medium.com/@amjadrajawala/idor-the-vulnerability-that-hides-behind-a-simple-request-2773e364717f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 November 2026
 
 - **[IDOR allows cross account workspace metadata disclosure](https://medium.com/@v01d19/idor-allows-cross-account-workspace-metadata-disclosure-db01e52b1180?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
