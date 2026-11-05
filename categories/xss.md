@@ -1,3 +1,9 @@
+## 📅 05 November 2026
+
+- **[The Renderer That Trusted Its Own Output: Stored XSS Through a Markdown Sanitization Gap](https://medium.com/@t4nv1/the-renderer-that-trusted-its-own-output-stored-xss-through-a-markdown-sanitization-gap-ab5dc640e5f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 November 2026
+
+- **[The Renderer That Trusted Its Own Output: Stored XSS Through a Markdown Sanitization Gap](https://medium.com/@t4nv1/the-renderer-that-trusted-its-own-output-stored-xss-through-a-markdown-sanitization-gap-ab5dc640e5f7?source=rss------security-5)** _(Medium Security)_
 ## 📅 04 November 2026
 
 - **[I Found an Interesting DOM-Based XSS Issue in Contact Form | by Samadhan Shimple](https://samadhanshimple.medium.com/i-found-an-interesting-dom-based-xss-issue-in-contact-form-by-samadhan-shimple-58938293c605?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

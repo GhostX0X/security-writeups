@@ -1,3 +1,6 @@
+## 📅 05 November 2026
+
+- **[The Bouncer Who Only Read IPv4: SSRF in WordPress Playground’s CORS Proxy](https://medium.com/@mohamed.adel.887275/the-bouncer-who-only-read-ipv4-ssrf-in-wordpress-playgrounds-cors-proxy-bcfeac7b37d3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 November 2026
 
 - **[From P4 to P1: Day 10 — Server-Side Request Forgery (SSRF): Finding and Validating Server-Side…](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-10-server-side-request-forgery-ssrf-finding-and-validating-server-side-c76e4c785bd2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

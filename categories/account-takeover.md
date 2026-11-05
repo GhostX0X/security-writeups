@@ -1,3 +1,6 @@
+## 📅 05 November 2026
+
+- **[20 Identity Security Mistakes That Lead to Account Takeover: Learn to Master Your Defenses](https://medium.com/@verylazytech/20-identity-security-mistakes-that-lead-to-account-takeover-learn-to-master-your-defenses-324f7dc89de9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 04 November 2026
 
 - **[One Deep Link, Zero Validation, Full ATO (Again)](https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
