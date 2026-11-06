@@ -1,3 +1,6 @@
+## 📅 06 November 2026
+
+- **[XSSRush AI Explained | Automated XSS Scanner & Auditor](https://medium.com/@pentesterclubpvtltd/xssrush-ai-explained-automated-xss-scanner-auditor-ec31b0687bef?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 November 2026
 
 - **[The Renderer That Trusted Its Own Output: Stored XSS Through a Markdown Sanitization Gap](https://medium.com/@t4nv1/the-renderer-that-trusted-its-own-output-stored-xss-through-a-markdown-sanitization-gap-ab5dc640e5f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
