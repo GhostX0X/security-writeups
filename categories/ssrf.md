@@ -1,5 +1,8 @@
 ## 📅 05 November 2026
 
+- **[Bypassing URL Validation with IPv6: An SSRF Story](https://medium.com/@muhammedmoslaam/bypassing-url-validation-with-ipv6-an-ssrf-story-9e5998c5d4af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 05 November 2026
+
 - **[The Bouncer Who Only Read IPv4: SSRF in WordPress Playground’s CORS Proxy](https://medium.com/@mohamed.adel.887275/the-bouncer-who-only-read-ipv4-ssrf-in-wordpress-playgrounds-cors-proxy-bcfeac7b37d3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 02 November 2026
 
