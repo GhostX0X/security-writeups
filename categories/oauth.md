@@ -1,3 +1,15 @@
+## 📅 06 November 2026
+
+- **[The JWT Bugs That Survive ‘We Use OAuth, So We’re Secure’](https://medium.com/@dhirenkumar/the-jwt-bugs-that-survive-we-use-oauth-so-were-secure-074436187cdc?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 06 November 2026
+
+- **[The JWT Bugs That Survive ‘We Use OAuth, So We’re Secure’](https://medium.com/@dhirenkumar/the-jwt-bugs-that-survive-we-use-oauth-so-were-secure-074436187cdc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 November 2026
+
+- **[The Permission the Consent Screen Never Mentioned: OAuth Scope Escalation Through Token Refresh](https://medium.com/@t4nv1/the-permission-the-consent-screen-never-mentioned-oauth-scope-escalation-through-token-refresh-53fef594a73d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 November 2026
+
+- **[The Permission the Consent Screen Never Mentioned: OAuth Scope Escalation Through Token Refresh](https://medium.com/@t4nv1/the-permission-the-consent-screen-never-mentioned-oauth-scope-escalation-through-token-refresh-53fef594a73d?source=rss------security-5)** _(Medium Security)_
 ## 📅 05 November 2026
 
 - **[JWT Authentication Explained in Depth: Public Keys, Private Keys, HS256 vs RS256, OAuth 2.0,](https://medium.com/@pavan-pithdiya/jwt-authentication-explained-in-depth-public-keys-private-keys-hs256-vs-rs256-oauth-2-0-b5f33d664952?source=rss------security-5)** _(Medium Security)_
