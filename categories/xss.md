@@ -1,3 +1,6 @@
+## 📅 07 November 2026
+
+- **[From Stored XSS to Forced Login via Cookie Tossing](https://medium.com/@vicodo/from-stored-xss-to-forced-login-via-cookie-tossing-054495acbf91?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 November 2026
 
 - **[XSSRush AI Explained | Automated XSS Scanner & Auditor](https://medium.com/@pentesterclubpvtltd/xssrush-ai-explained-automated-xss-scanner-auditor-ec31b0687bef?source=rss------security-5)** _(Medium Security)_

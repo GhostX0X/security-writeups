@@ -1,3 +1,6 @@
+## 📅 07 November 2026
+
+- **[From Stored XSS to Forced Login via Cookie Tossing](https://medium.com/@vicodo/from-stored-xss-to-forced-login-via-cookie-tossing-054495acbf91?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 November 2026
 
 - **[871 Unverified Pull Requests in One Week: What Automated PR Spam Is Costing Open-Source Maintainers](https://medium.com/@jaharoni/871-unverified-pull-requests-in-one-week-what-automated-pr-spam-is-costing-open-source-maintainers-3dc35ec95882?source=rss------security-5)** _(Medium Security)_

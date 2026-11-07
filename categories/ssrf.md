@@ -1,3 +1,6 @@
+## 📅 07 November 2026
+
+- **[The SSRF That Mailed Out Your OAuth Token](https://masimshahzad.medium.com/the-ssrf-that-mailed-out-your-oauth-token-01327e8c1578?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 November 2026
 
 - **[Bypassing URL Validation with IPv6: An SSRF Story](https://medium.com/@muhammedmoslaam/bypassing-url-validation-with-ipv6-an-ssrf-story-9e5998c5d4af?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

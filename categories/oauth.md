@@ -1,3 +1,9 @@
+## 📅 07 November 2026
+
+- **[The SSRF That Mailed Out Your OAuth Token](https://masimshahzad.medium.com/the-ssrf-that-mailed-out-your-oauth-token-01327e8c1578?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 07 November 2026
+
+- **[2FA Bypass via OAuth Account Migration](https://sudohunt.medium.com/2fa-bypass-via-oauth-account-migration-9722cdcc8b10?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 06 November 2026
 
 - **[When OAuth Works Correctly and Security Doesn’t: A Bug in OAuth Account Linking](https://medium.com/@0xnexus0xfault0x/when-oauth-works-correctly-and-security-doesnt-a-bug-in-oauth-account-linking-7f24bfdf91f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
