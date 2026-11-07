@@ -1,3 +1,6 @@
+## 📅 07 November 2026
+
+- **[Group Injection in aws-iam-authenticator: RBAC Privilege Escalation via {{SessionName}}](https://medium.com/@sachinpatilsp/group-injection-in-aws-iam-authenticator-rbac-privilege-escalation-via-sessionname-77bd287bbff9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 November 2026
 
 - **[20 Identity Security Mistakes That Lead to Account Takeover: Learn to Master Your Defenses](https://medium.com/@verylazytech/20-identity-security-mistakes-that-lead-to-account-takeover-learn-to-master-your-defenses-324f7dc89de9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

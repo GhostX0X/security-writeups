@@ -1,3 +1,6 @@
+## 📅 07 November 2026
+
+- **[From P4 to P1: Day 14 — Privilege Escalation: Finding Horizontal and Vertical Access Control…](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-14-privilege-escalation-finding-horizontal-and-vertical-access-control-2e98c93f3f69?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 November 2026
 
 - **[Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…](https://osintteam.blog/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
