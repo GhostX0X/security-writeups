@@ -1,5 +1,8 @@
 ## 📅 06 November 2026
 
+- **[When OAuth Works Correctly and Security Doesn’t: A Bug in OAuth Account Linking](https://medium.com/@0xnexus0xfault0x/when-oauth-works-correctly-and-security-doesnt-a-bug-in-oauth-account-linking-7f24bfdf91f0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 06 November 2026
+
 - **[The JWT Bugs That Survive ‘We Use OAuth, So We’re Secure’](https://medium.com/@dhirenkumar/the-jwt-bugs-that-survive-we-use-oauth-so-were-secure-074436187cdc?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 06 November 2026
 
