@@ -1,3 +1,6 @@
+## 📅 08 November 2026
+
+- **[How a Web App Pentest Actually Flows: Recon, Scanning, and Attack Chains | Fundamental Lessons from…](https://medium.com/@dreaith/how-a-web-app-pentest-actually-flows-recon-scanning-and-attack-chains-fundamental-lessons-from-72627ca4cc04?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 November 2026
 
 - **[AI-Powered Bug Bounty: How I Turned Claude Into a Recon & Hunting Partner](https://medium.com/@caz0xf/ai-powered-bug-bounty-how-i-turned-claude-into-a-recon-hunting-partner-0d38ddd9cce2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
