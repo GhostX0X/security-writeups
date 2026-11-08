@@ -1,3 +1,6 @@
+## 📅 08 November 2026
+
+- **[[CVE-2026–110186] Langflow : How a Default-On Auto-Login Opens the Door to Unauthenticated RCE](https://medium.com/@guidancewhite/cve-2026-110186-langflow-how-a-default-on-auto-login-opens-the-door-to-unauthenticated-rce-bb9336cb02da?source=rss------security-5)** _(Medium Security)_
 ## 📅 07 November 2026
 
 - **[From Stored XSS to Forced Login via Cookie Tossing](https://medium.com/@vicodo/from-stored-xss-to-forced-login-via-cookie-tossing-054495acbf91?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

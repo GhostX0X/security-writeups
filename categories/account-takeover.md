@@ -1,3 +1,9 @@
+## 📅 08 November 2026
+
+- **[The Template That Closes Real Findings: Anatomy of a CORS Dismissal](https://cyphernova1337.medium.com/the-template-that-closes-real-findings-anatomy-of-a-cors-dismissal-c7c3ee8ce17f?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 08 November 2026
+
+- **[The Template That Closes Real Findings: Anatomy of a CORS Dismissal](https://cyphernova1337.medium.com/the-template-that-closes-real-findings-anatomy-of-a-cors-dismissal-c7c3ee8ce17f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 November 2026
 
 - **[Group Injection in aws-iam-authenticator: RBAC Privilege Escalation via {{SessionName}}](https://medium.com/@sachinpatilsp/group-injection-in-aws-iam-authenticator-rbac-privilege-escalation-via-sessionname-77bd287bbff9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
