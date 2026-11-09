@@ -1,5 +1,8 @@
 ## 📅 08 November 2026
 
+- **[Chaining an Open Redirect Into Account Takeover (P1 · CVSS 9.0)](https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 08 November 2026
+
 - **[The Template That Closes Real Findings: Anatomy of a CORS Dismissal](https://cyphernova1337.medium.com/the-template-that-closes-real-findings-anatomy-of-a-cors-dismissal-c7c3ee8ce17f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 08 November 2026
 
