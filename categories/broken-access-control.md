@@ -1,3 +1,6 @@
+## 📅 09 November 2026
+
+- **[12 IDOR Patterns Every Bug Bounty Hunter Should Recognize: Mastering Access Control Flaws](https://medium.com/@verylazytech/12-idor-patterns-every-bug-bounty-hunter-should-recognize-mastering-access-control-flaws-088921ac5424?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 November 2026
 
 - **[From P4 to P1: Day 14 — Privilege Escalation: Finding Horizontal and Vertical Access Control…](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-14-privilege-escalation-finding-horizontal-and-vertical-access-control-2e98c93f3f69?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

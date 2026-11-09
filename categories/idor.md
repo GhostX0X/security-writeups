@@ -1,3 +1,6 @@
+## 📅 09 November 2026
+
+- **[12 IDOR Patterns Every Bug Bounty Hunter Should Recognize: Mastering Access Control Flaws](https://medium.com/@verylazytech/12-idor-patterns-every-bug-bounty-hunter-should-recognize-mastering-access-control-flaws-088921ac5424?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 November 2026
 
 - **[IDOR: The Vulnerability That Hides Behind a Simple Request](https://medium.com/@amjadrajawala/idor-the-vulnerability-that-hides-behind-a-simple-request-2773e364717f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
