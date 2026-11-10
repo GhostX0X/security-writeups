@@ -1,3 +1,9 @@
+## 📅 09 November 2026
+
+- **[Tutorial PortSwigger Lab 12: “CSRF vulnerability with no defenses”,](https://medium.com/@Divarizkyalfitrah/tutorial-portswigger-lab-12-csrf-vulnerability-with-no-defenses-d036487e6acb?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 09 November 2026
+
+- **[lab 13 Basic clickjacking with CSRF token protection](https://medium.com/@Divarizkyalfitrah/lab-13-basic-clickjacking-with-csrf-token-protection-68b30877b70f?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 03 November 2026
 
 - **[CSRF: The Bug Everyone Declared Dead and Nobody Actually Fixed](https://medium.com/@raksharoot/csrf-the-bug-everyone-declared-dead-and-nobody-actually-fixed-614643212b94?source=rss------pentesting-5)** _(Medium Pentesting)_

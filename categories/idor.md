@@ -1,5 +1,8 @@
 ## 📅 09 November 2026
 
+- **[IDOR: The Bug That Pays the Most in 2026](https://osintteam.blog/idor-the-bug-that-pays-the-most-in-2026-4828a780a279?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 09 November 2026
+
 - **[12 IDOR Patterns Every Bug Bounty Hunter Should Recognize: Mastering Access Control Flaws](https://medium.com/@verylazytech/12-idor-patterns-every-bug-bounty-hunter-should-recognize-mastering-access-control-flaws-088921ac5424?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 05 November 2026
 
