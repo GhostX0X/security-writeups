@@ -1,3 +1,6 @@
+## 📅 10 November 2026
+
+- **[Konfigurasi Firewall, Access Control List (ACL), dan Monitoring Keamanan Jaringan](https://medium.com/@ariantishita/konfigurasi-firewall-access-control-list-acl-dan-monitoring-keamanan-jaringan-663ce28b7d03?source=rss------security-5)** _(Medium Security)_
 ## 📅 09 November 2026
 
 - **[12 IDOR Patterns Every Bug Bounty Hunter Should Recognize: Mastering Access Control Flaws](https://medium.com/@verylazytech/12-idor-patterns-every-bug-bounty-hunter-should-recognize-mastering-access-control-flaws-088921ac5424?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
