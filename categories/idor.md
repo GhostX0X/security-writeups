@@ -1,3 +1,9 @@
+## 📅 10 November 2026
+
+- **[P3 — Insecure Direct Object Reference (IDOR) in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 10 November 2026
+
+- **[P3 — Insecure Direct Object Reference (IDOR) in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 November 2026
 
 - **[IDOR: The Bug That Pays the Most in 2026](https://osintteam.blog/idor-the-bug-that-pays-the-most-in-2026-4828a780a279?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

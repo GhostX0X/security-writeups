@@ -1,3 +1,6 @@
+## 📅 10 November 2026
+
+- **[Stored XSS via File Upload: Smuggling JavaScript Inside a “Harmless” PDF](https://medium.com/@m.bafy10/stored-xss-via-file-upload-smuggling-javascript-inside-a-harmless-pdf-61f9c37d77da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 November 2026
 
 - **[From Stored XSS to Forced Login via Cookie Tossing](https://medium.com/@vicodo/from-stored-xss-to-forced-login-via-cookie-tossing-054495acbf91?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
