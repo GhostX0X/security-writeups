@@ -1,3 +1,6 @@
+## 📅 11 November 2026
+
+- **[How to set AI agent permissions and access control](https://medium.com/@tirth_bigcircle/how-to-set-ai-agent-permissions-and-access-control-50f9023cd3fb?source=rss------security-5)** _(Medium Security)_
 ## 📅 10 November 2026
 
 - **[Konfigurasi Firewall, Access Control List (ACL), dan Monitoring Keamanan Jaringan](https://medium.com/@ariantishita/konfigurasi-firewall-access-control-list-acl-dan-monitoring-keamanan-jaringan-663ce28b7d03?source=rss------security-5)** _(Medium Security)_
