@@ -1,3 +1,9 @@
+## 📅 11 November 2026
+
+- **[RBI’s Latest Master Directions on Cyber Security: New strict rules for Non-Bank Payment Operators…](https://medium.com/@jyoti_94598/rbis-latest-master-directions-on-cyber-security-new-strict-rules-for-non-bank-payment-operators-fb3859a65b1d?source=rss------security-5)** _(Medium Security)_
+## 📅 11 November 2026
+
+- **[A Security Fix Without an Advisory: What AI Agent Operators Can Miss](https://medium.com/@NoHandsAI/a-security-fix-without-an-advisory-what-ai-agent-operators-can-miss-cc4c77e3c4c2?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 November 2026
 
 - **[Chaining an Open Redirect Into Account Takeover (P1 · CVSS 9.0)](https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

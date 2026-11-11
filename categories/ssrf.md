@@ -1,3 +1,6 @@
+## 📅 11 November 2026
+
+- **[The $8,000 Kubernetes SSRF Bug Bounty: How One Hidden HTTP Header Revealed an Entire Internal…](https://medium.com/@asadmohsin760/the-8-000-kubernetes-ssrf-bug-bounty-how-one-hidden-http-header-revealed-an-entire-internal-6de68593408a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 November 2026
 
 - **[The SSRF That Mailed Out Your OAuth Token](https://masimshahzad.medium.com/the-ssrf-that-mailed-out-your-oauth-token-01327e8c1578?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

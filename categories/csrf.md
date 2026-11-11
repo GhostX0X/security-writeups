@@ -1,3 +1,6 @@
+## 📅 11 November 2026
+
+- **[The CSRF Token Nobody Checked](https://masimshahzad.medium.com/the-csrf-token-nobody-checked-6c4254608a69?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 09 November 2026
 
 - **[Tutorial PortSwigger Lab 12: “CSRF vulnerability with no defenses”,](https://medium.com/@Divarizkyalfitrah/tutorial-portswigger-lab-12-csrf-vulnerability-with-no-defenses-d036487e6acb?source=rss------pentesting-5)** _(Medium Pentesting)_

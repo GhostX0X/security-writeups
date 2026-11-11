@@ -1,3 +1,6 @@
+## 📅 11 November 2026
+
+- **[Bypassing a Login Form with SQL Injection: Four Ways to Get There (and What Each One Teaches You)](https://medium.com/@PranjaliMandavi/bypassing-a-login-form-with-sql-injection-four-ways-to-get-there-and-what-each-one-teaches-you-d7b32ad54dab?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 05 November 2026
 
 - **[Web Gauntlet ~ CyLab Security Academy CTF Write-up | SQL Injection and Filter Bypass](https://medium.com/@affanhaxor/web-gauntlet-cylab-security-academy-ctf-write-up-sql-injection-and-filter-bypass-1989083a4f17?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

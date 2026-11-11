@@ -1,3 +1,6 @@
+## 📅 11 November 2026
+
+- **[Arceris Ai Security Gateway](https://medium.com/@tashaaidir/arceris-ai-security-gateway-3eeeba753819?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 November 2026
 
 - **[[CVE-2026–110186] Langflow : How a Default-On Auto-Login Opens the Door to Unauthenticated RCE](https://medium.com/@guidancewhite/cve-2026-110186-langflow-how-a-default-on-auto-login-opens-the-door-to-unauthenticated-rce-bb9336cb02da?source=rss------security-5)** _(Medium Security)_

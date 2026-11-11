@@ -1,3 +1,6 @@
+## 📅 11 November 2026
+
+- **[The Referer Header That Redirected OAuth Tokens](https://masimshahzad.medium.com/the-referer-header-that-redirected-oauth-tokens-0598b9e056cb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 07 November 2026
 
 - **[The SSRF That Mailed Out Your OAuth Token](https://masimshahzad.medium.com/the-ssrf-that-mailed-out-your-oauth-token-01327e8c1578?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
