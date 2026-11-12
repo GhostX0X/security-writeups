@@ -1,3 +1,6 @@
+## 📅 12 November 2026
+
+- **[How I Find SQL Injection Vulnerabilities: My Manual Bug-Bounty Testing Method](https://medium.com/@vigneshkumaroffsec/how-i-find-sql-injection-vulnerabilities-my-manual-bug-bounty-testing-method-c62993122e2c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 November 2026
 
 - **[Bypassing a Login Form with SQL Injection: Four Ways to Get There (and What Each One Teaches You)](https://medium.com/@PranjaliMandavi/bypassing-a-login-form-with-sql-injection-four-ways-to-get-there-and-what-each-one-teaches-you-d7b32ad54dab?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 12 November 2026
+
+- **[I Found an XSS That Steals Private Chats Through a Single Emoji Link](https://medium.com/@Sh3llwolf/i-found-an-xss-that-steals-private-chats-through-a-single-emoji-link-8c53ba811e7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 November 2026
 
 - **[Stored XSS via File Upload: Smuggling JavaScript Inside a “Harmless” PDF](https://medium.com/@m.bafy10/stored-xss-via-file-upload-smuggling-javascript-inside-a-harmless-pdf-61f9c37d77da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
