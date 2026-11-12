@@ -1,3 +1,6 @@
+## 📅 12 November 2026
+
+- **[Apache OFBiz Unauthenticated RCE — CVE-2026–83542 Explained](https://medium.com/@dhxrxx/apache-ofbiz-unauthenticated-rce-cve-2026-83542-explained-5bbbd7ed3ede?source=rss------security-5)** _(Medium Security)_
 ## 📅 11 November 2026
 
 - **[Arceris Ai Security Gateway](https://medium.com/@tashaaidir/arceris-ai-security-gateway-3eeeba753819?source=rss------security-5)** _(Medium Security)_

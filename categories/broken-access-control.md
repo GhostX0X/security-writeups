@@ -1,3 +1,6 @@
+## 📅 12 November 2026
+
+- **[Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and…](https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 November 2026
 
 - **[How to set AI agent permissions and access control](https://medium.com/@tirth_bigcircle/how-to-set-ai-agent-permissions-and-access-control-50f9023cd3fb?source=rss------security-5)** _(Medium Security)_
