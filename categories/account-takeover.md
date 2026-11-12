@@ -1,3 +1,6 @@
+## 📅 12 November 2026
+
+- **[How I Chained a Stale CNAME Record with OAuth 2.0 Wildcards for a $6,000 Account Takeover (ATO)](https://medium.com/@t4nv1/how-i-chained-a-stale-cname-record-with-oauth-2-0-wildcards-for-a-6-000-account-takeover-ato-ae22541d86dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 November 2026
 
 - **[RBI’s Latest Master Directions on Cyber Security: New strict rules for Non-Bank Payment Operators…](https://medium.com/@jyoti_94598/rbis-latest-master-directions-on-cyber-security-new-strict-rules-for-non-bank-payment-operators-fb3859a65b1d?source=rss------security-5)** _(Medium Security)_

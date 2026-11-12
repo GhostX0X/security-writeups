@@ -1,3 +1,6 @@
+## 📅 12 November 2026
+
+- **[How I Chained a Stale CNAME Record with OAuth 2.0 Wildcards for a $6,000 Account Takeover (ATO)](https://medium.com/@t4nv1/how-i-chained-a-stale-cname-record-with-oauth-2-0-wildcards-for-a-6-000-account-takeover-ato-ae22541d86dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 November 2026
 
 - **[The Referer Header That Redirected OAuth Tokens](https://masimshahzad.medium.com/the-referer-header-that-redirected-oauth-tokens-0598b9e056cb?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
