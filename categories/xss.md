@@ -1,5 +1,8 @@
 ## 📅 13 November 2026
 
+- **[I Almost Didn’t Report This XSS. The Maintainer Fixed More Than I Asked.](https://medium.com/@jegannithi778/i-almost-didnt-report-this-xss-the-maintainer-fixed-more-than-i-asked-61733ed1869f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 November 2026
+
 - **[One Missing Anchor, One Flickr XSS](https://masimshahzad.medium.com/one-missing-anchor-one-flickr-xss-5c633acf1011?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 

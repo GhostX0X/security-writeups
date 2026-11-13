@@ -1,3 +1,6 @@
+## 📅 13 November 2026
+
+- **[The Requests You Didn’t Send: Finding SSRF and CSRF by Hand](https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 November 2026
 
 - **[The CSRF Token Nobody Checked](https://masimshahzad.medium.com/the-csrf-token-nobody-checked-6c4254608a69?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

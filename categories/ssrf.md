@@ -1,3 +1,9 @@
+## 📅 13 November 2026
+
+- **[The Requests You Didn’t Send: Finding SSRF and CSRF by Hand](https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 November 2026
+
+- **[The Bouncer Who Waved Everyone In When the Scanner Broke: A $3,500 GitLab SSRF](https://medium.com/@t4nv1/the-bouncer-who-waved-everyone-in-when-the-scanner-broke-a-3-500-gitlab-ssrf-ceea809cb849?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 11 November 2026
 
 - **[The $8,000 Kubernetes SSRF Bug Bounty: How One Hidden HTTP Header Revealed an Entire Internal…](https://medium.com/@asadmohsin760/the-8-000-kubernetes-ssrf-bug-bounty-how-one-hidden-http-header-revealed-an-entire-internal-6de68593408a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
