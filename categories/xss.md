@@ -1,3 +1,6 @@
+## 📅 13 November 2026
+
+- **[One Missing Anchor, One Flickr XSS](https://masimshahzad.medium.com/one-missing-anchor-one-flickr-xss-5c633acf1011?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 
 - **[I Found an XSS That Steals Private Chats Through a Single Emoji Link](https://medium.com/@Sh3llwolf/i-found-an-xss-that-steals-private-chats-through-a-single-emoji-link-8c53ba811e7f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
