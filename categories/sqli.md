@@ -1,3 +1,6 @@
+## 📅 13 November 2026
+
+- **[How I Solved PortSwigger SQLi Labs 7–18 (Part 2 Walkthrough)](https://medium.com/@learnerobs/how-i-solved-portswigger-sqli-labs-7-18-part-2-walkthrough-ac2945edd896?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 
 - **[How I Find SQL Injection Vulnerabilities: My Manual Bug-Bounty Testing Method](https://medium.com/@vigneshkumaroffsec/how-i-find-sql-injection-vulnerabilities-my-manual-bug-bounty-testing-method-c62993122e2c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

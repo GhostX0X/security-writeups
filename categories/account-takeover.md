@@ -1,5 +1,8 @@
 ## 📅 13 November 2026
 
+- **[Account Takeover via Password Reset Poisoning (X-Forwarded-Host)](https://medium.com/@m.elsaidy35/account-takeover-via-password-reset-poisoning-x-forwarded-host-3456af71dbc9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 13 November 2026
+
 - **[Race Conditions: How a 0.3 Second Window Gave Hackers Full Account Takeover](https://osintteam.blog/race-conditions-how-a-0-3-second-window-gave-hackers-full-account-takeover-6e98ea55ca32?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 
