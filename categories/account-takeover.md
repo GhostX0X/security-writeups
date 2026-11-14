@@ -1,5 +1,8 @@
 ## 📅 14 November 2026
 
+- **[Pre-Auth Account Takeover via Broken Password Reset in a Legacy Mobile API](https://medium.com/@youssefezzat.pt/pre-auth-account-takeover-via-broken-password-reset-in-a-legacy-mobile-api-f1b0b63dc1a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 November 2026
+
 - **[How a Cache Keys Mismatch Led to a Web Cache Deception Account Takeover](https://medium.com/@t4nv1/how-a-cache-keys-mismatch-led-to-a-web-cache-deception-account-takeover-1b8e934e522a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 November 2026
 
