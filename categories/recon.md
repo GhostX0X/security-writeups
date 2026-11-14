@@ -1,3 +1,6 @@
+## 📅 14 November 2026
+
+- **[Reconsidering the “One Device, One Number” Constraint: Toward Scalable Phone Verification Limits](https://rabbirothschild.medium.com/reconsidering-the-one-device-one-number-constraint-toward-scalable-phone-verification-limits-401149761c85?source=rss------security-5)** _(Medium Security)_
 ## 📅 08 November 2026
 
 - **[How a Web App Pentest Actually Flows: Recon, Scanning, and Attack Chains | Fundamental Lessons from…](https://medium.com/@dreaith/how-a-web-app-pentest-actually-flows-recon-scanning-and-attack-chains-fundamental-lessons-from-72627ca4cc04?source=rss------pentesting-5)** _(Medium Pentesting)_

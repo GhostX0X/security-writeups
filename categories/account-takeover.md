@@ -1,3 +1,12 @@
+## 📅 14 November 2026
+
+- **[How a Cache Keys Mismatch Led to a Web Cache Deception Account Takeover](https://medium.com/@t4nv1/how-a-cache-keys-mismatch-led-to-a-web-cache-deception-account-takeover-1b8e934e522a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 14 November 2026
+
+- **[How a Cache Keys Mismatch Led to a Web Cache Deception Account Takeover](https://medium.com/@t4nv1/how-a-cache-keys-mismatch-led-to-a-web-cache-deception-account-takeover-1b8e934e522a?source=rss------security-5)** _(Medium Security)_
+## 📅 14 November 2026
+
+- **[Spring Boot 4 + Java 25: 10 Things You Should Stop Doing in Your Actuator Config](https://medium.com/javarevisited/spring-boot-4-java-25-10-things-you-should-stop-doing-in-your-actuator-config-6a7b18dee93e?source=rss------security-5)** _(Medium Security)_
 ## 📅 13 November 2026
 
 - **[Account Takeover via Password Reset Poisoning (X-Forwarded-Host)](https://medium.com/@m.elsaidy35/account-takeover-via-password-reset-poisoning-x-forwarded-host-3456af71dbc9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
