@@ -1,3 +1,6 @@
+## 📅 15 November 2026
+
+- **[[CVE-2026–126187] — Unauthenticated RCE in React Server Components’ Flight Protocol](https://medium.com/@guidancewhite/cve-2026-126187-unauthenticated-rce-in-react-server-components-flight-protocol-3483eff620aa?source=rss------security-5)** _(Medium Security)_
 ## 📅 12 November 2026
 
 - **[Apache OFBiz Unauthenticated RCE — CVE-2026–83542 Explained](https://medium.com/@dhxrxx/apache-ofbiz-unauthenticated-rce-cve-2026-83542-explained-5bbbd7ed3ede?source=rss------security-5)** _(Medium Security)_

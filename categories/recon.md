@@ -1,3 +1,6 @@
+## 📅 15 November 2026
+
+- **[The Ultimate Guide to Reconnaissance for Bug Bounty Hunting](https://medium.com/@chilukavarshith4005/the-ultimate-guide-to-reconnaissance-for-bug-bounty-hunting-264da5f1d7dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 November 2026
 
 - **[Reconsidering the “One Device, One Number” Constraint: Toward Scalable Phone Verification Limits](https://rabbirothschild.medium.com/reconsidering-the-one-device-one-number-constraint-toward-scalable-phone-verification-limits-401149761c85?source=rss------security-5)** _(Medium Security)_
