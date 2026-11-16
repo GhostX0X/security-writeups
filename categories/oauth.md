@@ -1,3 +1,6 @@
+## 📅 16 November 2026
+
+- **[I Steal Your Login With One Query Parameter: My OAuth Account-Takeover Playbook](https://thexssrat.medium.com/i-steal-your-login-with-one-query-parameter-my-oauth-account-takeover-playbook-462b1da5179f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 
 - **[How I Chained a Stale CNAME Record with OAuth 2.0 Wildcards for a $6,000 Account Takeover (ATO)](https://medium.com/@t4nv1/how-i-chained-a-stale-cname-record-with-oauth-2-0-wildcards-for-a-6-000-account-takeover-ato-ae22541d86dc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

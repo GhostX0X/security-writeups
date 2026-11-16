@@ -1,3 +1,9 @@
+## 📅 16 November 2026
+
+- **[How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL…](https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 16 November 2026
+
+- **[How an Unhandled Unicode Normalization Mismatch Led to a $5,000 Account Takeover](https://medium.com/@t4nv1/how-an-unhandled-unicode-normalization-mismatch-led-to-a-5-000-account-takeover-acb4869c225f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 14 November 2026
 
 - **[Pre-Auth Account Takeover via Broken Password Reset in a Legacy Mobile API](https://medium.com/@youssefezzat.pt/pre-auth-account-takeover-via-broken-password-reset-in-a-legacy-mobile-api-f1b0b63dc1a6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
