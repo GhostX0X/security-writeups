@@ -1,3 +1,6 @@
+## 📅 17 November 2026
+
+- **[From AI Prompt Injection to Authenticated XSS in a CRM Platform](https://medium.com/@abdelrahmanzourob5/from-ai-prompt-injection-to-authenticated-xss-in-a-crm-platform-d9523095793a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 November 2026
 
 - **[DVWA Vulnerability: Stored Cross-Site Scripting (XSS)](https://medium.com/@Kamal_S/dvwa-vulnerability-stored-cross-site-scripting-xss-6aaac4dc5385?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
