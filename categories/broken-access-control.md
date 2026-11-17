@@ -1,3 +1,6 @@
+## 📅 17 November 2026
+
+- **[P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 
 - **[Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and…](https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

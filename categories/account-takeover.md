@@ -1,3 +1,9 @@
+## 📅 17 November 2026
+
+- **[P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 17 November 2026
+
+- **[How Trusting a Request Header Turned a Password Reset Into Account Takeover](https://medium.com/@l4zz3rj0d/how-trusting-a-request-header-turned-a-password-reset-into-account-takeover-b95223be8c94?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 16 November 2026
 
 - **[How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL…](https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

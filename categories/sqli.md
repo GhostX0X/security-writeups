@@ -1,3 +1,6 @@
+## 📅 17 November 2026
+
+- **[I Ignored a NEXT_PUBLIC_ Token for a Week. Then It Unlocked Blind SQLi and the Whole Database](https://medium.com/@akash.sundaramoorthi1/i-ignored-a-next-public-token-for-a-week-then-it-unlocked-blind-sqli-and-the-whole-database-6b61f3c1e07d?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 13 November 2026
 
 - **[How I Solved PortSwigger SQLi Labs 7–18 (Part 2 Walkthrough)](https://medium.com/@learnerobs/how-i-solved-portswigger-sqli-labs-7-18-part-2-walkthrough-ac2945edd896?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
