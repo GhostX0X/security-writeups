@@ -1,3 +1,12 @@
+## 📅 18 November 2026
+
+- **[XSS DOM Based — Filters Bypass | Root-Me Write-up](https://medium.com/@abdobelal069/xss-dom-based-filters-bypass-root-me-write-up-b2c7fae24fae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 November 2026
+
+- **[XSS DOM Based — Eval | Root-Me Write-up](https://medium.com/@abdobelal069/xss-dom-based-eval-root-me-write-up-9fb9796843e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 November 2026
+
+- **[Achieving the impossible: XSS in innerHTML without equals](https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals)** _(PortSwigger Research)_
 ## 📅 17 November 2026
 
 - **[From AI Prompt Injection to Authenticated XSS in a CRM Platform](https://medium.com/@abdelrahmanzourob5/from-ai-prompt-injection-to-authenticated-xss-in-a-crm-platform-d9523095793a?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,12 @@
+## 📅 18 November 2026
+
+- **[Java4Shell (CVE-2026-114938): The Pre-Auth RCE That Wants to Break Your Enterprise Stack—But Only…](https://vinitbetkar.medium.com/java4shell-cve-2026-114938-the-pre-auth-rce-that-wants-to-break-your-enterprise-stack-but-only-6fbdadd38eb3?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 18 November 2026
+
+- **[Java4Shell (CVE-2026‑114938): Critical Pre-Authentication RCE in Java 17, 21, 25 and 27](https://mhmmuneef.medium.com/java4shell-cve-2026-114938-critical-pre-authentication-rce-in-java-17-21-25-and-27-d1d9e47c4674?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 18 November 2026
+
+- **[Five Agent Commerce Protocols, Five Different Jobs — NoHands AI](https://medium.com/@NoHandsAI/five-agent-commerce-protocols-five-different-jobs-nohands-ai-0a748807dbe1?source=rss------security-5)** _(Medium Security)_
 ## 📅 15 November 2026
 
 - **[[CVE-2026–126187] — Unauthenticated RCE in React Server Components’ Flight Protocol](https://medium.com/@guidancewhite/cve-2026-126187-unauthenticated-rce-in-react-server-components-flight-protocol-3483eff620aa?source=rss------security-5)** _(Medium Security)_

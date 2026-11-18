@@ -1,3 +1,6 @@
+## 📅 18 November 2026
+
+- **[Basic Pentesting 1 — VulnHub Walkthrough | From Reconnaissance to Root Access](https://medium.com/@sreeragpramod777/basic-pentesting-1-vulnhub-walkthrough-from-reconnaissance-to-root-access-31f77d2824a8?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 15 November 2026
 
 - **[The Ultimate Guide to Reconnaissance for Bug Bounty Hunting](https://medium.com/@chilukavarshith4005/the-ultimate-guide-to-reconnaissance-for-bug-bounty-hunting-264da5f1d7dd?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
