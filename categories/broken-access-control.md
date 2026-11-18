@@ -1,5 +1,8 @@
 ## 📅 17 November 2026
 
+- **[Broken Access Control: 10 Authorization Mistakes That Leak Your Users’ Data](https://medium.com/@annxsa/broken-access-control-10-authorization-mistakes-that-leak-your-users-data-94b443a71a30?source=rss------security-5)** _(Medium Security)_
+## 📅 17 November 2026
+
 - **[P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 12 November 2026
 
