@@ -1,5 +1,8 @@
 ## 📅 19 November 2026
 
+- **[Behind the Delay: Discovering Time-Based Blind SQL Injection in a Live Web Application](https://medium.com/@adarshnair135/behind-the-delay-discovering-time-based-blind-sql-injection-in-a-live-web-application-9dfa72513255?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 November 2026
+
 - **[Time-Based Blind SQL Injection: When the Database Talks in Seconds](https://osintteam.blog/time-based-blind-sql-injection-when-the-database-talks-in-seconds-1fa3c19c899f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 November 2026
 

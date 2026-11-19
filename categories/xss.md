@@ -1,3 +1,12 @@
+## 📅 19 November 2026
+
+- **[From a Simple Username Field to XSS: How One Input Exposed a Security Flaw in a Government Portal](https://medium.com/@adarshnair135/from-a-simple-username-field-to-xss-how-one-input-exposed-a-security-flaw-in-a-government-portal-c7183939ad60?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 November 2026
+
+- **[One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door](https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 November 2026
+
+- **[I Found a Stored XSS That Fires When You Click Follow](https://medium.com/@youssefezzat.pt/i-found-a-stored-xss-that-fires-when-you-click-follow-c67fa46330e9?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 November 2026
 
 - **[XSS DOM Based — Filters Bypass | Root-Me Write-up](https://medium.com/@abdobelal069/xss-dom-based-filters-bypass-root-me-write-up-b2c7fae24fae?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

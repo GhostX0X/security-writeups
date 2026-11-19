@@ -1,5 +1,8 @@
 ## 📅 19 November 2026
 
+- **[One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door](https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 November 2026
+
 - **[GitLab Account Takeover: One Reset Email, Two Inboxes](https://masimshahzad.medium.com/gitlab-account-takeover-one-reset-email-two-inboxes-e553d8cdac3b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 November 2026
 

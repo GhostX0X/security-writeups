@@ -1,3 +1,6 @@
+## 📅 19 November 2026
+
+- **[RCE Is Not a Button: Why Web’s Most Alarming CVEs Have Hidden Checklists](https://henriqqw.medium.com/rce-is-not-a-button-why-webs-most-alarming-cves-have-hidden-checklists-60a590ef01f5?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 18 November 2026
 
 - **[Java4Shell (CVE-2026-114938): The Pre-Auth RCE That Wants to Break Your Enterprise Stack—But Only…](https://vinitbetkar.medium.com/java4shell-cve-2026-114938-the-pre-auth-rce-that-wants-to-break-your-enterprise-stack-but-only-6fbdadd38eb3?source=rss------pentesting-5)** _(Medium Pentesting)_

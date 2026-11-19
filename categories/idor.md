@@ -1,3 +1,6 @@
+## 📅 19 November 2026
+
+- **[How an GraphQL IDOR leaked AI conversation History and Got me $500 bounty](https://medium.com/@shouvik328/how-an-graphql-idor-leaked-ai-conversation-history-and-got-me-500-bounty-df75b24a08f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 10 November 2026
 
 - **[P3 — Insecure Direct Object Reference (IDOR) in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------pentesting-5)** _(Medium Pentesting)_
