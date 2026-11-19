@@ -1,5 +1,11 @@
 ## 📅 19 November 2026
 
+- **[PostMessage Leads to One-Click Account Takeover](https://medium.com/@mahmoudfarag.rm4/postmessage-leads-to-one-click-account-takeover-87a401ca3a49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 November 2026
+
+- **[How an Unverified Email Change Led to Full Account Takeover | $$$$ Bounty](https://medium.com/@marwanmedhat0001/how-an-unverified-email-change-led-to-full-account-takeover-bounty-7a3f75aeb4b7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 19 November 2026
+
 - **[One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door](https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
