@@ -1,3 +1,6 @@
+## 📅 19 November 2026
+
+- **[Time-Based Blind SQL Injection: When the Database Talks in Seconds](https://osintteam.blog/time-based-blind-sql-injection-when-the-database-talks-in-seconds-1fa3c19c899f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 November 2026
 
 - **[I Ignored a NEXT_PUBLIC_ Token for a Week. Then It Unlocked Blind SQLi and the Whole Database](https://medium.com/@akash.sundaramoorthi1/i-ignored-a-next-public-token-for-a-week-then-it-unlocked-blind-sqli-and-the-whole-database-6b61f3c1e07d?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,6 @@
+## 📅 19 November 2026
+
+- **[GitLab Account Takeover: One Reset Email, Two Inboxes](https://masimshahzad.medium.com/gitlab-account-takeover-one-reset-email-two-inboxes-e553d8cdac3b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 November 2026
 
 - **[P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

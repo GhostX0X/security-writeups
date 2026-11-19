@@ -1,3 +1,6 @@
+## 📅 19 November 2026
+
+- **[Why we built LumoAuth: identity for people and AI agents](https://medium.com/@lumoauth/why-we-built-lumoauth-identity-for-people-and-ai-agents-46360bd963cd?source=rss------security-5)** _(Medium Security)_
 ## 📅 16 November 2026
 
 - **[I Steal Your Login With One Query Parameter: My OAuth Account-Takeover Playbook](https://thexssrat.medium.com/i-steal-your-login-with-one-query-parameter-my-oauth-account-takeover-playbook-462b1da5179f?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

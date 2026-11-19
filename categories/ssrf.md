@@ -1,3 +1,6 @@
+## 📅 19 November 2026
+
+- **[SSRF Filters Bypass Using Redirects](https://osintteam.blog/ssrf-filters-bypass-using-redirects-007fe0151bac?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 15 November 2026
 
 - **[From P4 to P1: Day 17 — Advanced SSRF Testing: URL Validation Bypasses, Redirects and DNS Rebinding](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-17-advanced-ssrf-testing-url-validation-bypasses-redirects-and-dns-rebinding-5f6d92dca0fa?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
