@@ -1,3 +1,6 @@
+## 📅 20 November 2026
+
+- **[How I Find IDOR Vulnerabilities: My Complete Bug Bounty Hunting Methodology](https://samadhanshimple.medium.com/how-i-find-idor-vulnerabilities-my-complete-bug-bounty-hunting-methodology-8344cbecfde8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
 - **[How an GraphQL IDOR leaked AI conversation History and Got me $500 bounty](https://medium.com/@shouvik328/how-an-graphql-idor-leaked-ai-conversation-history-and-got-me-500-bounty-df75b24a08f7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

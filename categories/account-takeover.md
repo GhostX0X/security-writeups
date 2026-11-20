@@ -1,3 +1,6 @@
+## 📅 20 November 2026
+
+- **[Uber Account Takeover: The API That Handed Out Tokens](https://masimshahzad.medium.com/uber-account-takeover-the-api-that-handed-out-tokens-c12f52fb14fe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
 - **[PostMessage Leads to One-Click Account Takeover](https://medium.com/@mahmoudfarag.rm4/postmessage-leads-to-one-click-account-takeover-87a401ca3a49?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
