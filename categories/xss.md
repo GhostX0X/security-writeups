@@ -1,3 +1,6 @@
+## 📅 20 November 2026
+
+- **[XSS Explained: From a Simple alert(1) to Real-World Impact —CVE’S](https://isv0x1.medium.com/xss-explained-from-a-simple-alert-1-to-real-world-impact-cves-21c95cbb5cbe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
 - **[From a Simple Username Field to XSS: How One Input Exposed a Security Flaw in a Government Portal](https://medium.com/@adarshnair135/from-a-simple-username-field-to-xss-how-one-input-exposed-a-security-flaw-in-a-government-portal-c7183939ad60?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

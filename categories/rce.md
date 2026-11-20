@@ -1,3 +1,6 @@
+## 📅 20 November 2026
+
+- **[Lab: 2FA bypass using a brute-force attack | PortSwigger | Authentication](https://medium.com/@mr.muhammedirfan/lab-2fa-bypass-using-a-brute-force-attack-portswigger-authentication-37086e85e8ca?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 19 November 2026
 
 - **[RCE Is Not a Button: Why Web’s Most Alarming CVEs Have Hidden Checklists](https://henriqqw.medium.com/rce-is-not-a-button-why-webs-most-alarming-cves-have-hidden-checklists-60a590ef01f5?source=rss------pentesting-5)** _(Medium Pentesting)_

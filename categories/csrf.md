@@ -1,3 +1,6 @@
+## 📅 20 November 2026
+
+- **[I Found a CSRF Vulnerability by Analyzing Cookies: When Remember Me Authentication Became the Weak…](https://medium.com/@yOnly_/i-found-a-csrf-vulnerability-by-analyzing-cookies-when-remember-me-authentication-became-the-weak-02ef96bbdaed?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 13 November 2026
 
 - **[The Requests You Didn’t Send: Finding SSRF and CSRF by Hand](https://medium.com/@vigneshkumaroffsec/the-requests-you-didnt-send-finding-ssrf-and-csrf-by-hand-c2f208f114ab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

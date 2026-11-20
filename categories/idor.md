@@ -1,5 +1,8 @@
 ## 📅 20 November 2026
 
+- **[IDOR and Business Logic Flaw in a Payment Extension API: Unauthorized Modification of Billing…](https://medium.com/@pmsiam0/idor-and-business-logic-flaw-in-a-payment-extension-api-unauthorized-modification-of-billing-d48ee6bcc5d0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 20 November 2026
+
 - **[How I Find IDOR Vulnerabilities: My Complete Bug Bounty Hunting Methodology](https://samadhanshimple.medium.com/how-i-find-idor-vulnerabilities-my-complete-bug-bounty-hunting-methodology-8344cbecfde8?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 

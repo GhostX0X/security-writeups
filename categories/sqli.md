@@ -1,3 +1,6 @@
+## 📅 20 November 2026
+
+- **[SQL Injection Explained: How I Identify and Understand SQLi Vulnerabilities During Bug Bounty…](https://samadhanshimple.medium.com/sql-injection-explained-how-i-identify-and-understand-sqli-vulnerabilities-during-bug-bounty-cd02de63e545?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
 - **[Behind the Delay: Discovering Time-Based Blind SQL Injection in a Live Web Application](https://medium.com/@adarshnair135/behind-the-delay-discovering-time-based-blind-sql-injection-in-a-live-web-application-9dfa72513255?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
