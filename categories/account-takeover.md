@@ -1,5 +1,11 @@
 ## 📅 21 November 2026
 
+- **[Anatomy of an HTTP Request (Part 3): Web Application Firewalls, Parser Differentials, and Breaking…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-3-web-application-firewalls-parser-differentials-and-breaking-94cdfa04205c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 November 2026
+
+- **[How a Next.js CDN Proxy Turned Into a One-Click Account Takeover](https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 November 2026
+
 - **[OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.](https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 November 2026
 
