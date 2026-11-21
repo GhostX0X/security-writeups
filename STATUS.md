@@ -1,8 +1,7 @@
 # 📊 Status
 
-Last updated: 2026-11-21 04:45:37.216904 UTC
+Last updated: 2026-11-21 13:52:51.452776 UTC
 
-- xss: 3
-- account-takeover: 1
+- xss: 2
+- account-takeover: 2
 - idor: 3
-- rce: 1

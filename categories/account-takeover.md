@@ -1,5 +1,11 @@
 ## 📅 21 November 2026
 
+- **[OpenSSL Said Low. The Aggregators Said 9.8. The Kernel Said 131 KB.](https://medium.com/codetodeploy/openssl-said-low-the-aggregators-said-9-8-the-kernel-said-131-kb-1e8e02aedf20?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 November 2026
+
+- **[How I Discovered a Session Management Vulnerability That Could Lead to Account Takeover | By…](https://samadhanshimple.medium.com/how-i-discovered-a-session-management-vulnerability-that-could-lead-to-account-takeover-by-887ba9f199de?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 November 2026
+
 - **[Windows 11 Narrator Lock Screen 0-Day: BitLocker Risk](https://devtalk94.medium.com/windows-11-narrator-lock-screen-0-day-bitlocker-risk-786a06abfeb4?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 November 2026
 
