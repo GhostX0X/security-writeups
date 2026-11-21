@@ -1,3 +1,6 @@
+## 📅 21 November 2026
+
+- **[How I Find Cross-Site Scripting (XSS) Vulnerabilities During Bug Bounty Hunting | By Samadhan…](https://samadhanshimple.medium.com/how-i-find-cross-site-scripting-xss-vulnerabilities-during-bug-bounty-hunting-by-samadhan-562278fa0872?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 November 2026
 
 - **[XSS Explained: From a Simple alert(1) to Real-World Impact —CVE’S](https://isv0x1.medium.com/xss-explained-from-a-simple-alert-1-to-real-world-impact-cves-21c95cbb5cbe?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

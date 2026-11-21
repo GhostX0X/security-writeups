@@ -1,3 +1,6 @@
+## 📅 21 November 2026
+
+- **[Windows 11 Narrator Lock Screen 0-Day: BitLocker Risk](https://devtalk94.medium.com/windows-11-narrator-lock-screen-0-day-bitlocker-risk-786a06abfeb4?source=rss------security-5)** _(Medium Security)_
 ## 📅 20 November 2026
 
 - **[Anatomy of an HTTP Request (Part 2): TCP, TLS Termination, and CDN Cache Attacks](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-2-tcp-tls-termination-and-cdn-cache-attacks-d70f697d81e3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,12 @@
+## 📅 21 November 2026
+
+- **[The $1000 IDOR Hiding Behind a Shared AI Chat](https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 21 November 2026
+
+- **[The $1000 IDOR Hiding Behind a Shared AI Chat](https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 21 November 2026
+
+- **[IDOR Explained: The Types, Where It Hides, and How to Find It](https://medium.com/@vigneshkumaroffsec/idor-explained-the-types-where-it-hides-and-how-to-find-it-4adfe01b9023?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 November 2026
 
 - **[IDOR and Business Logic Flaw in a Payment Extension API: Unauthorized Modification of Billing…](https://medium.com/@pmsiam0/idor-and-business-logic-flaw-in-a-payment-extension-api-unauthorized-modification-of-billing-d48ee6bcc5d0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
