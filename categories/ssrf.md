@@ -1,5 +1,14 @@
 ## 📅 22 November 2026
 
+- **[P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-a45a587518d6?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 November 2026
+
+- **[SSRF | TryHackMe (THM)](https://medium.com/@devkumaoni9/ssrf-tryhackme-thm-d46a40588748?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 22 November 2026
+
+- **[P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-a45a587518d6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 November 2026
+
 - **[SSRF in AI-Powered Applications: The Bug Most Bug Hunters Should Start Understanding in 2026](https://osintteam.blog/ssrf-in-ai-powered-applications-the-bug-most-bug-hunters-should-start-understanding-in-2026-f218fdb69cb5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
