@@ -1,3 +1,6 @@
+## 📅 22 November 2026
+
+- **[SSRF in AI-Powered Applications: The Bug Most Bug Hunters Should Start Understanding in 2026](https://osintteam.blog/ssrf-in-ai-powered-applications-the-bug-most-bug-hunters-should-start-understanding-in-2026-f218fdb69cb5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
 - **[Apple HOF (August 2026): Unmasking a Blind SSRF in Podcasts Connect](https://medium.com/@anas-nady/apple-hof-august-2026-unmasking-a-blind-ssrf-in-podcasts-connect-e86689990bab?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
