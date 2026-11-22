@@ -1,5 +1,11 @@
 ## 📅 22 November 2026
 
+- **[Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform](https://infosecwriteups.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 November 2026
+
+- **[Anatomy of an HTTP Request (Part 4): Rate Limiters, Proxy Trust Boundaries, and Business Logic…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-4-rate-limiters-proxy-trust-boundaries-and-business-logic-2bf20c6974ea?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 November 2026
+
 - **[Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform](https://cloverpass.medium.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 November 2026
 

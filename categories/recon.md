@@ -1,5 +1,8 @@
 ## 📅 22 November 2026
 
+- **[Six Days One Target, Thirty-Six Tests: A Bug Bounty Bootcamp From Recon to Report](https://medium.com/@SilentN0va/six-days-one-target-thirty-six-tests-a-bug-bounty-bootcamp-from-recon-to-report-16cbf55b1cd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 22 November 2026
+
 - **[From Recon to Remote Code Execution : My Encounter with React2Shell (CVE-2025–55182)](https://ryh04x.medium.com/from-recon-to-remote-code-execution-my-encounter-with-react2shell-cve-2025-55182-6b4efca990c5?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 18 November 2026
 

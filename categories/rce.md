@@ -1,5 +1,8 @@
 ## 📅 22 November 2026
 
+- **[[CVE-2026–123007] Unauthenticated RCE via Integer Underflow in NGINX’s HTTP/2 Flow Control](https://medium.com/@guidancewhite/cve-2026-123007-unauthenticated-rce-via-integer-underflow-in-nginxs-http-2-flow-control-aa5a646d18c8?source=rss------security-5)** _(Medium Security)_
+## 📅 22 November 2026
+
 - **[P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-a45a587518d6?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 22 November 2026
 
