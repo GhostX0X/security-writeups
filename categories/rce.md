@@ -1,3 +1,12 @@
+## 📅 23 November 2026
+
+- **[GhostTiles: How a Stale Frame ID Turned FreeRDP’s Progressive Codec into a Resource Amplifier](https://medium.com/@ts247091/ghosttiles-how-a-stale-frame-id-turned-freerdps-progressive-codec-into-a-resource-amplifier-427e8091f9f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 November 2026
+
+- **[P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 November 2026
+
+- **[SIRT 5E — The Five Enforcement Model](https://rotkovitch.medium.com/sirt-5e-the-five-enforcement-model-21ac6a9c8576?source=rss------security-5)** _(Medium Security)_
 ## 📅 22 November 2026
 
 - **[[CVE-2026–123007] Unauthenticated RCE via Integer Underflow in NGINX’s HTTP/2 Flow Control](https://medium.com/@guidancewhite/cve-2026-123007-unauthenticated-rce-via-integer-underflow-in-nginxs-http-2-flow-control-aa5a646d18c8?source=rss------security-5)** _(Medium Security)_

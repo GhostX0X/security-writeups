@@ -1,3 +1,6 @@
+## 📅 23 November 2026
+
+- **[Booking.com OAuth Account Takeover in Three Small Gaps](https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 November 2026
 
 - **[Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform](https://infosecwriteups.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

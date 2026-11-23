@@ -1,3 +1,6 @@
+## 📅 23 November 2026
+
+- **[P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 November 2026
 
 - **[P2 Server-Side Request Forgery (SSRF) Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-a45a587518d6?source=rss------pentesting-5)** _(Medium Pentesting)_

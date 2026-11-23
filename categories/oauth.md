@@ -1,3 +1,6 @@
+## 📅 23 November 2026
+
+- **[Booking.com OAuth Account Takeover in Three Small Gaps](https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 19 November 2026
 
 - **[Why we built LumoAuth: identity for people and AI agents](https://medium.com/@lumoauth/why-we-built-lumoauth-identity-for-people-and-ai-agents-46360bd963cd?source=rss------security-5)** _(Medium Security)_
