@@ -1,3 +1,6 @@
+## 📅 23 November 2026
+
+- **[Day 04: Bug Bounty: Introduction to Reconnaissance](https://iamrudhh.medium.com/day-04-bug-bounty-introduction-to-reconnaissance-43d041655c37?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 22 November 2026
 
 - **[Six Days One Target, Thirty-Six Tests: A Bug Bounty Bootcamp From Recon to Report](https://medium.com/@SilentN0va/six-days-one-target-thirty-six-tests-a-bug-bounty-bootcamp-from-recon-to-report-16cbf55b1cd6?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
