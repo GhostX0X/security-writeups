@@ -1,5 +1,8 @@
 ## 📅 23 November 2026
 
+- **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://infosecwriteups.com/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 November 2026
+
 - **[GhostTiles: How a Stale Frame ID Turned FreeRDP’s Progressive Codec into a Resource Amplifier](https://medium.com/@ts247091/ghosttiles-how-a-stale-frame-id-turned-freerdps-progressive-codec-into-a-resource-amplifier-427e8091f9f3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 November 2026
 
