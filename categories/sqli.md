@@ -1,3 +1,6 @@
+## 📅 24 November 2026
+
+- **[Dari SQL Injection hingga Clickjacking: 10 Laboratorium Keamanan Web yang Kami Selesaikan](https://medium.com/@pandjisatrio49/dari-sql-injection-hingga-clickjacking-10-laboratorium-keamanan-web-yang-kami-selesaikan-874ca63dbd16?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 20 November 2026
 
 - **[SQL Injection Explained: How I Identify and Understand SQLi Vulnerabilities During Bug Bounty…](https://samadhanshimple.medium.com/sql-injection-explained-how-i-identify-and-understand-sqli-vulnerabilities-during-bug-bounty-cd02de63e545?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

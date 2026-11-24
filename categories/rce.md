@@ -1,5 +1,8 @@
 ## 📅 23 November 2026
 
+- **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://meetcyber.net/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 23 November 2026
+
 - **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://infosecwriteups.com/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 23 November 2026
 

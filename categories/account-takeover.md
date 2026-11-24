@@ -1,5 +1,14 @@
 ## 📅 23 November 2026
 
+- **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://meetcyber.net/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
+## 📅 24 November 2026
+
+- **[Anatomy of an HTTP Request (Part 5): Load Balancers, HTTP Request Smuggling, and Internal Header…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-5-load-balancers-http-request-smuggling-and-internal-header-a0c1f029b50b?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 November 2026
+
+- **[Dari SQL Injection hingga Clickjacking: 10 Laboratorium Keamanan Web yang Kami Selesaikan](https://medium.com/@pandjisatrio49/dari-sql-injection-hingga-clickjacking-10-laboratorium-keamanan-web-yang-kami-selesaikan-874ca63dbd16?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 23 November 2026
+
 - **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://infosecwriteups.com/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 23 November 2026
 
