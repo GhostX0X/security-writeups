@@ -1,3 +1,6 @@
+## 📅 24 November 2026
+
+- **[DOM-Based XSS via Arbitrary Cookie Injection Across a News Site and Its Subdomains](https://medium.com/@Assili-yassine/dom-based-xss-via-arbitrary-cookie-injection-across-a-news-site-and-its-subdomains-87ec5e4317c2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 November 2026
 
 - **[How I Find Cross-Site Scripting (XSS) Vulnerabilities During Bug Bounty Hunting | By Samadhan…](https://samadhanshimple.medium.com/how-i-find-cross-site-scripting-xss-vulnerabilities-during-bug-bounty-hunting-by-samadhan-562278fa0872?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

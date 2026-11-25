@@ -1,3 +1,9 @@
+## 📅 24 November 2026
+
+- **[Metasploit RCE Exploits CLOUDFLARE BYPASS + APACHE STRUTS2 RCE (CVE-2026–7890)](https://medium.com/@xgw40095/metasploit-rce-exploits-cloudflare-bypass-apache-struts2-rce-cve-2026-7890-a25c4e564e74?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 24 November 2026
+
+- **[CVE-2026–119618 — Heap Corruption and RCE in Apache HTTP Server’s mod_http2](https://medium.com/@guidancewhite/cve-2026-119618-heap-corruption-and-rce-in-apache-http-servers-mod-http2-e3f23d0ea991?source=rss------security-5)** _(Medium Security)_
 ## 📅 23 November 2026
 
 - **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://meetcyber.net/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
