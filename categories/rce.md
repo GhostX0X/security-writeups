@@ -1,3 +1,6 @@
+## 📅 25 November 2026
+
+- **[Remote Code Execution (RCE): Understanding One of the Most Critical Web Security Vulnerabilities |…](https://samadhanshimple.medium.com/remote-code-execution-rce-understanding-one-of-the-most-critical-web-security-vulnerabilities-0c49173aaba3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 November 2026
 
 - **[Metasploit RCE Exploits CLOUDFLARE BYPASS + APACHE STRUTS2 RCE (CVE-2026–7890)](https://medium.com/@xgw40095/metasploit-rce-exploits-cloudflare-bypass-apache-struts2-rce-cve-2026-7890-a25c4e564e74?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

@@ -1,3 +1,6 @@
+## 📅 25 November 2026
+
+- **[When Self-XSS Isn’t Self: A $62,500 Meta Bug Through a Third-Party Payment Iframe](https://medium.com/@t4nv1/when-self-xss-isnt-self-a-62-500-meta-bug-through-a-third-party-payment-iframe-13d5d101e3e0?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 24 November 2026
 
 - **[DOM-Based XSS via Arbitrary Cookie Injection Across a News Site and Its Subdomains](https://medium.com/@Assili-yassine/dom-based-xss-via-arbitrary-cookie-injection-across-a-news-site-and-its-subdomains-87ec5e4317c2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

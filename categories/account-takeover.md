@@ -1,3 +1,6 @@
+## 📅 25 November 2026
+
+- **[HackerOne Account Takeover: The $20K Leaked Cookie](https://masimshahzad.medium.com/hackerone-account-takeover-the-20k-leaked-cookie-4e97e094b7e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 November 2026
 
 - **[GhostLNK | Open-Source Windows LNK Payload Generator for Red Teams](https://meetcyber.net/ghostlnk-open-source-windows-lnk-payload-generator-for-red-teams-da169ce2c920?source=rss------pentesting-5)** _(Medium Pentesting)_
