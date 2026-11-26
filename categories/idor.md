@@ -1,3 +1,6 @@
+## 📅 26 November 2026
+
+- **[What Is IDOR? Insecure Direct Object Reference Explained with Real Examples](https://medium.com/@bugfynd/what-is-idor-insecure-direct-object-reference-explained-with-real-examples-9dc2f489c255?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 November 2026
 
 - **[The $1000 IDOR Hiding Behind a Shared AI Chat](https://medium.com/@kianoosh.9944/the-1000-idor-hiding-behind-a-shared-ai-chat-158bf4bd0a93?source=rss------pentesting-5)** _(Medium Pentesting)_

@@ -1,3 +1,15 @@
+## 📅 26 November 2026
+
+- **[When ‘Forgot Password’ Becomes ‘Found Account Takeover’ — Part 1: Identification](https://medium.com/@at0625309/when-forgot-password-becomes-found-account-takeover-part-1-identification-46578b0afbc2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 November 2026
+
+- **[CVE-2026–111497 (Node2Shell): Anatomy of a Brotli Decoder Memory-Corruption Vulnerability](https://medium.com/@shikharsinha34920/cve-2026-111497-node2shell-anatomy-of-a-brotli-decoder-memory-corruption-vulnerability-c81c160a67cc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 November 2026
+
+- **[How a PostMessage Origin Bypass Led to a $5,500 Cross-Origin Account Takeover](https://medium.com/@t4nv1/how-a-postmessage-origin-bypass-led-to-a-5-500-cross-origin-account-takeover-b23125b2fe6e?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 November 2026
+
+- **[Anatomy of an HTTP Request (Part 7): Static vs.](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-7-static-vs-99f8ce89cf69?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 25 November 2026
 
 - **[Anatomy of an HTTP Request (Part 6): Web Servers, Directory Listing, and Exposed Configuration…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-6-web-servers-directory-listing-and-exposed-configuration-6edcd7eed7da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
