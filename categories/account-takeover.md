@@ -1,5 +1,8 @@
 ## 📅 25 November 2026
 
+- **[Anatomy of an HTTP Request (Part 6): Web Servers, Directory Listing, and Exposed Configuration…](https://medium.com/@extraterrestrial2342/anatomy-of-an-http-request-part-6-web-servers-directory-listing-and-exposed-configuration-6edcd7eed7da?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 25 November 2026
+
 - **[HackerOne Account Takeover: The $20K Leaked Cookie](https://masimshahzad.medium.com/hackerone-account-takeover-the-20k-leaked-cookie-4e97e094b7e7?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 November 2026
 
