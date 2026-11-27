@@ -1,3 +1,6 @@
+## 📅 27 November 2026
+
+- **[The Delivery App That Told Strangers Where You Live: Anatomy of a Deep Link → WebView → JavaScript…](https://medium.com/@SilentN0va/the-delivery-app-that-told-strangers-where-you-live-anatomy-of-a-deep-link-webview-javascript-99ffd8021b8c?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 26 November 2026
 
 - **[When ‘Forgot Password’ Becomes ‘Found Account Takeover’ — Part 1: Identification](https://medium.com/@at0625309/when-forgot-password-becomes-found-account-takeover-part-1-identification-46578b0afbc2?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

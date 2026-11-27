@@ -1,3 +1,6 @@
+## 📅 27 November 2026
+
+- **[GitHub OAuth Bypass: The $25K HEAD Request](https://masimshahzad.medium.com/github-oauth-bypass-the-25k-head-request-e9a666059615?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 23 November 2026
 
 - **[Booking.com OAuth Account Takeover in Three Small Gaps](https://masimshahzad.medium.com/booking-com-oauth-account-takeover-in-three-small-gaps-373036855acc?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_

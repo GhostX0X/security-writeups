@@ -1,3 +1,6 @@
+## 📅 27 November 2026
+
+- **[One Parameter, One Request: How I Bypassed Access Controls and Unlocked a Restricted AI Feature](https://infosecwriteups.com/one-parameter-one-request-how-i-bypassed-access-controls-and-unlocked-a-restricted-ai-feature-67bee6ef87d3?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 17 November 2026
 
 - **[Broken Access Control: 10 Authorization Mistakes That Leak Your Users’ Data](https://medium.com/@annxsa/broken-access-control-10-authorization-mistakes-that-leak-your-users-data-94b443a71a30?source=rss------security-5)** _(Medium Security)_
