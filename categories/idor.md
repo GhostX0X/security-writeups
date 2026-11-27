@@ -1,5 +1,8 @@
 ## 📅 26 November 2026
 
+- **[How I Found an Unauthenticated IDOR in a Pickup-Point Widget](https://medium.com/@salahezzat120/how-i-found-an-unauthenticated-idor-in-a-pickup-point-widget-a24f8cf8de2d?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
+## 📅 26 November 2026
+
 - **[What Is IDOR? Insecure Direct Object Reference Explained with Real Examples](https://medium.com/@bugfynd/what-is-idor-insecure-direct-object-reference-explained-with-real-examples-9dc2f489c255?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
 ## 📅 21 November 2026
 
