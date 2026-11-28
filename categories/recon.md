@@ -1,3 +1,6 @@
+## 📅 27 November 2026
+
+- **[Kioptrix Level 1 — From Reconnaissance to Root](https://medium.com/@nouryounes045/kioptrix-level-1-from-reconnaissance-to-root-80a67ad6ea40?source=rss------pentesting-5)** _(Medium Pentesting)_
 ## 📅 24 November 2026
 
 - **[Day 04 gave us recon. Today we learn how logins actually work.](https://iamrudhh.medium.com/day-04-gave-us-recon-today-we-learn-how-logins-actually-work-8faf3528a397?source=rss------bug_bounty-5)** _(Medium Bug Bounty)_
